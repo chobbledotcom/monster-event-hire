@@ -15,7 +15,7 @@
   "externalLinksTargetBlank": null,
   "template_repo_url": null,
   "chobble_link": null,
-  "cart_mode": "none",
+  "cart_mode": null,
   "ecommerce_api_host": "ecom.chobble.com",
   "currency": "GBP",
   "default_image_widths": null,
