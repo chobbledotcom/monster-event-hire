@@ -76,7 +76,7 @@ const convertUploadUrl = (src) =>
 
 const hasUploadRef = (s) => s.includes("wp-content/uploads/");
 
-// Update <img src>, data-img, and CSS background-image; strip srcset
+// Update <img src>, data-img, data-thumb, and CSS background-image; strip srcset
 const updateHtml = (html) => {
   const withSrc = html.replace(
     /(<img\b[^>]*?)\bsrc=(["'])([^"']+)\2/gis,
@@ -86,12 +86,12 @@ const updateHtml = (html) => {
         : match,
   );
 
-  const withDataImg = withSrc.replace(
-    /\bdata-img=(["'])([^"']*wp-content\/uploads\/[^"']*)\1/gi,
-    (_, quote, url) => `data-img=${quote}${convertUploadUrl(url)}${quote}`,
+  const withDataAttrs = withSrc.replace(
+    /\b(data-(?:img|thumb))=(["'])([^"']*wp-content\/uploads\/[^"']*)\2/gi,
+    (_, attr, quote, url) => `${attr}=${quote}${convertUploadUrl(url)}${quote}`,
   );
 
-  const withBgImage = withDataImg.replace(
+  const withBgImage = withDataAttrs.replace(
     /background-image\s*:\s*url\((['"]?)([^)'"]*wp-content\/uploads\/[^)'"]*)\1\)/gi,
     (_, quote, url) =>
       `background-image:url(${quote}${convertUploadUrl(url)}${quote})`,
