@@ -34,4 +34,5 @@ export const mirrorPassthroughDirs = [
   "wp-includes",
   "wp-json",
   "theme",
+  "images",
 ];
