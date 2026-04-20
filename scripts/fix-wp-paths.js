@@ -1,5 +1,5 @@
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { join, resolve } from "node:path";
 import { path } from "./utils.js";
 
 const ROOTS = ["wp-content", "wp-includes", "wp-json"];
@@ -50,4 +50,7 @@ export const fixWpPaths = (siteDir) => {
   console.log(`Normalized wp-path references in ${changed} files.`);
 };
 
-if (import.meta.main) fixWpPaths(path("_site"));
+if (import.meta.main) {
+  const target = process.argv[2] ? resolve(process.argv[2]) : path("_site");
+  fixWpPaths(target);
+}

@@ -1,5 +1,6 @@
-import { resolve } from "node:path";
+import { join, resolve } from "node:path";
 import { sourceExcludes, templateExcludes } from "./consts.js";
+import { addMirrorPassthroughCopy } from "./prepare-dev.js";
 import { fs, mergeTemplateAndSource } from "./utils.js";
 
 const [templateDir, sourceDir, combinedDir] = process.argv.slice(2);
@@ -22,5 +23,7 @@ mergeTemplateAndSource(template, source, combined, {
   templateExcludes,
   sourceExcludes,
 });
+
+addMirrorPassthroughCopy(join(combined, ".eleventy.js"));
 
 console.log("Merge complete.");
