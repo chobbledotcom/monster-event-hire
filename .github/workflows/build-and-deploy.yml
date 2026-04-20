@@ -70,6 +70,9 @@ jobs:
           mkdir -p ../_site
           mv _site/* ../_site/
 
+      - name: Normalise wp-* paths
+        run: bun source/scripts/fix-wp-paths.js _site
+
       - name: Set deployment environment
         id: deployment_env
         run: |
