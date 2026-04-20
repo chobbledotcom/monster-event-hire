@@ -50,7 +50,7 @@ const MIRROR_URL_FIXES = [
   ],
   [
     new RegExp(`${SITE}/[^)'" ]*?images/areas-we-cover-banner\\.png`, "gi"),
-    "https://www.monstereventhire.co.uk/images/areas-we-cover-banner.png",
+    "/assets/areas-we-cover-banner.png",
   ],
 ];
 
