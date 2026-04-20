@@ -412,11 +412,6 @@ $(document).ready(function(){
 	// }
 	jQuery("input[name=your-product]").val();
 
-	document.addEventListener( 'wpcf7mailsent', function( event ) {
-  	location = 'https://www.monstereventhire.co.uk/thank-you/';
-	}, false );
-
-
 });
 //Scroll to element
 $('.scroll-to-el').each(function(){
