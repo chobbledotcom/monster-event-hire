@@ -70,7 +70,7 @@ eleventyExcludeFromCollections: true
         </div>
         <div class="grid-9-12 contacts">
           <div class="enquire">
-            <a class="button orange-bg enquiry-button" href="../../index.html%3Fp=9/"><span class="icon envelope"></span>Get In Touch</a>
+            <a class="button orange-bg enquiry-button" href="..//contact-us/"><span class="icon envelope"></span>Get In Touch</a>
           </div>
           <div class="phone">
             <div class="phone-top">
@@ -131,7 +131,7 @@ eleventyExcludeFromCollections: true
                         <a href="../inflatables-hire/" itemprop="url"><span itemprop="name">Large Inflatables</span></a>
                       </li>
                       <li id="menu-item-1166" class="menu-item menu-item-type-custom menu-item-object-custom" itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        <a href="../../index.html%3Fp=312/" itemprop="url"><span itemprop="name">Laser Quest</span></a>
+                        <a href="..//products/shooting-archery-and-marksmen-hire/laser-quest-hire/" itemprop="url"><span itemprop="name">Laser Quest</span></a>
                       </li>
                       <li id="menu-item-671" class="menu-item menu-item-type-taxonomy menu-item-object-product-category" itemscope itemtype="http://schema.org/SiteNavigationElement">
                         <a href="../mega-slides/" itemprop="url"><span itemprop="name">Mega Slides</span></a>
@@ -181,10 +181,10 @@ eleventyExcludeFromCollections: true
                         <a href="/pricing-information/" itemprop="url"><span itemprop="name">Pricing Information</span></a>
                       </li>
                       <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page" itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        <a href="../../index.html%3Fp=17/" itemprop="url"><span itemprop="name">Testimonials</span></a>
+                        <a href="..//testimonials/" itemprop="url"><span itemprop="name">Testimonials</span></a>
                       </li>
                       <li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page" itemscope itemtype="http://schema.org/SiteNavigationElement">
-                        <a href="../../index.html%3Fp=21/" itemprop="url"><span itemprop="name">Health &#038; Safety</span></a>
+                        <a href="..//health-safety/" itemprop="url"><span itemprop="name">Health &#038; Safety</span></a>
                       </li>
                       <li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page" itemscope itemtype="http://schema.org/SiteNavigationElement">
                         <a href="/little-monsters/inflatable-testing-and-pipa-inspections/" itemprop="url"><span itemprop="name">Inflatable Inspections &#038; Pipa Testing</span></a>
@@ -262,8 +262,8 @@ eleventyExcludeFromCollections: true
         <div class="loop-holder products wrapper">
           <div class="loop gutters row clearfix">
             <div class="grid-3-12" itemscope itemtype="http://schema.org/Product">
-              <div id="bungee-eliminator" class="product" data-img="https://www.monstereventhire.co.uk/wp-content/uploads/2015/10/1505212_1507432079530024_6355974922896101753_n1.jpg">
-                <a itemprop="url" href="../../index.html%3Fp=293/">
+              <div id="bungee-eliminator" class="product" data-img="/images/uploads/2015/10/1505212_1507432079530024_6355974922896101753_n1.jpg">
+                <a itemprop="url" href="/products/bungee/bungee-eliminator/">
                 <div class="bottom-bar">
                   <h3 itemprop="name">Bungee Eliminator</h3><span class="item-data"><span itemprop="description"></span></span>
                   <p><span class="item-data">Bungee Eliminator Hire – Inflatable 36ft Bungee Game for Parties &amp; Events Take the fun to the next level with our Bungee Eliminator Hire, a thrilling inflatable challenge perfect for birthday parties, school events, corporate&hellip;</span></p><span itemprop="image">https://www.monstereventhire.co.uk/wp-content/uploads/2015/10/1505212_1507432079530024_6355974922896101753_n1.jpg</span> <span itemprop="sku">293</span> <span itemprop="productID">bungee-eliminator-293</span> 
@@ -271,8 +271,8 @@ eleventyExcludeFromCollections: true
               </div>
             </div>
             <div class="grid-3-12" itemscope itemtype="http://schema.org/Product">
-              <div id="bungee-run-inflatable-hire" class="product" data-img="https://www.monstereventhire.co.uk/wp-content/uploads/2015/10/Bsen14960-4-2025-1024x768.jpg">
-                <a itemprop="url" href="../../index.html%3Fp=278/">
+              <div id="bungee-run-inflatable-hire" class="product" data-img="/images/uploads/2015/10/Bsen14960-4-2025.jpg">
+                <a itemprop="url" href="/products/bungee/bungee-run/">
                 <div class="bottom-bar">
                   <h3 itemprop="name">bungee run inflatable hire</h3><span class="item-data"><span itemprop="description"></span></span>
                   <p><span class="item-data">Bungee Run Inflatable Hire Put your strength, speed and stamina to the test with our exciting Bungee Run inflatable hire. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while attached&hellip;</span></p><span itemprop="image">https://www.monstereventhire.co.uk/wp-content/uploads/2015/10/Bsen14960-4-2025-1024x768.jpg</span> <span itemprop="sku">278</span> <span itemprop="productID">bungee-run-inflatable-hire-278</span> 
@@ -299,7 +299,7 @@ eleventyExcludeFromCollections: true
         <p>Contact us today with a few details of your event and we’ll provide the fun.</p><a class="button orange-bg enquiry-button" href="../bungee/#"><span class="icon envelope"></span>Get In Touch</a>
       </div>
     </div>
-{% include "wp-mirror/areas-covered.html" %}
+    {%- include "footer-locations.html" -%}
     <div class="logos center"><img src="/wp-content/themes/littlemonsters/images/logos.png" alt="bungee run inflatable hire"></div>
     <footer class="dark-grey-bg">
 {% include "wp-mirror/colour-border.html" %}
@@ -312,7 +312,7 @@ eleventyExcludeFromCollections: true
             <h6>Give us a call</h6><span class="phone-number">02392 788 427</span>
           </div>
           <div class="enquire">
-            <a class="button orange-bg enquiry-button" href="../../index.html%3Fp=9/"><span class="icon envelope"></span>Get In Touch</a>
+            <a class="button orange-bg enquiry-button" href="..//contact-us/"><span class="icon envelope"></span>Get In Touch</a>
           </div>
           <div id="social" class="social">
             <ul>
@@ -334,13 +334,13 @@ eleventyExcludeFromCollections: true
             <div class="menu-footer-legals-container">
               <ul id="menu-footer-legals" class="menu">
                 <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61">
-                  <a href="../../index.html%3Fp=11/">Terms &#038; conditions</a>
+                  <a href="..//terms-conditions/">Terms &#038; conditions</a>
                 </li>
                 <li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60">
                   <a href="/privacy-policy/">Privacy policy</a>
                 </li>
                 <li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59">
-                  <a href="../../index.html%3Fp=15/">Cookie policy</a>
+                  <a href="..//cookie-policy/">Cookie policy</a>
                 </li>
               </ul>
             </div>

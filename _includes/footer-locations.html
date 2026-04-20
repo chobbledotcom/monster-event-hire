@@ -1,0 +1,15 @@
+<div id="footer-locations" class="areas_covered_bg">
+      <div class="areas_covered">
+        <div class="map_icon"><img src="/wp-content/themes/littlemonsters/images/areas-we-cover-icon.png" alt=""></div>
+        <div class="areas_covered_content">
+          <h5>Areas covered</h5>
+          <p>Primarily covering South of England, please see a list of some of our locations below. UK nationwide also available.</p>
+          <ul>
+            {%- assign areas = collections.area | sort: "data.title" -%}
+            {%- for area in areas %}
+            <li><a href="{{ area.url }}">{{ area.data.title }}</a></li>
+            {%- endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>

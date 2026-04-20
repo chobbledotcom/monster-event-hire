@@ -1,14 +1,19 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "Monster Event and Party Hire",
+	"url": "https://www.monstereventhire.co.uk",
+	"description": "Unforgettable event entertainment across the south of England. Inflatable hire, rodeo rides, fairground games and more for parties, weddings, corporate events and festivals.",
 	"socials": {
-		"Facebook": null,
-		"Instagram": "https://www.instagram.com/chobbledotcom/",
+		"Facebook": "https://www.facebook.com/monstereventhire/",
+		"Instagram": null,
 		"TikTok": null,
 		"Google": null,
 		"WhatsApp": null,
 		"RSS": "/feed.xml"
 	},
+	"opening_times": [
+		{ "day": "Monday - Friday", "hours": "8am - 8pm" },
+		{ "day": "Saturday - Sunday", "hours": "8am - 8pm" }
+	],
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"

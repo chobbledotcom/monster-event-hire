@@ -16,6 +16,7 @@
 		"fetch-instagram-posts": "bun scripts/fetch-instagram-posts.js",
 		"screenshot": "bun scripts/screenshot.js",
 		"clean": "rm -rf .build _site",
+		"deduplicate-wp-images": "bun scripts/deduplicate-wp-images.js",
 		"check-links": "bun scripts/check-links.js",
 		"test": "bun scripts/test.js",
 		"test-eleventied": "bun scripts/test-eleventied.js",
