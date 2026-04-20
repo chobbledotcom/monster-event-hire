@@ -18,6 +18,7 @@
 		"clean": "rm -rf .build _site",
 		"check-links": "bun scripts/check-links.js",
 		"test": "bun scripts/test.js",
+		"test-eleventied": "bun scripts/test-eleventied.js",
 		"precommit": "bun scripts/precommit.js",
 		"lint": "bunx @biomejs/biome check --config-path=biome.json --error-on-warnings scripts/",
 		"lint:fix": "bunx @biomejs/biome check --config-path=biome.json --write scripts/",
