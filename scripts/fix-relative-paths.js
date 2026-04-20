@@ -36,6 +36,11 @@ const walk = (dir) => {
 
 const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
+// Matches href="../..//some-path/" — one or more ../ followed by a leading /
+// e.g. href="..//products/" or href="../..//contact-us/" → href="/products/" etc.
+const dotDotAbsRe =
+  /(\s(?:href|src|action|poster|data-src)\s*=\s*["'])(?:\.\.\/)+\//gi;
+
 const buildRewriter = (topDirs) => {
   const group = topDirs.map(escapeRe).join("|");
   const re = new RegExp(
@@ -43,10 +48,9 @@ const buildRewriter = (topDirs) => {
     "gi",
   );
   return (content) =>
-    content.replace(
-      re,
-      (_, head, prefix, after) => `${head}/${prefix}${after}`,
-    );
+    content
+      .replace(dotDotAbsRe, (_, head) => `${head}/`)
+      .replace(re, (_, head, prefix, after) => `${head}/${prefix}${after}`);
 };
 
 export const fixRelativePaths = (siteDir) => {
