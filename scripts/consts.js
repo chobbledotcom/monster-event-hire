@@ -29,4 +29,9 @@ export const sourceExcludes = [
   ...(process.env.PLACEHOLDER_IMAGES === "1" ? ["images"] : []),
 ];
 
-export const mirrorPassthroughDirs = ["wp-content", "wp-includes", "wp-json"];
+export const mirrorPassthroughDirs = [
+  "wp-content",
+  "wp-includes",
+  "wp-json",
+  "theme",
+];
