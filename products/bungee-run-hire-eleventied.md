@@ -290,7 +290,7 @@ eleventyExcludeFromCollections: true
           <i class="fa fa-times-circle"></i>
         </div><img src="/wp-content/themes/littlemonsters/images/logo.png" alt="">
         <h2><span>Enquire about our services</span></h2>
-        {% raw %}{%- include "contact-form.html" -%}{% endraw %}
+        {%- include "contact-form.html" -%}
       </div>
     </div>
     <div class="enquiry blue-bg center">
