@@ -1,0 +1,4 @@
+{
+  "_comment": "Registers tag names used only via frontmatter so validate-collections accepts them.",
+  "tags": ["area"]
+}
