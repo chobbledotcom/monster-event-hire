@@ -48,7 +48,10 @@ const MIRROR_URL_FIXES = [
     new RegExp(`${SITE}/[^)'" ]*?images/areas-icon\\.png`, "gi"),
     "/wp-content/themes/littlemonsters/images/areas-icon.png",
   ],
-  [/url\([^)]*?images\/areas-we-cover-banner\.png[^)]*\)/gi, "none"],
+  [
+    new RegExp(`${SITE}/[^)'" ]*?images/areas-we-cover-banner\\.png`, "gi"),
+    "/assets/areas-we-cover-banner.png",
+  ],
 ];
 
 const normalize = (css) => {
