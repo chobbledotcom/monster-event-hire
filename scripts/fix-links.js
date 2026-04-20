@@ -34,9 +34,20 @@ const splitSuffix = (url) => {
   return idx === -1 ? [url, ""] : [url.slice(0, idx), url.slice(idx)];
 };
 
+const stripDotDots = (p) => {
+  let rest = p;
+  while (rest.startsWith("../")) rest = rest.slice(3);
+  return rest;
+};
+
 const toAbsolute = (pagePath, pathPart) => {
   if (pathPart.startsWith("/")) return pathPart;
-  if (pathPart.startsWith("../")) return posix.resolve(pagePath, pathPart);
+  if (pathPart.startsWith("../")) {
+    // e.g. ../..//foo/ — stripping ../ reveals an absolute path
+    const rest = stripDotDots(pathPart);
+    if (rest.startsWith("/")) return rest;
+    return posix.resolve(pagePath, pathPart);
+  }
   const clean = pathPart.startsWith("./") ? pathPart.slice(2) : pathPart;
   return `/${clean}`;
 };
