@@ -1,4 +1,5 @@
 import { join } from "node:path";
+import { fixRelativePaths } from "./fix-relative-paths.js";
 import { fixWpPaths } from "./fix-wp-paths.js";
 import { prep } from "./prepare-dev.js";
 import { bun, fs, path } from "./utils.js";
@@ -24,5 +25,6 @@ if (result.exitCode !== 0) {
 fs.mv(join(dev, "_site"), output);
 
 fixWpPaths(output);
+fixRelativePaths(output);
 
 console.log("Built to _site/");
