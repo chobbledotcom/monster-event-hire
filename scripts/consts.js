@@ -14,8 +14,11 @@ export const templateExcludes = [
   "instagram-posts",
 ];
 
+export const passthroughDirs = ["wp-content", "wp-includes", "wp-json"];
+
 export const sourceExcludes = [
   ".*",
+  "_site",
   "*.nix",
   "README.md",
   "CLAUDE.md",
@@ -25,5 +28,6 @@ export const sourceExcludes = [
   "bun.lock",
   "old_site",
   "chobble-template",
+  ...passthroughDirs,
   ...(process.env.PLACEHOLDER_IMAGES === "1" ? ["images"] : []),
 ];

@@ -16,6 +16,7 @@
 		"fetch-instagram-posts": "bun scripts/fetch-instagram-posts.js",
 		"screenshot": "bun scripts/screenshot.js",
 		"clean": "rm -rf .build _site",
+		"check-links": "bun scripts/check-links.js",
 		"test": "bun scripts/test.js",
 		"precommit": "bun scripts/precommit.js",
 		"lint": "bunx @biomejs/biome check --config-path=biome.json --error-on-warnings scripts/",
