@@ -62,11 +62,11 @@ const getEleventyHtmlFiles = (rootDir) => {
   return results;
 };
 
-// Convert a wp-content/uploads URL to the corresponding /images/uploads/ path,
-// stripping any WordPress size suffix from the filename.
+// Convert any wp-content/uploads URL (relative, absolute-path, or absolute-URL)
+// to the corresponding /images/uploads/ path, stripping any size suffix.
 const convertUploadUrl = (src) =>
   src.replace(
-    /(?:(?:\.\.\/)+|\/)?wp-content\/uploads\/(\d{4}\/\d{2}\/)([^"'\s<>?#]+)/,
+    /(?:https?:\/\/[^/]+\/|(?:\.\.\/)+|\/)?wp-content\/uploads\/(\d{4}\/\d{2}\/)([^"'\s<>?#)]+)/,
     (_, yearMonth, fileWithExt) => {
       const ext = extname(fileWithExt);
       const base = basename(fileWithExt, ext).replace(RESIZE_RE, "");
@@ -74,18 +74,31 @@ const convertUploadUrl = (src) =>
     },
   );
 
-// Update <img src> attributes and strip srcset from wp-content/uploads
+const hasUploadRef = (s) => s.includes("wp-content/uploads/");
+
+// Update <img src>, data-img, and CSS background-image; strip srcset
 const updateHtml = (html) => {
-  const withUpdatedSrc = html.replace(
+  const withSrc = html.replace(
     /(<img\b[^>]*?)\bsrc=(["'])([^"']+)\2/gis,
-    (match, imgPrefix, quote, src) => {
-      if (!src.includes("wp-content/uploads/")) return match;
-      return `${imgPrefix}src=${quote}${convertUploadUrl(src)}${quote}`;
-    },
+    (match, imgPrefix, quote, src) =>
+      hasUploadRef(src)
+        ? `${imgPrefix}src=${quote}${convertUploadUrl(src)}${quote}`
+        : match,
+  );
+
+  const withDataImg = withSrc.replace(
+    /\bdata-img=(["'])([^"']*wp-content\/uploads\/[^"']*)\1/gi,
+    (_, quote, url) => `data-img=${quote}${convertUploadUrl(url)}${quote}`,
+  );
+
+  const withBgImage = withDataImg.replace(
+    /background-image\s*:\s*url\((['"]?)([^)'"]*wp-content\/uploads\/[^)'"]*)\1\)/gi,
+    (_, quote, url) =>
+      `background-image:url(${quote}${convertUploadUrl(url)}${quote})`,
   );
 
   // Remove srcset attributes that reference wp-content/uploads sized variants
-  return withUpdatedSrc.replace(
+  return withBgImage.replace(
     /\s+srcset=(["'])[^"']*wp-content\/uploads[^"']*\1/gi,
     "",
   );
@@ -104,20 +117,26 @@ const main = async () => {
 
   // Step 2: copy originals to images/uploads/ (maintaining YYYY/MM structure)
   console.log("\nCopying originals to images/uploads/...");
+  let copied = 0;
   for (const file of originals) {
     const rel = relative(UPLOADS_DIR, file);
     const dest = join(IMAGES_DIR, rel);
     mkdirSync(dirname(dest), { recursive: true });
-    if (!existsSync(dest)) cpSync(file, dest);
+    if (!existsSync(dest)) {
+      cpSync(file, dest);
+      copied++;
+    }
   }
-  console.log(`Copied ${originals.length} files`);
+  console.log(
+    `Copied ${copied} files (${originals.length - copied} already existed)`,
+  );
 
   // Step 3: delete resize variants (they are now redundant)
   console.log("\nDeleting resize variants...");
   for (const file of resizeVariants) rmSync(file);
   console.log(`Deleted ${resizeVariants.length} files`);
 
-  // Step 4: update <img src> in Eleventy-processed HTML files
+  // Step 4: update <img src>, data-img, and background-image in Eleventy HTML
   console.log("\nUpdating HTML img references...");
   const htmlFiles = getEleventyHtmlFiles(path());
   let updatedCount = 0;
