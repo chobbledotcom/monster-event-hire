@@ -15,7 +15,7 @@
   "externalLinksTargetBlank": null,
   "template_repo_url": null,
   "chobble_link": null,
-  "cart_mode": "quote",
+  "cart_mode": null,
   "ecommerce_api_host": null,
   "currency": "GBP",
   "default_image_widths": null,
