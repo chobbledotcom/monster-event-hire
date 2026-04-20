@@ -1,4 +1,5 @@
 import { join } from "node:path";
+import { decodeEmojis } from "./decode-emoji-entities.js";
 import { fixLinks } from "./fix-links.js";
 import { fixRelativePaths } from "./fix-relative-paths.js";
 import { fixWpPaths } from "./fix-wp-paths.js";
@@ -27,6 +28,7 @@ fs.mv(join(dev, "_site"), output);
 
 fixWpPaths(output);
 fixRelativePaths(output);
+decodeEmojis(output);
 fixLinks(output);
 
 console.log("Built to _site/");
