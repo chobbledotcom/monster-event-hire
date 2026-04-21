@@ -128,21 +128,6 @@ jQuery(document).ready(function($){
         minDate: 0,
 	});
 	
-	//Autocomplete search
-	$(function() {
-		var taxTags = [];
-		$('.taxonomies-search li').each(function(i, elem) {
-			taxTags.push($(elem).text());
-		});
-		$('#search').autocomplete({
-		  source: taxsearch.tax,
-		  appendTo: '.searchform',
-		  select:function(event, ui) {
-			  $(this).val(ui.item.value);
-			  $('.search').submit();
-		  }
-		});
-	 });
 	//Input focus icon styles
 	$('input, textarea').each(function(){
 		$(this).focus(function(){
