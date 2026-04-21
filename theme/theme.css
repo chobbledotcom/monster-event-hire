@@ -4246,7 +4246,7 @@ span[itemprop="productID"] {
     center center no-repeat;
 }
 .product-gallery .lSNext {
-  right: 10px;
+  right: calc(1.5em + 10px);
   background: url(/wp-content/themes/littlemonsters/images/arrow-right.png)
     center center no-repeat;
 }
