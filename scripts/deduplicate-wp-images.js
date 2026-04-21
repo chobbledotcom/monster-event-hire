@@ -92,9 +92,9 @@ const updateHtml = (html) => {
   );
 
   const withBgImage = withDataAttrs.replace(
-    /background-image\s*:\s*url\((['"]?)([^)'"]*wp-content\/uploads\/[^)'"]*)\1\)/gi,
-    (_, quote, url) =>
-      `background-image:url(${quote}${convertUploadUrl(url)}${quote})`,
+    /\b(background(?:-image)?)\s*:\s*url\((['"]?)([^)'"]*wp-content\/uploads\/[^)'"]*)\2\)/gi,
+    (_, prop, quote, url) =>
+      `${prop}:url(${quote}${convertUploadUrl(url)}${quote})`,
   );
 
   // Remove srcset attributes that reference wp-content/uploads sized variants
