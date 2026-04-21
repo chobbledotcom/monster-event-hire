@@ -62,46 +62,29 @@ const getEleventyHtmlFiles = (rootDir) => {
   return results;
 };
 
-// Convert any wp-content/uploads URL (relative, absolute-path, or absolute-URL)
-// to the corresponding /images/uploads/ path, stripping any size suffix.
-const convertUploadUrl = (src) =>
-  src.replace(
-    /(?:https?:\/\/[^/]+\/|(?:\.\.\/)+|\/)?wp-content\/uploads\/(\d{4}\/\d{2}\/)([^"'\s<>?#)]+)/,
-    (_, yearMonth, fileWithExt) => {
-      const ext = extname(fileWithExt);
-      const base = basename(fileWithExt, ext).replace(RESIZE_RE, "");
-      return `/images/uploads/${yearMonth}${base}${ext}`;
-    },
-  );
+// Match any wp-content/uploads URL token ending in YYYY/MM/filename.
+// A URL token runs up to the next quote, whitespace, angle bracket, or paren —
+// so this matches src/href attributes, JSON-LD strings, CSS url(), and raw
+// text URLs (e.g. inside <div itemprop="image">URL</div>) alike. The greedy
+// prefix also collapses the nested wp-content/themes/.../wp-content/uploads/
+// case into a single clean /images/uploads/ path.
+const UPLOAD_URL_RE =
+  /[^\s"'<>()]*wp-content\/uploads\/(\d{4}\/\d{2}\/)([^\s"'<>?#()]+)/g;
 
-const hasUploadRef = (s) => s.includes("wp-content/uploads/");
+const rewriteUploadUrls = (html) =>
+  html.replace(UPLOAD_URL_RE, (_, yearMonth, fileWithExt) => {
+    const ext = extname(fileWithExt);
+    const base = basename(fileWithExt, ext).replace(RESIZE_RE, "");
+    return `/images/uploads/${yearMonth}${base}${ext}`;
+  });
 
-// Update <img src>, data-img, data-thumb, and CSS background-image; strip srcset
+// Strip srcset (Eleventy generates its own) then rewrite every upload URL.
 const updateHtml = (html) => {
-  const withSrc = html.replace(
-    /(<img\b[^>]*?)\bsrc=(["'])([^"']+)\2/gis,
-    (match, imgPrefix, quote, src) =>
-      hasUploadRef(src)
-        ? `${imgPrefix}src=${quote}${convertUploadUrl(src)}${quote}`
-        : match,
-  );
-
-  const withDataAttrs = withSrc.replace(
-    /\b(data-(?:img|thumb))=(["'])([^"']*wp-content\/uploads\/[^"']*)\2/gi,
-    (_, attr, quote, url) => `${attr}=${quote}${convertUploadUrl(url)}${quote}`,
-  );
-
-  const withBgImage = withDataAttrs.replace(
-    /\b(background(?:-image)?)\s*:\s*url\((['"]?)([^)'"]*wp-content\/uploads\/[^)'"]*)\2\)/gi,
-    (_, prop, quote, url) =>
-      `${prop}:url(${quote}${convertUploadUrl(url)}${quote})`,
-  );
-
-  // Remove srcset attributes that reference wp-content/uploads sized variants
-  return withBgImage.replace(
+  const noSrcset = html.replace(
     /\s+srcset=(["'])[^"']*wp-content\/uploads[^"']*\1/gi,
     "",
   );
+  return rewriteUploadUrls(noSrcset);
 };
 
 const main = async () => {
