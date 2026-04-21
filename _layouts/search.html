@@ -1,61 +1,111 @@
 ---
 ---
+
 <!DOCTYPE html>
-<html lang="en-US" class="no-js remove-margin" itemscope itemtype="https://schema.org/SearchResultsPage">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <meta name="google-site-verification" content="ORBXvOHFN4zW9aTh8crnPR0nSo1MN_g7twZ3TIoVTHY">
-  {%- include "head-scripts.html" -%}
-  <title>{{ header_text | default: title | default: 'Search' }} - Monster Event and Party Hire</title>
-  <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
-  <meta name='robots' content='noindex, follow'>
-  <style>
-  img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
-  </style>
-  <link rel="canonical" href="/search/">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="{{ header_text | default: title | default: 'Search' }}">
-  <meta property="og:url" content="https://www.monstereventhire.co.uk/search/">
-  <meta property="og:site_name" content="Monster Event Hire">
-  <meta name="twitter:card" content="summary_large_image">
-  {%- include "wp-block-styles.html" -%}
-  {%- include "head-end.html" -%}
-</head>
-<body data-rsssl="1" class="wp-singular page-template-default page search search-results wp-theme-littlemonsters">
-<div id="site-wrap">
-    {%- include "site-header.html" -%}
-    <div class="breadcrumbs">
-      <div class="wrapper">
-        <div itemscope itemtype="http://schema.org/BreadcrumbList">
-          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
-          <meta itemprop="position" content="1"></span><span class="breadcrumb-search" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/search/"><span itemprop="name">{{ header_text | default: 'Search' }}</span></a>
-          <meta itemprop="position" content="2"></span>
-        </div>
-      </div>
-    </div>
-    <section id="main" class="main white-bg pad-top pad-bottom" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
-      <div class="wrapper clearfix">
-        <div class="grid-8-12 main-content the_content page_content">
-          <h1 class="page-title title">{{ header_text | default: 'Search' }}</h1>
-          <form class="search clearfix search-page-form" method="get" action="/search/">
-            <input id="search-page-input" class="search-input" type="search" name="q" placeholder="Search Monster"> <button class="search-submit" type="submit">Search</button>
-          </form>
-          <div id="search-results" class="search-results"></div>
-          <div itemprop="text">
-            {{ content }}
+<html
+  lang="en-US"
+  class="no-js remove-margin"
+  itemscope
+  itemtype="https://schema.org/SearchResultsPage"
+>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta
+      name="google-site-verification"
+      content="ORBXvOHFN4zW9aTh8crnPR0nSo1MN_g7twZ3TIoVTHY"
+    />
+    {%- include "head-scripts.html" -%}
+    <title>
+      {{ header_text | default: title | default: 'Search' }} - Monster Event and
+      Party Hire
+    </title>
+    <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}" />
+    <meta name="robots" content="noindex, follow" />
+    <style>
+      img:is([sizes="auto" i], [sizes^="auto," i]) {
+        contain-intrinsic-size: 3000px 1500px;
+      }
+    </style>
+    <link rel="canonical" href="/search/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="{{ header_text | default: title | default: 'Search' }}"
+    />
+    <meta
+      property="og:url"
+      content="https://www.monstereventhire.co.uk/search/"
+    />
+    <meta property="og:site_name" content="Monster Event Hire" />
+    <meta name="twitter:card" content="summary_large_image" />
+    {%- include "wp-block-styles.html" -%} {%- include "head-end.html" -%}
+  </head>
+  <body
+    data-rsssl="1"
+    class="wp-singular page-template-default page search search-results wp-theme-littlemonsters"
+  >
+    <div id="site-wrap">
+      {%- include "site-header.html" -%}
+      <div class="breadcrumbs">
+        <div class="wrapper">
+          <div itemscope itemtype="http://schema.org/BreadcrumbList">
+            <span
+              itemprop="itemListElement"
+              itemscope
+              itemtype="http://schema.org/ListItem"
+              ><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+              <meta itemprop="position" content="1" /></span
+            ><span
+              class="breadcrumb-search"
+              itemprop="itemListElement"
+              itemscope
+              itemtype="http://schema.org/ListItem"
+              >&nbsp; &raquo; &nbsp;<a itemprop="item" href="/search/"
+                ><span itemprop="name"
+                  >{{ header_text | default: 'Search' }}</span
+                ></a
+              >
+              <meta itemprop="position" content="2"
+            /></span>
           </div>
         </div>
-        {%- include "sidebar.html" -%}
       </div>
-    </section>
-    {%- include "enquiry-form.html" -%}
-    {%- include "enquiry-cta.html" -%}
-    {%- include "footer-locations.html" -%}
-    <div class="logos center"><img src="/wp-content/themes/littlemonsters/images/logos.png" alt="Monster Event Hire"></div>
-    {%- include "site-footer.html" -%}
-  </div>
-  {%- include "page-scripts.html" -%}
-</body>
+      <section
+        id="main"
+        class="main white-bg pad-top pad-bottom"
+        itemprop="mainContentOfPage"
+        itemscope
+        itemtype="https://schema.org/WebPageElement"
+      >
+        <div class="wrapper clearfix">
+          <div class="grid-8-12 main-content the_content page_content">
+            <div class="design-system" data-pagefind-ignore>
+              {% include "search-box.html" %}
+
+              <div id="search-results">
+                <p class="search-message"></p>
+                <ul class="search-results-list"></ul>
+                <button class="search-load-more btn btn--secondary" hidden>
+                  Load more
+                </button>
+              </div>
+            </div>
+          </div>
+          {%- include "sidebar.html" -%}
+        </div>
+      </section>
+      {%- include "enquiry-form.html" -%} {%- include "enquiry-cta.html" -%} {%-
+      include "footer-locations.html" -%}
+      <div class="logos center">
+        <img
+          src="/wp-content/themes/littlemonsters/images/logos.png"
+          alt="Monster Event Hire"
+        />
+      </div>
+      {%- include "site-footer.html" -%}
+    </div>
+    {%- include "page-scripts.html" -%}
+  </body>
 </html>
