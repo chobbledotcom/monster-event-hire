@@ -2704,24 +2704,6 @@ table.ui-datepicker-calendar td.ui-datepicker-current-day a {
   padding-bottom: 1em;
   margin-bottom: 1em;
 }
-ul.ui-autocomplete {
-  z-index: 999999;
-  background: #fff;
-  border: 1px solid #ebebeb;
-  max-width: 500px;
-  max-height: 350px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-}
-ul.ui-autocomplete li {
-  padding: 0.3em 1.3em;
-  cursor: pointer;
-  text-align: left;
-}
-ul.ui-autocomplete li.ui-state-focus {
-  background: #f5f5f5;
-  color: #222;
-}
 #site-wrap {
   position: relative;
   width: 100%;
@@ -4669,9 +4651,6 @@ span[itemprop="productID"] {
   }
   .searchform form {
     max-width: none;
-  }
-  ul.ui-autocomplete {
-    max-width: 90%;
   }
   header.small .searchform {
     z-index: 1;
