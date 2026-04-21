@@ -12,6 +12,34 @@
   justify-content: center;
 }
 
+.product .image-wrapper {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  aspect-ratio: auto;
+  z-index: 0;
+}
+
+.product .image-wrapper picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.product .image-wrapper picture img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.product .bottom-bar {
+  z-index: 1;
+}
+
 .loc-cats .products.wrapper {
   display: flex;
   flex-wrap: wrap;
