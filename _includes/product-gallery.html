@@ -1,0 +1,7 @@
+<div class="grid-6-12 product-gallery">
+  <ul>
+    {%- for img in galleryImages -%}
+      <li data-thumb="{{ img }}">{% image img, galleryAlt %}</li>
+    {%- endfor -%}
+  </ul>
+</div>

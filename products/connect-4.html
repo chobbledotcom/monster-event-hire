@@ -4,6 +4,9 @@ redirect_from:
   - /products/giant-game-hire/connect-4/
   - /all-products/connect-4/
   - /allproducts/connect-4
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2015/10/image1.jpeg
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -56,11 +59,7 @@ redirect_from:
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
         <h1 itemprop="name" class="product-name title">Garden game package</h1>
-        <div class="grid-6-12 product-gallery">
-          <ul>
-            <li data-thumb="/images/uploads/2015/10/image1.jpeg"><img width="500" height="375" src="/images/uploads/2015/10/image1.jpeg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 500px) 100vw, 500px"></li>
-          </ul>
-        </div>
+        {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
           <div class="the_content editable-area">
             <h1>Garden game package</h1>
