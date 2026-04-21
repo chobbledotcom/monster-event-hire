@@ -4601,7 +4601,7 @@ span[itemprop="productID"] {
     display: none;
   }
   #site-wrap {
-    padding-top: 230px;
+    padding-top: 0;
   }
   .remove-margin {
     margin-top: 0 !important;
@@ -4634,6 +4634,11 @@ span[itemprop="productID"] {
   header,
   header.small {
     top: 0;
+  }
+  header,
+  header.small {
+    position: sticky;
+    top: 0 !important;
   }
   .header-menu {
     display: none;
@@ -5116,7 +5121,7 @@ span[itemprop="productID"] {
     display: none;
   }
   #site-wrap {
-    padding-top: 275px;
+    padding-top: 0;
   }
   header .contacts,
   header .site-logo {
