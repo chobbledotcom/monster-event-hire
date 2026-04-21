@@ -260,23 +260,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Lights Out Challenge on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Lights+Out+Challenge&amp;link=https://www.monstereventhire.co.uk/products/lights-out-challenge/&amp;redirect_uri=https://www.facebook.com&amp;description=🎮 Lights Out Challenge Hire – Test Your Speed and Reactions Take on the Lights Out Challenge and see who has the fastest reactions! Compete against an opponent in 30 or 60-second games to /images/uploads/2015/11/lightsout.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/lights-out-challenge/&amp;title=Lights+Out+Challenge&amp;summary=🎮 Lights Out Challenge Hire – Test Your Speed and Reactions Take on the Lights Out Challenge and see who has the fastest reactions! Compete against an opponent in 30 or 60-second games to see&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/lights-out-challenge/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Lights Out Challenge on https://www.monstereventhire.co.uk/products/lights-out-challenge/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Lights Out Challenge" %}
+          {% assign shareDescription = "🎮 Lights Out Challenge Hire – Test Your Speed and Reactions Take on the Lights Out Challenge and see who has the fastest reactions! Compete against an opponent in 30 or 60-second games to see" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

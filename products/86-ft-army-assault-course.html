@@ -265,23 +265,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share 86 ft Army Assault Course on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=86+ft+Army+Assault+Course&amp;link=https://www.monstereventhire.co.uk/all-products/assault-courses-hire/86-ft-army-assault-course&amp;redirect_uri=https://www.facebook.com&amp;description=86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide Go bigger, faster, and more extreme with our 86ft Army Assault Course Hire – one of the largest and most impressive /images/uploads/2016/04/86ft-army-assault-course-1.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/all-products/assault-courses-hire/86-ft-army-assault-course&amp;title=86+ft+Army+Assault+Course&amp;summary=86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide Go bigger, faster, and more extreme with our 86ft Army Assault Course Hire – one of the largest and most impressive inflatables&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/all-products/assault-courses-hire/86-ft-army-assault-course" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - 86 ft Army Assault Course on https://www.monstereventhire.co.uk/all-products/assault-courses-hire/86-ft-army-assault-course"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "86 ft Army Assault Course" %}
+          {% assign shareDescription = "86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide Go bigger, faster, and more extreme with our 86ft Army Assault Course Hire – one of the largest and most impressive inflatables" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

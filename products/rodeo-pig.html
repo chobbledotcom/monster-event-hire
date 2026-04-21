@@ -248,23 +248,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Rodeo Pig Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Rodeo+Pig+Hire&amp;link=https://www.monstereventhire.co.uk/products/rodeo-pig/&amp;redirect_uri=https://www.facebook.com&amp;description=rodeo pig Hire rodeo pig Hire experience the thrill Porky the . This slippery animal rolls, bucks and spins until you finally fall. Our trained operator controls the speed of the bucking pig allowing fun /images/uploads/2015/10/inflatables-004.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/rodeo-pig/&amp;title=Rodeo+Pig+Hire&amp;summary=rodeo pig Hire rodeo pig Hire experience the thrill Porky the . This slippery animal rolls, bucks and spins until you finally fall. Our trained operator controls the speed of the bucking pig allowing fun for&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/rodeo-pig/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Rodeo Pig Hire on https://www.monstereventhire.co.uk/products/rodeo-pig/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Rodeo Pig Hire" %}
+          {% assign shareDescription = "rodeo pig Hire rodeo pig Hire experience the thrill Porky the . This slippery animal rolls, bucks and spins until you finally fall. Our trained operator controls the speed of the bucking pig allowing fun for" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

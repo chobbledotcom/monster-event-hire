@@ -90,23 +90,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Pixel Play on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Pixel+Play&amp;link=https://www.monstereventhire.co.uk/products/pixel-play/&amp;redirect_uri=https://www.facebook.com&amp;description=Pixel Play Pixel Play Game Hire 2 Player Game | 4 Retro Games | 676 LED Lights Pixel play is multi player interactive game. With 4 built in gaming modes this make Pixel Play /images/uploads/2025/10/pixel-play-snake.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/pixel-play/&amp;title=Pixel+Play&amp;summary=Pixel Play Pixel Play Game Hire 2 Player Game | 4 Retro Games | 676 LED Lights Pixel play is multi player interactive game. With 4 built in gaming modes this make Pixel Play one&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/pixel-play/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Pixel Play on https://www.monstereventhire.co.uk/products/pixel-play/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Pixel Play" %}
+          {% assign shareDescription = "Pixel Play Pixel Play Game Hire 2 Player Game | 4 Retro Games | 676 LED Lights Pixel play is multi player interactive game. With 4 built in gaming modes this make Pixel Play one" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

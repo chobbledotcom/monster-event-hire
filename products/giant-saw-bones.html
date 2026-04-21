@@ -369,23 +369,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Giant-operation-game-hire-Hampshire-Surrey on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Giant-operation-game-hire-Hampshire-Surrey&amp;link=https://www.monstereventhire.co.uk/products/giant-saw-bones/&amp;redirect_uri=https://www.facebook.com&amp;description=Giant Saw Bones Hire in Hampshire &amp; Surrey 🎯 Giant Operation Game Hire for Events, Parties &amp; Team Building Looking for a fun, nostalgic, and interactive game hire in Hampshire &amp; Surrey? Our Giant /images/uploads/2015/11/sawbones2-e1448443623891.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/giant-saw-bones/&amp;title=Giant-operation-game-hire-Hampshire-Surrey&amp;summary=Giant Saw Bones Hire in Hampshire &amp; Surrey 🎯 Giant Operation Game Hire for Events, Parties &amp; Team Building Looking for a fun, nostalgic, and interactive game hire in Hampshire &amp; Surrey? Our Giant Saw&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/giant-saw-bones/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Giant-operation-game-hire-Hampshire-Surrey on https://www.monstereventhire.co.uk/products/giant-saw-bones/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Giant-operation-game-hire-Hampshire-Surrey" %}
+          {% assign shareDescription = "Giant Saw Bones Hire in Hampshire &amp; Surrey 🎯 Giant Operation Game Hire for Events, Parties &amp; Team Building Looking for a fun, nostalgic, and interactive game hire in Hampshire &amp; Surrey? Our Giant Saw" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

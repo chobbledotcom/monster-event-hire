@@ -260,23 +260,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Fairground Bouncy Castle 15ft x 16ft on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Fairground+Bouncy+Castle+15ft+x+16ft&amp;link=https://www.monstereventhire.co.uk/products/fairground-bouncy-castle/&amp;redirect_uri=https://www.facebook.com&amp;description=🎪 Fairground Bouncy Castle Hire (15ft x 16ft) – Hampshire &amp; Surrey Relive the magic and excitement of the fair with our Fairground Bouncy Castle (15ft x 16ft). Designed with bright, colourful artwork inspired /images/uploads/2015/10/fairground-large.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/fairground-bouncy-castle/&amp;title=Fairground+Bouncy+Castle+15ft+x+16ft&amp;summary=🎪 Fairground Bouncy Castle Hire (15ft x 16ft) – Hampshire &amp; Surrey Relive the magic and excitement of the fair with our Fairground Bouncy Castle (15ft x 16ft). Designed with bright, colourful artwork inspired by&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/fairground-bouncy-castle/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Fairground Bouncy Castle 15ft x 16ft on https://www.monstereventhire.co.uk/products/fairground-bouncy-castle/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Fairground Bouncy Castle 15ft x 16ft" %}
+          {% assign shareDescription = "🎪 Fairground Bouncy Castle Hire (15ft x 16ft) – Hampshire &amp; Surrey Relive the magic and excitement of the fair with our Fairground Bouncy Castle (15ft x 16ft). Designed with bright, colourful artwork inspired by" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

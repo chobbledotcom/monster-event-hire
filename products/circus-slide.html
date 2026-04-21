@@ -258,23 +258,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Circus Slide on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Circus+Slide&amp;link=https://www.monstereventhire.co.uk/products/circus-slide/&amp;redirect_uri=https://www.facebook.com&amp;description=Circus Slide Hire – 21ft Inflatable Slide for Parties &amp; Events Get ready for high-speed fun with our Circus Slide Hire! This vibrant and exciting inflatable is perfect for birthday parties, school fun days, /images/uploads/2015/10/circusslide.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/circus-slide/&amp;title=Circus+Slide&amp;summary=Circus Slide Hire – 21ft Inflatable Slide for Parties &amp; Events Get ready for high-speed fun with our Circus Slide Hire! This vibrant and exciting inflatable is perfect for birthday parties, school fun days, weddings,&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/circus-slide/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Circus Slide on https://www.monstereventhire.co.uk/products/circus-slide/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Circus Slide" %}
+          {% assign shareDescription = "Circus Slide Hire – 21ft Inflatable Slide for Parties &amp; Events Get ready for high-speed fun with our Circus Slide Hire! This vibrant and exciting inflatable is perfect for birthday parties, school fun days, weddings," %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

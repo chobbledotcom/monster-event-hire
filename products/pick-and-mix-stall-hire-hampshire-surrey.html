@@ -225,23 +225,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Pick and Mix Stall Hire in Hampshire &#038; Surrey on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Pick+and+Mix+Stall+Hire+in+Hampshire+%26+Surrey&amp;link=https://www.monstereventhire.co.uk/products/pick-and-mix-stall-hire-hampshire-surrey/&amp;redirect_uri=https://www.facebook.com&amp;description=Pick and Mix Stall Hire in Hampshire &amp; Surrey What’s Included in Our Pick and Mix Hire 30kg of your favourite sweets including: Lollies, flumps, cola bottles, black jacks, fruit salads, jelly beans, milk /images/uploads/2019/05/pick-n-mix.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/pick-and-mix-stall-hire-hampshire-surrey/&amp;title=Pick+and+Mix+Stall+Hire+in+Hampshire+%26+Surrey&amp;summary=Pick and Mix Stall Hire in Hampshire &amp; Surrey What’s Included in Our Pick and Mix Hire 30kg of your favourite sweets including: Lollies, flumps, cola bottles, black jacks, fruit salads, jelly beans, milk bottles,&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/pick-and-mix-stall-hire-hampshire-surrey/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Pick and Mix Stall Hire in Hampshire &#038; Surrey on https://www.monstereventhire.co.uk/products/pick-and-mix-stall-hire-hampshire-surrey/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Pick and Mix Stall Hire in Hampshire &#038; Surrey" %}
+          {% assign shareDescription = "Pick and Mix Stall Hire in Hampshire &amp; Surrey What’s Included in Our Pick and Mix Hire 30kg of your favourite sweets including: Lollies, flumps, cola bottles, black jacks, fruit salads, jelly beans, milk bottles," %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

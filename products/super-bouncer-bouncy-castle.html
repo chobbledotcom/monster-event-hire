@@ -235,23 +235,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Super Bouncer Bouncy Castle 23ft x 28ft on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Super+Bouncer+Bouncy+Castle+23ft+x+28ft&amp;link=https://www.monstereventhire.co.uk/products/super-bouncer-bouncy-castle/&amp;redirect_uri=https://www.facebook.com&amp;description=You&#8217;re a bouncy castle pro and all those ordinary bouncy castles are bounced out. It&#8217;s time. Time to try out the Super Bouncer. Feel its bounce today! 23ft wide x 28ft forward Suitable For Use By /images/uploads/2015/10/superbouncer.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/super-bouncer-bouncy-castle/&amp;title=Super+Bouncer+Bouncy+Castle+23ft+x+28ft&amp;summary=You&#8217;re a bouncy castle pro and all those ordinary bouncy castles are bounced out. It&#8217;s time. Time to try out the Super Bouncer. Feel its bounce today! 23ft wide x 28ft forward Suitable For Use By Both&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/super-bouncer-bouncy-castle/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Super Bouncer Bouncy Castle 23ft x 28ft on https://www.monstereventhire.co.uk/products/super-bouncer-bouncy-castle/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Super Bouncer Bouncy Castle 23ft x 28ft" %}
+          {% assign shareDescription = "You&#8217;re a bouncy castle pro and all those ordinary bouncy castles are bounced out. It&#8217;s time. Time to try out the Super Bouncer. Feel its bounce today! 23ft wide x 28ft forward Suitable For Use By Both" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

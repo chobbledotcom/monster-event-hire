@@ -173,23 +173,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Atari Pong Table on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Atari+Pong+Table&amp;link=https://www.monstereventhire.co.uk/products/atari-pong-table-hire/&amp;redirect_uri=https://www.facebook.com&amp;description=Atari Pong Table Hire – Retro Gaming Fun Step back in time and bring retro gaming excitement to your event with our Atari Pong Table hire! Combining nostalgia and modern technology, this 70’s classic /images/uploads/2018/12/pongtable.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/atari-pong-table-hire/&amp;title=Atari+Pong+Table&amp;summary=Atari Pong Table Hire – Retro Gaming Fun Step back in time and bring retro gaming excitement to your event with our Atari Pong Table hire! Combining nostalgia and modern technology, this 70’s classic is&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/atari-pong-table-hire/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Atari Pong Table on https://www.monstereventhire.co.uk/products/atari-pong-table-hire/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Atari Pong Table" %}
+          {% assign shareDescription = "Atari Pong Table Hire – Retro Gaming Fun Step back in time and bring retro gaming excitement to your event with our Atari Pong Table hire! Combining nostalgia and modern technology, this 70’s classic is" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

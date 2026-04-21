@@ -223,23 +223,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Tug of War on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Tug+of+War&amp;link=https://www.monstereventhire.co.uk/products/tug-of-war/&amp;redirect_uri=https://www.facebook.com&amp;description=Pull yourself to victory with this classic Tug of War /images/uploads/2015/10/tug-of-war-men.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/tug-of-war/&amp;title=Tug+of+War&amp;summary=Pull yourself to victory with this classic Tug of War game!&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/tug-of-war/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Tug of War on https://www.monstereventhire.co.uk/products/tug-of-war/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Tug of War" %}
+          {% assign shareDescription = "Pull yourself to victory with this classic Tug of War game!" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

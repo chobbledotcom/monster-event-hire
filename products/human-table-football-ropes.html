@@ -244,23 +244,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Human Table Football (Ropes) on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Human+Table+Football+%28Ropes%29&amp;link=https://www.monstereventhire.co.uk/products/human-table-football-ropes/&amp;redirect_uri=https://www.facebook.com&amp;description=Human Table Football Ropes version . Human table football ropes is a outrageously hilarious game of 5-a-side Football with a difference! How did you get roped in to this? Full size human table football /images/uploads/2015/12/humantable-football-ropes-5.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/human-table-football-ropes/&amp;title=Human+Table+Football+%28Ropes%29&amp;summary=Human Table Football Ropes version . Human table football ropes is a outrageously hilarious game of 5-a-side Football with a difference! How did you get roped in to this? Full size human table football rope&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/human-table-football-ropes/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Human Table Football (Ropes) on https://www.monstereventhire.co.uk/products/human-table-football-ropes/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Human Table Football (Ropes)" %}
+          {% assign shareDescription = "Human Table Football Ropes version . Human table football ropes is a outrageously hilarious game of 5-a-side Football with a difference! How did you get roped in to this? Full size human table football rope" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">
