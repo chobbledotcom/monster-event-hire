@@ -5727,3 +5727,7 @@ span[itemprop="productID"] {
   max-width: 400px;
   margin: 30px auto;
 }
+
+.image-wrapper {
+  background-size: 100% 100%;
+}
