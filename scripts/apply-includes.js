@@ -61,10 +61,6 @@ const HEAD_END_BLOCK = extractBlock(
   "  <meta name=\"robots\" content=\"index, follow\">"
 );
 
-// Regex-based patterns (content varies slightly per page)
-const AREA_LINKS_PATTERN =
-  /            <div class="areas" style="display:none;">[\s\S]*?<\/ul>\n            <\/div>/;
-
 // Sidebar: span id="eNNNNNNNNN" is an obfuscated email id that differs per page
 const SIDEBAR_PATTERN =
   /          <aside class="grid-4-12 sidebar">[\s\S]*?          <\/aside>/;
@@ -149,15 +145,6 @@ const applyToFile = (filepath) => {
       '          {%- include "sidebar.html" -%}'
     );
     applied.push("sidebar");
-  }
-
-  // Area links: regex replacement (heading varies by page)
-  if (AREA_LINKS_PATTERN.test(content)) {
-    content = content.replace(
-      AREA_LINKS_PATTERN,
-      '            {%- include "area-links.html" -%}'
-    );
-    applied.push("area-links");
   }
 
   if (content !== original) {
