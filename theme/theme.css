@@ -4169,22 +4169,24 @@ span[itemprop="productID"] {
   font-size: 15px;
   text-align: center;
 }
-.button:hover {
-  color: #fff;
-}
 .dark-grey-bg .button {
   box-shadow: 0 3px 5px 0 rgba(49, 47, 47, 0.9);
 }
 .blue-bg .button {
   box-shadow: 0 3px 5px 0 rgba(64, 152, 188, 0.9);
 }
-.button:hover,
-.button[class*="-bg"]:hover {
-  background-color: #232323;
-}
-.dark-grey-bg .button:hover,
-.dark-grey-bg .button[class*="-bg"]:hover {
-  background-color: #fec62e;
+@media (hover: hover) {
+  .button:hover {
+    color: #fff;
+  }
+  .button:hover,
+  .button[class*="-bg"]:hover {
+    background-color: #232323;
+  }
+  .dark-grey-bg .button:hover,
+  .dark-grey-bg .button[class*="-bg"]:hover {
+    background-color: #fec62e;
+  }
 }
 .button .envelope {
   margin-right: 0.7em;
