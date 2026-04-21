@@ -1,0 +1,6 @@
+{
+	"tags": [],
+	"layout": false,
+	"templateEngineOverride": "liquid",
+	"eleventyExcludeFromCollections": true
+}
