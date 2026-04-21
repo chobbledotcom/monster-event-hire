@@ -1,6 +1,7 @@
 // Monster Event Hire - site scripts (vanilla JS, no jQuery)
 
 document.addEventListener("DOMContentLoaded", () => {
+  initInfinityNumber();
   initMobileMenu();
   initSearch();
   initEnquiryForm();
@@ -22,6 +23,15 @@ window.addEventListener(
   },
   { passive: true },
 );
+
+// Call-tracking phone numbers: suppress link styling on narrow screens
+function initInfinityNumber() {
+  if (window.innerWidth < 1100) {
+    for (const el of document.querySelectorAll(".InfinityNumber15214")) {
+      el.classList.add("clickable");
+    }
+  }
+}
 
 // Mobile menu
 function initMobileMenu() {
