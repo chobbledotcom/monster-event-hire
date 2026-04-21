@@ -343,23 +343,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share bungee run inflatable hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=bungee+run+inflatable+hire&amp;link=https://www.monstereventhire.co.uk/products/bungee-run/&amp;redirect_uri=https://www.facebook.com&amp;description=Bungee Run Inflatable Hire Put your strength, speed and stamina to the test with our exciting Bungee Run inflatable hire. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while /images/uploads/2015/10/Bsen14960-4-2025.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/bungee-run/&amp;title=bungee+run+inflatable+hire&amp;summary=Bungee Run Inflatable Hire Put your strength, speed and stamina to the test with our exciting Bungee Run inflatable hire. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while attached&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/bungee-run/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - bungee run inflatable hire on https://www.monstereventhire.co.uk/products/bungee-run/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "bungee run inflatable hire" %}
+          {% assign shareDescription = "Bungee Run Inflatable Hire Put your strength, speed and stamina to the test with our exciting Bungee Run inflatable hire. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while attached" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

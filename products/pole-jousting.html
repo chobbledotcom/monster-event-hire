@@ -235,23 +235,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Pole Jousting on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Pole+Jousting&amp;link=https://www.monstereventhire.co.uk/products/pole-jousting/&amp;redirect_uri=https://www.facebook.com&amp;description=Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of /images/uploads/2015/10/polejousting1.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/pole-jousting/&amp;title=Pole+Jousting&amp;summary=Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/pole-jousting/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Pole Jousting on https://www.monstereventhire.co.uk/products/pole-jousting/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Pole Jousting" %}
+          {% assign shareDescription = "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

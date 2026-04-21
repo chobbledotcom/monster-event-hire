@@ -286,23 +286,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Snowboard Simulator on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Snowboard+Simulator&amp;link=https://www.monstereventhire.co.uk/products/snowboard-simulator/&amp;redirect_uri=https://www.facebook.com&amp;description=Snowboard simulator ! Check out our snowboard simulator!  Ready to test your skills on the piste? This is a fantastic alternative to the Surfboard, for your winter themed events. Can you stay on the /images/uploads/2015/10/Newsnowboard.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/snowboard-simulator/&amp;title=Snowboard+Simulator&amp;summary=Snowboard simulator ! Check out our snowboard simulator!  Ready to test your skills on the piste? This is a fantastic alternative to the Surfboard, for your winter themed events. Can you stay on the board&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/snowboard-simulator/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Snowboard Simulator on https://www.monstereventhire.co.uk/products/snowboard-simulator/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Snowboard Simulator" %}
+          {% assign shareDescription = "Snowboard simulator ! Check out our snowboard simulator!  Ready to test your skills on the piste? This is a fantastic alternative to the Surfboard, for your winter themed events. Can you stay on the board" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

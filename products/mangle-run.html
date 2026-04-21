@@ -228,23 +228,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share The Mangle Run on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=The+Mangle+Run&amp;link=https://www.monstereventhire.co.uk/all-products/inflatables-hire/mangle-run&amp;redirect_uri=https://www.facebook.com&amp;description=The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with /images/uploads/2016/01/car-pics-004.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/all-products/inflatables-hire/mangle-run&amp;title=The+Mangle+Run&amp;summary=The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with a&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/all-products/inflatables-hire/mangle-run" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - The Mangle Run on https://www.monstereventhire.co.uk/all-products/inflatables-hire/mangle-run"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "The Mangle Run" %}
+          {% assign shareDescription = "The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with a" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

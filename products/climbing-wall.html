@@ -348,23 +348,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Climbing Wall Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Climbing+Wall+Hire&amp;link=https://www.monstereventhire.co.uk/products/climbing-wall/&amp;redirect_uri=https://www.facebook.com&amp;description=🧗‍♂️ Climbing Wall Hire – Monster Event Hire Make your event unforgettable with our mobile climbing wall, perfect for parties, school fun days, corporate team-building events, festivals, and more across Hampshire, Surrey, Sussex &amp; /images/uploads/2015/09/smrrr.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/climbing-wall/&amp;title=Climbing+Wall+Hire&amp;summary=🧗‍♂️ Climbing Wall Hire – Monster Event Hire Make your event unforgettable with our mobile climbing wall, perfect for parties, school fun days, corporate team-building events, festivals, and more across Hampshire, Surrey, Sussex &amp; London.&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/categories/climbing-wall/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Climbing Wall Hire on https://www.monstereventhire.co.uk/categories/climbing-wall/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Climbing Wall Hire" %}
+          {% assign shareDescription = "🧗‍♂️ Climbing Wall Hire – Monster Event Hire Make your event unforgettable with our mobile climbing wall, perfect for parties, school fun days, corporate team-building events, festivals, and more across Hampshire, Surrey, Sussex &amp; London." %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

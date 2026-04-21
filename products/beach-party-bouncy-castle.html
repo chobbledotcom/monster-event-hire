@@ -277,23 +277,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share All ages Beach Party Bouncy Castle 15ft x 16ft on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=All+ages+Beach+Party+Bouncy+Castle+15ft+x+16ft&amp;link=https://www.monstereventhire.co.uk/products/beach-party-bouncy-castle/&amp;redirect_uri=https://www.facebook.com&amp;description=Beach Party Bouncy Castle Hire – Surf Theme Inflatable for Kids &amp; Adults Bring the seaside to your event with our Beach Party Bouncy Castle Hire – the perfect inflatable for summer parties, tropical /images/uploads/2015/10/beachparty.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/beach-party-bouncy-castle/&amp;title=All+ages+Beach+Party+Bouncy+Castle+15ft+x+16ft&amp;summary=Beach Party Bouncy Castle Hire – Surf Theme Inflatable for Kids &amp; Adults Bring the seaside to your event with our Beach Party Bouncy Castle Hire – the perfect inflatable for summer parties, tropical themes,&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/beach-party-bouncy-castle/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - All ages Beach Party Bouncy Castle 15ft x 16ft on https://www.monstereventhire.co.uk/products/beach-party-bouncy-castle/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "All ages Beach Party Bouncy Castle 15ft x 16ft" %}
+          {% assign shareDescription = "Beach Party Bouncy Castle Hire – Surf Theme Inflatable for Kids &amp; Adults Bring the seaside to your event with our Beach Party Bouncy Castle Hire – the perfect inflatable for summer parties, tropical themes," %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

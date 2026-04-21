@@ -1,0 +1,17 @@
+<div class="product-share">
+  <p>Share {{ shareName }} on:</p>
+  <ul class="social-share clearfix">
+    <li class="facebook">
+      <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name={{ shareName | url_encode }}&amp;link={{ site.url }}{{ page.url }}&amp;redirect_uri=https://www.facebook.com&amp;description={{ shareDescription | url_encode }}" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
+    </li>
+    <li class="linkedin">
+      <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ shareName | url_encode }}&amp;summary={{ shareDescription | url_encode }}&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
+    </li>
+    <li class="google_plus">
+      <a target="_blank" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
+    </li>
+    <li class="email">
+      <a class="email" title="Share by email" href="mailto:?subject=Check this - {{ shareName }} on {{ site.url }}{{ page.url }}"><i class="fa fa-envelope"></i></a>
+    </li>
+  </ul>
+</div>

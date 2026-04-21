@@ -101,23 +101,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Whack A Mole on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Whack+A+Mole&amp;link=https://www.monstereventhire.co.uk/products/interactive-digital-whack-a-mole-game/&amp;redirect_uri=https://www.facebook.com&amp;description=Interactive Digital Whack A Mole, The Interactive Digital Whack A Mole is a great concept on the classic arcade game whack a mole, you might have played in the past. Our system uses light /images/uploads/2025/03/whackamole.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/interactive-digital-whack-a-mole-game/&amp;title=Whack+A+Mole&amp;summary=Interactive Digital Whack A Mole, The Interactive Digital Whack A Mole is a great concept on the classic arcade game whack a mole, you might have played in the past. Our system uses light up&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/interactive-digital-whack-a-mole-game/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Whack A Mole on https://www.monstereventhire.co.uk/products/interactive-digital-whack-a-mole-game/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Whack A Mole" %}
+          {% assign shareDescription = "Interactive Digital Whack A Mole, The Interactive Digital Whack A Mole is a great concept on the classic arcade game whack a mole, you might have played in the past. Our system uses light up" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

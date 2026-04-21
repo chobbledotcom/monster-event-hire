@@ -95,23 +95,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Digital Wheel of Fortune on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Digital+Wheel+of+Fortune&amp;link=https://www.monstereventhire.co.uk/products/digital-prize-wheel/&amp;redirect_uri=https://www.facebook.com&amp;description=🎉 Digital Prize Wheel Hire – Spin to Win Exciting Prizes Bring excitement and interactive fun to your next event with our digital prize wheel hire. This engaging attraction allows players to place bets /images/uploads/2026/03/5d395be6-f1a6-4fa7-8363-ed6cd43bf915.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/digital-prize-wheel/&amp;title=Digital+Wheel+of+Fortune&amp;summary=🎉 Digital Prize Wheel Hire – Spin to Win Exciting Prizes Bring excitement and interactive fun to your next event with our digital prize wheel hire. This engaging attraction allows players to place bets on&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/digital-prize-wheel/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Digital Wheel of Fortune on https://www.monstereventhire.co.uk/products/digital-prize-wheel/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Digital Wheel of Fortune" %}
+          {% assign shareDescription = "🎉 Digital Prize Wheel Hire – Spin to Win Exciting Prizes Bring excitement and interactive fun to your next event with our digital prize wheel hire. This engaging attraction allows players to place bets on" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

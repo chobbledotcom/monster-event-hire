@@ -89,23 +89,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Big Red Assault Course on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Big+Red+Assault+Course&amp;link=https://www.monstereventhire.co.uk/products/big-red-assault-course/&amp;redirect_uri=https://www.facebook.com&amp;description=80ft Big Red Assault Course This 80ft Big Red  Assault Course has lots of fun inside to challenge the fittest of users. Another really great choice in our range! At the start you enter /images/uploads/2025/03/big-red-assault-course-.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/big-red-assault-course/&amp;title=Big+Red+Assault+Course&amp;summary=80ft Big Red Assault Course This 80ft Big Red  Assault Course has lots of fun inside to challenge the fittest of users. Another really great choice in our range! At the start you enter through&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/big-red-assault-course/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Big Red Assault Course on https://www.monstereventhire.co.uk/products/big-red-assault-course/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Big Red Assault Course" %}
+          {% assign shareDescription = "80ft Big Red Assault Course This 80ft Big Red  Assault Course has lots of fun inside to challenge the fittest of users. Another really great choice in our range! At the start you enter through" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

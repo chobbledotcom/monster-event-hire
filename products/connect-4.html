@@ -265,23 +265,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Garden game package on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Garden+game+package&amp;link=https://www.monstereventhire.co.uk/products/connect-4/&amp;redirect_uri=https://www.facebook.com&amp;description=Garden game package 3 garden game favourites included in this package Giant Snakes and Ladders Up to 4 players this will keep children and adults entertained at your special occasion. Take yourself back to /images/uploads/2015/10/image1.jpeg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/connect-4/&amp;title=Garden+game+package&amp;summary=Garden game package 3 garden game favourites included in this package Giant Snakes and Ladders Up to 4 players this will keep children and adults entertained at your special occasion. Take yourself back to your&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/connect-4/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Garden game package on https://www.monstereventhire.co.uk/products/connect-4/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Garden game package" %}
+          {% assign shareDescription = "Garden game package 3 garden game favourites included in this package Giant Snakes and Ladders Up to 4 players this will keep children and adults entertained at your special occasion. Take yourself back to your" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

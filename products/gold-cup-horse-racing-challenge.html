@@ -104,23 +104,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Gold Cup horse racing challenge on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Gold+Cup+horse+racing+challenge&amp;link=https://www.monstereventhire.co.uk/products/gold-cup-horse-racing-challenge/&amp;redirect_uri=https://www.facebook.com&amp;description=Gold Cup Horse Racing Challenge – Event Hire Bring excitement and competition to your next event with our Gold Cup Horse Racing Challenge. Perfect for birthday parties, corporate events, team-building, and fun-packed gatherings, this /images/uploads/2019/08/goldcupracing.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/gold-cup-horse-racing-challenge/&amp;title=Gold+Cup+horse+racing+challenge&amp;summary=Gold Cup Horse Racing Challenge – Event Hire Bring excitement and competition to your next event with our Gold Cup Horse Racing Challenge. Perfect for birthday parties, corporate events, team-building, and fun-packed gatherings, this game&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/gold-cup-horse-racing-challenge/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Gold Cup horse racing challenge on https://www.monstereventhire.co.uk/products/gold-cup-horse-racing-challenge/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Gold Cup horse racing challenge" %}
+          {% assign shareDescription = "Gold Cup Horse Racing Challenge – Event Hire Bring excitement and competition to your next event with our Gold Cup Horse Racing Challenge. Perfect for birthday parties, corporate events, team-building, and fun-packed gatherings, this game" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

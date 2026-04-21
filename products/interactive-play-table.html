@@ -74,23 +74,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Interactive Play Table on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Interactive+Play+Table&amp;link=https://www.monstereventhire.co.uk/products/interactive-play-table/&amp;redirect_uri=https://www.facebook.com&amp;description=Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; /images/uploads/2019/01/44800656_2185959991677226_1875019602870665216_n.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/interactive-play-table/&amp;title=Interactive+Play+Table&amp;summary=Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/interactive-play-table/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Interactive Play Table on https://www.monstereventhire.co.uk/products/interactive-play-table/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Interactive Play Table" %}
+          {% assign shareDescription = "Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

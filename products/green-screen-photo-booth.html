@@ -294,23 +294,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Green Screen Photo Booth on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Green+Screen+Photo+Booth&amp;link=https://www.monstereventhire.co.uk/products/green-screen-photo-booth/&amp;redirect_uri=https://www.facebook.com&amp;description=Green Screen Photo Booth Hire Bring your event to life with our Green Screen Photo Booth! Perfect for parties, corporate events, weddings, and themed celebrations, this interactive photo booth lets your guests step into /images/uploads/2015/11/trad1.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/green-screen-photo-booth/&amp;title=Green+Screen+Photo+Booth&amp;summary=Green Screen Photo Booth Hire Bring your event to life with our Green Screen Photo Booth! Perfect for parties, corporate events, weddings, and themed celebrations, this interactive photo booth lets your guests step into a&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/green-screen-photo-booth/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Green Screen Photo Booth on https://www.monstereventhire.co.uk/products/green-screen-photo-booth/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Green Screen Photo Booth" %}
+          {% assign shareDescription = "Green Screen Photo Booth Hire Bring your event to life with our Green Screen Photo Booth! Perfect for parties, corporate events, weddings, and themed celebrations, this interactive photo booth lets your guests step into a" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">

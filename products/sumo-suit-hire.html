@@ -243,23 +243,9 @@ redirect_from:
           {%- include "opening-hours.html" -%}
             </div>
           </div>
-          <div class="product-share">
-            <p>Share Sumo Suit Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Sumo+Suit+Hire&amp;link=https://www.monstereventhire.co.uk/products/sumo-suit-hire/&amp;redirect_uri=https://www.facebook.com&amp;description=The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your /images/uploads/2015/10/sumosuckers.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/sumo-suit-hire/&amp;title=Sumo+Suit+Hire&amp;summary=The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/sumo-suit-hire/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Sumo Suit Hire on https://www.monstereventhire.co.uk/products/sumo-suit-hire/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Sumo Suit Hire" %}
+          {% assign shareDescription = "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="testimonial">
