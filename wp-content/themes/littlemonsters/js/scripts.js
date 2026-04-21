@@ -157,6 +157,49 @@ function initProductLinks() {
   }
 }
 
+// Swap the main display to show item i. The chobble-template {% image %}
+// shortcode wraps images in <picture> inside .image-wrapper divs; updating
+// img.src alone is ignored because <source> srcsets take precedence, so we
+// replace the whole .image-wrapper innerHTML (with a fallback for pages
+// without the wrapper).
+function swapMainImage(items, snap, i) {
+  const mainWrapper = items[0].querySelector(".image-wrapper");
+  if (mainWrapper && snap.wrapperContents[i]) {
+    mainWrapper.style.cssText = snap.wrapperStyles[i];
+    mainWrapper.innerHTML = snap.wrapperContents[i];
+    mainWrapper.querySelector("img")?.removeAttribute("loading");
+    return;
+  }
+  const mainImg = items[0].querySelector("img");
+  if (mainImg) {
+    mainImg.src = snap.sources[i].src;
+    mainImg.alt = snap.sources[i].alt;
+  }
+}
+
+function buildThumbStrip(items, snap, onSelect) {
+  const strip = document.createElement("div");
+  strip.className = "gallery-thumbs";
+  for (const [i, item] of items.entries()) {
+    const thumb = document.createElement("img");
+    thumb.src = item.dataset.thumb || snap.sources[i].src;
+    thumb.alt = "";
+    if (i === 0) thumb.classList.add("active");
+    thumb.addEventListener("click", () => onSelect(i));
+    strip.appendChild(thumb);
+  }
+  return strip;
+}
+
+function buildArrowButton(cls, label, onClick) {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = cls;
+  btn.setAttribute("aria-label", label);
+  btn.addEventListener("click", onClick);
+  return btn;
+}
+
 // Product image gallery (replaces jQuery lightSlider)
 function initProductGallery() {
   for (const gallery of document.querySelectorAll(".product-gallery")) {
@@ -164,59 +207,52 @@ function initProductGallery() {
     if (items.length <= 1) continue;
 
     // Snapshot content before any DOM mutation so clicking back to thumb 0 works.
-    // The chobble-template wraps images in <picture> inside .image-wrapper divs;
-    // updating img.src alone is ignored because <source> srcsets take precedence.
-    // We must swap the entire .image-wrapper innerHTML + background on click.
-    const wrapperContents = items.map(
-      (item) => item.querySelector(".image-wrapper")?.innerHTML ?? "",
-    );
-    const wrapperStyles = items.map(
-      (item) => item.querySelector(".image-wrapper")?.style.cssText ?? "",
-    );
-    // Fallback src/alt for pages that don't use .image-wrapper
-    const sources = items.map((item) => ({
-      src: item.querySelector("img")?.src || item.dataset.thumb || "",
-      alt: item.querySelector("img")?.alt || "",
-    }));
+    const snap = {
+      wrapperContents: items.map(
+        (item) => item.querySelector(".image-wrapper")?.innerHTML ?? "",
+      ),
+      wrapperStyles: items.map(
+        (item) => item.querySelector(".image-wrapper")?.style.cssText ?? "",
+      ),
+      sources: items.map((item) => ({
+        src: item.querySelector("img")?.src || item.dataset.thumb || "",
+        alt: item.querySelector("img")?.alt || "",
+      })),
+    };
 
-    // First item is always the main display area; hide the rest
     items[0].classList.add("gallery-main");
-    for (let i = 1; i < items.length; i++) {
-      items[i].style.display = "none";
-    }
+    // First image is the LCP candidate; don't let the shortcode's lazy-load defer it.
+    items[0].querySelector("img")?.removeAttribute("loading");
+    for (let i = 1; i < items.length; i++) items[i].style.display = "none";
 
-    const thumbStrip = document.createElement("div");
-    thumbStrip.className = "gallery-thumbs";
+    let current = 0;
+    let thumbStrip;
+    let prevBtn;
+    let nextBtn;
 
-    for (const [i, item] of items.entries()) {
-      const thumb = document.createElement("img");
-      thumb.src = item.dataset.thumb || sources[i].src;
-      thumb.alt = "";
-      if (i === 0) thumb.classList.add("active");
+    const selectImage = (i) => {
+      if (i < 0 || i >= items.length || i === current) return;
+      current = i;
+      swapMainImage(items, snap, i);
+      for (const [ti, t] of [...thumbStrip.querySelectorAll("img")].entries()) {
+        t.classList.toggle("active", ti === i);
+      }
+      prevBtn.classList.toggle("disabled", i === 0);
+      nextBtn.classList.toggle("disabled", i === items.length - 1);
+    };
 
-      thumb.addEventListener("click", () => {
-        const mainWrapper = items[0].querySelector(".image-wrapper");
-        if (mainWrapper && wrapperContents[i]) {
-          mainWrapper.style.cssText = wrapperStyles[i];
-          mainWrapper.innerHTML = wrapperContents[i];
-          // Ensure the newly inserted lazy image loads immediately
-          mainWrapper.querySelector("img")?.removeAttribute("loading");
-        } else {
-          const mainImg = items[0].querySelector("img");
-          if (mainImg) {
-            mainImg.src = sources[i].src;
-            mainImg.alt = sources[i].alt;
-          }
-        }
-        for (const [ti, t] of [...thumbStrip.querySelectorAll("img")].entries()) {
-          t.classList.toggle("active", ti === i);
-        }
-      });
-
-      thumbStrip.appendChild(thumb);
-    }
+    thumbStrip = buildThumbStrip(items, snap, selectImage);
+    prevBtn = buildArrowButton("lSPrev", "Previous image", () =>
+      selectImage(current - 1),
+    );
+    nextBtn = buildArrowButton("lSNext", "Next image", () =>
+      selectImage(current + 1),
+    );
+    prevBtn.classList.add("disabled");
 
     gallery.appendChild(thumbStrip);
+    gallery.appendChild(prevBtn);
+    gallery.appendChild(nextBtn);
     gallery.querySelector("ul")?.classList.remove("cS-hidden");
   }
 }
