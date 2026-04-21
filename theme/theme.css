@@ -253,8 +253,11 @@ a {
 a:hover {
   color: #252525;
 }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
 [class*="grid-"] {
-  float: left;
   min-height: 1em;
 }
 .gutters [class*="grid-"] {
