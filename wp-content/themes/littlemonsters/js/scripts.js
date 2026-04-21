@@ -153,33 +153,37 @@ function initProductGallery() {
     const items = [...gallery.querySelectorAll("ul li")];
     if (items.length <= 1) continue;
 
-    // Hide all items after the first
+    // Snapshot src/alt before any DOM mutation so clicking back to thumb 0 works
+    const sources = items.map((item) => ({
+      src: item.querySelector("img")?.src || item.dataset.thumb || "",
+      alt: item.querySelector("img")?.alt || "",
+    }));
+
+    // First item is always the main display area; hide the rest
+    items[0].classList.add("gallery-main");
     for (let i = 1; i < items.length; i++) {
       items[i].style.display = "none";
     }
-
-    let activeIndex = 0;
 
     const thumbStrip = document.createElement("div");
     thumbStrip.className = "gallery-thumbs";
 
     for (const [i, item] of items.entries()) {
       const thumb = document.createElement("img");
-      thumb.src = item.dataset.thumb || item.querySelector("img")?.src || "";
+      thumb.src = item.dataset.thumb || sources[i].src;
       thumb.alt = "";
       if (i === 0) thumb.classList.add("active");
 
       thumb.addEventListener("click", () => {
-        const mainImg = items[activeIndex].querySelector("img");
-        const srcImg = items[i].querySelector("img");
-        if (mainImg && srcImg) {
-          mainImg.src = srcImg.src;
-          mainImg.alt = srcImg.alt;
+        // Always update items[0] — it is the only visible slide
+        const mainImg = items[0].querySelector("img");
+        if (mainImg) {
+          mainImg.src = sources[i].src;
+          mainImg.alt = sources[i].alt;
         }
         for (const [ti, t] of [...thumbStrip.querySelectorAll("img")].entries()) {
           t.classList.toggle("active", ti === i);
         }
-        activeIndex = i;
       });
 
       thumbStrip.appendChild(thumb);
