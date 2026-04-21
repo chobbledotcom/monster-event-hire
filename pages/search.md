@@ -1,6 +1,6 @@
 ---
 title: Search
-layout: search.html
+layout: monster-event-hire.html
 permalink: /search/
 eleventyNavigation:
   key: Search

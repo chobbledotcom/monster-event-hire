@@ -1,4 +1,5 @@
 ---
+layout: monster-event-hire.html
 header_text: Thank You
 meta_description:
 meta_title: Thank You
