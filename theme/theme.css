@@ -2809,8 +2809,7 @@ header .phone:before {
 .phone-top {
   font-size: 1.313em;
 }
-.phone-bottom,
-header.small .small-num {
+.phone-bottom {
   font-family: bebas_neuebold;
   line-height: 1;
 }
@@ -2908,8 +2907,7 @@ header nav li#menu-item-31 > a:after {
 }
 .enquiry:before,
 .the_enquiry_form h2:before,
-header nav .has-children ul li a:after,
-header.small .small-num:before {
+header nav .has-children ul li a:after {
   content: "";
 }
 header nav .has-children ul li a {
@@ -3031,20 +3029,7 @@ footer .close-icon {
   visibility: visible;
   top: 56px;
 }
-.small-num {
-  height: 0;
-  opacity: 0;
-}
-header.small .small-num {
-  height: 56px;
-  opacity: 1;
-  position: absolute;
-  top: 0;
-  right: 0;
-  color: #363636;
-  font-size: 2em;
-  padding-top: 12px;
-}
+
 .breadcrumbs,
 .breadcrumbs a {
   color: #464646;
@@ -3058,17 +3043,7 @@ header.small .small-num {
 .product.enquire .phone:after {
   font-family: capsuularegular;
 }
-header.small .small-num:before {
-  position: relative;
-  background: url(/wp-content/themes/littlemonsters/images/svg/sprites.svg)
-    -48px -40px no-repeat;
-  width: 17px;
-  height: 17px;
-  top: -2px;
-  left: -12px;
-  z-index: 2;
-  display: inline-block;
-}
+
 header.small .searchtrigger {
   height: 0;
   opacity: 0;
@@ -4700,42 +4675,13 @@ span[itemprop="productID"] {
   header.small {
     top: 56px !important;
   }
-  header.small .small-num {
-    position: fixed;
-    top: 0;
-    opacity: 1;
-    height: 56px;
-    z-index: 2;
-    width: 100%;
-    font-family: bebas_neuebold;
-    font-size: 2.5em;
-    line-height: 1;
-    text-align: left;
-    padding: 7px 0 7px 32px;
-    color: #fff;
-    background: #363636;
-  }
-  header.small .small-num:before {
-    content: "";
-    position: relative;
-    background: url(/wp-content/themes/littlemonsters/images/svg/sprites.svg)
-      -48px -40px no-repeat;
-    width: 17px;
-    height: 17px;
-    top: -5px;
-    left: -12px;
-    z-index: 2;
-    display: inline-block;
-  }
+
   header nav .has-children ul li a:after,
   header nav .has-children > a:after,
   header nav ul li.full-width-sub-menu ul:before {
     content: none;
   }
-  header .small-num {
-    height: 0;
-    opacity: 0;
-  }
+
   .admin-bar header.small,
   header,
   header.small {
