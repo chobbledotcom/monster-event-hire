@@ -5,6 +5,18 @@
   background-size: 100% 100%;
 }
 
+.loc-cats .products.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  padding: 2em 0;
+}
+
+.loc-cats .product-item {
+  flex: 1 1 220px;
+  min-width: 0;
+}
+
 .contact-form {
   max-width: 500px;
   margin: 30px auto;
