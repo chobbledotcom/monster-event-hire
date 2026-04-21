@@ -3450,8 +3450,6 @@ footer h6 {
 .product {
   position: relative;
   min-height: 242px;
-  background: url(/wp-content/themes/littlemonsters/images/ajax-loader.gif)
-    center center no-repeat #f5f5f5;
   box-shadow: 0 0 3px 0 #e1e1e1;
   cursor: pointer;
 }
