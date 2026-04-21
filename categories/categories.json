@@ -2,5 +2,5 @@
 	"tags": [],
 	"layout": false,
 	"templateEngineOverride": "liquid",
-	"eleventyExcludeFromCollections": true
+	"eleventyExcludeFromCollections": false
 }
