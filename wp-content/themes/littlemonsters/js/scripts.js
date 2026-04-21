@@ -114,7 +114,6 @@ jQuery(document).ready(function($){
 			$('body').addClass('no-overflow');
 			$('.the_enquiry_form').addClass('shown'); 
 			$('.scroll-top').hide();
-			ga('send', 'pageview', '/contact-us/form/');
 		});
 	});
 	$('.close-enquiry-form, .form-bg').click(function(){
@@ -263,7 +262,6 @@ jQuery(document).ready(function($){
 							$('body').removeClass('no-overflow'); 
 							$('header').removeClass('small');
 						},2000);
-						ga('send', 'pageview', 'contact-us/submitted/');
 					},
 					error: function(data) {
 						//console.log('Error');
