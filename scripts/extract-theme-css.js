@@ -13,7 +13,6 @@ const SKIP_DIRS = new Set([
   "node_modules",
   "scripts",
   "theme",
-  "wp-json",
 ]);
 
 const walk = (dir) => {
@@ -32,7 +31,7 @@ const STYLE_BLOCK_RE = /\n {2}<style>\n {2}([^\n]{50000,})\n {2}<\/style>\n/;
 const LINK_TAG =
   '  <link rel="stylesheet" href="{{ \'/theme/theme.css\' | cacheBust }}">';
 
-const WP_PREFIXES = "wp-content|wp-includes|wp-json";
+const WP_PREFIXES = "wp-content|wp-includes";
 const relativeWpUrlRe = new RegExp(
   `url\\((['"]?)(?:\\.\\./)+(${WP_PREFIXES})/`,
   "gi",

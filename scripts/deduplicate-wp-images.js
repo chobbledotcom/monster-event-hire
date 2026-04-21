@@ -26,7 +26,6 @@ const IMAGE_EXTS = new Set([".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"]);
 const PASSTHROUGH_DIRS = new Set([
   "wp-content",
   "wp-includes",
-  "wp-json",
   "theme",
 ]);
 
