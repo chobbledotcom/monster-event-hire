@@ -2574,8 +2574,7 @@ input[type="button"]:hover {
   background: #1b2129;
   color: #fff;
 }
-.error,
-.ui-datepicker {
+.error {
   background: #fff;
   width: 100%;
 }
@@ -2598,8 +2597,7 @@ input[type="button"]:hover {
   -o-transition: all 0.3s;
   -webkit-transition: all 0.3s;
 }
-.success,
-.ui-datepicker-header {
+.success {
   position: relative;
 }
 .error:before {
@@ -2639,70 +2637,6 @@ header .phone:before {
 }
 .success p {
   margin: 0;
-}
-.ui-datepicker {
-  display: none;
-  max-width: 300px;
-  padding: 20px;
-  box-shadow: 0 0 3px 0 #e1e1e1;
-}
-table.ui-datepicker-calendar {
-  width: 100%;
-  font-size: 14px;
-}
-table.ui-datepicker-calendar th {
-  font-weight: 700;
-  color: #222;
-  padding-bottom: 1em;
-}
-table.ui-datepicker-calendar td {
-  text-align: center;
-  border: 1px solid #f5f5f5;
-}
-table.ui-datepicker-calendar td a {
-  padding: 7px 5px;
-  display: block;
-  color: #5eb4d7;
-}
-table.ui-datepicker-calendar td a:hover,
-table.ui-datepicker-calendar td.ui-datepicker-today a {
-  background: #5eb4d7;
-  color: #fff;
-}
-table.ui-datepicker-calendar td.ui-datepicker-current-day a {
-  background: #222;
-  color: #fff;
-}
-.ui-state-disabled span {
-  padding: 7px 5px;
-  display: block;
-  color: #ccc;
-}
-.ui-datepicker-header a {
-  position: absolute;
-  top: 0;
-  width: 30px;
-  height: 30px;
-  display: block;
-  text-indent: -30000px;
-  cursor: pointer;
-  background-size: 20px 20px;
-}
-.ui-datepicker-prev {
-  left: 0;
-  background: url(/wp-content/themes/littlemonsters/images/svg/arrow-left-color.svg)
-    center center no-repeat;
-}
-.ui-datepicker-next {
-  right: 0;
-  background: url(/wp-content/themes/littlemonsters/images/svg/arrow-right-color.svg)
-    center center no-repeat;
-}
-.ui-datepicker-title {
-  text-align: center;
-  border-bottom: 1px solid #ebebeb;
-  padding-bottom: 1em;
-  margin-bottom: 1em;
 }
 #site-wrap {
   position: relative;

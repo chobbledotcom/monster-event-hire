@@ -122,12 +122,6 @@ jQuery(document).ready(function($){
 		$('header').removeClass('small');
 		$('.scroll-top').hide();
 	});
-	//Datepicker
-	$('.the_date').datepicker({
-		dateFormat: "d-MM-y", 
-        minDate: 0,
-	});
-	
 	//Input focus icon styles
 	$('input, textarea').each(function(){
 		$(this).focus(function(){
