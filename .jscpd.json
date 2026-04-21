@@ -8,11 +8,11 @@
     "**/.build/**",
     "**/packages/**"
   ],
-  "format": ["javascript"],
+  "format": ["javascript", "markup", "css"],
   "absolute": false,
   "gitignore": true,
   "exitCode": 1,
-  "minLines": 1,
+  "minLines": 3,
   "minTokens": 40,
-  "path": ["scripts"]
+  "path": ["scripts", "_includes", "about-us", "all-products", "allproducts", "areas-covered", "contact-us", "cookie-policy", "electronic-games", "health-safety", "instagram-posts", "little-monsters", "pricing-information", "privacy-policy", "products", "testimonials", "css"]
 }

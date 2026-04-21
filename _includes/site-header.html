@@ -1,0 +1,29 @@
+<header>
+  {%- include "colour-border.html" -%}
+  <div id="upper-header" class="wrapper clearfix">
+    {%- include "site-logo.html" -%}
+    {%- include "header-contacts.html" -%}
+  </div>
+  <div id="lower-header">
+    <div class="wrapper clearfix">
+      {%- include "header-nav.html" -%}
+      <div class="grid-1-12 searchtrigger">
+        <span class="icon search-icon"></span>
+      </div>
+      <div class="small-num">
+        02392 788 427
+      </div>
+    </div>
+    <div class="searchform">
+      <div class="wrapper">
+        <div class="close search-close">
+          <i class="fa fa-times-circle"></i>
+        </div>
+        <form class="search clearfix" method="get" action="/search/">
+          <input id="search" class="search-input" type="search" name="q" placeholder="Search Monster"> <button class="search-submit" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+    <div class="mobile-enquire enquiry-button"></div>
+  </div>
+</header>
