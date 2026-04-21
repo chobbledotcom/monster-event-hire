@@ -2,7 +2,7 @@ import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { path } from "./utils.js";
 
-const ROOTS = ["wp-content", "wp-includes", "wp-json"];
+const ROOTS = ["wp-content", "wp-includes"];
 const prefixGroup = ROOTS.join("|");
 const relativeWpRe = new RegExp(`(?:\\.\\./)+(${prefixGroup})/`, "gi");
 const attrBareRe = new RegExp(

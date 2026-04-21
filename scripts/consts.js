@@ -32,7 +32,6 @@ export const sourceExcludes = [
 export const mirrorPassthroughDirs = [
   "wp-content",
   "wp-includes",
-  "wp-json",
   "theme",
   "images",
 ];
