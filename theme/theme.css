@@ -5722,3 +5722,8 @@ span[itemprop="productID"] {
     left: 10px;
   }
 }
+
+.contact-form {
+  max-width: 400px;
+  margin: 30px auto;
+}
