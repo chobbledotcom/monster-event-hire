@@ -2,10 +2,10 @@
   <p>Share {{ shareName }} on:</p>
   <ul class="social-share clearfix">
     <li class="facebook">
-      <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name={{ shareName | urlencode }}&amp;link={{ site.url }}{{ page.url }}&amp;redirect_uri=https://www.facebook.com&amp;description={{ shareDescription | urlencode }}" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
+      <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name={{ shareName | url_encode }}&amp;link={{ site.url }}{{ page.url }}&amp;redirect_uri=https://www.facebook.com&amp;description={{ shareDescription | url_encode }}" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
     </li>
     <li class="linkedin">
-      <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ shareName | urlencode }}&amp;summary={{ shareDescription | urlencode }}&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
+      <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ shareName | url_encode }}&amp;summary={{ shareDescription | url_encode }}&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
     </li>
     <li class="google_plus">
       <a target="_blank" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
