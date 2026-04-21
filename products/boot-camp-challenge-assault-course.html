@@ -228,23 +228,9 @@ redirect_from:
             <ul class="item-data"></ul>
           </div><a href="../boot-camp-challenge-assault-course/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Boot Camp Challenge</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Boot Camp Challenge on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Boot+Camp+Challenge&amp;link=https://www.monstereventhire.co.uk/products/boot-camp-challenge-assault-course/&amp;redirect_uri=https://www.facebook.com&amp;description=100ft Boot Camp Challenge Assault Course Hire in Hampshire &amp; Surrey The Ultimate Giant Inflatable Obstacle Course Experience Looking for a show-stopping inflatable assault course hire in Hampshire or Surrey? Our 100ft Boot Camp /images/uploads/2024/04/full-BC-Challenge-drone.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/boot-camp-challenge-assault-course/&amp;title=Boot+Camp+Challenge&amp;summary=100ft Boot Camp Challenge Assault Course Hire in Hampshire &amp; Surrey The Ultimate Giant Inflatable Obstacle Course Experience Looking for a show-stopping inflatable assault course hire in Hampshire or Surrey? Our 100ft Boot Camp Challenge&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/boot-camp-challenge-assault-course/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Boot Camp Challenge on https://www.monstereventhire.co.uk/products/boot-camp-challenge-assault-course/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Boot Camp Challenge" %}
+          {% assign shareDescription = "100ft Boot Camp Challenge Assault Course Hire in Hampshire &amp; Surrey The Ultimate Giant Inflatable Obstacle Course Experience Looking for a show-stopping inflatable assault course hire in Hampshire or Surrey? Our 100ft Boot Camp Challenge" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

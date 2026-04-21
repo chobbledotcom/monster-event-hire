@@ -230,23 +230,9 @@ redirect_from:
             <ul class="item-data"></ul>
           </div><a href="/products/didi-racers/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Didi Car Racers</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Didi Car Racers on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Didi+Car+Racers&amp;link=https://www.monstereventhire.co.uk/products/didi-racers/&amp;redirect_uri=https://www.facebook.com&amp;description=Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all /images/uploads/2015/11/didi-cars.png" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/didi-racers/&amp;title=Didi+Car+Racers&amp;summary=Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages.&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/didi-racers/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Didi Car Racers on https://www.monstereventhire.co.uk/products/didi-racers/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Didi Car Racers" %}
+          {% assign shareDescription = "Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages." %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

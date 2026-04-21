@@ -231,23 +231,9 @@ redirect_from:
             </ul>
           </div><a href="/products/pit-stop-challenge/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Pit Stop Challenge</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Pit Stop Challenge on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Pit+Stop+Challenge&amp;link=https://www.monstereventhire.co.uk/products/pit-stop-challenge/&amp;redirect_uri=https://www.facebook.com&amp;description=check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge /images/uploads/2015/11/10686613_1507420689531163_6577629651310370352_n1.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/pit-stop-challenge/&amp;title=Pit+Stop+Challenge&amp;summary=check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge is&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/pit-stop-challenge/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Pit Stop Challenge on https://www.monstereventhire.co.uk/products/pit-stop-challenge/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Pit Stop Challenge" %}
+          {% assign shareDescription = "check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge is" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

@@ -256,23 +256,9 @@ redirect_from:
             </ul>
           </div><a href="/products/candy-floss/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Candy Floss Hire</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Candy Floss Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Candy+Floss+Hire&amp;link=https://www.monstereventhire.co.uk/products/candy-floss/&amp;redirect_uri=https://www.facebook.com&amp;description=Candy Floss Hire – For Parties, Weddings &amp; Events Sweeten up your event with our Candy Floss Hire, a fun and interactive treat loved by guests of all ages! Perfect for birthday parties, weddings, /images/uploads/2015/10/candy-floss.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/candy-floss/&amp;title=Candy+Floss+Hire&amp;summary=Candy Floss Hire – For Parties, Weddings &amp; Events Sweeten up your event with our Candy Floss Hire, a fun and interactive treat loved by guests of all ages! Perfect for birthday parties, weddings, school&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/candy-floss/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Candy Floss Hire on https://www.monstereventhire.co.uk/products/candy-floss/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Candy Floss Hire" %}
+          {% assign shareDescription = "Candy Floss Hire – For Parties, Weddings &amp; Events Sweeten up your event with our Candy Floss Hire, a fun and interactive treat loved by guests of all ages! Perfect for birthday parties, weddings, school" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

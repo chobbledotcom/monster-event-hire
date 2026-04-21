@@ -233,23 +233,9 @@ redirect_from:
             </ul>
           </div><a href="/products/superheroes-bouncy-castle/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Superheroes Bouncy Castle 15ft x 16ft</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Superheroes Bouncy Castle 15ft x 16ft on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Superheroes+Bouncy+Castle+15ft+x+16ft&amp;link=https://www.monstereventhire.co.uk/products/superheroes-bouncy-castle/&amp;redirect_uri=https://www.facebook.com&amp;description=Superheroes Bouncy Castle We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle. Equipment dimensions: 15’w X 16’d X 15’h With fitted cover Suitable for use /images/uploads/2015/10/superheros.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/superheroes-bouncy-castle/&amp;title=Superheroes+Bouncy+Castle+15ft+x+16ft&amp;summary=Superheroes Bouncy Castle We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle. Equipment dimensions: 15’w X 16’d X 15’h With fitted cover Suitable for use by&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/superheroes-bouncy-castle/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Superheroes Bouncy Castle 15ft x 16ft on https://www.monstereventhire.co.uk/products/superheroes-bouncy-castle/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Superheroes Bouncy Castle 15ft x 16ft" %}
+          {% assign shareDescription = "Superheroes Bouncy Castle We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle. Equipment dimensions: 15’w X 16’d X 15’h With fitted cover Suitable for use by" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

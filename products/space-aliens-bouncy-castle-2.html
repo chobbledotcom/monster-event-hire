@@ -227,23 +227,9 @@ redirect_from:
             <ul class="item-data"></ul>
           </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Space Bouncy Castle 12ft x 14ft</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Space Bouncy Castle 12ft x 14ft on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Space+Bouncy+Castle+12ft+x+14ft&amp;link=https://www.monstereventhire.co.uk/all-products/bouncy-castles/space-aliens-bouncy-castle-2&amp;redirect_uri=https://www.facebook.com&amp;description=Space Bouncy Castle Need transporting to another universe. Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun. Equipment dimensions 12’w X14’d X 11’h /images/uploads/2016/02/spacealiens.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/all-products/bouncy-castles/space-aliens-bouncy-castle-2&amp;title=Space+Bouncy+Castle+12ft+x+14ft&amp;summary=Space Bouncy Castle Need transporting to another universe. Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun. Equipment dimensions 12’w X14’d X 11’h fitted&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/all-products/bouncy-castles/space-aliens-bouncy-castle-2" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Space Bouncy Castle 12ft x 14ft on https://www.monstereventhire.co.uk/all-products/bouncy-castles/space-aliens-bouncy-castle-2"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Space Bouncy Castle 12ft x 14ft" %}
+          {% assign shareDescription = "Space Bouncy Castle Need transporting to another universe. Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun. Equipment dimensions 12’w X14’d X 11’h fitted" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

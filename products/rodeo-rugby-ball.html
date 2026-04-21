@@ -242,23 +242,9 @@ redirect_from:
             </ul>
           </div><a href="/products/rodeo-rugby-ball/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Rodeo Rugby Ball</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Rodeo Rugby Ball on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Rodeo+Rugby+Ball&amp;link=https://www.monstereventhire.co.uk/products/rodeo-rugby-ball/&amp;redirect_uri=https://www.facebook.com&amp;description=Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball /images/uploads/2015/11/Rodeo-Rugby.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/rodeo-rugby-ball/&amp;title=Rodeo+Rugby+Ball&amp;summary=Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/rodeo-rugby-ball/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Rodeo Rugby Ball on https://www.monstereventhire.co.uk/products/rodeo-rugby-ball/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Rodeo Rugby Ball" %}
+          {% assign shareDescription = "Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

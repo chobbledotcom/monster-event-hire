@@ -248,23 +248,9 @@ redirect_from:
             </ul>
           </div><a href="/products/rodeo-reindeer/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Rodeo Reindeer Hire</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Rodeo Reindeer Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Rodeo+Reindeer+Hire&amp;link=https://www.monstereventhire.co.uk/products/rodeo-reindeer/&amp;redirect_uri=https://www.facebook.com&amp;description=Rodeo Reindeer Hire Rodeo Reindeer hire ,Experience the thrill of Rodney our Christmas themed Rodeo Reindeer. It&#8217;s &#8216;snow joke&#8217; as he bucks and spins until you fall. Our trained operator controls the speed of /images/uploads/2015/10/yates-xmas-final.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/rodeo-reindeer/&amp;title=Rodeo+Reindeer+Hire&amp;summary=Rodeo Reindeer Hire Rodeo Reindeer hire ,Experience the thrill of Rodney our Christmas themed Rodeo Reindeer. It&#8217;s &#8216;snow joke&#8217; as he bucks and spins until you fall. Our trained operator controls the speed of the&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/rodeo-reindeer/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Rodeo Reindeer Hire on https://www.monstereventhire.co.uk/products/rodeo-reindeer/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Rodeo Reindeer Hire" %}
+          {% assign shareDescription = "Rodeo Reindeer Hire Rodeo Reindeer hire ,Experience the thrill of Rodney our Christmas themed Rodeo Reindeer. It&#8217;s &#8216;snow joke&#8217; as he bucks and spins until you fall. Our trained operator controls the speed of the" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

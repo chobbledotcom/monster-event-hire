@@ -385,23 +385,9 @@ redirect_from:
             </ul>
           </div><a href="/products/christmas-photo-booth/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Christmas Photo Booth</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Christmas Photo Booth on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Christmas+Photo+Booth&amp;link=https://www.monstereventhire.co.uk/products/christmas-photo-booth/&amp;redirect_uri=https://www.facebook.com&amp;description=Christmas Photo Booth Hire in Hampshire &amp; Surrey 🎄📸 Capture Magical Moments This Festive Season Looking to add something unforgettable to your event? Our Christmas Photo Booth hire in Hampshire &amp; Surrey is the /images/uploads/2014/11/christmas-photobooth-hire-ft.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/christmas-photo-booth/&amp;title=Christmas+Photo+Booth&amp;summary=Christmas Photo Booth Hire in Hampshire &amp; Surrey 🎄📸 Capture Magical Moments This Festive Season Looking to add something unforgettable to your event? Our Christmas Photo Booth hire in Hampshire &amp; Surrey is the perfect&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/christmas-photo-booth/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Christmas Photo Booth on https://www.monstereventhire.co.uk/products/christmas-photo-booth/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Christmas Photo Booth" %}
+          {% assign shareDescription = "Christmas Photo Booth Hire in Hampshire &amp; Surrey 🎄📸 Capture Magical Moments This Festive Season Looking to add something unforgettable to your event? Our Christmas Photo Booth hire in Hampshire &amp; Surrey is the perfect" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

@@ -94,23 +94,9 @@ redirect_from:
             <ul class="item-data"></ul>
           </div><a href="../mega-wire/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Mega Wire Hire</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Mega Wire Hire on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Mega+Wire+Hire&amp;link=https://www.monstereventhire.co.uk/products/mega-wire/&amp;redirect_uri=https://www.facebook.com&amp;description=🎮 Mega Wire – Test Your Steadiness and Coordination Challenge your patience, precision, and focus with the Mega Wire game. This classic interactive challenge tests whole-body steadiness and hand-eye coordination. Players must carefully navigate /images/uploads/2025/10/mega-buzz-wire-1.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/products/mega-wire/&amp;title=Mega+Wire+Hire&amp;summary=🎮 Mega Wire – Test Your Steadiness and Coordination Challenge your patience, precision, and focus with the Mega Wire game. This classic interactive challenge tests whole-body steadiness and hand-eye coordination. Players must carefully navigate the&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/products/mega-wire/" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Mega Wire Hire on https://www.monstereventhire.co.uk/products/mega-wire/"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Mega Wire Hire" %}
+          {% assign shareDescription = "🎮 Mega Wire – Test Your Steadiness and Coordination Challenge your patience, precision, and focus with the Mega Wire game. This classic interactive challenge tests whole-body steadiness and hand-eye coordination. Players must carefully navigate the" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">

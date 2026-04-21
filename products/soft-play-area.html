@@ -225,23 +225,9 @@ redirect_from:
             <ul class="item-data"></ul>
           </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Soft Play Area</a>
           {%- include "opening-hours.html" -%}
-          <div class="product-share">
-            <p>Share Soft Play Area on:</p>
-            <ul class="social-share clearfix">
-              <li class="facebook">
-                <a href="https://www.facebook.com/dialog/feed?app_id=753314114758300&amp;&amp;name=Soft+Play+Area&amp;link=https://www.monstereventhire.co.uk/all-products/stalls-and-mini-games/soft-play-area&amp;redirect_uri=https://www.facebook.com&amp;description=Soft play A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied whilst adults get to enjoy the big toys! indoor hire only, /images/uploads/2016/02/soft-play-2.jpg" title="Share this post on Facebook!"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="linkedin">
-                <a target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.monstereventhire.co.uk/all-products/stalls-and-mini-games/soft-play-area&amp;title=Soft+Play+Area&amp;summary=Soft play A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied whilst adults get to enjoy the big toys! indoor hire only, or&hellip;&amp;source=LittleMonsters" title="Share this post on Linkedin!"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li class="google_plus">
-                <a target="_blank" href="https://plus.google.com/share?url=https://www.monstereventhire.co.uk/all-products/stalls-and-mini-games/soft-play-area" title="Share this post on Google Plus!"><i class="fa fa-google-plus"></i></a>
-              </li>
-              <li class="email">
-                <a class="email" title="Share by email" href="mailto:?subject=Check this - Soft Play Area on https://www.monstereventhire.co.uk/all-products/stalls-and-mini-games/soft-play-area"><i class="fa fa-envelope"></i></a>
-              </li>
-            </ul>
-          </div>
+          {% assign shareName = "Soft Play Area" %}
+          {% assign shareDescription = "Soft play A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied whilst adults get to enjoy the big toys! indoor hire only, or" %}
+          {%- include "product-share.html" -%}
         </div>
       </div>
       <div class="wrapper clearfix product-meta">
