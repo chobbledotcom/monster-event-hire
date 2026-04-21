@@ -163,7 +163,17 @@ function initProductGallery() {
     const items = [...gallery.querySelectorAll("ul li")];
     if (items.length <= 1) continue;
 
-    // Snapshot src/alt before any DOM mutation so clicking back to thumb 0 works
+    // Snapshot content before any DOM mutation so clicking back to thumb 0 works.
+    // The chobble-template wraps images in <picture> inside .image-wrapper divs;
+    // updating img.src alone is ignored because <source> srcsets take precedence.
+    // We must swap the entire .image-wrapper innerHTML + background on click.
+    const wrapperContents = items.map(
+      (item) => item.querySelector(".image-wrapper")?.innerHTML ?? "",
+    );
+    const wrapperBgs = items.map(
+      (item) => item.querySelector(".image-wrapper")?.style.backgroundImage ?? "",
+    );
+    // Fallback src/alt for pages that don't use .image-wrapper
     const sources = items.map((item) => ({
       src: item.querySelector("img")?.src || item.dataset.thumb || "",
       alt: item.querySelector("img")?.alt || "",
@@ -185,11 +195,18 @@ function initProductGallery() {
       if (i === 0) thumb.classList.add("active");
 
       thumb.addEventListener("click", () => {
-        // Always update items[0] — it is the only visible slide
-        const mainImg = items[0].querySelector("img");
-        if (mainImg) {
-          mainImg.src = sources[i].src;
-          mainImg.alt = sources[i].alt;
+        const mainWrapper = items[0].querySelector(".image-wrapper");
+        if (mainWrapper && wrapperContents[i]) {
+          mainWrapper.style.backgroundImage = wrapperBgs[i];
+          mainWrapper.innerHTML = wrapperContents[i];
+          // Ensure the newly inserted lazy image loads immediately
+          mainWrapper.querySelector("img")?.removeAttribute("loading");
+        } else {
+          const mainImg = items[0].querySelector("img");
+          if (mainImg) {
+            mainImg.src = sources[i].src;
+            mainImg.alt = sources[i].alt;
+          }
         }
         for (const [ti, t] of [...thumbStrip.querySelectorAll("img")].entries()) {
           t.classList.toggle("active", ti === i);
