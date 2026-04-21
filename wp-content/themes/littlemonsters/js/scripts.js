@@ -170,8 +170,8 @@ function initProductGallery() {
     const wrapperContents = items.map(
       (item) => item.querySelector(".image-wrapper")?.innerHTML ?? "",
     );
-    const wrapperBgs = items.map(
-      (item) => item.querySelector(".image-wrapper")?.style.backgroundImage ?? "",
+    const wrapperStyles = items.map(
+      (item) => item.querySelector(".image-wrapper")?.style.cssText ?? "",
     );
     // Fallback src/alt for pages that don't use .image-wrapper
     const sources = items.map((item) => ({
@@ -197,7 +197,7 @@ function initProductGallery() {
       thumb.addEventListener("click", () => {
         const mainWrapper = items[0].querySelector(".image-wrapper");
         if (mainWrapper && wrapperContents[i]) {
-          mainWrapper.style.backgroundImage = wrapperBgs[i];
+          mainWrapper.style.cssText = wrapperStyles[i];
           mainWrapper.innerHTML = wrapperContents[i];
           // Ensure the newly inserted lazy image loads immediately
           mainWrapper.querySelector("img")?.removeAttribute("loading");
