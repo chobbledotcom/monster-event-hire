@@ -43,11 +43,7 @@
   <link rel="https://api.w.org/" href="wp-json/">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd">
   <link rel='shortlink' href='/electronic-games/cash-grabber/'>
-  <style type="text/css">
-  .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
-  </style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <meta name="robots" content="index, follow">
+  {%- include "head-end.html" -%}
 </head>
 <body data-rsssl="1" class="wp-singular products-template-default single single-products postid-1066 wp-theme-littlemonsters electronic-games-cash-grabber">
 <div id="site-wrap">
@@ -325,13 +321,7 @@
               <li>grab-a-grand-hire</li>
             </ul>
           </div><a href="electronic-games/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Cash Grabber</a>
-          <div class="opening-hours">
-            <h3>Or call us, we're open</h3>
-            <div class="clearfix">
-              <div class="grid-6-12">
-                <strong>Mon-Fri:</strong> 8am-8pm<br>
-                <strong>Weekends:</strong> 8am-8pm
-              </div>
+          {%- include "opening-hours.html" -%}
               <div class="grid-6-12">
                 <span class="phone-bottom rulertel">02392 788 427</span>
               </div>
