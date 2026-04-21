@@ -6,7 +6,7 @@
   lang="en-US"
   class="no-js remove-margin"
   itemscope
-  itemtype="https://schema.org/SearchResultsPage"
+  itemtype="{{ schema_type | default: 'https://schema.org/WebPage' }}"
 >
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -17,7 +17,7 @@
     />
     {%- include "head-scripts.html" -%}
     <title>
-      {{ header_text | default: title | default: 'Search' }} - Monster Event and
+      {{ header_text | default: title | default: 'Page' }} - Monster Event and
       Party Hire
     </title>
     <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}" />
@@ -31,11 +31,11 @@
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="{{ header_text | default: title | default: 'Search' }}"
+      content="{{ header_text | default: title | default: 'Page' }}"
     />
     <meta
       property="og:url"
-      content="https://www.monstereventhire.co.uk/search/"
+      content="https://www.monstereventhire.co.uk{{ page.url }}"
     />
     <meta property="og:site_name" content="Monster Event Hire" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -43,7 +43,7 @@
   </head>
   <body
     data-rsssl="1"
-    class="wp-singular page-template-default page search search-results wp-theme-littlemonsters"
+    class="wp-singular page-template-default page wp-theme-littlemonsters"
   >
     <div id="site-wrap">
       {%- include "site-header.html" -%}
@@ -61,9 +61,9 @@
               itemprop="itemListElement"
               itemscope
               itemtype="http://schema.org/ListItem"
-              >&nbsp; &raquo; &nbsp;<a itemprop="item" href="/search/"
+              >&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"
                 ><span itemprop="name"
-                  >{{ header_text | default: 'Search' }}</span
+                  >{{ header_text | default: title | default: 'Page' }}</span
                 ></a
               >
               <meta itemprop="position" content="2"
@@ -80,17 +80,7 @@
       >
         <div class="wrapper clearfix">
           <div class="grid-8-12 main-content the_content page_content">
-            <div class="design-system" data-pagefind-ignore>
-              {% include "search-box.html" %}
-
-              <div id="search-results">
-                <p class="search-message"></p>
-                <ul class="search-results-list"></ul>
-                <button class="search-load-more btn btn--secondary" hidden>
-                  Load more
-                </button>
-              </div>
-            </div>
+            {{ content | safe }}
           </div>
           {%- include "sidebar.html" -%}
         </div>
