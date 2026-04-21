@@ -12,7 +12,7 @@ const DRY_RUN = process.argv.includes("--dry-run");
 // ── reference files ────────────────────────────────────────────────────────
 
 const refProduct = readFileSync(
-  join(ROOT, "electronic-games/cash-grabber/index.html"),
+  join(ROOT, "products/125ft-army-assault-course.html"),
   "utf8"
 );
 const refArea = readFileSync(
@@ -61,12 +61,19 @@ const HEAD_END_BLOCK = extractBlock(
   "  <meta name=\"robots\" content=\"index, follow\">"
 );
 
-// Sidebar: span id="eNNNNNNNNN" is an obfuscated email id that differs per page
+// Sidebar: span id="eNNNNNNNNN" is an obfuscated email id that differs per page;
+// indentation varies between page types so capture the leading whitespace
 const SIDEBAR_PATTERN =
-  /          <aside class="grid-4-12 sidebar">[\s\S]*?          <\/aside>/;
+  /( *)<aside class="grid-4-12 sidebar">[\s\S]*?\1<\/aside>/;
 
-// Header: some pages have current-menu-item on their active nav link.
-// We only exact-match the product-page header; pages with active states are skipped.
+// Header with active-nav: testimonials, categories, about-us etc. have
+// current-menu-* classes on their active nav items. We strip those pages too,
+// accepting the loss of active-state highlighting (cosmetic regression only).
+const HEADER_ACTIVE_PATTERN = /    <header>\n[\s\S]*?    <\/header>/;
+
+// Logos: alt text varies per page (contains product name) so regex-match it
+const LOGOS_PATTERN =
+  /    <div class="logos center"><img src="[^"]*logos\.png" alt="[^"]*"><\/div>/;
 const patterns = {
   "site-header": [HEADER_BLOCK, '    {%- include "site-header.html" -%}'],
   "opening-hours": [
@@ -138,11 +145,29 @@ const applyToFile = (filepath) => {
     }
   }
 
-  // Sidebar: regex replacement (span id differs per page)
+  // Header with active-nav: pages where current-menu-* classes prevent exact match
+  if (!applied.includes("site-header") && HEADER_ACTIVE_PATTERN.test(content)) {
+    content = content.replace(
+      HEADER_ACTIVE_PATTERN,
+      '    {%- include "site-header.html" -%}'
+    );
+    applied.push("site-header");
+  }
+
+  // Logos: alt text differs per page
+  if (LOGOS_PATTERN.test(content)) {
+    content = content.replace(
+      LOGOS_PATTERN,
+      '    {%- include "logos.html" -%}'
+    );
+    applied.push("logos");
+  }
+
+  // Sidebar: regex replacement (span id and indentation differ per page)
   if (SIDEBAR_PATTERN.test(content)) {
     content = content.replace(
       SIDEBAR_PATTERN,
-      '          {%- include "sidebar.html" -%}'
+      (_, indent) => `${indent}{%- include "sidebar.html" -%}`
     );
     applied.push("sidebar");
   }
