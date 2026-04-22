@@ -26,11 +26,11 @@
 		},
 		{
 			"name": "event_postcode",
-			"label": "Event postcode",
+			"label": "Event postcode"
 		},
 		{
 			"name": "event_date",
-			"label": "Event date",
+			"label": "Event date"
 		},
 		{
 			"name": "message",
