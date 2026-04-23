@@ -177,6 +177,51 @@ function swapMainImage(items, snap, i) {
   }
 }
 
+const NEIGHBOR_REVEAL_RATIO = 0.5;
+
+function getNeighborOffset(thumb, stripRect) {
+  const next = thumb.nextElementSibling;
+  if (next) {
+    const nextRect = next.getBoundingClientRect();
+    const visible = Math.max(0, stripRect.right - nextRect.left);
+    const target = next.offsetWidth * NEIGHBOR_REVEAL_RATIO;
+    if (visible < target) return target - visible;
+  }
+
+  const prev = thumb.previousElementSibling;
+  if (prev) {
+    const prevRect = prev.getBoundingClientRect();
+    const visible = Math.max(0, prevRect.right - stripRect.left);
+    const target = prev.offsetWidth * NEIGHBOR_REVEAL_RATIO;
+    if (visible < target) return -(target - visible);
+  }
+
+  return 0;
+}
+
+function getScrollOffset(thumb, strip) {
+  const thumbRect = thumb.getBoundingClientRect();
+  const stripRect = strip.getBoundingClientRect();
+  const fullyVisible =
+    thumbRect.left >= stripRect.left && thumbRect.right <= stripRect.right;
+
+  if (fullyVisible) return getNeighborOffset(thumb, stripRect);
+
+  const kids = strip.children;
+  const isEdge = thumb === kids[0] || thumb === kids[kids.length - 1];
+  const extra = isEdge ? 0 : thumb.offsetWidth / 2;
+  return thumbRect.left < stripRect.left
+    ? thumbRect.left - stripRect.left - extra
+    : thumbRect.right - stripRect.right + extra;
+}
+
+function scrollThumbnailIntoView(thumb, strip) {
+  if (!thumb || !strip) return;
+  const offset = getScrollOffset(thumb, strip);
+  if (!offset) return;
+  strip.scrollBy({ left: offset, behavior: "smooth" });
+}
+
 function buildThumbStrip(items, snap, onSelect) {
   const strip = document.createElement("div");
   strip.className = "gallery-thumbs";
@@ -234,11 +279,13 @@ function initProductGallery() {
       if (i < 0 || i >= items.length || i === current) return;
       current = i;
       swapMainImage(items, snap, i);
-      for (const [ti, t] of [...thumbStrip.querySelectorAll("img")].entries()) {
+      const thumbs = [...thumbStrip.querySelectorAll("img")];
+      for (const [ti, t] of thumbs.entries()) {
         t.classList.toggle("active", ti === i);
       }
       prevBtn.classList.toggle("disabled", i === 0);
       nextBtn.classList.toggle("disabled", i === items.length - 1);
+      scrollThumbnailIntoView(thumbs[i], thumbStrip);
     };
 
     thumbStrip = buildThumbStrip(items, snap, selectImage);
