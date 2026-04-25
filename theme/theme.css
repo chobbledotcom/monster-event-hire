@@ -2656,6 +2656,21 @@ header {
   width: 100%;
   background: #fff;
 }
+
+header > *:not(#hero-bg) {
+  position: relative;
+  z-index: 1;
+}
+#hero-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+  display: block;
+  background: transparent;
+}
 #upper-header {
   position: relative;
   top: 0;
