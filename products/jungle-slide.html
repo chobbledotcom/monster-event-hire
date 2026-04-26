@@ -12,6 +12,7 @@ galleryImages:
   - /images/uploads/2015/10/jungleslide3.jpg
 title: "Jungle Slide"
 meta_title: "Jungle Slide"
+og_description: "Glide down our jungle slide and feel its jungliness. Be like Tarzan! Equipment dimensions: 18x18x12"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
 body: |-
@@ -35,8 +36,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Glide down our jungle slide and feel its jungliness. Be like Tarzan! Equipment dimensions: 18x18x12">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/jungle-slide/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

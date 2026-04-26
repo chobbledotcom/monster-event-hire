@@ -11,6 +11,7 @@ galleryImages:
   - /images/uploads/2016/01/car-pics-029.jpg
 title: "The Mangle Run"
 meta_title: "The Mangle Run"
+og_description: "The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with a&hellip;"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
 body: |-
@@ -36,8 +37,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with a&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/mangle-run/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

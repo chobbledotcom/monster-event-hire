@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/2015/10/pirateslide.jpg
 title: "Pirate Slide"
 meta_title: "Pirate Slide"
+og_description: "Why walk the plank when you can slide down this beauty?"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
 body: |-
@@ -30,8 +31,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Why walk the plank when you can slide down this beauty?">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/pirate-slide/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

@@ -12,6 +12,7 @@ galleryImages:
   - /images/uploads/2015/10/pen-shootout2.jpg
 title: "Penalty Shootout"
 meta_title: "Penalty Shootout"
+og_description: "Save as many as you can with our inflatable penalty shootout arena. Diving around like a gymnast not required &#8211; but recommended."
 category_name: "Football Games"
 category_slug: "football-games"
 body: |-
@@ -33,8 +34,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Save as many as you can with our inflatable penalty shootout arena. Diving around like a gymnast not required &#8211; but recommended.">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/penalty-shootout/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

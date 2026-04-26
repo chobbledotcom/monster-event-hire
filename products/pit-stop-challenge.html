@@ -10,6 +10,7 @@ galleryImages:
   - /images/uploads/2015/11/11908156_10152954339882007_1491200338_n1.jpg
 title: "Pit Stop Challenge"
 meta_title: "Pit Stop Challenge"
+og_description: "check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge is&hellip;"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
 body: |-
@@ -33,8 +34,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge is&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/pit-stop-challenge/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

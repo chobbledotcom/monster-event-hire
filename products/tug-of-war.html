@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/2015/10/tug-of-war-men.jpg
 title: "Tug of War"
 meta_title: "Tug of War"
+og_description: "Pull yourself to victory with this classic Tug of War game!"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
 body: |-
@@ -28,8 +29,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Pull yourself to victory with this classic Tug of War game!">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/tug-of-war/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

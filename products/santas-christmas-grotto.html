@@ -14,6 +14,7 @@ galleryImages:
 title: "Santa&#8217;s Christmas Grotto"
 meta_title: "Santa&#039;s Christmas Grotto"
 description: "“Hire Santa’s Christmas Grotto for indoor or outdoor events. Perfect for parties, corporate events, schools, and festive celebrations!”"
+og_title: "Santa&#039;s Christmas Grotto"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
 body: |-
@@ -54,8 +55,8 @@ body: |-
   <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/santas-christmas-grotto/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

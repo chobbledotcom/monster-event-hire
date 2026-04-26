@@ -10,6 +10,7 @@ galleryImages:
   - /images/uploads/2015/10/lauren-pumpkin.jpg
 title: "Rodeo Pumpkin Hire"
 meta_title: "Rodeo Pumpkin Hire"
+og_description: "Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
 body: |-
@@ -61,8 +62,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/rodeo-pumpkin/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

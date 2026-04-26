@@ -19,6 +19,8 @@ galleryImages:
 title: "Dance machine Hire"
 meta_title: "Dance Machine hire - Monster Event Hire - Hire dance machine&#039;s"
 description: "dance machine Hire is a proven party favourite. Featuring current artists, classic disco tracks -there&#039;s something for everyone! Call today"
+og_title: "twin dance machine"
+og_description: "Our stunning twin Dance machine is a proven party favourite. Our dance machine uses the latest software featuring current artists, classic tracks &amp; more."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
 body: |-
@@ -150,8 +152,8 @@ body: |-
   <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/dance-machine/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

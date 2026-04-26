@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/2015/10/tweeniesbouncy.jpg
 title: "Tweenies Box Bouncy Castle"
 meta_title: "Tweenies Box Bouncy Castle"
+og_description: "A Tweenies themed bouncy castle that boasts a smaller entrance for more enclosed fun!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
 body: |-
@@ -30,8 +31,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="A Tweenies themed bouncy castle that boasts a smaller entrance for more enclosed fun!">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/tweenies-box-bouncy-castle/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

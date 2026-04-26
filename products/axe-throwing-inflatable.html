@@ -15,6 +15,7 @@ galleryImages:
 title: "Axe Throwing"
 meta_title: "Axe Throwing - inflatable axe throwing - monster event hire"
 description: "Enjoy all the fun of Axe Throwing without the Danger! with our Axe throwing inflatable, Our velcro axes are safe for all age groups."
+og_description: "Enjoy all the fun of Axe Throwing without the Danger! Our velcro axes are safe for all age groups, how goods your aim? Can you split the board?"
 category_name: "Games"
 category_slug: "games"
 body: |-
@@ -65,8 +66,8 @@ body: |-
   <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/axe-throwing-inflatable/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

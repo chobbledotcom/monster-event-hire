@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/2015/10/cowmilk.jpg
 title: "Milking Cows"
 meta_title: "Milking Cows"
+og_description: "Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never&hellip;"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
 body: |-
@@ -30,8 +31,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/milking-cows/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

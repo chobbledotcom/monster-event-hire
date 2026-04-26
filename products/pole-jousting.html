@@ -14,6 +14,7 @@ galleryImages:
   - /images/uploads/2015/10/pole-joust.jpg
 title: "Pole Jousting"
 meta_title: "Pole Jousting"
+og_description: "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
 body: |-
@@ -43,8 +44,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/pole-jousting/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

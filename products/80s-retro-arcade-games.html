@@ -13,6 +13,7 @@ galleryImages:
 title: "80&#8217;s Retro arcade games"
 meta_title: "80&#039;s Retro Arcade Games hire 600+ classic games"
 description: "80&#039;s Retro Arcade Games Hire, Remember the arcade games of yesteryear?  this Retro Arcade Classics Machine Hire will take you back !"
+og_title: "80&#039;s Retro arcade games"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
 body: |-
@@ -80,8 +81,8 @@ body: |-
   <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/80s-retro-arcade-games/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

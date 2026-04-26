@@ -10,6 +10,7 @@ galleryImages:
   - /images/uploads/2015/10/giant-darts.jpg
 title: "Giant Darts"
 meta_title: "Giant Darts"
+og_description: "Check out our giant darts game, surely you can&#8217;t miss a bullseye that big?"
 category_name: "Side Stalls"
 category_slug: "side-stalls"
 body: |-
@@ -29,8 +30,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Check out our giant darts game, surely you can&#8217;t miss a bullseye that big?">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/giant-darts/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">

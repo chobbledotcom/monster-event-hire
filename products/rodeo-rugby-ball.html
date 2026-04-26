@@ -10,6 +10,7 @@ galleryImages:
   - /images/uploads/2015/11/rugbyball.jpg
 title: "Rodeo Rugby Ball"
 meta_title: "Rodeo Rugby Ball"
+og_description: "Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
 body: |-
@@ -59,8 +60,8 @@ body: |-
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/rodeo-rugby-ball/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
