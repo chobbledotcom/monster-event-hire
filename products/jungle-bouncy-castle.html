@@ -10,6 +10,33 @@ galleryImages:
   - /images/uploads/2015/10/dragon1.jpg
   - /images/uploads/2015/10/dragon-2.jpg
   - /images/uploads/2015/10/dragon.jpg
+title: "Dragon bouncy castle with slide"
+meta_title: "Dragon bouncy castle with slide"
+description: "This fun themed Dragon bouncy castle will bring your party to a roaring success !"
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Dragon bouncy castle with slide
+
+  This fun themed Dragon castle will bring your party to a roaring success !
+
+  The Dragon castle comes with a slide under the dragons wing.
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions
+
+  Unit Size:
+
+  18ft x 19ft – 
+
+  16ft height
+
+  Required Space:
+
+  28ft x 25ft – 
+
+  17.5ft
+
+  Suitable for Children only.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -17,17 +44,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Dragon bouncy castle with slide</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="This fun themed Dragon bouncy castle will bring your party to a roaring success !">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Dragon bouncy castle with slide">
-  <meta property="og:description" content="This fun themed Dragon bouncy castle will bring your party to a roaring success !">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/jungle-bouncy-castle/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -53,7 +80,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/bouncy-castles/"><span itemprop="name">Bouncy Castles</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-jungle-bouncy-castle" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/jungle-bouncy-castle/"><span itemprop="name">Jungle Bouncy Castle</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -61,36 +88,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Dragon bouncy castle with slide</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h4>Dragon bouncy castle with slide</h4>
-            <p>This fun themed Dragon castle will bring your party to a roaring success !</p>
-            <p>The Dragon castle comes with a slide under the dragons wing.</p>
-            <p>&nbsp;</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0" data-pin-nopin="true">Equipment dimensions</p>
-            <h4></h4>
-            <table class="table table-striped table-condensed" data-unit="ft">
-              <tbody>
-                <tr>
-                  <td>Unit Size:</td>
-                  <td class="text-center"><span data-size="18">18ft</span> x <span data-size="19">19ft &#8211; </span></td>
-                  <td class="text-center" data-size="16">16ft height</td>
-                </tr>
-                <tr>
-                  <td>Required Space:</td>
-                  <td class="text-center"><span data-size="28">28ft</span> x <span data-size="25">25ft &#8211; </span></td>
-                  <td class="text-center" data-size="16.5">17.5ft</td>
-                </tr>
-              </tbody>
-            </table>
-            <p>&nbsp;</p>
-            <p>Suitable for Children only.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/categories/bouncy-castles/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Dragon bouncy castle with slide</a>
+          </div><a href="/categories/bouncy-castles/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Dragon bouncy castle with slide" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Dragon bouncy castle with slide This fun themed Dragon castle will bring your party to a roaring success ! The Dragon castle comes with a slide under the dragons wing. &nbsp; Equipment dimensions Unit Size:" %}
           {%- include "product-share.html" -%}
         </div>

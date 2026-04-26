@@ -10,6 +10,18 @@ galleryImages:
   - /images/uploads/2016/01/up-and-over-slide1.jpg
   - /images/uploads/2016/01/car-pics-047.jpg
   - /images/uploads/2015/12/car-pics-049.jpg
+title: "Up and Over Mini Everest"
+meta_title: "Up and Over Mini Everest"
+category_name: "Inflatables Hire"
+category_slug: "inflatables-hire"
+body: |-
+  Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events.
+
+  Mix and match with other inflatables in the Wipeout range!
+
+  Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.
+
+  30ft L x 21ftw x 12fth
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -17,7 +29,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Up and Over Mini Everest</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -25,7 +37,7 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Up and Over Mini Everest">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with&hellip;">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/up-and-over/">
   <meta property="og:site_name" content="Monster Event Hire">
@@ -50,7 +62,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-inflatables-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/inflatables-hire/"><span itemprop="name">Inflatables Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-inflatables-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-up-and-over" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/up-and-over/"><span itemprop="name">Up And Over</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -58,18 +70,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Up and Over Mini Everest</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <p>Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events.</p>
-            <p>Mix and match with other inflatables in the Wipeout range!</p>
-            <p>Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.</p>
-            <p>30ft L x 21ftw x 12fth</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Up and Over Mini Everest</a>
+          </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Up and Over Mini Everest" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with" %}
           {%- include "product-share.html" -%}
         </div>

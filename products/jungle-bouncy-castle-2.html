@@ -7,6 +7,25 @@ redirect_from:
 galleryAlt: Jungle Bouncy Castles for Hire England
 galleryImages:
   - /images/uploads/2015/10/jungleaframe.jpg
+title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
+meta_title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
+description: "This fun themed Jungle bouncy castle will bring out all the party animals!"
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Jungle Bouncy Castle (orange)
+
+  Unleash the party animals with this  themed Jungle bouncy castle.
+
+  This fun themed Jungle bouncy caste will bring out all the party animals!
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 10’h
+
+  ![](/wp-content/themes/littlemonsters/images/plus.png)with fitted cover.
+
+  Suitable for Children only.
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12'w X14'd X 10'h ![](/wp-content/themes/littlemonsters/images/plus.png)with fitted cover
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,17 +33,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Jungle Bouncy Castle (orange) 12ft X 14ft</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="This fun themed Jungle bouncy castle will bring out all the party animals!">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Jungle Bouncy Castle (orange) 12ft X 14ft">
-  <meta property="og:description" content="This fun themed Jungle bouncy castle will bring out all the party animals!">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/jungle-bouncy-castle-2/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -48,7 +67,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/bouncy-castles/"><span itemprop="name">Bouncy Castles</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-jungle-bouncy-castle-2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/jungle-bouncy-castle-2/"><span itemprop="name">Jungle Bouncy Castle 2</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -56,21 +75,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Jungle Bouncy Castle (orange) 12ft X 14ft</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h4>Jungle Bouncy Castle (orange)</h4>
-            <p>Unleash the party animals with this  themed Jungle bouncy castle.</p>
-            <p>This fun themed Jungle bouncy caste will bring out all the party animals!</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0" data-pin-nopin="true">Equipment dimensions 12&#8217;w X14&#8217;d X 10&#8217;h</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/plus.png" alt="" border="0" data-pin-nopin="true">with fitted cover.</p>
-            <p>Suitable for Children only.</p>
-            <p><img src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0" data-pin-nopin="true">Equipment dimensions 12'w X14'd X 10'h <img src="/wp-content/themes/littlemonsters/images/plus.png" alt="" border="0" data-pin-nopin="true">with fitted cover</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/jungle-bouncy-castle-2/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Jungle Bouncy Castle (orange) 12ft X 14ft</a>
+          </div><a href="/products/jungle-bouncy-castle-2/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Jungle Bouncy Castle (orange) 12ft X 14ft" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Jungle Bouncy Castle (orange) Unleash the party animals with this  themed Jungle bouncy castle. This fun themed Jungle bouncy caste will bring out all the party animals! Equipment dimensions 12&#8217;w X14&#8217;d X 10&#8217;h with fitted" %}
           {%- include "product-share.html" -%}
         </div>

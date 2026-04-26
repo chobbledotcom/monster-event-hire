@@ -10,6 +10,24 @@ galleryImages:
   - /images/uploads/2015/11/1779791_1507430319530200_7546861843368780645_n1.jpg
   - /images/uploads/2015/11/1510776_1507430946196804_2400042738267664722_n2.jpg
   - /images/uploads/2015/11/didi-cars.jpg
+title: "Didi Car Racers"
+meta_title: "Didi Car Racers"
+category_name: "Go Kart Quad Bike Hire"
+category_slug: "go-kart-quad-bike-hire"
+body: |-
+  ## Didi Car Racers
+
+  These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass.
+
+  A unique, self propelled ride-on the Didi Car Racers are for children of all ages.
+
+  Simply turning the wheel left and right moves the didi car’s. No pedals, motors, or batteries, are needed.
+
+  It’s a magical mystery car that fuels the imagination while helping children keep fit and having fun.
+
+  Great fun for children and adults alike.
+
+  Didi car track –  L-9.5m h-1.6 w-5.2m
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -17,7 +35,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Didi Car Racers</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -25,7 +43,7 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Didi Car Racers">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages.&hellip;">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/didi-racers/">
   <meta property="og:site_name" content="Monster Event Hire">
@@ -50,7 +68,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-go-kart-quad-bike-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/go-kart-quad-bike-hire/"><span itemprop="name">Go Kart Quad Bike Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-go-kart-quad-bike-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-didi-racers" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/didi-racers/"><span itemprop="name">Didi Racers</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -58,21 +76,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Didi Car Racers</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h2>Didi Car Racers</h2>
-            <p>These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass.</p>
-            <p>A unique, self propelled ride-on the Didi Car Racers are for children of all ages.</p>
-            <p>Simply turning the wheel left and right moves the didi car&#8217;s. No pedals, motors, or batteries, are needed.</p>
-            <p>It&#8217;s a magical mystery car that fuels the imagination while helping children keep fit and having fun.</p>
-            <p>Great fun for children and adults alike.</p>
-            <p>Didi car track &#8211;  L-9.5m h-1.6 w-5.2m</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/didi-racers/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Didi Car Racers</a>
+          </div><a href="/products/didi-racers/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Didi Car Racers" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages." %}
           {%- include "product-share.html" -%}
         </div>

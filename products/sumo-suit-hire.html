@@ -12,6 +12,26 @@ galleryImages:
   - /images/uploads/2015/10/10869729_1507439766195922_8644558234691430729_o1.jpg
   - /images/uploads/2015/10/superhero.jpg
   - /images/uploads/2015/10/sumo-surround.jpg
+title: "Sumo Suit Hire"
+meta_title: "Sumo Suit Hire"
+description: "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!"
+category_name: "Giant Game Hire"
+category_slug: "games"
+body: |-
+  The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent out of the ring.
+
+  If pushing, pulling or throwing isn’t your thing, try and ‘turtle’ your opponent by forcing them onto their back!
+
+  Available for hire:
+
+  1.  Kids sumo suits
+  2.  Adult sumo suits
+  3.  Santa sumo suits
+  4.  Superhero sumo suits
+
+  Mat size 15ft x 15ft
+
+  Includes a pair sumo suits, a 15x15ft padded battle mat, and a pair of head guards.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -19,17 +39,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Sumo Suit Hire</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Sumo Suit Hire">
-  <meta property="og:description" content="The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/sumo-suit-hire/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -55,7 +75,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-giant-game-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/games/"><span itemprop="name">Giant Game Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-giant-game-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-sumo-suit-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/sumo-suit-hire/"><span itemprop="name">Sumo Suit Hire</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -63,27 +83,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Sumo Suit Hire</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <p>The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent out of the ring.</p>
-            <p>If pushing, pulling or throwing isn&#8217;t your thing, try and &#8216;turtle&#8217; your opponent by forcing them onto their back!</p>
-            <p>Available for hire:</p>
-            <ol>
-              <li>Kids sumo suits</li>
-              <li>Adult sumo suits</li>
-              <li>Santa sumo suits</li>
-              <li>Superhero sumo suits</li>
-            </ol>
-            <p>Mat size 15ft x 15ft</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>Includes a pair sumo suits, a 15x15ft padded battle mat, and a pair of head guards.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/sumo-suit-hire/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Sumo Suit Hire</a>
+          </div><a href="/products/sumo-suit-hire/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Sumo Suit Hire" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent" %}
           {%- include "product-share.html" -%}
         </div>

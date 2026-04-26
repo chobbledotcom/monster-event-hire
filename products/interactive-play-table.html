@@ -9,6 +9,22 @@ galleryAlt:
 galleryImages:
   - /images/uploads/2019/01/44800656_2185959991677226_1875019602870665216_n.jpg
   - /images/uploads/2019/01/1.5.jpg
+title: "Interactive Play Table"
+meta_title: "Interactive Play Table"
+category_name: "Electronic Game Hire"
+category_slug: "electronic-game-hire"
+body: |-
+  Interactive Play Table
+
+  This is a 2 – 4 players high energy game lasts 1 min each so the turn around is high with this .
+
+  3 pre-set games including “Light Hunter” “Steal the light” & “Back to base and ensures your clients never get bored.
+
+  The inflatable is fitted with 10 spot holders this challenges your hand eye coordination, endurance and competitiveness.
+
+  scores are displayed on the board to show who scored the most, was it red or green.
+
+  Measuring 2.5m long and 1.3m wide.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -16,7 +32,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Interactive Play Table</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -24,7 +40,7 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Interactive Play Table">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back&hellip;">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/interactive-play-table/">
   <meta property="og:site_name" content="Monster Event Hire">
@@ -49,7 +65,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-allproducts" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-electronic-game-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/electronic-game-hire/"><span itemprop="name">Electronic Game Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-electronic-game-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-interactive-play-table" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/interactive-play-table/"><span itemprop="name">Interactive Play Table</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -57,20 +73,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Interactive Play Table</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <p>Interactive Play Table</p>
-            <p>This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this .</p>
-            <p>3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back to base and ensures your clients never get bored.</p>
-            <p>The inflatable is fitted with 10 spot holders this challenges your hand eye coordination, endurance and competitiveness.</p>
-            <p>scores are displayed on the board to show who scored the most, was it red or green.</p>
-            <p>Measuring 2.5m long and 1.3m wide.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="../interactive-play-table/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Interactive Play Table</a>
+          </div><a href="../interactive-play-table/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Interactive Play Table" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back" %}
           {%- include "product-share.html" -%}
         </div>

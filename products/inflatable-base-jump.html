@@ -14,6 +14,29 @@ galleryImages:
   - /images/uploads/2015/11/chris-10-8.jpg
   - /images/uploads/2015/11/chris-10-8-15.jpg
   - /images/uploads/2015/11/chris-10-8-15.jpg
+title: "Inflatable Base Jump"
+meta_title: "Inflatable Base Jump"
+category_name: "Inflatables Hire"
+category_slug: "inflatables-hire"
+body: |-
+  ## Inflatable Base Jump
+
+  Climbing up may be difficult, but that’s nothing compared to the courage required to leap off the edge onto the safety area below.
+
+  Find out how it might feel to be a Hollywood stuntman jumping off a building!
+
+  Scared? You should be!
+
+  At a whopping height of 11.5ft, Base Jump is the only inflatable of its size in the UK!
+
+  Full drive able access is required.
+
+  -   Member of staff to run the equipment during your Hire
+
+  -   All of our equipment comes complete with £10 Million Public Liability.
+  -   Suitable for 10 years and above.
+
+  Length (m): 11.4mtrs    Width (m): 6.79mtrs           Height (m): 5.1mtrs
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -21,7 +44,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Inflatable Base Jump</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -29,7 +52,7 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Inflatable Base Jump">
+  <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off&hellip;">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/inflatable-base-jump/">
   <meta property="og:site_name" content="Monster Event Hire">
@@ -54,7 +77,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-inflatables-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/inflatables-hire/"><span itemprop="name">Inflatables Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-inflatables-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-inflatable-base-jump" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/inflatable-base-jump/"><span itemprop="name">Inflatable Base Jump</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -62,24 +85,10 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Inflatable Base Jump</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h2>Inflatable Base Jump</h2>
-            <p>Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below.</p>
-            <p>Find out how it might feel to be a Hollywood stuntman jumping off a building!</p>
-            <p>Scared? You should be!</p>
-            <p>At a whopping height of 11.5ft, Base Jump is the only inflatable of its size in the UK!</p>
-            <p>Full drive able access is required.</p>
-            <ul>
-              <li>Member of staff to run the equipment during your Hire</li>
-            </ul>
-            <ul>
-              <li>All of our equipment comes complete with £10 Million Public Liability.</li>
-              <li>Suitable for 10 years and above.</li>
-            </ul>
-            <p><span class="field-title">Length (m):</span> <span class="field-display">11.4mtrs</span>    <span class="field-title">Width (m):</span> <span class="field-display">6.79mtrs</span>           <span class="field-title">Height (m):</span> <span class="field-display">5.1mtrs</span></p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data">
               <li>base</li>
               <li>basejump</li>
@@ -87,9 +96,9 @@ galleryImages:
               <li>total-wipe-out-inflatables</li>
               <li>wipe-out-games</li>
             </ul>
-          </div><a href="/products/inflatable-base-jump/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Inflatable Base Jump</a>
+          </div><a href="/products/inflatable-base-jump/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Inflatable Base Jump" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off" %}
           {%- include "product-share.html" -%}
         </div>

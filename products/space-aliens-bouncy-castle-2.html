@@ -7,6 +7,23 @@ redirect_from:
 galleryAlt: 
 galleryImages:
   - /images/uploads/2016/02/spacealiens.jpg
+title: "Space Bouncy Castle 12ft x 14ft"
+meta_title: "Space Bouncy Castle 12ft x 14ft Space Bouncy Castle"
+description: "Need transporting to another universe, this is certainly the space bouncy castle for you!"
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Space Bouncy Castle
+
+  Need transporting to another universe.
+
+  Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun.
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 11’h
+
+  ![](/wp-content/themes/littlemonsters/images/plus.png)fitted shower cover
+
+  Suitable for Children only.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,17 +31,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Space Bouncy Castle 12ft x 14ft Space Bouncy Castle</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="Need transporting to another universe, this is certainly the space bouncy castle for you!">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Space Bouncy Castle 12ft x 14ft">
-  <meta property="og:description" content="Need transporting to another universe, this is certainly the space bouncy castle for you!">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/space-aliens-bouncy-castle-2/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -48,7 +65,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/bouncy-castles/"><span itemprop="name">Bouncy Castles</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-space-aliens-bouncy-castle-2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/space-aliens-bouncy-castle-2/"><span itemprop="name">Space Aliens Bouncy Castle 2</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -56,20 +73,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Space Bouncy Castle 12ft x 14ft</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h4>Space Bouncy Castle</h4>
-            <p>Need transporting to another universe.</p>
-            <p>Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun.</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0" data-pin-nopin="true">Equipment dimensions 12’w X14’d X 11’h</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/plus.png" alt="" border="0" data-pin-nopin="true">fitted shower cover</p>
-            <p>Suitable for Children only.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Space Bouncy Castle 12ft x 14ft</a>
+          </div><a href="./#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Space Bouncy Castle 12ft x 14ft" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Space Bouncy Castle Need transporting to another universe. Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun. Equipment dimensions 12’w X14’d X 11’h fitted" %}
           {%- include "product-share.html" -%}
         </div>

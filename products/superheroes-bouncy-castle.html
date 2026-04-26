@@ -7,6 +7,23 @@ redirect_from:
 galleryAlt: Superheroes Bouncy Castle
 galleryImages:
   - /images/uploads/2015/10/superheros.jpg
+title: "Superheroes Bouncy Castle 15ft x 16ft"
+meta_title: "Superheroes Bouncy Castle 15ft x 16ft Superheroes Bouncy Castle"
+description: "We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle."
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Superheroes Bouncy Castle
+
+  We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle.
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: **15’w** X **16’d** X **15’h**
+
+  ![](/wp-content/themes/littlemonsters/images/plus.png)With fitted cover
+
+  #### **Suitable for use by both children and adults**
+
+  #### Suitable for use by both children and adults
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,17 +31,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Superheroes Bouncy Castle 15ft x 16ft Superheroes Bouncy Castle</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle.">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Superheroes Bouncy Castle 15ft x 16ft">
-  <meta property="og:description" content="We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle.">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/superheroes-bouncy-castle/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -48,7 +65,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/bouncy-castles/"><span itemprop="name">Bouncy Castles</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-superheroes-bouncy-castle" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/superheroes-bouncy-castle/"><span itemprop="name">Superheroes Bouncy Castle</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -56,17 +73,10 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Superheroes Bouncy Castle 15ft x 16ft</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h4>Superheroes Bouncy Castle</h4>
-            <p>We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle.</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0">Equipment dimensions: <strong>15’w</strong> X <strong>16’d</strong> X <strong>15’h</strong></p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/plus.png" alt="" border="0">With fitted cover</p>
-            <h4><strong>Suitable for use by both children and adults</strong></h4>
-            <p>&nbsp;</p>
-            <h4>Suitable for use by both children and adults</h4>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data">
               <li>adult</li>
               <li>adult-bouncy-castles</li>
@@ -74,9 +84,9 @@ galleryImages:
               <li>adults</li>
               <li>adults-bouncy-castles</li>
             </ul>
-          </div><a href="/products/superheroes-bouncy-castle/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Superheroes Bouncy Castle 15ft x 16ft</a>
+          </div><a href="/products/superheroes-bouncy-castle/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Superheroes Bouncy Castle 15ft x 16ft" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Superheroes Bouncy Castle We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle. Equipment dimensions: 15’w X 16’d X 15’h With fitted cover Suitable for use by" %}
           {%- include "product-share.html" -%}
         </div>

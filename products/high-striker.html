@@ -7,6 +7,13 @@ redirect_from:
 galleryAlt: Highstriker Large Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/highstriker-large1.jpg
+title: "High Striker"
+meta_title: "High Striker - Monster Party and Event Hire"
+description: "Our High Striker game is the ultimate test of strength - in a party environment at least! Please get in touch today for more information!"
+category_name: "Stalls And Mini Games"
+category_slug: "stalls-and-mini-games"
+body: |-
+  Our High Striker game is the ultimate test of strength – in a party environment at least! Wield the mighty mallet and send it crashing down to measure your vigour.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,17 +21,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>High Striker - Monster Party and Event Hire</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="Our High Striker game is the ultimate test of strength - in a party environment at least! Please get in touch today for more information!">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="High Striker">
-  <meta property="og:description" content="Our High Striker game is the ultimate test of strength - in a party environment at least! Please get in touch today for more information!">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/high-striker/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -48,7 +55,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-stalls-and-mini-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/stalls-and-mini-games/"><span itemprop="name">Stalls And Mini Games</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-stalls-and-mini-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-high-striker" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/high-striker/"><span itemprop="name">High Striker</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -56,15 +63,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">High Striker</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <p>Our High Striker game is the ultimate test of strength &#8211; in a party environment at least! Wield the mighty mallet and send it crashing down to measure your vigour.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/high-striker/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book High Striker</a>
+          </div><a href="/products/high-striker/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "High Striker" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Our High Striker game is the ultimate test of strength &#8211; in a party environment at least! Wield the mighty mallet and send it crashing down to measure your vigour." %}
           {%- include "product-share.html" -%}
         </div>
