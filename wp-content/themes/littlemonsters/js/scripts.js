@@ -270,6 +270,13 @@ function initProductGallery() {
     items[0].querySelector("img")?.removeAttribute("loading");
     for (let i = 1; i < items.length; i++) items[i].style.display = "none";
 
+    items[0].style.cursor = "pointer";
+    items[0].addEventListener("click", () => {
+      const img = items[0].querySelector("img");
+      const href = img?.currentSrc || img?.src;
+      if (href) window.open(href, "_blank", "noopener");
+    });
+
     let current = 0;
     let thumbStrip;
     let prevBtn;
