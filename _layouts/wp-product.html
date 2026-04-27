@@ -37,10 +37,9 @@ templateEngineOverride: liquid
   <meta name="twitter:data1" content="{{ twitter_data1 }}">{% endif %}
   {%- if twitter_title %}
   <meta name="twitter:title" content="{{ twitter_title }}">{% endif %}
-  {%- if json_ld %}
   <script type="application/ld+json" class="yoast-schema-graph">
-  {{ json_ld }}
-  </script>{% endif %}
+  {%- include "wp-product-jsonld.html" -%}
+  </script>
   {%- include "wp-block-styles.html" -%}
   {%- include "head-end.html" -%}
 </head>

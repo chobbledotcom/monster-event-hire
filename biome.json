@@ -73,7 +73,9 @@
         "scripts/migrate-categories.js",
         "scripts/migrate-areas.js",
         "scripts/extract-product-cards.js",
-        "scripts/dejson-areas.js"
+        "scripts/dejson-areas.js",
+        "scripts/dejson-products.js",
+        "scripts/dejson-categories.js"
       ],
       "linter": {
         "rules": {
