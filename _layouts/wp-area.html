@@ -1,0 +1,72 @@
+---
+templateEngineOverride: liquid
+---
+<!DOCTYPE html>
+<html lang="en-US" class="no-js remove-margin" itemscope itemtype="{{ schema_type | default: 'https://schema.org/CollectionPage' }}">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="google-site-verification" content="ORBXvOHFN4zW9aTh8crnPR0nSo1MN_g7twZ3TIoVTHY">
+  {%- include "head-scripts.html" -%}
+  <title>{{ meta_title | default: title }}</title>
+  <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
+  <style>
+  img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+  </style>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="{{ og_type | default: 'article' }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
+  <meta property="og:url" content="https://www.monstereventhire.co.uk{{ page.url }}">
+  <meta property="og:site_name" content="Monster Event Hire">
+  {%- if og_image %}
+  <meta property="og:image" content="{{ og_image }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json" class="yoast-schema-graph">
+  {%- include "wp-collectionpage-jsonld.html" -%}
+  </script>
+  {%- include "wp-block-styles.html" -%}
+  {%- include "head-end.html" -%}
+</head>
+<body data-rsssl="1" class="{{ body_class }}">
+<div id="site-wrap">
+    {%- include "site-header.html" -%}
+    <div class="breadcrumbs">
+      <div class="wrapper">
+        <div itemscope itemtype="http://schema.org/BreadcrumbList">
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1"></span><span class="breadcrumb-areas-covered" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/areas-covered/"><span itemprop="name">Areas Covered</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-{{ page.fileSlug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"><span itemprop="name">{{ breadcrumb_name | default: title }}</span></a>
+          <meta itemprop="position" content="3"></span>
+        </div>
+      </div>
+    </div>
+    <section id="main" class="main white-bg pad-top" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
+      <div class="wrapper">
+        <div class="clearfix">
+          <div class="grid-8-12 main-content editable-area">
+            <div class="loc-content">
+              <h1 class="page-title title">{{ page_title | default: title }}</h1>
+              <div itemprop="text">
+                {{ content }}
+              </div>
+            </div>
+            <div class="divider"></div>
+            {%- include "area-testimonial.html" -%}
+          </div>
+          {%- include "sidebar.html" -%}
+        </div>
+      </div>
+      {%- include "area-loc-cats.html" -%}
+    </section>
+  </div>
+  {%- include "enquiry-form.html" -%}
+  {%- include "enquiry-cta.html" -%}
+    {%- include "footer-locations.html" -%}
+  <div class="logos center"><img src="/wp-content/themes/littlemonsters/images/logos.png" alt="Green Screen Dream Machine photo booth"></div>
+  {%- include "site-footer.html" -%}
+  {%- include "page-scripts.html" -%}
+</body>
+</html>

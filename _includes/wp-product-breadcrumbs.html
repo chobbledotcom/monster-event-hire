@@ -1,0 +1,12 @@
+{%- assign bcName = breadcrumb_name | default: title -%}
+<div class="breadcrumbs">
+  <div class="wrapper">
+    <div itemscope itemtype="http://schema.org/BreadcrumbList">
+      <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+      <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
+      <meta itemprop="position" content="2"></span>{% if category_slug %}<span class="breadcrumb-{{ category_slug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
+      <meta itemprop="position" content="3"></span>{% endif %}<span class="breadcrumb-{{ page.fileSlug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"><span itemprop="name">{{ bcName }}</span></a>
+      <meta itemprop="position" content="{% if category_slug %}4{% else %}3{% endif %}"></span>
+    </div>
+  </div>
+</div>

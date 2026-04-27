@@ -1,0 +1,10 @@
+      <div class="upsell light-grey-bg">
+        <div class="products wrapper clearfix">
+          <h2 class="title">You may also be interested in:</h2>
+          <div class="gutters row">
+{%- for cardSlug in upsells -%}
+{%- include "wp-product-card.html" -%}
+{%- endfor %}
+          </div>
+        </div>
+      </div>

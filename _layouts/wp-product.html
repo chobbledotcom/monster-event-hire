@@ -1,0 +1,93 @@
+---
+templateEngineOverride: liquid
+---
+<!DOCTYPE html>
+<html lang="en-US" class="no-js remove-margin" itemscope itemtype="{{ schema_type | default: 'http://schema.org/ItemPage' }}">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  {%- include "head-scripts.html" -%}
+  <title>{{ meta_title }}</title>
+  <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
+  <style>
+  img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+  </style>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="{{ og_type | default: 'article' }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
+  <meta property="og:url" content="https://www.monstereventhire.co.uk{{ page.url }}">
+  <meta property="og:site_name" content="Monster Event Hire">
+  <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
+  {%- if article_modified_time %}
+  <meta property="article:modified_time" content="{{ article_modified_time }}">{% endif %}
+  {%- if og_image %}
+  <meta property="og:image" content="{{ og_image }}">{% endif %}
+  {%- if og_image_width %}
+  <meta property="og:image:width" content="{{ og_image_width }}">{% endif %}
+  {%- if og_image_height %}
+  <meta property="og:image:height" content="{{ og_image_height }}">{% endif %}
+  {%- if og_image_type %}
+  <meta property="og:image:type" content="{{ og_image_type }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  {%- if twitter_label1 %}
+  <meta name="twitter:label1" content="{{ twitter_label1 }}">
+  <meta name="twitter:data1" content="{{ twitter_data1 }}">{% endif %}
+  {%- if twitter_title %}
+  <meta name="twitter:title" content="{{ twitter_title }}">{% endif %}
+  <script type="application/ld+json" class="yoast-schema-graph">
+  {%- include "wp-product-jsonld.html" -%}
+  </script>
+  {%- include "wp-block-styles.html" -%}
+  {%- include "head-end.html" -%}
+</head>
+<body data-rsssl="1" class="{{ body_class }}">
+<div id="site-wrap">
+    {%- include "site-header.html" -%}
+    {%- include "wp-product-breadcrumbs.html" -%}
+    <section id="main" class="main white-bg pad-top">
+      <div class="wrapper clearfix product-content" data-pagefind-body>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
+        {%- include "product-gallery.html" -%}
+        <div class="grid-6-12 product-desc">
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
+            <ul class="item-data">{%- for d in item_data %}
+              <li>{{ d }}</li>{% endfor %}
+            </ul>
+          </div><a href="{{ page.url }}#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
+          {%- include "opening-hours.html" -%}
+          {% assign shareName = title %}
+          {% assign shareDescription = share_description %}
+          {%- include "product-share.html" -%}
+        </div>
+      </div>
+      <div class="wrapper clearfix product-meta">
+        <nav class="product-meta-nav">
+          <ul></ul>
+        </nav>
+        <div class="product-meta-content editable-area"></div>
+      </div>
+      {%- if testimonial_body -%}
+      <div class="testimonial">
+        <div class="wrapper">
+          <div class="testimonial-body">
+            {{ testimonial_body }}
+          </div>
+          <div class="testimonial-client-name">
+            {{ testimonial_attribution }}{% if testimonial_role %}, <em class="orange">{{ testimonial_role }}</em>{% endif %}
+          </div>
+        </div>
+      </div>
+      {%- endif -%}
+      {%- if upsells -%}{%- include "wp-product-upsell.html" -%}{%- endif -%}
+    </section>
+    {%- include "enquiry-form.html" -%}
+    {%- include "footer-locations.html" -%}
+    {%- include "logos.html" -%}
+    {%- include "site-footer.html" -%}
+  </div>
+  {%- include "page-scripts.html" -%}
+</body>
+</html>
