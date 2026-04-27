@@ -91,7 +91,7 @@
           </div>
           <div class="clearfix pagination pad-bottom">
             <div id='pagination' class='pad white-bg clearfix'>
-              <a href="/testimonials/page/4/">Previous</a><a href='/testimonials/page/3/' class='inactive pages-item'>3</a><a href='/testimonials/page/4/' class='inactive pages-item'>4</a><span class='current pages-item'>5</span><a href='/testimonials/page/6/' class='inactive pages-item'>6</a><a href='/testimonials/page/7/' class='inactive pages-item'>7</a><a href="/testimonials/page/6/">Next</a> <a class='last-page' href="/testimonials/page/9/">Last</a>
+              {%- assign testimonialPage = 5 -%}{%- include "testimonials-links.html" -%}
             </div>
           </div>
         </div>

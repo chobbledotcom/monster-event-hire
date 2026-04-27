@@ -1,0 +1,12 @@
+{%- assign totalPages = 9 -%}
+{%- if testimonialPage > 1 -%}
+{%- assign prevPage = testimonialPage | minus: 1 -%}
+{%- if prevPage == 1 -%}<a href="/testimonials/">Previous</a>{%- else -%}<a href="/testimonials/page/{{ prevPage }}/">Previous</a>{%- endif -%}
+{%- endif -%}
+{%- for i in (1..totalPages) -%}
+{%- if i == testimonialPage -%}<span class='current pages-item'>{{ i }}</span>{%- elsif i == 1 -%}<a href='/testimonials/' class='inactive pages-item'>{{ i }}</a>{%- else -%}<a href='/testimonials/page/{{ i }}/' class='inactive pages-item'>{{ i }}</a>{%- endif -%}
+{%- endfor -%}
+{%- if testimonialPage < totalPages -%}
+{%- assign nextPage = testimonialPage | plus: 1 -%}
+<a href="/testimonials/page/{{ nextPage }}/">Next</a>
+{%- endif -%}
