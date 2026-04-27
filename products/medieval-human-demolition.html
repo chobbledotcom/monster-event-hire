@@ -17,6 +17,25 @@ galleryImages:
   - /images/uploads/2015/10/539375_460517760655341_1556826430_n.jpg
   - /images/uploads/2015/10/swe.jpg
   - /images/uploads/2015/10/10697417_1507435646196334_4129817286165553335_o1.jpg
+title: "Medieval Human Demolition"
+meta_title: "Medieval Human Demolition"
+og_description: "Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to&hellip;"
+category_name: "Games"
+category_slug: "games"
+body: |-
+  ## Human Demolition
+
+  Time for your party to go medieval with this Human Demolition ! It’s big, it’s bold and it is *extreme*. This high energy game is a demolition bonanza – its size is sure to draw the crowd!
+
+  Starting with four players standing on medieval pedestals\*, the aim is to swing the imitation wrecking ball (it still packs a punch!) at the other contestants to dethrone them and send them crashing out of the arena. The last man standing wins.
+
+  The delicate act of balancing on an inflatable, unstable platform whilst swinging a great boulder at each other is a difficult task, even for the most seasoned demolisher – prove your worth on this!
+
+  *\*May or may not be from the Medieval era.*
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 28′ x 28′
+
+  Ideal for team events / corporate events
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -24,7 +43,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Medieval Human Demolition</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -32,8 +51,8 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Medieval Human Demolition">
-  <meta property="og:description" content="Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/medieval-human-demolition/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -59,7 +78,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/games/"><span itemprop="name">Games</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-medieval-human-demolition" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/medieval-human-demolition/"><span itemprop="name">Medieval Human Demolition</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -67,26 +86,18 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Medieval Human Demolition</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h2>Human Demolition</h2>
-            <p>Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is <em>extreme</em>. This high energy game is a demolition bonanza &#8211; its size is sure to draw the crowd!</p>
-            <p>Starting with four players standing on medieval pedestals*, the aim is to swing the imitation wrecking ball (it still packs a punch!) at the other contestants to dethrone them and send them crashing out of the arena. The last man standing wins.</p>
-            <p>The delicate act of balancing on an inflatable, unstable platform whilst swinging a great boulder at each other is a difficult task, even for the most seasoned demolisher &#8211; prove your worth on this!</p>
-            <p><em>*May or may not be from the Medieval era.</em></p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0">Equipment dimensions: 28&#8242; x 28&#8242;</p>
-            <p>&nbsp;</p>
-            <p>Ideal for team events / corporate events</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data">
               <li>human-demolition</li>
               <li>large-inflatable-swing-ball</li>
               <li>wipe-out-inflatable</li>
             </ul>
-          </div><a href="/products/medieval-human-demolition/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Medieval Human Demolition</a>
+          </div><a href="/products/medieval-human-demolition/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Medieval Human Demolition" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to" %}
           {%- include "product-share.html" -%}
         </div>

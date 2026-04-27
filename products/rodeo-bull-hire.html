@@ -14,6 +14,64 @@ galleryImages:
   - /images/uploads/2015/08/coverrodeo.jpg
   - /images/uploads/2015/11/18thparty.jpg
   - /images/uploads/2015/08/rodeo-bull.jpg
+title: "Rodeo Bull Hire"
+meta_title: "Rodeo Bull Hire – Monster Event Hire"
+description: "Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex."
+category_name: "Games"
+category_slug: "games"
+body: |-
+  # rodeo bull Hire
+
+  Experience the thrill of our **Rodeo Bull Hire**! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators.
+
+  Our **trained operator controls the speed**, so it’s fun and safe for everyone **1.2 m / 10 yrs and above**. The bull is surrounded by an **inflatable safety mat** to ensure a soft landing. Riders compete to see **how long they can stay on**, tracked by our **large LED timer**.
+
+  ## 🐂 Other Rodeo Rides
+
+  We don’t just offer bucking broncos! Check out our full rodeo range:
+
+  -   [**Rodeo Sheep Hire**](/products/rodeo-sheep/)
+      
+  -   [**Rodeo Pig Hire**](/products/rodeo-pig/)
+      
+  -   [**Rodeo Rugby Ball**](/products/rodeo-rugby-ball/)
+      
+  -   [**Rodeo Reindeer Hire**](/products/rodeo-reindeer/)
+      
+
+  ## ✅ Safety & Setup
+
+  -   **Trained staff operate** every ride to keep guests safe
+      
+  -   Fully **ADIPS certified** and comes with **£10 million Public Liability Insurance**
+      
+  -   Minimum **access width: 1 m**
+      
+  -   Suitable for **participants aged 10+**, who can get on and off unaided
+      
+  -   Indoor use requires **10 ft height** and **operational space 20 ft x 20 ft**
+      
+  -   Mounted on a **GS Engineering inflatable base** — world-class quality
+      
+
+  ## 📍 Perfect for Any Event
+
+  Our **Rodeo Bull Hire** is ideal for:
+
+  -   Birthday parties
+      
+  -   Corporate events & team building
+      
+  -   School fun days
+      
+  -   college events
+  -   university entertainment
+  -   Festivals and community events
+      
+
+  Fun for all riders, with a **safe, thrilling experience** every time!
+
+  All our operators are fully trained and will keep you and your guests safe at all time.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -21,17 +79,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Rodeo Bull Hire – Monster Event Hire</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex.">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Rodeo Bull Hire">
-  <meta property="og:description" content="Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex.">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/rodeo-bull-hire/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -57,7 +115,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/games/"><span itemprop="name">Games</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-rodeo-bull-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/rodeo-bull-hire/"><span itemprop="name">Rodeo Bull Hire</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -65,71 +123,10 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Rodeo Bull Hire</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h1>rodeo bull Hire</h1>
-            <p>Experience the thrill of our <strong data-start="263" data-end="282">Rodeo Bull Hire</strong>! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators.</p>
-            <p data-start="396" data-end="667">Our <strong data-start="400" data-end="439">trained operator controls the speed</strong>, so it’s fun and safe for everyone <strong data-start="475" data-end="494">1.2 m / 10 yrs and above</strong>. The bull is surrounded by an <strong data-start="525" data-end="550">inflatable safety mat</strong> to ensure a soft landing. Riders compete to see <strong data-start="599" data-end="628">how long they can stay on</strong>, tracked by our <strong data-start="645" data-end="664">large LED timer</strong>.</p>
-            <h2 data-section-id="16lztyc" data-start="674" data-end="697">🐂 Other Rodeo Rides</h2>
-            <p data-start="699" data-end="769">We don’t just offer bucking broncos! Check out our full rodeo range:</p>
-            <ul data-start="771" data-end="871">
-              <li data-section-id="1i5syw6" data-start="771" data-end="795">
-                <p data-start="773" data-end="795"><a href="/products/rodeo-sheep/"><strong data-start="773" data-end="793">Rodeo Sheep Hire</strong></a></p>
-              </li>
-              <li data-section-id="yjkrgz" data-start="796" data-end="818">
-                <p data-start="798" data-end="818"><a href="/products/rodeo-pig/"><strong data-start="798" data-end="816">Rodeo Pig Hire</strong></a></p>
-              </li>
-              <li data-section-id="1yke4ir" data-start="819" data-end="843">
-                <p data-start="821" data-end="843"><a href="/products/rodeo-rugby-ball/"><strong data-start="821" data-end="841">Rodeo Rugb</strong><strong data-start="821" data-end="841">y Ball</strong></a></p>
-              </li>
-              <li data-section-id="1a2t0mj" data-start="844" data-end="871">
-                <p data-start="846" data-end="871"><a href="/products/rodeo-reindeer/"><strong data-start="846" data-end="869">Rodeo Reindeer Hire</strong></a></p>
-              </li>
-            </ul>
-            <h2 data-section-id="4c93rx" data-start="878" data-end="897">✅ Safety &amp; Setup</h2>
-            <ul data-start="899" data-end="1311">
-              <li data-section-id="1ueau5e" data-start="899" data-end="959">
-                <p data-start="901" data-end="959"><strong data-start="901" data-end="926">Trained staff operate</strong> every ride to keep guests safe</p>
-              </li>
-              <li data-section-id="749q7a" data-start="960" data-end="1047">
-                <p data-start="962" data-end="1047">Fully <strong data-start="968" data-end="987">ADIPS certified</strong> and comes with <strong data-start="1003" data-end="1045">£10 million Public Liability Insurance</strong></p>
-              </li>
-              <li data-section-id="qxz4qd" data-start="1048" data-end="1081">
-                <p data-start="1050" data-end="1081">Minimum <strong data-start="1058" data-end="1079">access width: 1 m</strong></p>
-              </li>
-              <li data-section-id="19ie2c6" data-start="1082" data-end="1156">
-                <p data-start="1084" data-end="1156">Suitable for <strong data-start="1097" data-end="1122">participants aged 10+</strong>, who can get on and off unaided</p>
-              </li>
-              <li data-section-id="17o1g5k" data-start="1157" data-end="1237">
-                <p data-start="1159" data-end="1237">Indoor use requires <strong data-start="1179" data-end="1195">10 ft height</strong> and <strong data-start="1200" data-end="1235">operational space 20 ft x 20 ft</strong></p>
-              </li>
-              <li data-section-id="139x1o6" data-start="1238" data-end="1311">
-                <p data-start="1240" data-end="1311">Mounted on a <strong data-start="1253" data-end="1287">GS Engineering inflatable base</strong> — world-class quality</p>
-              </li>
-            </ul>
-            <h2 data-section-id="wewqef" data-start="1318" data-end="1345">📍 Perfect for Any Event</h2>
-            <p data-start="1347" data-end="1386">Our <strong data-start="1351" data-end="1370">Rodeo Bull Hire</strong> is ideal for:</p>
-            <ul data-start="1388" data-end="1500">
-              <li data-section-id="13tg309" data-start="1388" data-end="1408">
-                <p data-start="1390" data-end="1408">Birthday parties</p>
-              </li>
-              <li data-section-id="u79v5l" data-start="1409" data-end="1445">
-                <p data-start="1411" data-end="1445">Corporate events &amp; team building</p>
-              </li>
-              <li data-section-id="ftsrm6" data-start="1446" data-end="1465">
-                <p data-start="1448" data-end="1465">School fun days</p>
-              </li>
-              <li data-section-id="ftsrm6" data-start="1446" data-end="1465">college events</li>
-              <li data-section-id="ftsrm6" data-start="1446" data-end="1465">university entertainment</li>
-              <li data-section-id="5lslu2" data-start="1466" data-end="1500">
-                <p data-start="1468" data-end="1500">Festivals and community events</p>
-              </li>
-            </ul>
-            <p data-start="1502" data-end="1573">Fun for all riders, with a <strong data-start="1529" data-end="1559">safe, thrilling experience</strong> every time!</p>
-            <p>All our operators are fully trained and will keep you and your guests safe at all time.</p>
-            <p>&nbsp;</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data">
               <li>bronco</li>
               <li>bucking</li>
@@ -139,9 +136,9 @@ galleryImages:
               <li>rodeo-bull</li>
               <li>rodeo-bull-hire</li>
             </ul>
-          </div><a href="/products/rodeo-bull-hire/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Rodeo Bull Hire</a>
+          </div><a href="/products/rodeo-bull-hire/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Rodeo Bull Hire" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "rodeo bull Hire Experience the thrill of our Rodeo Bull Hire! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators. Our trained operator controls" %}
           {%- include "product-share.html" -%}
         </div>

@@ -7,6 +7,21 @@ redirect_from:
 galleryAlt: Princess Bouncy Castle Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/princessbouncycastle.jpg
+title: "Princess Bouncy Castle 12ft x 14ft"
+meta_title: "Princess Bouncy Castle 12ft x 14ft"
+description: "Make your little princess or Prince feel special with their own princess bouncy castle."
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Princess Bouncy Castle
+
+  Make your little princess or Prince feel special with his or her own princess bouncy castle for there special day.
+
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 11’h
+
+  suitable for children.
+
+  Equipment dimensions **12'w** X **14'd** X **10'h** with fitted cover
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,17 +29,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Princess Bouncy Castle 12ft x 14ft</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="Make your little princess or Prince feel special with their own princess bouncy castle.">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Princess Bouncy Castle 12ft x 14ft">
-  <meta property="og:description" content="Make your little princess or Prince feel special with their own princess bouncy castle.">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/princess-bouncy-castle/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -48,7 +63,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/bouncy-castles/"><span itemprop="name">Bouncy Castles</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-bouncy-castles" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-princess-bouncy-castle" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/princess-bouncy-castle/"><span itemprop="name">Princess Bouncy Castle</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -56,19 +71,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Princess Bouncy Castle 12ft x 14ft</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h4>Princess Bouncy Castle</h4>
-            <p>Make your little princess or Prince feel special with his or her own princess bouncy castle for there special day.</p>
-            <p><img decoding="async" src="/wp-content/themes/littlemonsters/images/size.png" alt="" border="0" data-pin-nopin="true">Equipment dimensions 12&#8217;w X14&#8217;d X 11&#8217;h</p>
-            <p>suitable for children.</p>
-            <p>Equipment dimensions <strong>12'w</strong> X <strong>14'd</strong> X <strong>10'h</strong> with fitted cover</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/princess-bouncy-castle/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Princess Bouncy Castle 12ft x 14ft</a>
+          </div><a href="/products/princess-bouncy-castle/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Princess Bouncy Castle 12ft x 14ft" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Princess Bouncy Castle Make your little princess or Prince feel special with his or her own princess bouncy castle for there special day. Equipment dimensions 12&#8217;w X14&#8217;d X 11&#8217;h suitable for children." %}
           {%- include "product-share.html" -%}
         </div>

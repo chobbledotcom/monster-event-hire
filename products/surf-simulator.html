@@ -12,6 +12,79 @@ galleryImages:
   - /images/uploads/2015/08/surfing1.jpg
   - /images/uploads/2015/08/surf-lauren.jpg
   - /images/uploads/2015/08/surf-simulator.jpg
+title: "Surf Simulator hire"
+meta_title: "Surf Simulator hire - Monster Event Hire"
+description: "surf simulator hire,Our surf simulator is radical fun. Imagine you&#039;re surfing the waves, only you don&#039;t need to worry about getting wet! Call us today for more information!"
+category_name: "Simulator Hire"
+category_slug: "simulator-hire"
+body: |-
+  # 🏄 Surf Simulator Hire – Monster Event Hire
+
+  Bring the thrill of the waves to your event with our **Surf Simulator hire**! Perfect for **birthday parties, corporate events, school fun days, festivals, and team building**, this exciting attraction lets guests **ride the waves safely on land**. Available across **Hampshire, Surrey, Sussex & London**, our Surf Simulator guarantees fun, laughter, and unforgettable memories for all ages.
+
+  ## 🌊 How the Surf Simulator Works
+
+  The Surf Simulator is a **mobile mechanical surfboard** that mimics the movement of real ocean waves. Guests can:
+
+  -   **Balance and ride** on a motorized board
+      
+  -   Experience **safe, controlled wave movements**
+      
+  -   Compete for **longest ride or best tricks**
+      
+  -   Enjoy **instant thrills** suitable for beginners and advanced riders alike
+      
+
+  This makes it ideal for **interactive competitions, party challenges, or just pure fun**.
+
+  ## 🌟 Features & Safety
+
+  -   Staff-operated for **full supervision and safety**
+      
+  -   **Inflatable landing area** to ensure soft landings
+      
+  -   Suitable for **indoor or outdoor events**
+      
+  -   Adjustable difficulty for **all ages and skill levels**
+      
+  -   Comes with **£10 million public liability insurance** for peace of mind
+      
+
+  ## 🎉 Perfect for Any Event
+
+  Our Surf Simulator is a **hit at all types of events**, including:
+
+  -   **Birthday parties** – fun and unique activity
+      
+  -   **Corporate events & team building** – promote teamwork and friendly competition
+      
+  -   **School fun days & festivals** – engaging and inclusive
+      
+  -   **Community events & exhibitions** – eye-catching entertainment
+      
+
+  Pair it with **other interactive attractions**, like inflatables or electronic games, for a full entertainment package.
+
+  ## 📍 Areas We Cover
+
+  We deliver and operate the **Surf Simulator** across:
+
+  -   **Hampshire**
+      
+  -   **Surrey**
+      
+  -   **Sussex**
+      
+  -   **London**
+      
+
+  Whether your venue is a **hall, marquee, school, or outdoor space**, we’ll handle setup, supervision, and takedown to ensure a smooth experience.
+
+  ## 📅 Book Surf Simulator Hire Today
+
+  Bring **adrenaline, laughter, and unforgettable fun** to your next event with our **Surf Simulator hire**.
+
+  👉 **Check availability or request a quote today** and make your event the ultimate experience!
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -19,17 +92,17 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Surf Simulator hire - Monster Event Hire</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="surf simulator hire,Our surf simulator is radical fun. Imagine you&#039;re surfing the waves, only you don&#039;t need to worry about getting wet! Call us today for more information!">
+  <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Surf Simulator hire">
-  <meta property="og:description" content="surf simulator hire,Our surf simulator is radical fun. Imagine you&#039;re surfing the waves, only you don&#039;t need to worry about getting wet! Call us today for more information!">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/surf-simulator/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -55,7 +128,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-simulator-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/simulator-hire/"><span itemprop="name">Simulator Hire</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-simulator-hire" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-surf-simulator" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/surf-simulator/"><span itemprop="name">Surf Simulator</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -63,91 +136,17 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Surf Simulator hire</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h1 data-section-id="fck7e1" data-start="148" data-end="195">🏄 Surf Simulator Hire – Monster Event Hire</h1>
-            <p data-start="197" data-end="590">Bring the thrill of the waves to your event with our <strong data-start="250" data-end="273">Surf Simulator hire</strong>! Perfect for <strong data-start="287" data-end="372">birthday parties, corporate events, school fun days, festivals, and team building</strong>, this exciting attraction lets guests <strong data-start="411" data-end="444">ride the waves safely on land</strong>. Available across <strong data-start="463" data-end="501">Hampshire, Surrey, Sussex &amp; London</strong>, our Surf Simulator guarantees fun, laughter, and unforgettable memories for all ages.</p>
-            <h2 data-section-id="1p1kda4" data-start="597" data-end="633">🌊 How the Surf Simulator Works</h2>
-            <p data-start="635" data-end="750">The Surf Simulator is a <strong data-start="659" data-end="690">mobile mechanical surfboard</strong> that mimics the movement of real ocean waves. Guests can:</p>
-            <ul data-start="752" data-end="975">
-              <li data-section-id="1qx55zw" data-start="752" data-end="797">
-                <p data-start="754" data-end="797"><strong data-start="754" data-end="774">Balance and ride</strong> on a motorized board</p>
-              </li>
-              <li data-section-id="hpy4qc" data-start="798" data-end="848">
-                <p data-start="800" data-end="848">Experience <strong data-start="811" data-end="846">safe, controlled wave movements</strong></p>
-              </li>
-              <li data-section-id="19dmh59" data-start="849" data-end="896">
-                <p data-start="851" data-end="896">Compete for <strong data-start="863" data-end="894">longest ride or best tricks</strong></p>
-              </li>
-              <li data-section-id="1rn5ckz" data-start="897" data-end="975">
-                <p data-start="899" data-end="975">Enjoy <strong data-start="905" data-end="924">instant thrills</strong> suitable for beginners and advanced riders alike</p>
-              </li>
-            </ul>
-            <p data-start="977" data-end="1068">This makes it ideal for <strong data-start="1001" data-end="1065">interactive competitions, party challenges, or just pure fun</strong>.</p>
-            <h2 data-section-id="1oqwuwr" data-start="1075" data-end="1100">🌟 Features &amp; Safety</h2>
-            <ul data-start="1102" data-end="1394">
-              <li data-section-id="pzh57p" data-start="1102" data-end="1156">
-                <p data-start="1104" data-end="1156">Staff-operated for <strong data-start="1123" data-end="1154">full supervision and safety</strong></p>
-              </li>
-              <li data-section-id="bd4hxt" data-start="1157" data-end="1212">
-                <p data-start="1159" data-end="1212"><strong data-start="1159" data-end="1186">Inflatable landing area</strong> to ensure soft landings</p>
-              </li>
-              <li data-section-id="1mbww15" data-start="1213" data-end="1258">
-                <p data-start="1215" data-end="1258">Suitable for <strong data-start="1228" data-end="1256">indoor or outdoor events</strong></p>
-              </li>
-              <li data-section-id="32qvp5" data-start="1259" data-end="1318">
-                <p data-start="1261" data-end="1318">Adjustable difficulty for <strong data-start="1287" data-end="1316">all ages and skill levels</strong></p>
-              </li>
-              <li data-section-id="m2tlmp" data-start="1319" data-end="1394">
-                <p data-start="1321" data-end="1394">Comes with <strong data-start="1332" data-end="1374">£10 million public liability insurance</strong> for peace of mind</p>
-              </li>
-            </ul>
-            <h2 data-section-id="1ft82rm" data-start="1401" data-end="1430">🎉 Perfect for Any Event</h2>
-            <p data-start="1432" data-end="1500">Our Surf Simulator is a <strong data-start="1456" data-end="1486">hit at all types of events</strong>, including:</p>
-            <ul data-start="1502" data-end="1766">
-              <li data-section-id="idfya" data-start="1502" data-end="1552">
-                <p data-start="1504" data-end="1552"><strong data-start="1504" data-end="1524">Birthday parties</strong> – fun and unique activity</p>
-              </li>
-              <li data-section-id="wlh6i9" data-start="1553" data-end="1637">
-                <p data-start="1555" data-end="1637"><strong data-start="1555" data-end="1591">Corporate events &amp; team building</strong> – promote teamwork and friendly competition</p>
-              </li>
-              <li data-section-id="1nxb31n" data-start="1638" data-end="1698">
-                <p data-start="1640" data-end="1698"><strong data-start="1640" data-end="1671">School fun days &amp; festivals</strong> – engaging and inclusive</p>
-              </li>
-              <li data-section-id="g4omy0" data-start="1699" data-end="1766">
-                <p data-start="1701" data-end="1766"><strong data-start="1701" data-end="1735">Community events &amp; exhibitions</strong> – eye-catching entertainment</p>
-              </li>
-            </ul>
-            <p data-start="1768" data-end="1889">Pair it with <strong data-start="1781" data-end="1814">other interactive attractions</strong>, like inflatables or electronic games, for a full entertainment package.</p>
-            <h2 data-section-id="652vke" data-start="1896" data-end="1918">📍 Areas We Cover</h2>
-            <p data-start="1920" data-end="1975">We deliver and operate the <strong data-start="1947" data-end="1965">Surf Simulator</strong> across:</p>
-            <ul data-start="1977" data-end="2039">
-              <li data-section-id="1ri0ye1" data-start="1977" data-end="1994">
-                <p data-start="1979" data-end="1994"><strong data-start="1979" data-end="1992">Hampshire</strong></p>
-              </li>
-              <li data-section-id="128xdci" data-start="1995" data-end="2009">
-                <p data-start="1997" data-end="2009"><strong data-start="1997" data-end="2007">Surrey</strong></p>
-              </li>
-              <li data-section-id="139ga0j" data-start="2010" data-end="2024">
-                <p data-start="2012" data-end="2024"><strong data-start="2012" data-end="2022">Sussex</strong></p>
-              </li>
-              <li data-section-id="1m43zj4" data-start="2025" data-end="2039">
-                <p data-start="2027" data-end="2039"><strong data-start="2027" data-end="2037">London</strong></p>
-              </li>
-            </ul>
-            <p data-start="2041" data-end="2188">Whether your venue is a <strong data-start="2065" data-end="2108">hall, marquee, school, or outdoor space</strong>, we’ll handle setup, supervision, and takedown to ensure a smooth experience.</p>
-            <h2 data-section-id="1dcuudt" data-start="2195" data-end="2233">📅 Book Surf Simulator Hire Today</h2>
-            <p data-start="2235" data-end="2343">Bring <strong data-start="2241" data-end="2288">adrenaline, laughter, and unforgettable fun</strong> to your next event with our <strong data-start="2317" data-end="2340">Surf Simulator hire</strong>.</p>
-            <p data-start="2345" data-end="2442">👉 <strong data-start="2348" data-end="2395">Check availability or request a quote today</strong> and make your event the ultimate experience!</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data">
               <li>surf-simulator</li>
               <li>surf-simulator-hire</li>
             </ul>
-          </div><a href="/products/surf-simulator/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Surf Simulator hire</a>
+          </div><a href="/products/surf-simulator/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Surf Simulator hire" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "🏄 Surf Simulator Hire – Monster Event Hire Bring the thrill of the waves to your event with our Surf Simulator hire! Perfect for birthday parties, corporate events, school fun days, festivals, and team building," %}
           {%- include "product-share.html" -%}
         </div>

@@ -7,6 +7,15 @@ redirect_from:
 galleryAlt: Cow Milking Fun Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/cowmilk.jpg
+title: "Milking Cows"
+meta_title: "Milking Cows"
+og_description: "Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never&hellip;"
+category_name: "Stalls And Mini Games"
+category_slug: "stalls-and-mini-games"
+body: |-
+  Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest?
+
+  This udderly riveting game will get your hands mooving in ways you never thought possible.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -14,7 +23,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Milking Cows</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -22,8 +31,8 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Milking Cows">
-  <meta property="og:description" content="Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/milking-cows/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -47,7 +56,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-stalls-and-mini-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/stalls-and-mini-games/"><span itemprop="name">Stalls And Mini Games</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-stalls-and-mini-games" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-milking-cows" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/milking-cows/"><span itemprop="name">Milking Cows</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -55,16 +64,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Milking Cows</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <p>Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest?</p>
-            <p>This udderly riveting game will get your hands mooving in ways you never thought possible.</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/milking-cows/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Milking Cows</a>
+          </div><a href="/products/milking-cows/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Milking Cows" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never" %}
           {%- include "product-share.html" -%}
         </div>

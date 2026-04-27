@@ -12,6 +12,23 @@ galleryImages:
   - /images/uploads/2015/10/11351174_1595743730698858_3990371115087670827_n1.jpg
   - /images/uploads/2015/10/10446203_1507449146194984_3827595208919858214_o1.jpg
   - /images/uploads/2015/10/pole-joust.jpg
+title: "Pole Jousting"
+meta_title: "Pole Jousting"
+og_description: "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;"
+category_name: "Sports Competitive Activities"
+category_slug: "sports-competitive"
+body: |-
+  ## Pole Jousting
+
+  Knock your adversary off the pole and onto the inflatable bed of defeat.
+
+  Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun competition.
+
+  Great for parties and events.
+
+  **13ft** x **13ft**
+
+  Head guards provided.
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="http://schema.org/ItemPage">
@@ -19,7 +36,7 @@ galleryImages:
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   {%- include "head-scripts.html" -%}
-  <title>Pole Jousting</title>
+  <title>{{ meta_title }}</title>
   <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
   <style>
@@ -27,8 +44,8 @@ galleryImages:
   </style>
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Pole Jousting">
-  <meta property="og:description" content="Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk/products/pole-jousting/">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -52,7 +69,7 @@ galleryImages:
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-sports-competitive-activities" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/sports-competitive/"><span itemprop="name">Sports Competitive Activities</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-sports-competitive-activities" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/categories/{{ category_slug }}/"><span itemprop="name">{{ category_name }}</span></a>
           <meta itemprop="position" content="3"></span><span class="breadcrumb-pole-jousting" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/products/pole-jousting/"><span itemprop="name">Pole Jousting</span></a>
           <meta itemprop="position" content="4"></span>
         </div>
@@ -60,22 +77,14 @@ galleryImages:
     </div>
     <section id="main" class="main white-bg pad-top">
       <div class="wrapper clearfix product-content" data-pagefind-body>
-        <h1 itemprop="name" class="product-name title">Pole Jousting</h1>
+        <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">
-            <h2>Pole Jousting</h2>
-            <p>Knock your adversary off the pole and onto the inflatable bed of defeat.</p>
-            <p>Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun competition.</p>
-            <p>Great for parties and events.</p>
-            <p><strong>13ft</strong> x <strong>13ft</strong></p>
-            <p>&nbsp;</p>
-            <p>Head guards provided.</p>
-            <p>&nbsp;</p>
+          <div class="the_content editable-area">{{ body | renderContent: "md" }}
             <ul class="item-data"></ul>
-          </div><a href="/products/pole-jousting/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book Pole Jousting</a>
+          </div><a href="/products/pole-jousting/#" class="button enquiry-button orange-bg"><span class="icon envelope"></span> Book {{ title }}</a>
           {%- include "opening-hours.html" -%}
-          {% assign shareName = "Pole Jousting" %}
+          {% assign shareName = title %}
           {% assign shareDescription = "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun" %}
           {%- include "product-share.html" -%}
         </div>
