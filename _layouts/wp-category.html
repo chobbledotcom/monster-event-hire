@@ -1,0 +1,108 @@
+---
+templateEngineOverride: liquid
+---
+<!DOCTYPE html>
+<html lang="en-US" class="no-js remove-margin" itemscope itemtype="{{ schema_type | default: 'https://schema.org/CollectionPage' }}">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="google-site-verification" content="ORBXvOHFN4zW9aTh8crnPR0nSo1MN_g7twZ3TIoVTHY">
+  {%- include "head-scripts.html" -%}
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="{{ '/theme/theme.css' | cacheBust }}">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
+  <style>
+  img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
+  </style>
+  <meta name="description" content="{{ description }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="{{ og_type | default: 'article' }}">
+  <meta property="og:title" content="{{ og_title | default: title }}">
+  <meta property="og:description" content="{{ og_description | default: description }}">
+  <meta property="og:url" content="https://www.monstereventhire.co.uk{{ page.url }}">
+  <meta property="og:site_name" content="Monster Event Hire">
+  {%- if og_image %}
+  <meta property="og:image" content="{{ og_image }}">{% endif %}
+  {%- if og_image_width %}
+  <meta property="og:image:width" content="{{ og_image_width }}">{% endif %}
+  {%- if og_image_height %}
+  <meta property="og:image:height" content="{{ og_image_height }}">{% endif %}
+  {%- if og_image_type %}
+  <meta property="og:image:type" content="{{ og_image_type }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  {%- if twitter_title %}
+  <meta name="twitter:title" content="{{ twitter_title }}">{% endif %}
+  {%- if twitter_label1 %}
+  <meta name="twitter:label1" content="{{ twitter_label1 }}">
+  <meta name="twitter:data1" content="{{ twitter_data1 }}">{% endif %}
+  {%- if json_ld %}
+  <script type="application/ld+json" class="yoast-schema-graph">
+  {{ json_ld }}
+  </script>{% endif %}
+  {%- include "wp-block-styles.html" -%}
+  {%- include "head-end.html" -%}
+</head>
+<body data-rsssl="1" class="{{ body_class }}">
+<div id="site-wrap">
+    {%- include "site-header.html" -%}
+    <div class="breadcrumbs">
+      <div class="wrapper">
+        <div itemscope itemtype="http://schema.org/BreadcrumbList">
+          <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-{{ page.fileSlug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"><span itemprop="name">{{ breadcrumb_name | default: cat_head_title | default: title }}</span></a>
+          <meta itemprop="position" content="3"></span>
+        </div>
+      </div>
+    </div>
+    <style>
+    .editable-area{display:none;} .cat-head::before{background:none !important;}
+    </style>
+    <style>
+    .editable-area{display:none;}
+    </style>
+    <section id="main" class="main" itemprop="mainContentOfPage" itemscope itemtype="{{ section_type | default: 'https://schema.org/WebPageElement' }}" data-pagefind-body>
+      {%- if cat_head_style -%}
+      <div class="cat-head" style="{{ cat_head_style }}">
+        <div class="wrapper editable-area">
+          <h1 class="title" itemprop="name">{{ cat_head_title }}</h1>
+          <p itemprop="text"></p>
+          {{ cat_head_intro_html }}
+        </div>
+      </div>
+      {%- endif -%}
+      {%- if cat_body_intro_html -%}
+      <div class="cat-body light-grey-bg">
+        <div class="cat-body light-grey-bg">
+          <div class="loop-holder products wrapper{% if loop_class %} {{ loop_class }}{% endif %}">
+            {{ cat_body_intro_html }}
+          </div>
+        </div>
+      </div>
+      {%- endif -%}
+      {%- if product_slugs -%}
+      <div class="cat-body light-grey-bg">
+        <div class="loop-holder products wrapper">
+          <div class="loop gutters row clearfix">
+{%- for cardSlug in product_slugs -%}
+{%- include "wp-product-card.html" -%}
+{%- endfor %}
+          </div>
+        </div>
+      </div>
+      {%- endif -%}
+      <div class="teamb_contact_form">
+        <div class="request_button">
+          <a class="button orange-bg enquiry-button"><img src="/wp-content/themes/littlemonsters/images/callback_icon.png"> Request a Callback</a> <a class="button orange-bg enquiry-button"><img src="/wp-content/themes/littlemonsters/images/quote_icon.png"> Request a Quote</a>
+        </div>
+        {%- include "contact-form.html" -%}
+      </div>
+    </section>
+    {%- include "enquiry-form.html" -%}
+    {%- include "footer-locations.html" -%}
+    {%- include "logos.html" -%}
+    {%- include "site-footer.html" -%}
+  </div>
+  {%- include "page-scripts.html" -%}
+</body>
+</html>

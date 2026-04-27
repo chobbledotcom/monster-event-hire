@@ -1,0 +1,12 @@
+{%- assign card = wpCards[cardSlug] -%}
+{%- if card -%}
+            <div class="grid-3-12" itemscope itemtype="http://schema.org/Product">
+              <div id="{{ card.id }}" class="product" data-img="{{ card.image }}">
+                <a itemprop="url" href="/products/{{ cardSlug }}/">
+                <div class="bottom-bar">
+                  <h3 itemprop="name">{{ card.title }}</h3><span class="item-data"><span itemprop="description"></span></span>
+                  <p><span class="item-data">{{ card.description }}</span></p><span itemprop="image">{{ card.productImage }}</span> <span itemprop="sku">{{ card.sku }}</span> <span itemprop="productID">{{ card.productID }}</span>
+                </div></a>
+              </div>
+            </div>
+{%- endif -%}
