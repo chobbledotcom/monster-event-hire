@@ -1,5 +1,5 @@
 {
-	"tags": [],
+	"tags": ["products"],
 	"layout": false,
 	"templateEngineOverride": "liquid",
 	"eleventyExcludeFromCollections": false
