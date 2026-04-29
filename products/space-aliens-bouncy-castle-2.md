@@ -1,0 +1,39 @@
+---
+permalink: /products/space-aliens-bouncy-castle-2/
+redirect_from:
+  - /products/bouncy-castles/space-aliens-bouncy-castle-2/
+  - /all-products/space-aliens-bouncy-castle-2/
+  - /allproducts/space-aliens-bouncy-castle-2
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2016/02/spacealiens.jpg
+title: "Space Bouncy Castle 12ft x 14ft"
+meta_title: "Space Bouncy Castle 12ft x 14ft Space Bouncy Castle"
+description: "Need transporting to another universe, this is certainly the space bouncy castle for you!"
+category_name: "Bouncy Castles"
+category_slug: "bouncy-castles"
+body: |-
+  #### Space Bouncy Castle
+  Need transporting to another universe.
+  Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun.
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 11’h
+  ![](/wp-content/themes/littlemonsters/images/plus.png)fitted shower cover
+  Suitable for Children only.
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1317 wp-theme-littlemonsters space-bouncy-castle-2'
+article_modified_time: '2022-03-14T10:17:28+00:00'
+share_description: 'Space Bouncy Castle Need transporting to another universe. Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun. Equipment dimensions 12’w X14’d X 11’h fitted'
+upsells: 
+  - 'princess-castle-with-slide'
+  - 'pirate-2-bouncy-castle'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!</p>
+              <p>The bouncy castle was loved by all! We will definitely be spreading the word!</p>
+              <p>All the best.</p>
+testimonial_attribution: 'Komal'
+breadcrumb_name: 'Space Aliens Bouncy Castle 2'
+date_published: '2016-04-18T18:54:50+00:00'
+primary_image_width: 360
+primary_image_height: 480
+---

@@ -1,0 +1,58 @@
+---
+permalink: /products/interactive-play-system/
+redirect_from:
+  - /allproducts/electronic-game-hire/interactive-play-system/
+  - /all-products/interactive-play-system/
+  - /allproducts/interactive-play-system
+  - /categories/electronic-game-hire/electronic-game-hire/interactive-play-system/
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2017/04/1.4.jpg
+  - /images/uploads/2017/04/36384653_2094458507494042_6342758632731443200_n.jpg
+  - /images/uploads/2017/04/36969659_2107023136237579_101541114300858368_n.jpg
+  - /images/uploads/2017/04/interactive-play-system.jpg
+  - /images/uploads/2017/04/interactive-play-stystem-1.jpg
+title: "Interactive play system &#8211; ips"
+meta_title: "Interactive play system - ips interactive play system"
+description: "Interactive Play System is a 2 player high energy game. IPS is based on a combination of light, sound and games, to enable challenging games."
+og_title: "Interactive play system - ips"
+category_name: "Electronic Game Hire"
+category_slug: "electronic-game-hire"
+body: |-
+  ## Interactive Play System – ips
+  This Interactive Play System is a 2 – 4 player high energy game.
+  IPS is based on the unique combination of light, sound and games.
+  The Interactive spots are wirelessly connected to the scoreboard this enable’s a challenging games between the players.
+  The Interactive Play system offers a variety of sound effects, to make the your experience more special and engaging.
+  It comes with three game modes – including “Light Hunter” “Steal the light” & “Back to base  – this ensures that your clients never get bored.
+  The IPS test’s players’ hand-eye coordination, endurance and teamwork skills,  each game lasts for a total of 1 minute.
+  The games challenges players to touch as many spots as they can, by reacting to the interactive spots that randomly light up.
+  The score’s then go onto the scoreboard  i.e red 15 – green 8, this is great competitive game.
+  The inflatable is fitted with 10 spot holders that challenges your hand eye coordination, endurance and competitiveness.
+  Why not use the ips as part of your sports program, a fun reward at the end of term, or as part of a team building session.
+  For schools, colleges and organisations such as Scouts and Guides, or for any corporate fun day, also great for team building.
+  The games offer a good workout, and suitable for all ages.
+  Size required 20 ft x 20 ft
+  Why not have a look at our other range of [electrical games](/categories/electronic-game-hire/)
+  -   Power: 1 x Standard 13amp plug (normal/domestic power point)
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1472 wp-theme-littlemonsters interactive-play-system'
+article_modified_time: '2023-03-23T10:33:40+00:00'
+twitter_data1: '1 minute'
+share_description: 'Interactive Play System &#8211; ips This Interactive Play System is a 2 &#8211; 4 player high energy game. IPS is based on the unique combination of light, sound and games. The Interactive spots are wirelessly'
+upsells: 
+  - 'buzz-wire'
+  - 'laser-shot'
+  - 'pit-stop-challenge'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
+              <p>Hopefully we can stay in contact for any future events.</p>
+              <p>Many Thanks</p>
+testimonial_attribution: 'Tim Smith'
+testimonial_role: 'Havant Family Church'
+breadcrumb_name: 'Interactive Play System'
+date_published: '2017-04-25T18:44:13+00:00'
+primary_image_width: 480
+primary_image_height: 360
+---

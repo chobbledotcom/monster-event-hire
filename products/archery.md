@@ -1,0 +1,64 @@
+---
+permalink: /products/archery/
+redirect_from:
+  - /products/shooting-archery-and-marksmen-hire/archery/
+  - /all-products/archery/
+  - /allproducts/archery
+galleryAlt: archery activity set with 5 bows and arrows and arrow boards
+galleryImages:
+  - /images/uploads/2015/10/archery3.jpg
+  - /images/uploads/2015/10/archery12.jpg
+  - /images/uploads/2015/08/arch.jpg
+  - /images/uploads/2015/08/10847869_1507431982863367_2176818440922661476_n1.jpg
+title: "Archery Hire"
+meta_title: "Archery Hire - Monster Event and Party Hire"
+description: "Archery Hire is great for all events especially birthday parties and corporate team building. Please call us today for more information!"
+category_name: "Shooting Archery And Marksmen Hire"
+category_slug: "shooting-archery-and-marksmen-hire"
+body: |-
+  # Archery Hire – Event Fun for Kids and Adults
+  Bring **exciting and interactive archery** to your next event! Perfect for **birthday parties, corporate team-building, school events, and community festivals**, archery is a safe, fun activity that allows **children and adults aged 8+** to test their skills and enjoy friendly competition. Everyone can hit the target with **minimal tuition**, making it accessible for all levels.
+  ### Features of Our Archery Experience
+  -   Fully trained instructors to supervise participants and provide guidance
+  -   Range of **games and competitions** to keep everyone motivated and entertained
+  -   Suitable for **children and adults**, perfect for group events
+  -   Operational area required: 40ft × 60ft with a clear space behind free from paths
+  -   Equipment options:
+      -   2 targets with 1 fully trained instructor
+      -   4 targets with 2 fully trained instructors
+  -   Maximum participants: 4 at any one time
+  ### How It Works
+  Participants are introduced to **safe archery techniques** by our instructors. Once everyone is familiar with the basics, they can test their accuracy and skill in a variety of fun games and competitions. Whether competing to hit the bullseye, scoring points in team challenges, or simply practicing their aim, archery provides **active, engaging fun** for everyone.
+  ### Perfect for Any Event
+  Our archery hire is ideal for:
+  -   **Birthday parties** – Fun, safe, and interactive for kids and teens
+  -   **Corporate team-building events** – Encourage focus, patience, and friendly competition
+  -   **School or college activities** – Supervised, fun, and skill-building
+  -   **Community events and festivals** – Eye-catching activity that draws participants
+  Add a **unique and exciting attraction** to your event with our **archery hire**, fully staffed by trained instructors to ensure safety and maximum fun.
+  **Book online today or call us to hire archery for your next birthday party, school event, or corporate challenge!**
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-320 wp-theme-littlemonsters productsshooting-archery-and-marksmen-hirearchery'
+article_modified_time: '2026-03-24T20:23:23+00:00'
+twitter_data1: '2 minutes'
+share_description: 'Archery Hire – Event Fun for Kids and Adults Bring exciting and interactive archery to your next event! Perfect for birthday parties, corporate team-building, school events, and community festivals, archery is a safe, fun activity'
+item_data: 
+  - 'archery-hire'
+  - 'have-ago-archery'
+upsells: 
+  - 'human-table-football'
+  - 'dash-and-grab'
+  - 'big-red-assault-course'
+  - 'multi-sports-arena'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
+              <p>Hopefully we can stay in contact for any future events.</p>
+              <p>Many Thanks</p>
+testimonial_attribution: 'Tim Smith'
+testimonial_role: 'Havant Family Church'
+breadcrumb_name: 'Archery'
+date_published: '2015-07-02T11:59:12+00:00'
+primary_image_width: 960
+primary_image_height: 720
+---

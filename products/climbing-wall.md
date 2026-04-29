@@ -1,0 +1,107 @@
+---
+permalink: /products/climbing-wall/
+redirect_from:
+  - /products/climbing-walls/climbing-wall/
+  - /all-products/climbing-wall/
+  - /allproducts/climbing-wall
+galleryAlt: Climbing Wall Monster Event Hire England
+galleryImages:
+  - /images/uploads/2015/09/smrrr.jpg
+  - /images/uploads/2015/09/unnamed1.jpg
+  - /images/uploads/2015/09/win5.jpg
+  - /images/uploads/2015/08/1546154_1595840320689199_4932831073307082678_n1.jpg
+  - /images/uploads/2015/08/10170898_1507426162863949_8541148680919017196_n1.jpg
+  - /images/uploads/2015/08/10407975_1579316452341586_1784782451410961883_n1.jpg
+  - /images/uploads/2015/08/11401395_1595840324022532_8597269139438626426_n1.jpg
+  - /images/uploads/2015/08/unnamed.jpg
+  - /images/uploads/2015/08/unnamed3.jpg
+  - /images/uploads/2015/08/wall.jpg
+  - /images/uploads/2015/11/climbing-wall-corporate-.jpg
+title: "Climbing Wall Hire"
+meta_title: "Climbing Wall Hire - Monster Event Hire - Climbing Wall"
+description: "Hire a mobile climbing wall for parties,corporate events, school fun days &amp; festivals across Hampshire, Surrey, Sussex &amp; London. Safe,staff-operated fun!"
+category_name: "Climbing Walls"
+category_slug: "climbing-wall"
+body: |-
+  # 🧗‍♂️ Climbing Wall Hire – Monster Event Hire
+  Make your event unforgettable with our **mobile climbing wall**, perfect for parties, school fun days, corporate team-building events, festivals, and more across **Hampshire, Surrey, Sussex & London**.
+  ## 📏 Size & Impact
+  -   Stands **10 m high**, creating a **high-impact visual attraction** at any event
+      
+  -   Multiple climbing routes for all skill levels – from beginners to adventurous climbers
+      
+  ## 👥 Multi-User Fun
+  -   **Four climbing lines** allow up to **four participants simultaneously**
+      
+  -   Keeps guests engaged with continuous action and minimal waiting
+      
+  ## 🛡️ Safety & Reliability
+  -   **Automatic belay system** ensures safe descents without a manual belayer
+      
+  -   Operated by **experienced, qualified staff**
+      
+  -   £10 million **Public Liability Insurance** included
+      
+  -   Full **risk assessments and safety supervision** provided
+      
+  ## 🧑‍🏫 Quick Setup & Operation
+  -   **Setup in ~30 minutes** on grass or hard standing
+      
+  -   Requires **adequate vehicle access** for delivery and positioning
+      
+  -   Staff handle operation, so you can relax and enjoy your event
+      
+  ## 🎉 Perfect for Any Event
+  Our climbing wall is ideal for:
+  -   **Children’s birthday parties**
+      
+  -   **School reward days**
+      
+  -   **University events**
+      
+  -   **Corporate fun days & team building**
+      
+  -   **Festivals and community events**
+      
+  Combine it with other attractions like **inflatable assault courses** for a truly memorable event experience.
+  ## ✅ Why Hire Our Climbing Wall
+  -   Eye-catching **visual impact** at your event
+      
+  -   Suitable for **all ages and abilities**
+      
+  -   **Safe, staff-operated experience** with automatic belay
+      
+  -   Risk-assessed and fully insured
+      
+  -   Makes a perfect **add-on to larger parties or corporate events**
+      
+  ## 📅 Book Your Climbing Wall Today
+  Create an event your guests will never forget.
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-81 wp-theme-littlemonsters climbing-wall-hire'
+article_modified_time: '2026-03-09T17:55:56+00:00'
+twitter_data1: '2 minutes'
+share_description: '🧗‍♂️ Climbing Wall Hire – Monster Event Hire Make your event unforgettable with our mobile climbing wall, perfect for parties, school fun days, corporate team-building events, festivals, and more across Hampshire, Surrey, Sussex &amp; London.'
+item_data: 
+  - 'climb'
+  - 'climbing'
+  - 'climbing-wall-hire'
+  - 'mobile-climbing-wall'
+  - 'rock'
+  - 'wall'
+upsells: 
+  - 'the-grand-bounce-national'
+  - 'pedal-go-carts'
+  - 'gold-cup-horse-racing-challenge'
+  - 'laser-shot'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
+              <p>Kind regards</p>
+testimonial_attribution: 'Katy Wood'
+testimonial_role: 'Burpham Primary School'
+breadcrumb_name: 'Climbing Wall'
+date_published: '2015-11-22T14:18:40+00:00'
+primary_image_width: 720
+primary_image_height: 960
+---

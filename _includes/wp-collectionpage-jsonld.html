@@ -2,7 +2,7 @@
 {%- assign bcId = abs | append: "#breadcrumb" -%}
 {%- assign imgId = abs | append: "#primaryimage" -%}
 {%- assign jsonld_page_name = jsonld_name | default: meta_title | default: title -%}
-{%- assign jsonld_crumb = jsonld_breadcrumb_name | default: breadcrumb_name | default: title -%}
+{%- assign jsonld_crumb = jsonld_breadcrumb_name | default: breadcrumb_name | default: cat_head_title | default: title -%}
 {%- capture page_node -%}{"@type":"{{ jsonld_type | default: 'CollectionPage' }}","@id":"{{ abs }}","url":"{{ abs }}","name":"{{ jsonld_page_name | replace: '"', '\"' }}","isPartOf":{"@id":"https://www.monstereventhire.co.uk/#website"}{% if primary_image %},"primaryImageOfPage":{"@id":"{{ imgId }}"},"image":{"@id":"{{ imgId }}"},"thumbnailUrl":"{{ primary_image }}"{% endif %},"description":"{{ description | replace: '&amp;', '&' | replace: '"', '\"' }}","breadcrumb":{"@id":"{{ bcId }}"},"inLanguage":"en-US"}{%- endcapture -%}
 {%- capture image_node -%}{"@type":"ImageObject","inLanguage":"en-US","@id":"{{ imgId }}","url":"{{ primary_image }}","contentUrl":"{{ primary_image }}","width":{{ primary_image_width }},"height":{{ primary_image_height }},"caption":"{{ primary_image_caption | replace: '"', '\"' }}"}{%- endcapture -%}
 {%- capture breadcrumb_node -%}{"@type":"BreadcrumbList","@id":"{{ bcId }}","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.monstereventhire.co.uk/"},{"@type":"ListItem","position":2,"name":"{{ jsonld_crumb | replace: '"', '\"' }}"}]}{%- endcapture -%}

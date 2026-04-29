@@ -1,0 +1,66 @@
+---
+permalink: /products/ball-run-challenge/
+redirect_from:
+  - /products/inflatables-hire/ball-run-challenge/
+  - /all-products/ball-run-challenge/
+  - /allproducts/ball-run-challenge
+galleryAlt: colourful inflatable ball run challenge with platforms to jump onto
+galleryImages:
+  - /images/uploads/2015/11/11997986_10153004949767007_924911126_n1.jpg
+  - /images/uploads/2015/11/12000106_10153004949752007_1849640327_n11.jpg
+  - /images/uploads/2015/11/12004795_1627849434154954_1139658475281841973_n1.jpg
+  - /images/uploads/2015/11/12188780_10154321100538761_817072658_n1.jpg
+  - /images/uploads/2015/11/12200501_10154321100543761_188265293_n1.jpg
+  - /images/uploads/2015/11/12202422_10154321104248761_1545968602_n1.jpg
+title: "Ball Run Challenge"
+meta_title: "Ball Run Challenge: team building inflatable hire."
+description: "Run and Jump from platform to platform whilst huge balls are swung at you, can you make it through the ball run challenge, team building"
+category_name: "Inflatables Hire"
+category_slug: "inflatables-hire"
+body: |-
+  # Ball Run Challenge Inflatable – Team Building & Event Hire
+  Take on the ultimate **inflatable obstacle challenge** with the **Ball Run Challenge**! Perfect for **corporate team-building events, school activities, birthday parties, university events, and community festivals**, this interactive inflatable game is designed to test **agility, balance, and determination** while delivering **hours of fun**.
+  ### Features of the Ball Run Challenge
+  -   **Dimensions:** 18m long × 4.4m wide × 4.15m high (60ft × 15ft × 13.6ft)
+  -   Navigate a giant inflatable arena while **jumping from platform to platform**
+  -   Dodge **swinging giant balls** along the course
+  -   Suitable for **participants aged 10 and above**
+  -   Maximum of **10 players per game**
+  -   Fully staffed with an **operator included**
+  -   Suitable for **indoor or outdoor events**
+  -   Requires **2 x standard 13amp plugs** for power
+  -   Full driveable access required for setup
+  -   All equipment comes with **£10 million public liability insurance**
+  ### How It Works
+  Participants enter the **Ball Run Challenge inflatable** at one end and aim to make it safely to the finish line. Along the way, players must **jump between platforms** and dodge **swinging giant balls**, testing their coordination, timing, and nerve. With a **trained operator supervising**, the game is safe, fun, and engaging for all ages.
+  ### Perfect for Any Event
+  The **Ball Run Challenge** is ideal for:
+  -   **Corporate team-building events** – Encourage teamwork, focus, and healthy competition
+  -   **School and college activities** – Fun, interactive challenge for students
+  -   **Birthday parties and family events** – Active, memorable entertainment
+  -   **Community festivals and large-scale events** – Massive crowd-puller and interactive game
+  For an even bigger challenge, hire alongside our **Total Wipeout-style inflatable games**, or explore more **team-building activities** for corporate events. The **Ball Run Challenge inflatable** is designed to bring **excitement, laughter, and unforgettable moments** to any event.
+  **Book online today or call us to hire the Ball Run Challenge for your next party, school event, or corporate fun day!**
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-774 wp-theme-littlemonsters ball-run-challenge'
+article_modified_time: '2026-03-24T20:36:00+00:00'
+twitter_data1: '2 minutes'
+share_description: 'Ball Run Challenge Inflatable – Team Building &amp; Event Hire Take on the ultimate inflatable obstacle challenge with the Ball Run Challenge! Perfect for corporate team-building events, school activities, birthday parties, university events, and community'
+item_data: 
+  - 'multi-player-games'
+  - 'wipe-out-game'
+upsells: 
+  - 'dash-and-grab'
+  - 'the-grand-bounce-national'
+  - 'up-and-over'
+  - 'big-balls-challenge'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
+              <p>Best Wishes</p>
+testimonial_attribution: 'Tina'
+testimonial_role: 'Specsavers'
+date_published: '2015-12-11T15:02:07+00:00'
+primary_image_width: 960
+primary_image_height: 540
+---

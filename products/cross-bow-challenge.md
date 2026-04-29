@@ -1,0 +1,61 @@
+---
+permalink: /products/cross-bow-challenge/
+redirect_from:
+  - /products/side-stalls/cross-bow-challenge/
+  - /all-products/cross-bow-challenge/
+  - /allproducts/cross-bow-challenge
+galleryAlt: Crossbow Game Inflatable Events Hire
+galleryImages:
+  - /images/uploads/2015/11/cross-bow.jpg
+  - /images/uploads/2015/11/11737834_1603313566608541_3264554436776731850_n2.jpg
+  - /images/uploads/2015/11/crossbow-challenge-2.jpg
+  - /images/uploads/2015/11/crossbow-bungee.jpg
+title: "Cross Bow Challenge hire"
+meta_title: "Cross Bow Challenge hire"
+description: "Cross Bow Challenge Hire in Hampshire &amp; Surrey – carnival-style shooting game Fun,competitive, and perfect for parties and events!"
+category_name: "Side Stalls"
+category_slug: "side-stalls"
+body: |-
+  ## Cross Bow Challenge Hire – Carnival Shooting Game for Parties & Events
+  Bring the excitement of a carnival to your next event with our **Cross Bow Challenge Hire**. Guests can test their aim by **knocking down targets** to win prizes, creating a fun, competitive, and engaging activity suitable for **parties, school fairs, corporate events, and family fun days**.
+  Step up, take aim, and see if you have what it takes to be the next **Robin Hood**! This interactive inflatable game adds a unique element of skill and entertainment, keeping guests of all ages entertained and engaged. For an added incentive, **additional prizes** can be supplied at an extra cost to reward winners and encourage more participation.
+  ### 🎯 Why Choose Cross Bow Challenge Hire?
+  -   Fun and interactive **carnival-style shooting game**
+  -   Safe and suitable for **children, teens, and adults**
+  -   Encourages **friendly competition** and skill testing
+  -   Optional **prizes available** to increase excitement
+  -   Compact and portable for **indoor or outdoor use**
+  ### 📏 Equipment Details
+  -   **Dimensions:** 5.5ft (L) x 11ft (W) x 8.5ft (H)
+  -   Easy to set up and transport
+  -   Works well as a **standalone attraction** or alongside other inflatables and carnival games
+  ### 🌟 Perfect For
+  -   Birthday parties & family celebrations
+  -   School fairs, Scout & Guide events
+  -   Corporate events and team-building days
+  -   Festivals, charity events, and community gatherings
+  ### 📍 Cross Bow Challenge Hire in Hampshire & Surrey
+  We provide **professional carnival game hire across Hampshire, Surrey, and surrounding areas**, including full **delivery, setup, and collection**.
+  Create a **carnival atmosphere** at your next event with our **Cross Bow Challenge Hire**, guaranteed to entertain guests and add a competitive edge that everyone will enjoy!
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-937 wp-theme-littlemonsters cross-bow-challenge'
+article_modified_time: '2026-03-25T19:54:56+00:00'
+twitter_data1: '2 minutes'
+share_description: 'Cross Bow Challenge Hire – Carnival Shooting Game for Parties &amp; Events Bring the excitement of a carnival to your next event with our Cross Bow Challenge Hire. Guests can test their aim by knocking'
+item_data: 
+  - 'side-stall-game'
+  - 'side-stall-hire'
+upsells: 
+  - 'candy-floss'
+  - 'interactive-play-system'
+  - 'pit-stop-challenge'
+  - '3-in-1-sports-inflatable-game'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+testimonial_attribution: 'David'
+breadcrumb_name: 'Cross Bow Challenge'
+date_published: '2015-11-20T17:15:16+00:00'
+primary_image_width: 960
+primary_image_height: 720
+---

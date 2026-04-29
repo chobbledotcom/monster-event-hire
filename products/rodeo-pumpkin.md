@@ -1,0 +1,62 @@
+---
+permalink: /products/rodeo-pumpkin/
+redirect_from:
+  - /products/rodeo-rides/rodeo-pumpkin/
+  - /all-products/rodeo-pumpkin/
+  - /allproducts/rodeo-pumpkin
+galleryAlt: devilish halloween pumpkin rodeo ride with inflatable bed
+galleryImages:
+  - /images/uploads/2015/10/halloween-pumkin.jpg
+  - /images/uploads/2015/10/lauren-pumpkin.jpg
+title: "Rodeo Pumpkin Hire"
+meta_title: "Rodeo Pumpkin Hire"
+og_description: "Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed&hellip;"
+category_name: "Rodeo Rides"
+category_slug: "rodeo-rides"
+body: |-
+  ### Rodeo Pumpkin Hire!
+  Experience the fright of your life on the rodeo Pumpkin.
+  Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall.
+  Our trained operator controls the speed of the Pumpkin allowing fun for users of 1.2 mtrs . The rodeo pumpkin is surrounded by an inflatable themed bed to ensure a soft landing.
+  All riders can experience the same thrills and ride. the ai m of the game is to stay atop of the spinning pumpkin as long as possible! and see what your eventual time is with our large led timer.
+  The rider climbs on, our **trained operator** controls the speed of the rodeo pumpkin allowing fun for all users 1.2 metres and above. The bucking pumpkin is surrounded by an inflatable western themed bed to ensure a soft landing from the bucking beast.
+  We can also supply our six legged inflatable spider marquee which is 21 feet in diameter with pull down sides making it totally enclosed. This is excellent for rainy weather situations, providing enough room for the Multi Ride and a number of spectators, so your event can still run smoothly 365 days of the year.
+  We carry additional insurance for licensed premises. Fully certified for safety under the ADIPS scheme.
+  -   Access required minimum of 1 mtr wide
+  -    Member of staff to run the rodeo ride
+  -   Rodeo Ride is centred on an inflatable surface – tumbles wont hurt!
+  -   Participants must be 1.2 metres or taller
+  -   To Even things up – all riders can experience the same ride
+  -   Height for indoor use at least 10ft
+  **Also for outdoor hires**
+  We can supply our six legged inflatable spider marquee which is 21 feet in diameter with pull down sides making it totally enclosed. This is excellent for rainy weather situations, providing enough room for the Multi Ride and a number of spectators, so your event can still run smoothly 365 days of the year.
+  We carry additional insurance for licensed premises. Fully certified for safety under the ADIPS scheme.
+  -   Bull is centred on an inflatable surface - tumbles wont hurt!
+  -   Participants must be 1.2 metres or taller
+  -   Even things up - all riders can experience the same ride
+  -   Access required minimum of 1 mtr wide
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-348 wp-theme-littlemonsters rodeo-pumpkin'
+article_modified_time: '2019-02-28T13:02:10+00:00'
+twitter_data1: '1 minute'
+share_description: 'Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed'
+item_data: 
+  - 'halloween-entertainment'
+  - 'rodeo-pumpkin'
+  - 'rodeo-pumpkin-hire'
+upsells: 
+  - 'rodeo-pig'
+  - 'rodeo-sheep'
+  - 'rodeo-xmas-pudding'
+  - 'rodeo-reindeer'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
+              <p>Best Wishes</p>
+testimonial_attribution: 'Tina'
+testimonial_role: 'Specsavers'
+breadcrumb_name: 'Rodeo Pumpkin'
+date_published: '2015-10-27T13:19:24+00:00'
+primary_image_width: 960
+primary_image_height: 540
+---

@@ -1,0 +1,54 @@
+---
+permalink: /categories/bouncy-castles-hire-petersfield/
+redirect_from:
+  - /products/bouncy-castles-hire-petersfield/
+  - /allproducts/bouncy-castles-hire-petersfield/
+  - /all-products/bouncy-castles-hire-petersfield/
+layout: wp-category.html
+title: 'Bouncy castles hire Petersfield - Monster Event Hire'
+description: 'Bouncy castle hire in Petersfield, Hampshire for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire!'
+body_class: 'archive tax-product-category term-bouncy-castles-hire-petersfield term-557 wp-theme-littlemonsters'
+breadcrumb_name: 'Bouncy Castles Hire Petersfield'
+cat_head_style: 'background:url(/images/uploads/2019/02/BouncyCastles-banner.png) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:15em 0;'
+cat_head_title: 'Bouncy castles hire Petersfield'
+cat_head_intro_html: |-
+  <h2 data-section-id="v9pzqs" data-start="140" data-end="175">Bouncy Castle Hire Petersfield</h2>
+            <p data-start="177" data-end="478">Looking for <strong data-start="189" data-end="237">bouncy castle hire in Petersfield, Hampshire</strong>? Monster Event Hire is here to make your party or event unforgettable! Whether it’s a <strong data-start="324" data-end="390">birthday party, christening, family gathering, or garden party</strong>, we have a wide range of <strong data-start="416" data-end="458">bouncy castles for hire in Petersfield</strong> to suit all ages.</p>
+            <p data-start="480" data-end="714">Our collection includes <strong data-start="504" data-end="540">fun designs for younger children</strong> and <strong data-start="545" data-end="582">larger inflatables for older kids</strong>, so everyone can join in the fun. Feel like a king or queen as you bounce around in the perfect <strong data-start="679" data-end="711">bouncy castle for your event</strong>!</p>
+            <p data-start="716" data-end="950">All our inflatables are <strong data-start="740" data-end="784">safe, high-quality, and fully maintained</strong>, and our friendly team handles delivery, setup, and safety checks. With Monster Event Hire, your <strong data-start="882" data-end="916">Petersfield bouncy castle hire</strong> is stress-free and ready to go.</p>
+            <h3 data-section-id="mdpl2n" data-start="952" data-end="1007">Book Your Bouncy Castle Hire in Petersfield Today</h3>
+            <p data-start="1008" data-end="1132">Browse our range, choose your favourite <strong data-start="1048" data-end="1065">bouncy castle</strong>, and <strong data-start="1071" data-end="1103">call us or book online today</strong> to get your party started!</p>
+            <p></p>
+cat_body_intro_html: |-
+  <h2 data-section-id="v9pzqs" data-start="140" data-end="175">Bouncy Castle Hire Petersfield</h2>
+              <p data-start="177" data-end="478">Looking for <strong data-start="189" data-end="237">bouncy castle hire in Petersfield, Hampshire</strong>? Monster Event Hire is here to make your party or event unforgettable! Whether it’s a <strong data-start="324" data-end="390">birthday party, christening, family gathering, or garden party</strong>, we have a wide range of <strong data-start="416" data-end="458">bouncy castles for hire in Petersfield</strong> to suit all ages.</p>
+              <p data-start="480" data-end="714">Our collection includes <strong data-start="504" data-end="540">fun designs for younger children</strong> and <strong data-start="545" data-end="582">larger inflatables for older kids</strong>, so everyone can join in the fun. Feel like a king or queen as you bounce around in the perfect <strong data-start="679" data-end="711">bouncy castle for your event</strong>!</p>
+              <p data-start="716" data-end="950">All our inflatables are <strong data-start="740" data-end="784">safe, high-quality, and fully maintained</strong>, and our friendly team handles delivery, setup, and safety checks. With Monster Event Hire, your <strong data-start="882" data-end="916">Petersfield bouncy castle hire</strong> is stress-free and ready to go.</p>
+              <h3 data-section-id="mdpl2n" data-start="952" data-end="1007">Book Your Bouncy Castle Hire in Petersfield Today</h3>
+              <p data-start="1008" data-end="1132">Browse our range, choose your favourite <strong data-start="1048" data-end="1065">bouncy castle</strong>, and <strong data-start="1071" data-end="1103">call us or book online today</strong> to get your party started!</p>
+loop_class: 'bouncy_castle'
+product_slugs: 
+  - 'animal-bouncer-bouncy-castle'
+  - 'beach-party-bouncy-castle'
+  - 'all-ages-princess-bouncy-castle'
+  - 'big-top-bouncy-castle'
+  - 'celebration-bouncy-castle'
+  - 'celebration-20x20ft'
+  - 'fairground-bouncy-castle'
+  - 'fairground-20x20ft'
+  - 'jungle-bouncy-castle-2'
+  - 'pirate-2-bouncy-castle'
+  - 'princess-bouncy-castle'
+  - 'princess-castle-with-slide'
+  - 'space-aliens-bouncy-castle-2'
+  - 'super-bouncer-bouncy-castle'
+  - 'superheroes-bouncy-castle'
+  - 'toy-story-bouncy-castle'
+  - 'tweenies-box-bouncy-castle'
+  - 'western-bouncy-castle'
+jsonld_breadcrumb_name: 'Bouncy castles hire Petersfield'
+primary_image: '/images/uploads/2016/04/fairground-20ft.jpg'
+primary_image_width: 2048
+primary_image_height: 1536
+primary_image_caption: 'Fairground Bouncy Castle 20x20ft'
+---

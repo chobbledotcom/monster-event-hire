@@ -1,6 +1,17 @@
 ---
 templateEngineOverride: liquid
 ---
+{%- assign _primary_image = primary_image | default: galleryImages[0] -%}
+{%- assign _primary_image_caption = primary_image_caption | default: galleryAlt -%}
+{%- assign _og_image = og_image | default: _primary_image -%}
+{%- assign _og_image_width = og_image_width | default: primary_image_width -%}
+{%- assign _og_image_height = og_image_height | default: primary_image_height -%}
+{%- assign _img_ext = _og_image | split: "." | last | downcase -%}
+{%- if _img_ext == "png" -%}{%- assign _og_image_type_default = "image/png" -%}
+{%- else -%}{%- assign _og_image_type_default = "image/jpeg" -%}{%- endif -%}
+{%- assign _og_image_type = og_image_type | default: _og_image_type_default -%}
+{%- assign _date_modified = date_modified | default: article_modified_time -%}
+{%- assign _body_class = body_class | default: page.fileSlug -%}
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="{{ schema_type | default: 'http://schema.org/ItemPage' }}">
 <head>
@@ -23,17 +34,17 @@ templateEngineOverride: liquid
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
   {%- if article_modified_time %}
   <meta property="article:modified_time" content="{{ article_modified_time }}">{% endif %}
-  {%- if og_image %}
-  <meta property="og:image" content="{{ og_image }}">{% endif %}
-  {%- if og_image_width %}
-  <meta property="og:image:width" content="{{ og_image_width }}">{% endif %}
-  {%- if og_image_height %}
-  <meta property="og:image:height" content="{{ og_image_height }}">{% endif %}
-  {%- if og_image_type %}
-  <meta property="og:image:type" content="{{ og_image_type }}">{% endif %}
+  {%- if _og_image %}
+  <meta property="og:image" content="{{ _og_image }}">{% endif %}
+  {%- if _og_image_width %}
+  <meta property="og:image:width" content="{{ _og_image_width }}">{% endif %}
+  {%- if _og_image_height %}
+  <meta property="og:image:height" content="{{ _og_image_height }}">{% endif %}
+  {%- if _og_image_type %}
+  <meta property="og:image:type" content="{{ _og_image_type }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
-  {%- if twitter_label1 %}
-  <meta name="twitter:label1" content="{{ twitter_label1 }}">
+  {%- if twitter_data1 %}
+  <meta name="twitter:label1" content="{{ twitter_label1 | default: 'Est. reading time' }}">
   <meta name="twitter:data1" content="{{ twitter_data1 }}">{% endif %}
   {%- if twitter_title %}
   <meta name="twitter:title" content="{{ twitter_title }}">{% endif %}
@@ -43,7 +54,7 @@ templateEngineOverride: liquid
   {%- include "wp-block-styles.html" -%}
   {%- include "head-end.html" -%}
 </head>
-<body data-rsssl="1" class="{{ body_class }}">
+<body data-rsssl="1" class="{{ _body_class }}">
 <div id="site-wrap">
     {%- include "site-header.html" -%}
     {%- include "wp-product-breadcrumbs.html" -%}

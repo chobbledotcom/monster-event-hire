@@ -51,46 +51,108 @@ content:
     path: products
     type: collection
     subfolders: false
+    exclude: ["index.html"]
+    view:
+      fields: [title, category_slug, article_modified_time]
+      primary: title
+      sort: [title]
     fields:
       - { name: title, type: string, label: Title }
-      - { name: header_image, type: image, label: Header Image }
-      - name: categories
-        label: Categories
+      - { name: meta_title, type: string, label: SEO Title }
+      - { name: description, type: string, label: SEO Description }
+      - name: galleryImages
+        label: Gallery
+        type: image
+        options: { multiple: true }
+      - { name: galleryAlt, type: string, label: Gallery Alt Text }
+      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - name: category_slug
+        label: Category
         type: reference
         options:
           collection: categories
+          search: "cat_head_title"
+          value: "{filename}"
+          label: "{cat_head_title}"
+      - { name: category_name, type: string, label: Category Name (display) }
+      - { name: share_description, type: string, label: Share Description }
+      - { name: testimonial_body, type: code, label: Testimonial, options: { language: markdown } }
+      - { name: testimonial_attribution, type: string, label: Testimonial Attribution }
+      - name: item_data
+        label: Item Tags
+        type: string
+        list: true
+      - name: upsells
+        label: Upsells
+        type: reference
+        options:
+          collection: products
           multiple: true
           search: "title"
-          value: "{path}"
+          value: "{filename}"
           label: "{title}"
-      - { name: price, label: Price, type: string }
-      - { name: etsy_url, label: Etsy URL, type: string }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: features, type: string, label: Features, list: true }
-      - name: gallery
-        type: image
-        label: Gallery
-        options: { multiple: true }
-      - { name: header_text, type: string, label: Header Text }
-      - { name: meta_description, type: string, label: Meta Description }
-      - { name: meta_title, type: string, label: Meta Title }
-      - { name: subtitle, type: string, label: Subtitle }
-      
+      - name: redirect_from
+        label: Redirect From (legacy URLs)
+        type: string
+        list: true
+      - { name: date_published, type: date, label: Date Published }
+      - { name: article_modified_time, type: date, label: Last Modified }
+      - { name: og_title, type: string, label: 'OG Title (override)' }
+      - { name: og_description, type: string, label: 'OG Description (override)' }
+      - { name: og_image, type: image, label: 'OG Image (override)' }
+      - { name: breadcrumb_name, type: string, label: 'Breadcrumb Label (override)' }
+      - { name: jsonld_name, type: string, label: 'JSON-LD Name (override)' }
+      - { name: primary_image_width, type: number, label: Image Width }
+      - { name: primary_image_height, type: number, label: Image Height }
+      - { name: twitter_data1, type: string, label: Twitter Reading Time }
+      - { name: permalink, type: string, label: Permalink, hidden: true }
+      - { name: layout, type: string, label: Layout, hidden: true }
+      - { name: body_class, type: string, label: Body Class, hidden: true }
+
   - name: categories
     label: Categories
     path: categories
     type: collection
     subfolders: false
     filename: "{primary}.md"
+    view:
+      fields: [cat_head_title, title]
+      primary: cat_head_title
+      sort: [cat_head_title]
     fields:
-      - { name: title, type: string, label: Title }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: featured, label: Featured, type: boolean }
-      - { name: header_image, type: image, label: Header Image }
-      - { name: header_text, type: string, label: Header Text }
-      - { name: meta_description, type: string, label: Meta Description }
-      - { name: meta_title, type: string, label: Meta Title }
-      - { name: subtitle, type: string, label: Subtitle }
+      - { name: cat_head_title, type: string, label: Short Title }
+      - { name: title, type: string, label: Page Title (SEO) }
+      - { name: description, type: string, label: SEO Description }
+      - { name: cat_head_intro_html, type: code, label: Intro (Header), options: { language: html } }
+      - { name: cat_body_intro_html, type: code, label: Intro (Body), options: { language: html } }
+      - { name: cat_head_style, type: string, label: Header Style (CSS) }
+      - { name: loop_class, type: string, label: Loop CSS Class }
+      - name: product_slugs
+        label: Products
+        type: reference
+        options:
+          collection: products
+          multiple: true
+          search: "title"
+          value: "{filename}"
+          label: "{title}"
+      - { name: primary_image, type: image, label: Primary Image }
+      - { name: primary_image_width, type: number, label: Primary Image Width }
+      - { name: primary_image_height, type: number, label: Primary Image Height }
+      - { name: primary_image_caption, type: string, label: Primary Image Caption }
+      - name: redirect_from
+        label: Redirect From (legacy URLs)
+        type: string
+        list: true
+      - { name: og_title, type: string, label: 'OG Title (override)' }
+      - { name: og_description, type: string, label: 'OG Description (override)' }
+      - { name: og_image, type: image, label: 'OG Image (override)' }
+      - { name: breadcrumb_name, type: string, label: 'Breadcrumb Label (override)' }
+      - { name: jsonld_name, type: string, label: 'JSON-LD Name (override)' }
+      - { name: jsonld_breadcrumb_name, type: string, label: 'JSON-LD Breadcrumb (override)' }
+      - { name: permalink, type: string, label: Permalink, hidden: true }
+      - { name: layout, type: string, label: Layout, hidden: true }
+      - { name: body_class, type: string, label: Body Class, hidden: true }
       
   - name: team
     label: Team

@@ -1,0 +1,42 @@
+---
+permalink: /products/didi-racers/
+redirect_from:
+  - /products/go-kart-quad-bike-hire/didi-racers/
+  - /all-products/didi-racers/
+  - /allproducts/didi-racers
+galleryAlt: Didi Car Racers Game Childrens Party Event Hire
+galleryImages:
+  - /images/uploads/2015/11/didi-cars.png
+  - /images/uploads/2015/11/1779791_1507430319530200_7546861843368780645_n1.jpg
+  - /images/uploads/2015/11/1510776_1507430946196804_2400042738267664722_n2.jpg
+  - /images/uploads/2015/11/didi-cars.jpg
+title: "Didi Car Racers"
+meta_title: "Didi Car Racers"
+og_description: "Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages.&hellip;"
+category_name: "Go Kart Quad Bike Hire"
+category_slug: "go-kart-quad-bike-hire"
+body: |-
+  ## Didi Car Racers
+  These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass.
+  A unique, self propelled ride-on the Didi Car Racers are for children of all ages.
+  Simply turning the wheel left and right moves the didi car’s. No pedals, motors, or batteries, are needed.
+  It’s a magical mystery car that fuels the imagination while helping children keep fit and having fun.
+  Great fun for children and adults alike.
+  Didi car track –  L-9.5m h-1.6 w-5.2m
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-741 wp-theme-littlemonsters didi-racers'
+article_modified_time: '2022-07-07T18:56:07+00:00'
+share_description: 'Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages.'
+upsells: 
+  - 'pedal-go-carts'
+testimonial_body: |-
+  <p>Joanne</p>
+              <p>Just to say a big thank you, the two guys were really great and really worked hard all day long.<br>
+              The day was a great success and everyone loved the football especially.</p>
+              <p>Many thanks for all your hard work.</p>
+testimonial_attribution: 'Paul'
+breadcrumb_name: 'Didi Racers'
+date_published: '2015-11-11T13:14:43+00:00'
+primary_image_width: 268
+primary_image_height: 188
+---

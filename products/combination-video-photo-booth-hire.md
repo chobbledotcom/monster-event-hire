@@ -1,0 +1,69 @@
+---
+permalink: /products/combination-video-photo-booth-hire/
+redirect_from:
+  - /products/photo-booths/combination-video-photo-booth-hire/
+  - /all-products/combination-video-photo-booth-hire/
+  - /allproducts/combination-video-photo-booth-hire
+galleryAlt: Photo Booth Selfie Pod Party and Wedding Event Hire
+galleryImages:
+  - /images/uploads/2015/11/photoboothsnap1.jpg
+  - /images/uploads/2015/11/12086800_10153055242772007_1838128076_n1.jpg
+  - /images/uploads/2015/11/boothblackpink.jpg
+  - /images/uploads/2015/11/boothdesigns.jpg
+title: "Video &#038; Photo Booth hire"
+meta_title: "Video and Photo booth hire - Monster event Hire - Video Booth Hire"
+description: "Video &amp; photo booth hire, a great addition to weddings where attendees can record messages for the bride and groom,or even fun at conferences!"
+og_title: "Video &amp; Photo Booth hire"
+category_name: "Photo Booths"
+category_slug: "photo-booths"
+body: |-
+  # Video & Photo Booth Hire
+  Video & Photo Booth hire, The video booth is fully automated with on screen instructions and fully interactive touch screen controls users can record video messages of up to 40 seconds.Video booth Hire is  a unique way to capture the spirit of your party, wedding or promotion. then here at Monster event hire we would love to help you do exactly that. Looking to hire a video & Photo Booth? Maybe it’s for a birthday party, a christening or a wedding also family parties.
+  We have a comprehensive collection that suits all different types of events and an unrivalled range that will help your event go off with a bang!
+  Our photo booth isn’t just for photos!
+  It can also record video messages from your guests
+  a great addition to weddings where attendees can record messages for the bride and groom
+  As well as weddings, the video and photo booth is a great feature for conferences, exhibitions or events, perfect for feedback.
+  Guests can choose to have photos taken, or record a video message!
+  and a USB stick of video messages and photographs ,given to event organisers .
+  Photos & videos are shot against a curtain using a high quality DSLR camera and printed instantly.
+  -   [Green screen Booth hire](/products/green-screen-photo-booth/)
+  -   [Photo Booth hire](/categories/photo-booth-hire/)
+  **Photo booth hire is great for:**
+  -   Birthday parties
+  -   Wedding
+  -   Christmas parties
+  -   School proms
+  -   Halloween parties
+  -   New year's eve
+  -   Christenings
+  -   Graduation parties
+  -   Engagement parties
+  -   Freshers
+  We require a flat level indoor space 2.3m wide x 1.25m deep x 2.1m high
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-571 wp-theme-littlemonsters video-photo-booth-hire'
+article_modified_time: '2020-03-27T10:00:23+00:00'
+twitter_data1: '1 minute'
+share_description: 'Video &amp; Photo Booth Hire Video &amp; Photo Booth hire, The video booth is fully automated with on screen instructions and fully interactive touch screen controls users can record video messages of up to 40'
+item_data: 
+  - 'photo-booth'
+  - 'photo-booth-hire'
+  - 'video-booth-hire'
+upsells: 
+  - 'green-screen-photo-booth'
+  - 'christmas-photo-booth'
+  - 'magic-selfie-mirror'
+  - 'green-screen-dream-machine'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>Can I just say thank you for an excellent and friendly service.</p>
+              <p>Hope to work with you again in the near future</p>
+              <p>Regards</p>
+testimonial_attribution: 'Sally'
+testimonial_role: 'The Co-operative food, Supply chain logistics'
+breadcrumb_name: 'Combination Video Photo Booth Hire'
+date_published: '2015-11-05T12:08:22+00:00'
+primary_image_width: 640
+primary_image_height: 480
+---
