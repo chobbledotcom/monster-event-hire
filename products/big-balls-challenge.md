@@ -1,0 +1,59 @@
+---
+permalink: /products/big-balls-challenge/
+redirect_from:
+  - /all-products/big-balls-challenge/
+  - /allproducts/big-balls-challenge
+galleryAlt: colourful big balls challenge inflatable in a field
+galleryImages:
+  - /images/uploads/2016/04/13631518_1743532865919943_4987691602966667872_n.jpg
+  - /images/uploads/2016/04/13707577_1742203296052900_2841907986054578461_n.jpg
+  - /images/uploads/2016/04/13570382_1580353405591631_375892374_o.jpg
+  - /images/uploads/2016/04/13754507_1742203306052899_8767362756924969934_n.jpg
+  - /images/uploads/2016/04/13535995_1580353408924964_1484696234_n.jpg
+  - /images/uploads/2016/04/big-ball-challenge.jpg
+title: "Big Balls Challenge"
+meta_title: "Big Balls Challenge"
+description: "Perfect for any large events, this will surely be a fantastic crowd puller, because of its enormous size it will stand out in the crowd."
+body: |-
+  # Big Balls Challenge – Inflatable Obstacle Game Hire
+  Get ready for the ultimate **inflatable obstacle challenge** with the **Big Balls Challenge**! This enormous and thrilling attraction is perfect for **birthday parties, corporate fun days, school events, university activities, community festivals, and large outdoor events**. As one of the **largest inflatable challenges in the UK**, it guarantees to **stand out and attract crowds** wherever it’s set up.
+  ### Features of the Big Balls Challenge
+  -   **Dimensions:** 18m long × 8m wide × 5m high (60ft × 27ft × 15ft)
+  -   Climb the ladder, navigate **four giant multi-coloured balls**, and reach the final platform to win
+  -   Suitable for **participants aged 10 and above**
+  -   Maximum of **1 participant at a time**
+  -   Fully staffed with an **operator included**
+  -   Suitable for **indoor and outdoor use**
+  -   Requires **standard 13amp plug** for power
+  -   Full driveable access required for setup
+  ### How It Works
+  Participants climb a ladder to reach the starting platform, then attempt to traverse **four huge inflatable balls**. Falling off means the challenge ends—but staying on to reach the final platform makes you a **winner**! This interactive inflatable combines **balance, agility, and fun** into one thrilling experience.
+  ### Perfect for Any Event
+  The **Big Balls Challenge** is ideal for:
+  -   **Corporate team-building and fun days** – Test balance, focus, and determination
+  -   **School and college events** – Engaging, active entertainment for students
+  -   **Birthday parties and family events** – Exciting challenge for kids and teens
+  -   **Community festivals and outdoor events** – Massive crowd-puller and attention-grabber
+  For a complete “**Wipe Out**” experience, hire alongside our **Last Man Standing inflatable** or the **Hungry Hippos Dash & Grab game** for even more interactive fun.
+  This inflatable is the **largest of its kind in the UK**, making it an unforgettable highlight at any event. Bring **fun, excitement, and challenge** to your next party, festival, or corporate event with the **Big Balls Challenge**.
+  **Book online today or call us to hire the Big Balls Challenge for your next event!**
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1282 wp-theme-littlemonsters big-balls-challenge'
+article_modified_time: '2026-03-24T20:29:20+00:00'
+twitter_data1: '2 minutes'
+share_description: 'Big Balls Challenge – Inflatable Obstacle Game Hire Get ready for the ultimate inflatable obstacle challenge with the Big Balls Challenge! This enormous and thrilling attraction is perfect for birthday parties, corporate fun days, school'
+upsells: 
+  - 'ball-run-challenge'
+  - 'mangle-run'
+  - 'dash-and-grab'
+  - 'inflatable-base-jump'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
+              <p>Kind regards</p>
+testimonial_attribution: 'Katy Wood'
+testimonial_role: 'Burpham Primary School'
+date_published: '2016-04-02T12:19:15+00:00'
+primary_image_width: 960
+primary_image_height: 720
+---

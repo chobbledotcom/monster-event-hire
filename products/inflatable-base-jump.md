@@ -1,0 +1,57 @@
+---
+permalink: /products/inflatable-base-jump/
+redirect_from:
+  - /products/inflatables-hire/inflatable-base-jump/
+  - /all-products/inflatable-base-jump/
+  - /allproducts/inflatable-base-jump
+galleryAlt: base jump inflatable hire
+galleryImages:
+  - /images/uploads/2015/11/base-jump-shaun.jpg
+  - /images/uploads/2015/11/chris-10.jpg
+  - /images/uploads/2015/11/11091341_10152693481147007_270554690562244401_n.jpg
+  - /images/uploads/2015/11/11149367_10152693481002007_601557335858477651_n.jpg
+  - /images/uploads/2015/11/11823747_10152928169037007_1107965241_n1.jpg
+  - /images/uploads/2015/11/chris-10-8.jpg
+  - /images/uploads/2015/11/chris-10-8-15.jpg
+  - /images/uploads/2015/11/chris-10-8-15.jpg
+title: "Inflatable Base Jump"
+meta_title: "Inflatable Base Jump"
+og_description: "Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off&hellip;"
+category_name: "Inflatables Hire"
+category_slug: "inflatables-hire"
+body: |-
+  ## Inflatable Base Jump
+  Climbing up may be difficult, but that’s nothing compared to the courage required to leap off the edge onto the safety area below.
+  Find out how it might feel to be a Hollywood stuntman jumping off a building!
+  Scared? You should be!
+  At a whopping height of 11.5ft, Base Jump is the only inflatable of its size in the UK!
+  Full drive able access is required.
+  -   Member of staff to run the equipment during your Hire
+  -   All of our equipment comes complete with £10 Million Public Liability.
+  -   Suitable for 10 years and above.
+  Length (m): 11.4mtrs    Width (m): 6.79mtrs           Height (m): 5.1mtrs
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-526 wp-theme-littlemonsters inflatable-base-jump'
+article_modified_time: '2021-09-03T17:14:00+00:00'
+share_description: 'Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off'
+item_data: 
+  - 'base'
+  - 'basejump'
+  - 'jump'
+  - 'total-wipe-out-inflatables'
+  - 'wipe-out-games'
+upsells: 
+  - 'cross-beam-challenge'
+  - 'the-grand-bounce-national'
+  - 'boot-camp-challenge-assault-course'
+  - 'mangle-run'
+testimonial_body: |-
+  <p>Joanne</p>
+              <p>Just to say a big thank you, the two guys were really great and really worked hard all day long.<br>
+              The day was a great success and everyone loved the football especially.</p>
+              <p>Many thanks for all your hard work.</p>
+testimonial_attribution: 'Paul'
+date_published: '2015-11-24T13:17:05+00:00'
+primary_image_width: 960
+primary_image_height: 720
+---

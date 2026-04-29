@@ -1,0 +1,49 @@
+---
+permalink: /products/whack-an-elf/
+redirect_from:
+  - /allproducts/christmas-party-entertainment/whack-an-elf/
+  - /all-products/whack-an-elf/
+  - /allproducts/whack-an-elf
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2025/10/Whack-An-Elf-christmas-hire-.jpg
+  - /images/uploads/2025/10/whack-an-elf.jpg
+  - /images/uploads/2025/10/whack-an-elf-3.jpg
+  - /images/uploads/2025/10/whack-an-elf-1.jpg
+  - /images/uploads/2025/10/whack-an-elf-2.jpg
+  - /images/uploads/2025/10/Whack-An-Elf-christmas-hire-.jpg
+title: "Whack an Elf"
+meta_title: "Whack an Elf Monster Event Hire"
+description: "Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.Our system uses light up targets!"
+category_name: "Christmas Party Entertainment"
+category_slug: "christmas-party-entertainment"
+body: |-
+  # Whack an Elf
+  Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.
+  Our system uses light up targets instead of mechanical moles but utilising the classic foam hammers for each player.
+  A fast paced game is to “whack” as many mole’s in the designated time.
+  Who will be the winner on the Digital score board, with Great sound effects to get the game going.
+  Highly interactive game and great fun for players and spectators.
+  Ideal for corporate events, parties, product launches, promotions, birthdays, university’s, office parties, Christmas Parties or even your own house party.
+  -   Suitable for indoor or marquee use only
+  -   Max number of users 2
+  -   Requires 13amp – 240V power supply
+  -   Equipment dimensions 1.2m x 0.8m x 1.5m
+  -   Operational area required 1.2m x 0.8m x 1.5m
+  -   Users per hour – up to 80
+  **Operated by our fully trained staff.**
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-2344 wp-theme-littlemonsters whack-an-elf'
+article_modified_time: '2026-02-18T11:43:08+00:00'
+twitter_data1: '1 minute'
+share_description: 'Whack an Elf Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past. Our system uses light up targets instead of mechanical moles'
+testimonial_body: |-
+  <p>We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener&#8217;s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.</p>
+              <p>We have to submit a report to our senior line managers, for next year&#8217;s graduates to read and I will be including and recommending you in this report.</p>
+              <p>Once again thank you very much.</p>
+testimonial_attribution: 'Andrew McGregor'
+breadcrumb_name: 'Whack An Elf'
+date_published: '2025-10-20T18:33:51+00:00'
+primary_image_width: 1536
+primary_image_height: 2048
+---

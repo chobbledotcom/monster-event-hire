@@ -1,6 +1,16 @@
 ---
 templateEngineOverride: liquid
 ---
+{%- assign _short_title = cat_head_title | default: title -%}
+{%- assign _og_title_default = _short_title | append: " Archives" -%}
+{%- assign _og_title = og_title | default: _og_title_default -%}
+{%- assign _og_description = og_description | default: description -%}
+{%- assign _breadcrumb_name = breadcrumb_name | default: cat_head_title | default: title -%}
+{%- assign _og_img_src = og_image | default: primary_image -%}
+{%- assign _img_ext = _og_img_src | split: "." | last | downcase -%}
+{%- if _img_ext == "png" -%}{%- assign _og_image_type = "image/png" -%}
+{%- else -%}{%- assign _og_image_type = "image/jpeg" -%}{%- endif -%}
+{%- assign _body_class = body_class | default: page.fileSlug -%}
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="{{ schema_type | default: 'https://schema.org/CollectionPage' }}">
 <head>
@@ -17,8 +27,8 @@ templateEngineOverride: liquid
   <meta name="description" content="{{ description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="{{ og_type | default: 'article' }}">
-  <meta property="og:title" content="{{ og_title | default: title }}">
-  <meta property="og:description" content="{{ og_description | default: description }}">
+  <meta property="og:title" content="{{ _og_title }}">
+  <meta property="og:description" content="{{ _og_description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk{{ page.url }}">
   <meta property="og:site_name" content="Monster Event Hire">
   {%- if og_image %}
@@ -27,8 +37,8 @@ templateEngineOverride: liquid
   <meta property="og:image:width" content="{{ og_image_width }}">{% endif %}
   {%- if og_image_height %}
   <meta property="og:image:height" content="{{ og_image_height }}">{% endif %}
-  {%- if og_image_type %}
-  <meta property="og:image:type" content="{{ og_image_type }}">{% endif %}
+  {%- if og_image %}
+  <meta property="og:image:type" content="{{ og_image_type | default: _og_image_type }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
   {%- if twitter_title %}
   <meta name="twitter:title" content="{{ twitter_title }}">{% endif %}
@@ -41,7 +51,7 @@ templateEngineOverride: liquid
   {%- include "wp-block-styles.html" -%}
   {%- include "head-end.html" -%}
 </head>
-<body data-rsssl="1" class="{{ body_class }}">
+<body data-rsssl="1" class="{{ _body_class }}">
 <div id="site-wrap">
     {%- include "site-header.html" -%}
     <div class="breadcrumbs">
@@ -49,7 +59,7 @@ templateEngineOverride: liquid
         <div itemscope itemtype="http://schema.org/BreadcrumbList">
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-products" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/all-products/"><span itemprop="name">All Products</span></a>
-          <meta itemprop="position" content="2"></span><span class="breadcrumb-{{ page.fileSlug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"><span itemprop="name">{{ breadcrumb_name | default: cat_head_title | default: title }}</span></a>
+          <meta itemprop="position" content="2"></span><span class="breadcrumb-{{ page.fileSlug }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="{{ page.url }}"><span itemprop="name">{{ _breadcrumb_name }}</span></a>
           <meta itemprop="position" content="3"></span>
         </div>
       </div>

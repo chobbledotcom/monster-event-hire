@@ -1,0 +1,58 @@
+---
+permalink: /products/medieval-human-demolition/
+redirect_from:
+  - /products/games/medieval-human-demolition/
+  - /all-products/medieval-human-demolition/
+  - /allproducts/medieval-human-demolition
+galleryAlt: Demolition Inflatable Monster Event Hire England
+galleryImages:
+  - /images/uploads/2015/10/11698641_1605751949698036_3230445946502801487_n1.jpg
+  - /images/uploads/2015/10/539375_460517760655341_1556826430_n.jpg
+  - /images/uploads/2015/10/250230_460517843988666_773877955_n.jpg
+  - /images/uploads/2015/10/546125_460517787322005_506526502_n.jpg
+  - /images/uploads/2015/10/295141_10151224834743103_287627104_n1.jpg
+  - /images/uploads/2015/10/298180_259558427417943_1782262313_n.jpg
+  - /images/uploads/2015/10/311461_259558334084619_766331790_n.jpg
+  - /images/uploads/2015/10/486728_10151224855353103_307223727_n1.jpg
+  - /images/uploads/2015/10/539375_460517760655341_1556826430_n.jpg
+  - /images/uploads/2015/10/swe.jpg
+  - /images/uploads/2015/10/10697417_1507435646196334_4129817286165553335_o1.jpg
+title: "Medieval Human Demolition"
+meta_title: "Medieval Human Demolition"
+og_description: "Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to&hellip;"
+category_name: "Games"
+category_slug: "games"
+body: |-
+  ## Human Demolition
+  Time for your party to go medieval with this Human Demolition ! It’s big, it’s bold and it is *extreme*. This high energy game is a demolition bonanza – its size is sure to draw the crowd!
+  Starting with four players standing on medieval pedestals\*, the aim is to swing the imitation wrecking ball (it still packs a punch!) at the other contestants to dethrone them and send them crashing out of the arena. The last man standing wins.
+  The delicate act of balancing on an inflatable, unstable platform whilst swinging a great boulder at each other is a difficult task, even for the most seasoned demolisher – prove your worth on this!
+  *\*May or may not be from the Medieval era.*
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 28′ x 28′
+  Ideal for team events / corporate events
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-301 wp-theme-littlemonsters medieval-demolition'
+article_modified_time: '2019-03-18T16:55:29+00:00'
+twitter_data1: '1 minute'
+share_description: 'Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to'
+item_data: 
+  - 'human-demolition'
+  - 'large-inflatable-swing-ball'
+  - 'wipe-out-inflatable'
+upsells: 
+  - 'multi-sports-arena'
+  - 'bungee-eliminator'
+  - 'rock-n-roller-gladiator-joust'
+  - '3-in-1-sports-inflatable-game'
+testimonial_body: |-
+  <p>We have worked with Monster for five years now, from the very first year of our event. Our festival has grown considerably since it&#8217;s first year and Monster have supported us along the way with their involvement also growing each year with the festival.</p>
+              <p>Monster have a great relationship with the young attendees of our event and it&#8217;s fair to say that the activities that they provide are an absolute key element to our success and the reason that some kids keep coming back!</p>
+              <p>I&#8217;m sure ours is not the easiest event for Monster as we&#8217;re continually changing our requirements right up until the day (and on the day!) but it is never a problem for Joanne and the team who are always able to deliver.</p>
+              <p>I can&#8217;t recommend Monster highly enough &#8211; their flexibility, positive attitude and willingness to go over and above is why we continue to use them year on year.</p>
+              <p>Many thanks</p>
+testimonial_attribution: 'Lucy Soal'
+testimonial_role: 'Community Services, East Hampshire District Council'
+date_published: '2015-10-27T09:33:53+00:00'
+primary_image_width: 960
+primary_image_height: 540
+---

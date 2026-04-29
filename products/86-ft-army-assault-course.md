@@ -1,0 +1,67 @@
+---
+permalink: /products/86-ft-army-assault-course/
+redirect_from:
+  - /products/assault-courses-hire/86-ft-army-assault-course/
+  - /all-products/86-ft-army-assault-course/
+  - /allproducts/86-ft-army-assault-course
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2016/04/86ft-army-assault-course-1.jpg
+  - /images/uploads/2016/04/86ft-assault-course.jpg
+  - /images/uploads/2016/04/86ft-army-assault-course.jpg
+title: "86 ft Army Assault Course"
+meta_title: "86 ft Army Assault Course -86ft Army Assault Course inflatable"
+description: "86ft inflatable army assault course is big on size and pushes the fun factor to an even bigger scale. great for school reward days, team building"
+category_name: "Assault Courses Hire"
+category_slug: "inflatable-assault-course-and-obstacle-course-hire"
+body: |-
+  # 86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide
+  Go bigger, faster, and more extreme with our **86ft Army Assault Course Hire** – one of the largest and most impressive inflatables available. Perfect for large-scale events, this **giant army inflatable obstacle course** delivers non-stop action, चुनौती, and excitement for all ages.
+  Begin your mission by squeezing through the letterbox entrance, then charge through biff and bash soldiers, crawl through tunnels, battle the mangles, and take on multiple obstacle sections. Build speed through the slip-and-slide before conquering the epic **10ft mega slide finish**!
+  ### 🪖 Why Choose the 86ft Army Assault Course?
+  -   Massive **86ft inflatable assault course** – ideal for large events
+  -   Packed with **multiple obstacle zones and challenges**
+  -   Includes **slip & slide sections + 10ft mega slide finale**
+  -   Bold and popular **army/military theme**
+  -   Suitable for **children, teens, and adults**
+  -   Perfect for **competitive races and team challenges**
+  ### 🎯 Ideal For:
+  -   Corporate events & team building days
+  -   School reward days & sports events
+  -   Family fun days & festivals
+  -   Large birthday parties & celebrations
+  -   Community events & fundraisers
+  ### 📏 Equipment Details:
+  -   **Size:** 86ft (L) x 12ft (W) x 15ft (H)
+  -   **Recommended Space:** Allow additional room for safe setup and access
+  -   **Power:** 3 x standard 13amp plugs (domestic sockets required)
+  ### 📍 Army Assault Course Hire in Hampshire & Surrey
+  We provide professional **inflatable hire across Hampshire, Surrey, and surrounding areas**, including delivery, setup, and collection—making your event completely hassle-free.
+  -   *86ft assault course hire near me*
+  -   *giant inflatable obstacle course UK*
+  -   *army assault course hire Hampshire*
+  -   *large corporate inflatable hire*
+  ### ⭐ A Show-Stopping Centrepiece
+  This is one of the **largest and most eye-catching assault courses in our range**, making it perfect for events where you want to attract attention and keep large groups entertained.
+  ### ⚡ Book Your 86ft Army Assault Course Today
+  Due to its size and popularity, this inflatable is in high demand—especially for corporate and large-scale events. Contact us now to secure your booking and bring the ultimate inflatable challenge to your event!
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1307 wp-theme-littlemonsters 86-ft-army-assault-course'
+article_modified_time: '2026-03-25T18:48:44+00:00'
+twitter_data1: '2 minutes'
+share_description: '86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide Go bigger, faster, and more extreme with our 86ft Army Assault Course Hire – one of the largest and most impressive inflatables'
+upsells: 
+  - 'fun-fair-assault-course'
+  - '125ft-army-assault-course'
+  - '50ft-army-assault-course'
+  - '75ft-army-assault-course'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we&#8217;ll defo be using you again for a summer party, will be in touch soon.</p>
+              <p>Thanks again</p>
+testimonial_attribution: 'Coral'
+breadcrumb_name: '86 Ft Army Assault Course'
+date_published: '2016-04-18T17:43:14+00:00'
+primary_image_width: 1169
+primary_image_height: 877
+---

@@ -1,0 +1,60 @@
+---
+permalink: /products/multi-sports-arena/
+redirect_from:
+  - /products/games/multi-sports-arena/
+  - /all-products/multi-sports-arena/
+  - /allproducts/multi-sports-arena
+galleryAlt: Multi Sports Event Hire UK
+galleryImages:
+  - /images/uploads/2015/10/29-7-15.jpg
+  - /images/uploads/2015/10/10849885_1507431342863431_2642234582846300701_n1.jpg
+  - /images/uploads/2015/10/10665673_1507431339530098_6728735091614275126_n1.jpg
+  - /images/uploads/2015/10/multi-sports-1.jpg
+  - /images/uploads/2015/10/multi-sprots-2.jpg
+title: "Multi Sports Arena"
+meta_title: "multi sports arena- volleyball inflatable hire"
+description: "Multi Sports Arena can be used for, inflatable volleyball hire, Bouncy football and much more, Inflatable volleyball is most popular for team building."
+category_name: "Games"
+category_slug: "games"
+body: |-
+  ## Multi Sports Arena – Inflatable Volleyball Hire
+  If you think this looks like something special, The Multi Sports Arena – Inflatable Volleyball Hire really is!
+  Our unique multi sports arena is the perfect platform for fun and games in a soft (and bouncy) environment. Featuring inflatable goal posts that can be utilised however you like, this arena has entrances at each end for a jump-in, jump-out, quick fire experience.
+  The inflatable volley ball is one of the most popular inflatables for team building days.
+  This game is a must for team building, fun days, corporate, company days, promotions and events.
+  With a high retaining safety wall.
+  The Sports Arena can be used for:
+  -   Bouncy basketball
+  -   Bouncy netball
+  -   Bouncy volleyball
+  -   Bouncy badminton
+  -   5 a side Bouncy football
+  Suitable for children and adults
+  ![](/wp-content/themes/littlemonsters/images/size.png) 12mtrs x 6mtrs or 40ft x 20ft
+  **Operated by our fully trained staff**
+  -   All our equipment comes complete with £10 Million Public Liability.
+  -   Power: 2 x Standard 13amp plug (normal/domestic power point)
+  Have a look at some more Team building ideas here [corporate events](/categories/team-building-corporate/).
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-268 wp-theme-littlemonsters multi-sports-arena-volleyball-inflatable-hire'
+article_modified_time: '2023-04-13T14:01:56+00:00'
+twitter_data1: '1 minute'
+share_description: 'Multi Sports Arena &#8211; Inflatable Volleyball Hire If you think this looks like something special, The Multi Sports Arena &#8211; Inflatable Volleyball Hire really is! Our unique multi sports arena is the perfect platform for'
+item_data: 
+  - 'multi-sport-arena'
+  - 'multi-sports-arena'
+upsells: 
+  - 'human-table-football'
+  - '150ft-army-assault-course'
+  - 'gold-cup-horse-racing-challenge'
+  - 'combat-tag-archery'
+testimonial_body: |-
+  <p>Hiya</p>
+              <p>Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!</p>
+              <p>Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.</p>
+              <p>It was a perfect day.</p>
+testimonial_attribution: 'Tamara and Adrian'
+date_published: '2014-11-21T11:17:04+00:00'
+primary_image_width: 960
+primary_image_height: 720
+---

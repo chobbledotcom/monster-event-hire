@@ -1,0 +1,144 @@
+---
+permalink: /products/party-marquees/
+redirect_from:
+  - /products/marquees/party-marquees/
+  - /all-products/party-marquees/
+  - /allproducts/party-marquees
+galleryAlt: Marquees Party Event Wedding Night Hire
+galleryImages:
+  - /images/uploads/2015/12/marquee_night.jpg
+  - /images/uploads/2015/12/marquee.jpg
+  - /images/uploads/2015/12/pictures-083.jpg
+  - /images/uploads/2015/12/11928741_1624809837792247_9180147633668244708_n1.jpg
+  - /images/uploads/2015/12/10407428_1507424206197478_5655152982399720296_n1.jpg
+  - /images/uploads/2015/12/photo-5.jpg
+title: "Party Marquee Hire"
+meta_title: "Party marquee | capri marquee | marquee hire |surrey | Hampshire |sussex"
+description: "Party marquees,The elegant design of our Capri Marquees create wonderful spaces with gorgeous lighting that can be arranged to suit your tastes"
+category_name: "Marquees"
+category_slug: "marquees"
+body: |-
+  # 🎪 Party Marquee Hire – Monster Event Hire
+  Make any celebration unforgettable with **Party Marquee Hire** from **Monster Event Hire**! Whether you’re planning a **birthday party, wedding reception, family gathering, corporate event, school fun day, garden party or festival**, our high‑quality party marquees provide stylish, weather‑proof space that keeps your guests comfortable and entertained. We deliver, set up and operate marquees across **Hampshire, Surrey, Sussex & London**.
+  ## 🏡 What Our Party Marquees Offer
+  Our party marquees are designed to give you **flexible, weather‑ready space** that looks great and works for all types of events. Each marquee:
+  -   Offers **spacious, covered space** for your guests
+      
+  -   Can be decorated to match your event theme
+      
+  -   Provides a **safe and sheltered area** rain or shine
+      
+  -   Works with **flooring, lighting, heating, and seating** upgrades
+      
+  -   Fits outdoor spaces like **gardens, fields, community venues or festival zones**
+      
+  **In other words**, our party marquees give you the perfect blank canvas to create memorable moments.
+  ## 🎉 Perfect for Many Occasions
+  Party marquees are ideal for a wide range of events:
+  -   **Birthday Parties** – protect your guests from weather
+      
+  -   **Weddings & Receptions** – elegant and customizable space
+      
+  -   **Garden Parties & BBQs** – shade and shelter for guests
+      
+  -   **Corporate Events & Team Building** – flexible venue options
+      
+  -   **School Events & Fundraisers** – safe space for large groups
+      
+  -   **Festivals & Community Gatherings** – focal point for activities
+      
+  No matter the occasion, our marquees help you host **comfortable, well‑organized events**.
+  ## 🌦️ Weather‑Ready & Customizable
+  Party marquees are perfect when you want event space that’s:
+  -   **Protected from rain, wind, and sun**
+      
+  -   Spacious and open for social activities
+      
+  -   Easy to decorate with lighting, drapes, or flooring
+      
+  -   Large enough to accommodate food stations, bars, stages, or DJ areas
+      
+  **Additionally**, we can add **clear sidewalls, dance floors, tables, chairs, and lighting** to match your event style and needs.
+  ## 🛠️ Professional Setup & Support
+  We handle everything so you don’t have to worry:
+  -   **Delivery and setup** at your chosen venue
+      
+  -   **Professional installation** with safety and weather considerations
+      
+  -   **Optional décor solutions** to enhance your event space
+      
+  -   **Breakdown and removal** after the event
+      
+  Our trained team ensures your marquee is **secure, stable, and ready** for guests.
+  ## 📍 Areas We Cover
+  We provide Party Marquee Hire across:
+  -   **Hampshire**
+      
+  -   **Surrey**
+      
+  -   **Sussex**
+      
+  -   **London**
+      
+  Whether your event is in a **back garden, village green, field, recreation ground, hall or private estate**, we’ll make it happen.
+  ## 📅 Book Party Marquee Hire Today
+  Create the perfect space for celebrations with our **Party Marquee Hire** service.  
+  **Check availability or request a quote today** and let us help you bring your event to life!
+  Party Marquee Hire Perfect for
+  -   [Wedding Marquee Hire](https://completemarquees.co.uk/wedding-marquees/)
+  -   [Party Marquee Hire](https://completemarquees.co.uk/party-marquees/)
+  -   [Corporate Event Marquee Hire](https://www.completemarquees.co.uk/corporate-event-marquees/)
+  -   [Fun Day Event Marquee Hire](https://completemarquees.co.uk/party-marquees/)
+  -   Garden Parties of any size…
+  [Get in touch today](/contact-us/)
+  02392 717 925
+  All sizes booked must be able to fit on a flat grassed area – **not hard standing.**
+  The client is advised to check any space for the size ordered.
+  Description
+  Size (Approx.)
+  Seated
+  Standing
+   
+  Capri Marquee
+  20’ x 20′
+   
+  25
+   
+  Capri Marquee
+  20’ x 30′
+  40
+  60
+   
+  Capri Marquee
+  28’ x 38′
+  80
+  100
+   
+  Capri Marquee
+  28’ x 58′
+  120
+  150
+  "Just a short note to say how great the Marquee hire was on Saturday. The guys you sent to set-up were really friendly & efficient, and the Pirates Ahoy was a complete success! Many thanks, and if/when we're in need of a Marquee again, I will be in touch. - Lucy"
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-991 wp-theme-littlemonsters party-marquee-hire'
+article_modified_time: '2026-03-09T20:53:27+00:00'
+twitter_data1: '3 minutes'
+share_description: '🎪 Party Marquee Hire – Monster Event Hire Make any celebration unforgettable with Party Marquee Hire from Monster Event Hire! Whether you’re planning a birthday party, wedding reception, family gathering, corporate event, school fun day,'
+item_data: 
+  - 'marquee-hire'
+  - 'marquee-hire-bouremouth'
+  - 'marquee-hire-hampshire'
+  - 'marquee-hire-surrey'
+upsells: 
+  - 'cash-grabber'
+  - 'atari-pong-table-hire'
+  - 'rodeo-bull-hire'
+testimonial_body: |-
+  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
+              <p>Thanks again</p>
+testimonial_attribution: 'Victoria Marshall'
+breadcrumb_name: 'Party Marquees'
+date_published: '2014-12-07T16:49:57+00:00'
+primary_image_width: 690
+primary_image_height: 400
+---

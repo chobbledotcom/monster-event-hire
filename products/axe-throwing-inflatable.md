@@ -1,0 +1,65 @@
+---
+permalink: /products/axe-throwing-inflatable/
+redirect_from:
+  - /allproducts/games/axe-throwing-inflatable/
+  - /all-products/axe-throwing-inflatable/
+  - /allproducts/axe-throwing-inflatable
+galleryAlt: axe toss
+galleryImages:
+  - /images/uploads/2020/01/axthrowing2.jpg
+  - /images/uploads/2020/01/axe-thowing-1.jpg
+  - /images/uploads/2020/01/ax-throwing-inflatable1.jpg
+  - /images/uploads/2020/01/ax-throwing.jpg
+  - /images/uploads/2020/01/axthrowing.jpg
+  - /images/uploads/2020/01/axe-throwing.jpg
+title: "Axe Throwing"
+meta_title: "Axe Throwing - inflatable axe throwing - monster event hire"
+description: "Enjoy all the fun of Axe Throwing without the Danger! with our Axe throwing inflatable, Our velcro axes are safe for all age groups."
+og_description: "Enjoy all the fun of Axe Throwing without the Danger! Our velcro axes are safe for all age groups, how goods your aim? Can you split the board?"
+category_name: "Games"
+category_slug: "games"
+body: |-
+  # Axe Throwing Inflatable Hire – Safe & Fun Event Activity
+  Bring the excitement of **axe throwing** to your next event with our **Axe Throwing Inflatable hire**! Also known as **Ax Toss**, this thrilling and interactive inflatable game has quickly become one of the most popular attractions for **corporate events, birthday parties, school activities, university events, and community festivals**. Now your guests can experience **axe throwing in a safe and fun environment** with our **Velcro axes**, making it perfect for **kids, teens, and adults**.
+  ### Features of the Axe Throwing Inflatable
+  -   Safe **Velcro axes** – fun for all ages
+  -   Compact and portable inflatable – ideal for indoor or outdoor use
+  -   **Dimensions:** 4.8m long × 3.0m wide × 2.65m high (15.8ft × 9.9ft × 8.7ft)
+  -   Powered by **1 × standard 13amp plug** for easy setup
+  -   Fully supervised by trained staff for **safe and smooth gameplay**
+  -   Interactive and competitive – perfect for individual or group challenges
+  ### How It Works
+  Players aim their **Velcro axes** at the target on the inflatable, testing their **hand-eye coordination, precision, and focus**. Each throw is exciting and interactive, offering a safe alternative to traditional axe throwing without compromising the **thrill and challenge** of hitting the bullseye. Whether for a **friendly competition** or a structured team-building activity, the **Axe Throwing Inflatable** keeps participants engaged and entertained throughout your event.
+  ### Perfect for Any Event
+  The **Axe Throwing Inflatable** is ideal for:
+  -   **Corporate team-building events** – Encourages focus, strategy, and friendly rivalry
+  -   **Birthday parties** – Fun, safe, and memorable entertainment for kids and adults
+  -   **School and university events** – Interactive activity for students and groups
+  -   **Community events and festivals** – Crowd-puller and unique attraction
+  This inflatable provides a **safe, exciting, and competitive experience** that will make your event unforgettable. Combine it with other **inflatable games** for a full day of **fun, skill, and friendly competition**.
+  **Book online today or call us to hire the Axe Throwing Inflatable for your next birthday party, school event, corporate challenge, or community festival!**
+  Have a look at some more Team building ideas here [corporate events](/categories/team-building-corporate/).
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1964 wp-theme-littlemonsters axe-throwing-inflatable'
+og_image: '/images/uploads/2020/01/ax-throwing-inflatable1.jpg'
+og_image_width: 2016
+og_image_height: 1512
+article_modified_time: '2026-03-24T20:37:47+00:00'
+twitter_data1: '2 minutes'
+twitter_title: 'Axe Throwing'
+share_description: 'Axe Throwing Inflatable Hire – Safe &amp; Fun Event Activity Bring the excitement of axe throwing to your next event with our Axe Throwing Inflatable hire! Also known as Ax Toss, this thrilling and interactive'
+upsells: 
+  - '150ft-army-assault-course'
+  - 'pedal-go-carts'
+  - 'archery'
+testimonial_body: |-
+  <p>We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener&#8217;s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.</p>
+              <p>We have to submit a report to our senior line managers, for next year&#8217;s graduates to read and I will be including and recommending you in this report.</p>
+              <p>Once again thank you very much.</p>
+testimonial_attribution: 'Andrew McGregor'
+breadcrumb_name: 'Axe Throwing Inflatable'
+date_published: '2020-01-20T13:55:59+00:00'
+primary_image_width: 750
+primary_image_height: 562
+primary_image_caption: 'how good your aim?'
+---

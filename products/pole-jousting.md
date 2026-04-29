@@ -1,0 +1,46 @@
+---
+permalink: /products/pole-jousting/
+redirect_from:
+  - /products/sports-competitive-activities/pole-jousting/
+  - /all-products/pole-jousting/
+  - /allproducts/pole-jousting
+galleryAlt: Pole Jousting Monster Event Hire England
+galleryImages:
+  - /images/uploads/2015/10/polejousting1.jpg
+  - /images/uploads/2015/10/11377120_1591443517795546_8769711006679411299_n1.jpg
+  - /images/uploads/2015/10/10733727_1507448776195021_122774138156816226_o1.jpg
+  - /images/uploads/2015/10/11351174_1595743730698858_3990371115087670827_n1.jpg
+  - /images/uploads/2015/10/10446203_1507449146194984_3827595208919858214_o1.jpg
+  - /images/uploads/2015/10/pole-joust.jpg
+title: "Pole Jousting"
+meta_title: "Pole Jousting"
+og_description: "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;"
+category_name: "Sports Competitive Activities"
+category_slug: "sports-competitive"
+body: |-
+  ## Pole Jousting
+  Knock your adversary off the pole and onto the inflatable bed of defeat.
+  Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun competition.
+  Great for parties and events.
+  **13ft** x **13ft**
+  Head guards provided.
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-266 wp-theme-littlemonsters pole-jousting'
+article_modified_time: '2022-07-07T19:23:33+00:00'
+share_description: 'Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun'
+upsells: 
+  - 'big-balls-challenge'
+  - 'skateboard-simulator'
+  - 'bungee-run'
+  - 'multi-sports-arena'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>We just wanted to say thank you for such an excellent service from Monster today.</p>
+              <p>Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son&#8217;s birthday party a big success.</p>
+              <p>I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!</p>
+              <p>Many thanks again.</p>
+testimonial_attribution: 'Philippa Pendred'
+date_published: '2015-10-26T11:09:24+00:00'
+primary_image_width: 720
+primary_image_height: 720
+---

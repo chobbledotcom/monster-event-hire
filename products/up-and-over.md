@@ -1,0 +1,45 @@
+---
+permalink: /products/up-and-over/
+redirect_from:
+  - /products/inflatables-hire/up-and-over/
+  - /all-products/up-and-over/
+  - /allproducts/up-and-over
+galleryAlt: Up and Over Little monster event hire
+galleryImages:
+  - /images/uploads/2016/01/up-and-over-slide1.jpg
+  - /images/uploads/2016/01/up-and-over-slide1.jpg
+  - /images/uploads/2016/01/car-pics-047.jpg
+  - /images/uploads/2015/12/car-pics-049.jpg
+title: "Up and Over Mini Everest"
+meta_title: "Up and Over Mini Everest"
+og_description: "Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with&hellip;"
+category_name: "Inflatables Hire"
+category_slug: "inflatables-hire"
+body: |-
+  Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events.
+  Mix and match with other inflatables in the Wipeout range!
+  Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.
+  30ft L x 21ftw x 12fth
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1138 wp-theme-littlemonsters up-and-over-mini-everest'
+og_image_width: 1024
+og_image_height: 768
+article_modified_time: '2017-03-02T10:34:35+00:00'
+share_description: 'Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with'
+upsells: 
+  - 'dash-and-grab'
+  - 'inflatable-base-jump'
+  - 'the-sweeper'
+  - 'the-challenger'
+testimonial_body: |-
+  <p>Hi Joanne,</p>
+              <p>Despite a two hour down pour during our event, all equipment was enjoyed yesterday!<br>
+              Thanks to you and your team.</p>
+              <p>Kind regards</p>
+testimonial_attribution: 'Verity'
+testimonial_role: 'Tudor Capital Europe LLP'
+breadcrumb_name: 'Up And Over'
+date_published: '2015-01-25T11:41:33+00:00'
+primary_image_width: 4288
+primary_image_height: 3216
+---

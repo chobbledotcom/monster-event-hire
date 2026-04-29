@@ -1,0 +1,69 @@
+---
+permalink: /products/atari-pong-table-hire/
+redirect_from:
+  - /allproducts/christmas/atari-pong-table-hire/
+  - /allproducts/christmas-party-entertainment/atari-pong-table-hire/
+  - /all-products/atari-pong-table-hire/
+  - /allproducts/atari-pong-table-hire
+galleryAlt: Atari pong retro games hire
+galleryImages:
+  - /images/uploads/2018/12/pongtable.jpg
+  - /images/uploads/2018/12/pong-table.jpg
+  - /images/uploads/2018/12/pongtablecolour.jpg
+title: "Atari Pong Table"
+meta_title: "Atari Pong Table Hire - Atari Pong Table"
+description: "Atari Pong Table, How much Fun can you have! Nostalgia and modern day tech have brought this 70&#039;s classic to our hire fleet."
+og_title: "Atari Pong Table, Retro games hire."
+category_name: "Christmas Party Entertainment"
+category_slug: "christmas-party-entertainment"
+body: |-
+  ## Atari Pong Table Hire – Retro Gaming Fun
+  Step back in time and bring **retro gaming excitement** to your event with our **Atari Pong Table hire**! Combining **nostalgia and modern technology**, this 70’s classic is the perfect addition to **corporate events, exhibitions, birthday parties, university events, and Christmas parties**. Experience the thrill of **mechanical game play with lights, sound effects, and LED visuals**, and let your guests enjoy a truly interactive, competitive experience.
+  ### Features of the Atari Pong Table
+  -   **Officially licensed by Atari** – authentic retro experience
+  -   **Two players can compete** at any one time, or challenge the game itself
+  -   **Mechanical controls**: Move physical blocks using magnetic spinners
+  -   **LED surround, retro sounds, and arcade music** for an immersive atmosphere
+  -   **USB ports** to play your own music through the table’s sound system
+  -   Comes with **matching Atari stools** for players
+  -   Perfect size for **exhibition spaces, marquees, and indoor events**
+  ### How It Works
+  Players control blocks on the table using **mechanical spinner controls** beneath the surface. Compete against a friend or challenge the game itself as **arcade lights flash and sound effects play**, creating a fully immersive retro gaming experience. The Atari Pong Table provides a **unique, crowd-pleasing attraction** that combines nostalgia with interactive entertainment.
+  ### Perfect for Any Event
+  The **Atari Pong Table** is ideal for:
+  -   **Corporate events and team-building** – Competitive fun for colleagues
+  -   **Exhibitions and trade shows** – Engage visitors and attract attention
+  -   **University events** – Fun and interactive activity for students
+  -   **Christmas parties and private celebrations** – Retro entertainment guaranteed
+  ### Setup & Requirements
+  -   Suitable for **indoor or marquee use only**
+  -   Operational area: 1m × 2.5m, minimum door width 0.8m
+  -   Powered by **1 x 13amp socket**
+  -   Comes with a **trained member of staff** for supervision
+  Add a touch of **retro gaming nostalgia** to your event by hiring the **Atari Pong Table**, and pair it with our other 80’s retro games or retro cocktail tables for the ultimate gaming experience.
+  **Book online today or call us to hire the Atari Pong Table for your next event!**
+  Have a look at our other range of [electrical games](/categories/electronic-game-hire/)
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-1641 wp-theme-littlemonsters atari-pong-table-hire'
+og_image: '/images/uploads/2018/12/pongtablecolour.jpg'
+og_image_width: 2048
+og_image_height: 1152
+article_modified_time: '2026-03-24T20:26:51+00:00'
+twitter_data1: '2 minutes'
+twitter_title: 'Atari Pong Table'
+share_description: 'Atari Pong Table Hire – Retro Gaming Fun Step back in time and bring retro gaming excitement to your event with our Atari Pong Table hire! Combining nostalgia and modern technology, this 70’s classic is'
+upsells: 
+  - 'christmas-photo-booth'
+  - 'under-pressure'
+  - 'dance-machine'
+testimonial_body: |-
+  <p>Dear Joanne</p>
+              <p>Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.</p>
+              <p>Kind regards</p>
+testimonial_attribution: 'Kate'
+testimonial_role: 'Office Manager / Executive Administrator, Spectrum'
+breadcrumb_name: 'Atari Pong Table Hire'
+date_published: '2018-12-30T16:34:44+00:00'
+primary_image_width: 640
+primary_image_height: 414
+---

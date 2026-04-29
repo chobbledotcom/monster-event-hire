@@ -1,0 +1,39 @@
+---
+permalink: /products/pirate-slide/
+redirect_from:
+  - /products/mega-slides/pirate-slide/
+  - /all-products/pirate-slide/
+  - /allproducts/pirate-slide
+galleryAlt: Pirate Slide Bouncy Castles Monster Event Hire
+galleryImages:
+  - /images/uploads/2015/10/pirateslide.jpg
+title: "Pirate Slide"
+meta_title: "Pirate Slide"
+og_description: "Why walk the plank when you can slide down this beauty?"
+category_name: "Mega Slides"
+category_slug: "mega-slides"
+body: |-
+  Why walk the plank when you can slide down this beauty?
+  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 25Ft x 20ft x 20ft
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-250 wp-theme-littlemonsters pirate-slide'
+article_modified_time: '2016-02-24T16:09:32+00:00'
+share_description: 'Why walk the plank when you can slide down this beauty?'
+item_data: 
+  - 'mega-slide'
+  - 'mega-slide-hire'
+  - 'mega-slides'
+upsells: 
+  - 'circus-slide'
+  - 'jungle-slide'
+  - 'jungle-event-slide'
+  - 'army-slide'
+testimonial_body: |-
+  <p>Dear Joanne,</p>
+              <p>Just wanted to say many thanks for supporting us at our Family fun Day again this year. Your guys were as prompt and efficient as ever.</p>
+              <p>Kind Regards</p>
+testimonial_attribution: 'Angela'
+date_published: '2015-10-26T10:32:19+00:00'
+primary_image_width: 600
+primary_image_height: 450
+---

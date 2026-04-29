@@ -1,0 +1,89 @@
+---
+permalink: /products/rodeo-bull-hire/
+redirect_from:
+  - /products/games/rodeo-bull-hire/
+  - /all-products/rodeo-bull-hire/
+  - /allproducts/rodeo-bull-hire
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2015/08/rodeo-bull.jpg
+  - /images/uploads/2015/09/11828663_1613804862226078_2110855831382007087_n1.jpg
+  - /images/uploads/2015/09/18thpartys.jpg
+  - /images/uploads/2015/09/rodeo.jpg
+  - /images/uploads/2015/08/18th.jpg
+  - /images/uploads/2015/08/coverrodeo.jpg
+  - /images/uploads/2015/11/18thparty.jpg
+  - /images/uploads/2015/08/rodeo-bull.jpg
+title: "Rodeo Bull Hire"
+meta_title: "Rodeo Bull Hire – Monster Event Hire"
+description: "Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex."
+category_name: "Games"
+category_slug: "games"
+body: |-
+  # rodeo bull Hire
+  Experience the thrill of our **Rodeo Bull Hire**! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators.
+  Our **trained operator controls the speed**, so it’s fun and safe for everyone **1.2 m / 10 yrs and above**. The bull is surrounded by an **inflatable safety mat** to ensure a soft landing. Riders compete to see **how long they can stay on**, tracked by our **large LED timer**.
+  ## 🐂 Other Rodeo Rides
+  We don’t just offer bucking broncos! Check out our full rodeo range:
+  -   [**Rodeo Sheep Hire**](/products/rodeo-sheep/)
+      
+  -   [**Rodeo Pig Hire**](/products/rodeo-pig/)
+      
+  -   [**Rodeo Rugby Ball**](/products/rodeo-rugby-ball/)
+      
+  -   [**Rodeo Reindeer Hire**](/products/rodeo-reindeer/)
+      
+  ## ✅ Safety & Setup
+  -   **Trained staff operate** every ride to keep guests safe
+      
+  -   Fully **ADIPS certified** and comes with **£10 million Public Liability Insurance**
+      
+  -   Minimum **access width: 1 m**
+      
+  -   Suitable for **participants aged 10+**, who can get on and off unaided
+      
+  -   Indoor use requires **10 ft height** and **operational space 20 ft x 20 ft**
+      
+  -   Mounted on a **GS Engineering inflatable base** — world-class quality
+      
+  ## 📍 Perfect for Any Event
+  Our **Rodeo Bull Hire** is ideal for:
+  -   Birthday parties
+      
+  -   Corporate events & team building
+      
+  -   School fun days
+      
+  -   college events
+  -   university entertainment
+  -   Festivals and community events
+      
+  Fun for all riders, with a **safe, thrilling experience** every time!
+  All our operators are fully trained and will keep you and your guests safe at all time.
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-78 wp-theme-littlemonsters rodeo-bull-hire'
+article_modified_time: '2026-03-09T19:13:23+00:00'
+twitter_data1: '2 minutes'
+share_description: 'rodeo bull Hire Experience the thrill of our Rodeo Bull Hire! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators. Our trained operator controls'
+item_data: 
+  - 'bronco'
+  - 'bucking'
+  - 'bucking-bronco'
+  - 'bucking-bronco-hire'
+  - 'bucking-bull'
+  - 'rodeo-bull'
+  - 'rodeo-bull-hire'
+upsells: 
+  - 'cash-grabber'
+  - 'retro-arcade-machine'
+  - 'atari-pong-table-hire'
+testimonial_body: |-
+  <p>Hi there</p>
+              <p>Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.</p>
+              <p>I will be recommending your company to other parents for future events.</p>
+              <p>Regards</p>
+testimonial_attribution: 'Mrs Caroline Carlin'
+date_published: '2015-08-08T14:16:00+00:00'
+primary_image_width: 1440
+primary_image_height: 1436
+---

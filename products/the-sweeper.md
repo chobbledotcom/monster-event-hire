@@ -1,0 +1,60 @@
+---
+permalink: /products/the-sweeper/
+redirect_from:
+  - /products/games/the-sweeper/
+  - /all-products/the-sweeper/
+  - /allproducts/the-sweeper
+galleryAlt: The Sweeper Monster Event Hire England
+galleryImages:
+  - /images/uploads/2015/11/sweeper2-2.jpg
+  - /images/uploads/2017/02/sweeper-last-man-standing-1.jpg
+  - /images/uploads/2017/02/last-man-standing-sweeper.jpg
+  - /images/uploads/2015/11/sweeper2.jpg
+  - /images/uploads/2015/11/sweeper1-2.jpg
+  - /images/uploads/2015/11/winch.jpg
+  - /images/uploads/2015/11/sweeper.jpg
+  - /images/uploads/2015/11/11958010_1627849420821622_1844529021843805835_o11.jpg
+  - /images/uploads/2017/02/sweeper-last-man-standing.jpg
+  - /images/uploads/2017/02/sweeper.jpg
+title: "The Last Man Standing, Sweeper (Total Wipeout)"
+meta_title: "The Last Man Standing, Sweeper (Total Wipeout) sweeper"
+description: "Made popular by the TV show &#039;Total Wipeout&#039; the last-man-standing juggernaut &#039;The Sweeper&#039; is perfect for all events."
+category_name: "Games"
+category_slug: "games"
+body: |-
+  ## The Last Man Standing, Sweeper (Total Wipeout)
+  Made popular by the TV show ‘Total Wipeout’, The Last Man Standing, Sweeper is perfect for all events.
+  This inflatable fun-fest features an inflatable bed with a swinging central arm. Positioned around the edge of the bed, players must jump over the swinging arm whilst maintaining their balance on the inflatable surround.
+  Last Man Standing, Sweeper Included is a variety of combinations, so you can decide how challenging you’d like it.
+  This fun game can be played by up to 8 players at a time and is a real test of your strength and agility.
+  Operator controlled to give anything from gentle start to the fastest full force competition mode, Only the fittest and strongest will be victorious and the **last man standing!**
+  8mtrs X  8mtrs – 30ft x 30ft – inflatable
+  **Great for**  
+  Corporate entertaining, private parties, youth events, team building, Summer events and School events.
+  or why not host your own Wipe out Challenge event.
+  Please ask about additional  Total Wipeout style challenges that will only add fun to your event. Have a look at some more Team building ideas here [corporate events](/categories/team-building-corporate/).
+  -   Member of staff to run the simulator for your Hire
+  -   All of our equipment comes complete with £10 Million Public Liability.
+  -   Suitable for 10 years and above.
+  -   Power: 2 x Standard 13amp plug (normal/domestic power point)
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-519 wp-theme-littlemonsters last-man-standing-sweeper'
+article_modified_time: '2026-03-17T16:57:21+00:00'
+twitter_data1: '2 minutes'
+share_description: 'The Last Man Standing, Sweeper (Total Wipeout) Made popular by the TV show &#8216;Total Wipeout&#8217;, The Last Man Standing, Sweeper is perfect for all events. This inflatable fun-fest features an inflatable bed with a swinging'
+upsells: 
+  - 'up-and-over'
+  - 'cross-beam-challenge'
+  - 'big-red-assault-course'
+  - 'mangle-run'
+testimonial_body: |-
+  <p style="font-weight: 400;">I wanted to say a huge thank you to the team of three who accompanied the activities on Monday &#8211; they were all absolutely fantastic and did a really great job of overseeing the activities and encouraging people to join in whenever there were spaces &#8211; which I’m pleased to say were not very often. The weather was fab and there must have been 300 people coming and going during the three hours that I ran the event for. I hope that the team tucked into the cakes, ice creams and cold drinks that were on offer &#8211; I did keep telling them to!</p>
+              <p style="font-weight: 400;">Many thanks for arranging this for me, Joanne, appreciate it very much and I will certainly be using your services again, if you’ll have me.</p>
+              <p style="font-weight: 400;">Kind regards Chris &#8211; FIL Investment Management Limited</p>
+testimonial_attribution: ''
+breadcrumb_name: 'The Sweeper'
+date_published: '2017-02-04T12:26:01+00:00'
+primary_image_width: 2048
+primary_image_height: 1536
+primary_image_caption: 'last man standing sweeper'
+---

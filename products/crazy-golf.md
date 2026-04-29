@@ -1,0 +1,67 @@
+---
+permalink: /products/crazy-golf/
+redirect_from:
+  - /products/sports-competitive-activities/crazy-golf/
+  - /all-products/crazy-golf/
+  - /allproducts/crazy-golf
+galleryAlt: Crazy Golf Monster Event Hire England
+galleryImages:
+  - /images/uploads/2015/10/craygolf.jpg
+  - /images/uploads/2015/10/crazy-golfbottom.jpg
+  - /images/uploads/2015/10/craygolf2.jpg
+  - /images/uploads/2015/10/559136_10201039802370240_1324089796_n1.jpg
+  - /images/uploads/2015/10/crazy-golf1.jpg
+  - /images/uploads/2015/10/golf-2.jpg
+  - /images/uploads/2015/10/golf-play.jpg
+title: "Crazy Golf"
+meta_title: "Crazy Golf Hire - Monster Event Hire"
+description: "Crazy Golf Hire in Hampshire &amp; Surrey – 9-hole portable golf course for Indoor or outdoor fun for parties, weddings, and corporate events!"
+category_name: "Sports Competitive Activities"
+category_slug: "sports-competitive"
+body: |-
+  # Crazy Golf Hire – 9-Hole Portable Golf Courses for Parties & Events
+  Looking for something **fun, social, accessible, and completely different** for your next event? Our **Crazy Golf Hire** is perfect for guests of all ages—anyone can play, and anyone can win! This interactive, portable golf experience is ideal for **weddings, corporate events, school fetes, Scout and Guide events, charity days, company BBQs, festivals, and community gatherings**.
+  Our **9-hole portable crazy golf course** brings the excitement of mini-golf directly to your venue without the hassle of traditional setups. Each hole measures approximately **8ft x 2ft**, making it compact enough to fit **indoors or outdoors**, while still providing plenty of fun space. Complete with **putters and balls**, the course is ready for play as soon as it’s installed, giving guests instant access to hours of entertainment.
+  ### ⛳ Why Choose Crazy Golf Hire?
+  -   9-hole **portable golf course**, quick and easy to set up anywhere
+  -   Fun, interactive, and competitive activity suitable for **all ages**
+  -   Can be used **indoors or outdoors**, ideal for a variety of venues
+  -   Comes with **putters and balls**, ready for hassle-free play
+  -   Adds a unique, memorable, and engaging element to **parties, corporate events, and school functions**
+  ### 🎯 Perfect For
+  -   Birthday parties & family celebrations
+  -   Weddings & evening entertainment
+  -   Corporate team-building and staff events
+  -   School fetes, Scout & Guide events
+  -   Charity fundraisers, community events, and festivals
+  ### 📏 Equipment Details
+  -   **Hole size:** Approximately 8ft x 2ft each
+  -   **Number of holes:** 9
+  -   Portable, easy to transport, and simple to set up
+  -   Indoor or outdoor ready, flexible for any event
+  ### 📍 Crazy Golf Hire in Hampshire & Surrey
+  We provide **professional portable crazy golf hire across Hampshire, Surrey, and surrounding areas**, including full **delivery, setup, and collection**.
+  Bring **fun, friendly competition, and excitement** to your next event with our **Crazy Golf Hire**—perfect for entertaining guests of all ages while creating lasting memories!
+  Suitable for children and adults.
+  approx 8ft x 2ft
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-298 wp-theme-littlemonsters productssports-competitive-activitiescrazy-golf'
+article_modified_time: '2026-03-25T19:44:48+00:00'
+twitter_data1: '2 minutes'
+share_description: 'Crazy Golf Hire – 9-Hole Portable Golf Courses for Parties &amp; Events Looking for something fun, social, accessible, and completely different for your next event? Our Crazy Golf Hire is perfect for guests of all'
+item_data: 
+  - 'crazy-golf'
+  - 'crazy-golf-hire'
+  - 'mobile-crazy-golf'
+upsells: 
+  - 'lights-out-challenge'
+  - 'soft-play-area'
+  - 'air-hockey-table-hire'
+testimonial_body: |-
+  <p>Hi Joanne</p>
+              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+testimonial_attribution: 'David'
+date_published: '2015-10-26T16:38:41+00:00'
+primary_image_width: 720
+primary_image_height: 288
+---

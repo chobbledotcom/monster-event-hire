@@ -1,0 +1,60 @@
+---
+permalink: /products/buzz-wire/
+redirect_from:
+  - /products/electronic-game-hire/buzz-wire/
+  - /all-products/buzz-wire/
+  - /allproducts/buzz-wire
+galleryAlt: 
+galleryImages:
+  - /images/uploads/2015/11/giant-buzz-wire-hire.jpeg
+  - /images/uploads/2015/11/buzz-wire-hire.jpeg
+  - /images/uploads/2015/11/buzz-wire.jpg
+  - /images/uploads/2015/11/buzz-wire1.jpg
+title: "Buzz Wire"
+meta_title: "Giant Buzz Wire - Monster Event and Party Hire%"
+description: "Our giant buzz wire puts your composure to the test as you navigate the stick over and around its twists."
+category_name: "Electronic Game Hire"
+category_slug: "electronic-game-hire"
+body: |-
+  ## Giant Buzz Wire Hire – Inflatable Skill Challenge
+  Test your **steady hand and concentration** with our **Giant Buzz Wire**, the ultimate **inflatable skill challenge** for **birthday parties, corporate team-building events, school activities, university events, and community festivals**. This interactive and fun game is perfect for **kids, teens, and adults**, providing competitive entertainment and a “just one more go” thrill that keeps participants coming back for more.
+  ### Features of the Giant Buzz Wire
+  -   Challenge your **hand-eye coordination** as you guide the metal stick along the twists and turns of the wire
+  -   **Buzzer and lights** alert you instantly if you touch the wire, sending you back to the start
+  -   Suitable for **all ages**, making it ideal for **family-friendly events**
+  -   Can be hired for **indoor or outdoor events**
+  -   Requires trained staff for setup and supervision
+  ### How It Works
+  The **Giant Buzz Wire** is simple but fiendishly addictive. Participants must carefully guide the handheld stick over and around the twists and turns of the wire **without touching it**. If contact is made, the **buzzer sounds and lights flash**, and the player must start over. It’s a test of **patience, skill, and composure**, and a perfect addition to any event looking to combine fun and friendly competition.
+  ### Perfect for Any Event
+  The **Giant Buzz Wire** is ideal for:
+  -   **Birthday parties** – Fun, interactive challenge for kids and adults alike
+  -   **Corporate events and team-building** – Encourage focus, patience, and friendly rivalry
+  -   **School and college activities** – Engaging, safe, and supervised skill game
+  -   **Community festivals, fairs, and exhibitions** – Crowd-puller with high participation appeal
+  With its addictive “one more go” appeal, the **Giant Buzz Wire** provides **hours of interactive fun** while testing your skill and precision. Add it to your **event hire lineup** for a memorable and challenging activity that guests will love.
+  **Book online today or call us to hire the Giant Buzz Wire for your next event!**
+  Have a look at our other range of [electrical games](/categories/electronic-game-hire/)
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-748 wp-theme-littlemonsters products-electronic-game-hire-buzz-wire'
+og_image: '/images/uploads/2015/11/buzz.jpg'
+og_image_width: 960
+og_image_height: 720
+article_modified_time: '2026-03-24T20:30:50+00:00'
+twitter_data1: '1 minute'
+share_description: 'Giant Buzz Wire Hire – Inflatable Skill Challenge Test your steady hand and concentration with our Giant Buzz Wire, the ultimate inflatable skill challenge for birthday parties, corporate team-building events, school activities, university events, and'
+item_data: 
+  - 'buzz-wire-hire'
+  - 'giant-buzz-wire-hire'
+upsells: 
+  - 'roll-and-bowl-elf-racing-derby-hire'
+  - 'retro-arcade-machine'
+  - 'atari-pong-table-hire'
+testimonial_body: |-
+  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
+              <p>Thanks</p>
+testimonial_attribution: 'Sarah'
+date_published: '2015-11-11T13:46:10+00:00'
+primary_image_width: 2016
+primary_image_height: 1512
+---

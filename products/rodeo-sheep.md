@@ -1,0 +1,61 @@
+---
+permalink: /products/rodeo-sheep/
+redirect_from:
+  - /products/rodeo-rides/rodeo-sheep/
+  - /all-products/rodeo-sheep/
+  - /allproducts/rodeo-sheep
+galleryAlt: Rodeo Sheep Inflatable Rides and Slides Monster
+galleryImages:
+  - /images/uploads/2015/10/rodeo-sheep.jpg
+  - /images/uploads/2015/10/sheep-shaun.jpg
+title: "Rodeo Sheep Hire"
+meta_title: "Rodeo Sheep - Monster Event and Party Hire - Bucking sheep hire"
+description: "Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. He will have you holding on tight as he bucks and spins until you fall."
+category_name: "Rodeo Rides"
+category_slug: "rodeo-rides"
+body: |-
+  # Rodeo sheep Hire
+  Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. His farmyard frolicking will have you holding on tight as he bucks and spins until you fall.
+  Our trained operator controls the speed of the bucking sheep allowing fun for all users 1.2 metres and above. The rodeo sheep is surrounded by an inflatable themed bed to ensure a soft landing.
+  All riders can experience the same thrills and ride. the aim of the game is to stay atop of this raging sheep as long as possible! and see what your eventual time is with our large led timer.
+  The rider climbs on, our **trained operator** controls the speed of the rodeo sheep allowing fun for all users 1.2 metres and above. The rodeo sheep is surrounded by an inflatable western themed bed to ensure a soft landing from the bucking beast.
+  #### Rodeo Sheep hire,we do not only supply Rodeo bull hire, please see other other Rodeo selection, [Rodeo Pig Hire](/products/rodeo-pig/) , [Rodeo Bull Hire](/products/rodeo-bull-hire/) , [Rodeo Rugby Ball](/products/rodeo-rugby-ball/) , [Rodeo Pumpkin hire](/products/rodeo-pumpkin/) 
+  We can also supply our six legged inflatable spider marquee which is 21 feet in diameter. This is excellent for rainy weather situations ( light rain ), providing enough room for the Rodeo sheep to fit under.
+  We carry additional insurance for licensed premises. Fully certified for safety under the ADIPS scheme.
+  -   Access required minimum of 1 mtr wide
+  -   Member of staff to run the rodeo ride
+  -   Rodeo Ride is centred on an inflatable surface – tumbles wont hurt!
+  -   Participants must be 1.2 metres or taller
+  -   To Even things up – all riders can experience the same ride
+  -   Height for indoor use at least 10ft
+  **Also for outdoor hires**
+  We can supply our six legged inflatable spider marquee which is 21 feet in diameter with pull down sides making it totally enclosed. This is excellent for rainy weather situations, providing enough room for the Multi Ride and a number of spectators, so your event can still run smoothly 365 days of the year.
+  We carry additional insurance for licensed premises. Fully certified for safety under the ADIPS scheme.
+  -   Bull is centred on an inflatable surface - tumbles wont hurt!
+  -   Participants must be 1.2 metres or taller
+  -   Even things up - all riders can experience the same ride
+  -   Access required minimum of 1 mtr wide
+layout: wp-product.html
+body_class: 'wp-singular products-template-default single single-products postid-344 wp-theme-littlemonsters rodeo-sheep-hire'
+article_modified_time: '2020-03-27T08:51:17+00:00'
+twitter_data1: '1 minute'
+share_description: 'Rodeo sheep Hire Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. His farmyard frolicking will have you holding on tight as he bucks and spins until you fall. Our trained operator controls the'
+item_data: 
+  - 'bucking-sheep'
+  - 'rodeo-sheep'
+  - 'rodeo-sheep-hire'
+upsells: 
+  - 'rodeo-pumpkin'
+  - 'rodeo-bull-hire'
+  - 'rodeo-xmas-pudding'
+  - 'rodeo-reindeer'
+testimonial_body: |-
+  <p>Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham&#8217;s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.</p>
+              <p>Kind regards</p>
+testimonial_attribution: 'Caroline Gumn'
+testimonial_role: 'PA to Chief Executive'
+breadcrumb_name: 'Rodeo Sheep'
+date_published: '2015-10-27T13:15:09+00:00'
+primary_image_width: 600
+primary_image_height: 450
+---
