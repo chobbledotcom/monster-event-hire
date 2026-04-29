@@ -20,7 +20,9 @@
 		},
 		{
 			"name": "item",
-			"label": "Item",
+			"type": "textarea",
+			"label": "Equipment Hire",
+			"rows": 2,
 			"showOn": "products",
 			"defaultFromPageTitle": true
 		},
