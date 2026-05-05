@@ -15,10 +15,11 @@ og_description: "The Mangle Run is a brilliant inflatable that’s ideal for tea
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
 description: |-
-  The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events.
-  Mix and match with other inflatables in the Wipeout range!
+  The Mangle Run is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range!
+
   Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.
-  29ft L x 18ftw x 7fth
+
+  **Dimensions:** 29ft L x 18ft W x 7ft H
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-1151 wp-theme-littlemonsters the-mangle-run'
 og_image_width: 1024

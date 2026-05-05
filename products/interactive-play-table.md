@@ -15,12 +15,15 @@ og_description: "Interactive Play Table This is a 2 &#8211; 4 players high energ
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
 description: |-
-  Interactive Play Table
-  This is a 2 – 4 players high energy game lasts 1 min each so the turn around is high with this .
-  3 pre-set games including “Light Hunter” “Steal the light” & “Back to base and ensures your clients never get bored.
-  The inflatable is fitted with 10 spot holders this challenges your hand eye coordination, endurance and competitiveness.
-  scores are displayed on the board to show who scored the most, was it red or green.
-  Measuring 2.5m long and 1.3m wide.
+  This is a 2 – 4 players high energy game lasts 1 min each so the turn around is high with this.
+
+  3 pre-set games including “Light Hunter” “Steal the light” & “Back to base” ensures your clients never get bored.
+
+  The inflatable is fitted with 10 spot holders, challenging your hand-eye coordination, endurance and competitiveness.
+
+  Scores are displayed on the board to show who scored the most – was it red or green?
+
+  **Dimensions:** 2.5m long, 1.3m wide
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-1668 wp-theme-littlemonsters interactive-play-table'
 article_modified_time: '2020-01-29T12:27:07+00:00'

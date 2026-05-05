@@ -15,7 +15,9 @@ category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
 description: |-
   check out steve! the tyre change champ.
+
   Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock.
+
   The Pit Stop Challenge is great for both garden parties and team building days!
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-853 wp-theme-littlemonsters pit-stop-challenge'

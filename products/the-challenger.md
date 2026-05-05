@@ -17,11 +17,11 @@ og_description: "The Challenger is a brilliant inflatable that’s ideal for tea
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
 description: |-
-  The Challenger is a brilliant inflatable that’s ideal for team building and corporate events.
-  Mix and match with other inflatables in the Wipeout range!
+  The Challenger is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range!
+
   Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.
-  The challenger 50ft x 18ft w x 7ft h
-  The challenger 50ft x 18ft w x 7ft h
+
+  **Dimensions:** 50ft L x 18ft W x 7ft H
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-1158 wp-theme-littlemonsters the-challenger'
 og_image_width: 1024

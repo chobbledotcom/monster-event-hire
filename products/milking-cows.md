@@ -14,6 +14,7 @@ category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
 description: |-
   Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest?
+
   This udderly riveting game will get your hands mooving in ways you never thought possible.
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-375 wp-theme-littlemonsters milking-cows'
