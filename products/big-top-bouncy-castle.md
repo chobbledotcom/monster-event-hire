@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/bigtop.jpg
 title: "Big Top Bouncy Castle 15ft x 16ft or 20ft"
 meta_title: "Big Top Bouncy Castle 15ft x 16ft or 20ft"
-description: "Hire our Big Top Bouncy Castle in Hampshire &amp; Surrey – circus-themed fun for kids &amp; adults. Available in 2 sizes with fitted cover."
+meta_description: "Hire our Big Top Bouncy Castle in Hampshire &amp; Surrey – circus-themed fun for kids &amp; adults. Available in 2 sizes with fitted cover."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # Big Top Bouncy Castle Hire – Circus Themed Inflatable for Kids & Adults
   Step right up and **feel like clowning around** with our **Big Top Bouncy Castle Hire**! Perfect for birthdays, school events, and family fun days, this **circus-themed inflatable** brings the excitement of the big top straight to your garden or venue.
   Available in **two sizes**, it’s suitable for children and adults alike, ensuring fun for everyone. The fitted cover makes it ideal for UK weather, keeping the bouncy castle ready for action all day.
@@ -60,10 +60,13 @@ upsells:
   - 'fairground-20x20ft'
   - 'western-bouncy-castle'
 testimonial_body: |-
-  <p>Joanne</p>
-              <p>Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.</p>
-              <p>Thanks Again</p>
-              <p>Matt</p>
+  Joanne
+
+  Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.
+
+  Thanks Again
+
+  Matt
 testimonial_attribution: ''
 breadcrumb_name: 'Big Top Bouncy Castle'
 date_published: '2015-10-15T09:45:26+00:00'

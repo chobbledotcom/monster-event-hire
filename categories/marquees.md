@@ -6,15 +6,12 @@ redirect_from:
   - /all-products/marquees/
 layout: wp-category.html
 title: 'Party Marquee Hire'
-description: 'No outdoor event is complete without a marquee to shelter all your guests. View our complete range of marquees to add glamour to your event.'
+meta_description: 'No outdoor event is complete without a marquee to shelter all your guests. View our complete range of marquees to add glamour to your event.'
+description: |-
+  Complete Marquees is a friendly and family run marquee and event hire company based in Havant near Southampton and Portsmouth in Hampshire.
 body_class: 'archive tax-product-category term-marquees term-210 wp-theme-littlemonsters'
 cat_head_style: 'background:url() no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Marquees'
-cat_head_intro_html: |-
-  <p>Complete Marquees is a friendly and family run marquee and event hire company based in Havant near Southampton and Portsmouth in Hampshire.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Complete Marquees is a friendly and family run marquee and event hire company based in Havant near Southampton and Portsmouth in Hampshire.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'party-marquees'

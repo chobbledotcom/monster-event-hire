@@ -12,11 +12,11 @@ galleryImages:
   - /images/uploads/2018/12/80s-retro-game.jpg
 title: "80&#8217;s Retro arcade games"
 meta_title: "80&#039;s Retro Arcade Games hire 600+ classic games"
-description: "80&#039;s Retro Arcade Games Hire, Remember the arcade games of yesteryear?  this Retro Arcade Classics Machine Hire will take you back !"
+meta_description: "80&#039;s Retro Arcade Games Hire, Remember the arcade games of yesteryear?  this Retro Arcade Classics Machine Hire will take you back !"
 og_title: "80&#039;s Retro arcade games"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # 80’s Retro Arcade Games Hire – Classic Arcade Machine Rental (600+ Games)
   Step back in time with our **80’s Retro Arcade Games Hire** – the perfect nostalgic entertainment for parties, weddings, and corporate events. Relive the golden age of gaming with a modern twist, featuring stunning LED-lit cabinets and hundreds of iconic classics.
   Whether you grew up in the arcade era or just love retro gaming, these **arcade machines for hire** deliver hours of fun for guests of all ages.
@@ -60,9 +60,11 @@ upsells:
   - 'rodeo-reindeer'
   - 'christmas-photo-booth'
 testimonial_body: |-
-  <p>Dear Joanne</p>
-              <p>Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.</p>
-              <p>Kind regards</p>
+  Dear Joanne
+
+  Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.
+
+  Kind regards
 testimonial_attribution: 'Kate'
 testimonial_role: 'Office Manager / Executive Administrator, Spectrum'
 breadcrumb_name: '80s Retro Arcade Games'

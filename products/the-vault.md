@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2025/10/the-vault-game.jpg
 title: "The Vault"
 meta_title: "The Vault Game Hire - Monster Event Hire ✅"
-description: "The vault - Crack The Code Attempt to unlock The Vault by cracking the &quot;secret code&quot; in just 30 seconds Select one of the 4 difficulty level."
+meta_description: "The vault - Crack The Code Attempt to unlock The Vault by cracking the &quot;secret code&quot; in just 30 seconds Select one of the 4 difficulty level."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 🔐 The Vault Game Hire – Monster Event Hire
   Unlock excitement with **The Vault game hire** from **Monster Event Hire**! This fast‑paced challenge puts players to the test as they race against the clock to **crack the secret code** and open *The Vault*. It’s perfect for **birthday parties, corporate events, team building, school fun days, exhibitions, and festivals** across **Hampshire, Surrey, Sussex & London** — delivering fun, suspense, and friendly competition for all ages.
   ## 🎯 How The Vault Works
@@ -75,8 +75,9 @@ share_description: '🔐 The Vault Game Hire – Monster Event Hire Unlock excit
 upsells: 
   - 'buzz-wire'
 testimonial_body: |-
-  <p>We would like to take this opportunity to thank you for your hard work and support on this year&#8217;s Playday.</p>
-              <p>Despite the weather between us we managed to provide a jam packed day full of fun for 100&#8217;s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.</p>
+  We would like to take this opportunity to thank you for your hard work and support on this year’s Playday.
+
+  Despite the weather between us we managed to provide a jam packed day full of fun for 100’s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.
 testimonial_attribution: 'Fran Regan & Karen Esprit'
 testimonial_role: 'Playday Coordinators'
 date_published: '2025-10-23T16:20:02+00:00'

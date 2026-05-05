@@ -6,16 +6,13 @@ redirect_from:
   - /all-products/inflatable-assault-course-and-obstacle-course-hire/
 layout: wp-category.html
 title: 'Inflatable Assault &amp; Obstacle Course Hire – Monster Event Hire'
-description: 'Hire fun, inflatable assault and obstacle courses for parties, schools, corporate events &amp; festivals across Hampshire, Surrey &amp; Sussex.'
+meta_description: 'Hire fun, inflatable assault and obstacle courses for parties, schools, corporate events &amp; festivals across Hampshire, Surrey &amp; Sussex.'
+description: |-
+  Hire exciting inflatable assault courses and obstacle courses for parties, school events, corporate team building, and festivals across Hampshire, Surrey, Sussex & London. Fun for all ages, fully supervised and insured!”
 body_class: 'archive tax-product-category term-inflatable-assault-course-and-obstacle-course-hire term-143 wp-theme-littlemonsters'
 breadcrumb_name: 'Inflatable Assault Course And Obstacle Course Hire'
 cat_head_style: 'background:url(/images/uploads/2015/10/150-ft.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Inflatable Assault Course and Obstacle Course Hire'
-cat_head_intro_html: |-
-  <p>Hire exciting inflatable assault courses and obstacle courses for parties, school events, corporate team building, and festivals across Hampshire, Surrey, Sussex &amp; London. Fun for all ages, fully supervised and insured!”</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Hire exciting inflatable assault courses and obstacle courses for parties, school events, corporate team building, and festivals across Hampshire, Surrey, Sussex &amp; London. Fun for all ages, fully supervised and insured!”</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - '125ft-army-assault-course'

@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2016/04/celebration-20ft.jpg
 title: "Celebration bouncy castle 20x20ft"
 meta_title: "Celebration bouncy castle 20x20ft"
-description: "This Ideally Celebration bouncy castle suited for any celebration, from weddings to birthday parties!"
+meta_description: "This Ideally Celebration bouncy castle suited for any celebration, from weddings to birthday parties!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # Celebration Bouncy Castle 20ft Hire – Luxurious Inflatable for Parties & Events
   Celebrate in style with our **20ft Celebration Bouncy Castle Hire**, the perfect choice for making any event truly unforgettable. Ideal for **weddings, birthdays, anniversaries, family gatherings, and corporate celebrations**, this large and luxurious bouncy castle adds a touch of fun and elegance that both children and adults will enjoy.
   The **20ft x 20ft inflatable** provides plenty of space for multiple guests to bounce, play, and interact safely. The fitted cover protects against light rain or sun, making it suitable for **outdoor use** in gardens, marquees, or event venues, while still being compact enough for easy transport and setup. For smaller events, we also offer the **15ft x 16ft version**, so you can choose the perfect size for your celebration.
@@ -47,10 +47,13 @@ upsells:
   - 'big-top-bouncy-castle'
   - 'toy-story-bouncy-castle'
 testimonial_body: |-
-  <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+  Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were
+
+  We will certainly use them again they were great and a credit to you
+
+  **Executive Assistant
+
+  Vector Aerospace International Limited**
 testimonial_attribution: ''
 breadcrumb_name: 'Celebration 20x20ft'
 date_published: '2016-04-26T09:10:15+00:00'

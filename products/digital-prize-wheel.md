@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2026/03/5d395be6-f1a6-4fa7-8363-ed6cd43bf915.jpg
 title: "Digital Wheel of Fortune"
 meta_title: "Digital Prize Wheel Hire - Monster Event Hire"
-description: "Hire a digital prize wheel hire,Interactive, fun, and customization for corporate events, parties, trade shows, and youth activities."
+meta_description: "Hire a digital prize wheel hire,Interactive, fun, and customization for corporate events, parties, trade shows, and youth activities."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 🎉 **Digital Prize Wheel Hire – Spin to Win Exciting Prizes**
   Bring excitement and interactive fun to your next event with our **digital prize wheel hire**. This engaging attraction allows players to **place bets on the betting board and spin the wheel** to win prizes, challenges, or fun outcomes. **Simple to play yet highly effective,** the Digital Prize Wheel encourages participation, builds suspense, and creates unforgettable moments for both participants and spectators.
   ## **How the Digital Prize Wheel Works**
@@ -45,9 +45,11 @@ upsells:
   - 'lights-out-challenge'
   - 'santas-christmas-grotto'
 testimonial_body: |-
-  <p style="font-weight: 400;">I wanted to say a huge thank you to the team of three who accompanied the activities on Monday &#8211; they were all absolutely fantastic and did a really great job of overseeing the activities and encouraging people to join in whenever there were spaces &#8211; which I’m pleased to say were not very often. The weather was fab and there must have been 300 people coming and going during the three hours that I ran the event for. I hope that the team tucked into the cakes, ice creams and cold drinks that were on offer &#8211; I did keep telling them to!</p>
-              <p style="font-weight: 400;">Many thanks for arranging this for me, Joanne, appreciate it very much and I will certainly be using your services again, if you’ll have me.</p>
-              <p style="font-weight: 400;">Kind regards Chris &#8211; FIL Investment Management Limited</p>
+  I wanted to say a huge thank you to the team of three who accompanied the activities on Monday – they were all absolutely fantastic and did a really great job of overseeing the activities and encouraging people to join in whenever there were spaces – which I’m pleased to say were not very often. The weather was fab and there must have been 300 people coming and going during the three hours that I ran the event for. I hope that the team tucked into the cakes, ice creams and cold drinks that were on offer – I did keep telling them to!
+
+  Many thanks for arranging this for me, Joanne, appreciate it very much and I will certainly be using your services again, if you’ll have me.
+
+  Kind regards Chris – FIL Investment Management Limited
 testimonial_attribution: ''
 breadcrumb_name: 'Digital Prize Wheel'
 date_published: '2026-03-26T20:27:07+00:00'

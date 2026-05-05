@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2015/10/sumo-surround.jpg
 title: "Sumo Suit Hire"
 meta_title: "Sumo Suit Hire"
-description: "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!"
+meta_description: "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!"
 category_name: "Giant Game Hire"
 category_slug: "games"
-body: |-
+description: |-
   The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent out of the ring.
   If pushing, pulling or throwing isn’t your thing, try and ‘turtle’ your opponent by forcing them onto their back!
   Available for hire:
@@ -38,10 +38,13 @@ upsells:
   - 'laser-shot'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Can I just say thank you for an excellent and friendly service.</p>
-              <p>Hope to work with you again in the near future</p>
-              <p>Regards</p>
+  Hi Joanne
+
+  Can I just say thank you for an excellent and friendly service.
+
+  Hope to work with you again in the near future
+
+  Regards
 testimonial_attribution: 'Sally'
 testimonial_role: 'The Co-operative food, Supply chain logistics'
 date_published: '2015-10-26T11:37:27+00:00'

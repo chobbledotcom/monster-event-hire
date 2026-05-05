@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/xmas-green-screen.jpg
 title: "Green Screen Photo Booth"
 meta_title: "Green Screen Photo Booth hire"
-description: "Hire our Green Screen Photo Booth for parties, weddings, and corporate events. Unlimited prints, custom backgrounds, props, and USB photos included."
+meta_description: "Hire our Green Screen Photo Booth for parties, weddings, and corporate events. Unlimited prints, custom backgrounds, props, and USB photos included."
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   ## Green Screen Photo Booth Hire
   Bring your event to life with our **Green Screen Photo Booth**! Perfect for **parties, corporate events, weddings, and themed celebrations**, this interactive photo booth lets your guests step into a world of fun and creativity.
   Guests sit against a **green backdrop**, and using **chroma-key technology**, the green screen is replaced with any of **up to seven different backgrounds**: Disco, Beach, Hollywood, Around the World, Underwater, Mystery, and Classic.
@@ -77,11 +77,15 @@ upsells:
   - 'retro-arcade-machine'
   - 'party-marquees'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).<br>
-              Please thank the guy who delivered and collected (sorry didn&#8217;t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.</p>
-              <p>Hopefully we will be able to book again with you in the future.</p>
-              <p>Regards</p>
+  Hi Joanne,
+
+  Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).
+
+  Please thank the guy who delivered and collected (sorry didn’t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.
+
+  Hopefully we will be able to book again with you in the future.
+
+  Regards
 testimonial_attribution: 'Hilary'
 date_published: '2015-11-05T11:50:18+00:00'
 primary_image_width: 640

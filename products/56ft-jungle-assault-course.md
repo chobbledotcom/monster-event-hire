@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/10/jungle-assault-course5.jpg
 title: "56ft Jungle Assault Course"
 meta_title: "56ft Jungle Assault Course"
-description: "Welcome to the jungle. We’ve got fun and games. This 56ft jungle themed assault course is suitable for both children and Big kids!"
+meta_description: "Welcome to the jungle. We’ve got fun and games. This 56ft jungle themed assault course is suitable for both children and Big kids!"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # Jungle Assault Course Hire (56ft) – Inflatable Obstacle Course for Kids & Adults
   Looking for an exciting **jungle assault course hire in Hampshire, Surrey, or surrounding areas**? Our **56ft Jungle Inflatable Assault Course** is the ultimate attraction for parties, school events, weddings, and corporate fun days.
   Packed with energy and adventure, this **jungle-themed inflatable obstacle course** is perfect for both children and adults (“big kids” included!). Race your friends through a series of fun challenges including bish bash obstacles, hurdles to jump over, tunnels to squeeze through, and finish with a thrilling slide.
@@ -64,11 +64,15 @@ upsells:
   - '75ft-army-assault-course'
   - '125ft-army-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).<br>
-              Please thank the guy who delivered and collected (sorry didn&#8217;t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.</p>
-              <p>Hopefully we will be able to book again with you in the future.</p>
-              <p>Regards</p>
+  Hi Joanne,
+
+  Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).
+
+  Please thank the guy who delivered and collected (sorry didn’t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.
+
+  Hopefully we will be able to book again with you in the future.
+
+  Regards
 testimonial_attribution: 'Hilary'
 date_published: '2015-10-20T15:14:20+00:00'
 primary_image_width: 960

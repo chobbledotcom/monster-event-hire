@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/01/3-in-1.jpg
 title: "3 in 1 Sports Inflatable Game"
 meta_title: "3 in 1 Sports Inflatable Game"
-description: "“Hire the 3 in 1 Sports Inflatable Game for birthday parties, school events, carnivals, and corporate fun days. Fun for kids and adults!”"
+meta_description: "“Hire the 3 in 1 Sports Inflatable Game for birthday parties, school events, carnivals, and corporate fun days. Fun for kids and adults!”"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   ## 3 in 1 Sports Inflatable Game – Event Hire
   Bring **fun, competition, and active entertainment** to your event. This versatile **inflatable sports game** is perfect for **birthday parties, school fetes, carnivals, corporate fun days, and family events**. It lets players **test their sporting skills**, challenge friends, and enjoy a range of sports activities in one exciting inflatable.
   ### Features
@@ -52,9 +52,11 @@ upsells:
   - 'cross-bow-challenge'
   - 'interactive-play-system'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Just wanted to say many thanks for supporting us at our Family fun Day again this year. Your guys were as prompt and efficient as ever.</p>
-              <p>Kind Regards</p>
+  Dear Joanne,
+
+  Just wanted to say many thanks for supporting us at our Family fun Day again this year. Your guys were as prompt and efficient as ever.
+
+  Kind Regards
 testimonial_attribution: 'Angela'
 breadcrumb_name: '3 In 1 Sports Inflatable Game'
 date_published: '2015-01-25T10:17:27+00:00'

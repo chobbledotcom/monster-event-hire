@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/10/Bsen14960-4-2025.jpg
 title: "bungee run inflatable hire"
 meta_title: "bungee-run-inflatable-hire"
-description: "Hire the exciting Bungee Run inflatable for fun days, corporate events, schools and parties. a competitive inflatable game where players race against a bungee cord."
+meta_description: "Hire the exciting Bungee Run inflatable for fun days, corporate events, schools and parties. a competitive inflatable game where players race against a bungee cord."
 category_name: "Bungee"
 category_slug: "bungee"
-body: |-
+description: |-
   # Bungee Run Inflatable Hire
   Put your **strength, speed and stamina to the test** with our exciting **Bungee Run inflatable hire**. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while attached to a powerful bungee cord.
   Participants run as far as they can before the elastic cord pulls them back, placing their Velcro marker along the centre wall to see who can reach the furthest point. The competitor who places their marker the furthest wins the race!
@@ -112,16 +112,13 @@ upsells:
   - 'archery'
   - 'multi-sports-arena'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <div>
-                Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I&#8217;ll be back in touch to book the same again for next year.
-              </div>
-              <div></div>
-              <div>
-                Kind regards,
-                <p></p>
-                <p>Charlotte</p>
-              </div>
+  Hi Joanne,
+
+  Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I’ll be back in touch to book the same again for next year.
+
+  Kind regards,
+
+  Charlotte
 testimonial_attribution: ''
 breadcrumb_name: 'Bungee Run'
 date_published: '2015-10-26T11:50:23+00:00'

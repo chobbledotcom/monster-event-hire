@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/jungleaframe.jpg
 title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
 meta_title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
-description: "This fun themed Jungle bouncy castle will bring out all the party animals!"
+meta_description: "This fun themed Jungle bouncy castle will bring out all the party animals!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Jungle Bouncy Castle (orange)
   Unleash the party animals with this  themed Jungle bouncy castle.
   This fun themed Jungle bouncy caste will bring out all the party animals!
@@ -28,10 +28,13 @@ upsells:
   - 'pirate-2-bouncy-castle'
   - 'princess-bouncy-castle'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.</p>
-              <p>We&#8217;ll definitely be in touch for future events.</p>
-              <p>Thank you again</p>
+  Hi Joanne,
+
+  I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.
+
+  We’ll definitely be in touch for future events.
+
+  Thank you again
 testimonial_attribution: 'Francesca Olle'
 testimonial_role: 'Highfield School'
 breadcrumb_name: 'Jungle Bouncy Castle 2'

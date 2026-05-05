@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2025/10/Chaos-4-Player-Strike-A-Light-hire-.jpg
 title: "Chaos 4 player strike a light reaction Game hire uk"
 meta_title: "⚡ Chaos 4 Player Reaction Game Hire"
-description: "CHAOS 4 player strike a light reaction game combines the excitement of the Strike A Light reaction game with the twist of chaos!"
+meta_description: "CHAOS 4 player strike a light reaction game combines the excitement of the Strike A Light reaction game with the twist of chaos!"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # ⚡ Chaos 4 Player Strike a Light Game Hire – Monster Event Hire
   Bring **high-energy competition** to your event with the **Chaos 4 Player Strike a Light game hire**! Perfect for **birthday parties, corporate events, school fun days, exhibitions, and team-building events**, this fast-paced interactive game guarantees **fun, excitement, and engagement for all ages** across **Hampshire, Surrey, Sussex & London**.
   ## 🎮 How the Game Works
@@ -77,10 +77,13 @@ upsells:
   - 'racing-simulator'
   - 'under-pressure'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Can I just say thank you for an excellent and friendly service.</p>
-              <p>Hope to work with you again in the near future</p>
-              <p>Regards</p>
+  Hi Joanne
+
+  Can I just say thank you for an excellent and friendly service.
+
+  Hope to work with you again in the near future
+
+  Regards
 testimonial_attribution: 'Sally'
 testimonial_role: 'The Co-operative food, Supply chain logistics'
 breadcrumb_name: 'Chaos 4 Player Strike A Light Reaction Game'

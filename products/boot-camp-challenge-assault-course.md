@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2024/04/bootcamp-14.jpg
 title: "Boot Camp Challenge"
 meta_title: "Boot camp challenge assault course"
-description: "The boot camp challenge assault course is an adrenaline packed inflatable suitable for all age users this one will stand out at any event."
+meta_description: "The boot camp challenge assault course is an adrenaline packed inflatable suitable for all age users this one will stand out at any event."
 category_name: "Inflatable Assault Course And Obstacle Course Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 100ft Boot Camp Challenge Assault Course Hire in Hampshire & Surrey
   ## The Ultimate Giant Inflatable Obstacle Course Experience
   Looking for a **show-stopping inflatable assault course hire in Hampshire or Surrey**? Our **100ft Boot Camp Challenge** is the **ultimate test of speed, stamina, and determination**—packed with obstacles, slides, and non-stop action from start to finish.
@@ -133,10 +133,13 @@ upsells:
   - 'mangle-run'
   - 'wibble-wobble-soldiers'
 testimonial_body: |-
-  <p>Hi there</p>
-              <p>Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.</p>
-              <p>I will be recommending your company to other parents for future events.</p>
-              <p>Regards</p>
+  Hi there
+
+  Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.
+
+  I will be recommending your company to other parents for future events.
+
+  Regards
 testimonial_attribution: 'Mrs Caroline Carlin'
 breadcrumb_name: 'Boot Camp Challenge Assault Course'
 date_published: '2024-04-25T08:25:00+00:00'

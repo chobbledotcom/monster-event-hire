@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/celebration-large.jpg
 title: "Celebration Bouncy Castle 15ft x 16ft"
 meta_title: "Celebration Bouncy Castle 15ft x 16ft"
-description: "Celebration Bouncy Castle Hire in Hampshire &amp; Surrey – luxurious inflatable for weddings, birthdays &amp; parties. Available in 2 sizes."
+meta_description: "Celebration Bouncy Castle Hire in Hampshire &amp; Surrey – luxurious inflatable for weddings, birthdays &amp; parties. Available in 2 sizes."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # Celebration Bouncy Castle Hire – Luxurious Inflatable for Parties & Events
   Celebrate in style with our **Celebration Bouncy Castle Hire**, perfect for making any event extra special. Whether it’s a **wedding, birthday party, anniversary, or family celebration**, this luxurious bouncy castle adds a touch of fun and elegance that guests of all ages will enjoy.
   Available in two sizes, the **15ft x 16ft x 13ft** or the larger **20ft x 20ft version**, this inflatable is suitable for both children and adults, ensuring everyone can join in the fun. The fitted cover protects the castle from the elements, making it perfect for outdoor use in the UK, while still being compact enough for garden parties, marquees, or indoor venues.
@@ -56,9 +56,11 @@ upsells:
   - 'toy-story-bouncy-castle'
   - 'fairground-bouncy-castle'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
-              <p>Kind regards</p>
+  Hi Joanne
+
+  Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 ‘delivery men’ were efficient and polite and we look forward to doing business with you next year.
+
+  Kind regards
 testimonial_attribution: 'Katy Wood'
 testimonial_role: 'Burpham Primary School'
 breadcrumb_name: 'Celebration Bouncy Castle'

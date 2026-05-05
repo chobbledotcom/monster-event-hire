@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/11/28-7-2015.jpg
 title: "Zorbing hire"
 meta_title: "Zorbing - Monster Event and Party Hire"
-description: "Zorbing is the incredible game where players reside within a giant plastic bubble. call today for more information on any of our party games!"
+meta_description: "Zorbing is the incredible game where players reside within a giant plastic bubble. call today for more information on any of our party games!"
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # 🎉 **Zorbing Hire – Safe, Thrilling Bubble Fun for All Ages**
   Experience the excitement of **zorbing hire**, the adrenaline-filled activity where players step inside a giant inflatable plastic bubble. The bubble protects participants while allowing a **whole new level of movement**, making the game both safe and incredibly fun. **Whether bouncing, rolling, or racing**, zorbing is a high-energy activity suitable for all ages, making it perfect for parties, corporate events, and team-building challenges.
   ### **How Zorbing Works**
@@ -49,8 +49,9 @@ upsells:
   - 'crazy-golf'
   - 'giant-velcro-football'
 testimonial_body: |-
-  <p>We would like to take this opportunity to thank you for your hard work and support on this year&#8217;s Playday.</p>
-              <p>Despite the weather between us we managed to provide a jam packed day full of fun for 100&#8217;s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.</p>
+  We would like to take this opportunity to thank you for your hard work and support on this year’s Playday.
+
+  Despite the weather between us we managed to provide a jam packed day full of fun for 100’s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.
 testimonial_attribution: 'Fran Regan & Karen Esprit'
 testimonial_role: 'Playday Coordinators'
 breadcrumb_name: 'Zorbing'

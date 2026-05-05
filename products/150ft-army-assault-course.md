@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/army-assault-course41.jpg
 title: "150ft Army Assault Course"
 meta_title: "150ft Army Assault Course - Monster Event Hire"
-description: "This 150 ft inflatable army assault course is not only big on size but pushes the fun factor to an even bigger scale."
+meta_description: "This 150 ft inflatable army assault course is not only big on size but pushes the fun factor to an even bigger scale."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   ## 150ft Army Assault Course – Inflatable Obstacle Challenge
   Take on the ultimate test of strength, speed, and agility with our **150ft Army Assault Course** – the largest inflatable army obstacle course available! Stretching a massive **150 feet in length**, this inflatable course is designed to challenge both **children and adults** while providing endless fun and excitement for participants and spectators alike. Perfect for **birthday parties, school events, corporate team-building, community festivals, and large outdoor events**, this inflatable course guarantees unforgettable entertainment.
   ### Features of the 150ft Army Assault Course
@@ -56,12 +56,15 @@ upsells:
   - 'boot-camp-challenge-assault-course'
   - 'combat-tag-archery'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+  Dear Joanne,
+
+  Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.
+
+  Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.
+
+  Best wishes
+
+  Matt – Head of Boarding (SLT)
 testimonial_attribution: ''
 date_published: '2015-10-20T13:59:07+00:00'
 primary_image_width: 1136

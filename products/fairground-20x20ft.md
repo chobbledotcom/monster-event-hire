@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2016/04/fairground-20ft.jpg
 title: "Fairground bouncy castle 20x20ft"
 meta_title: "Fairground bouncy castle 20x20ft"
-description: "Fairground bouncy castle hire in Hampshire &amp; Surrey. Large 20x20ft inflatable for adults &amp; kids, perfect for parties, weddings &amp; fun days."
+meta_description: "Fairground bouncy castle hire in Hampshire &amp; Surrey. Large 20x20ft inflatable for adults &amp; kids, perfect for parties, weddings &amp; fun days."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # 🎪 Fairground Bouncy Castle Hire (20ft x 20ft) – Hampshire & Surrey
   Bring the excitement and colour of a traditional funfair to your event with our **large Fairground Bouncy Castle (20ft x 20ft)**. This vibrant inflatable is designed to be a real showstopper, creating a lively carnival atmosphere that guests of all ages will enjoy. Whether you’re planning a birthday party, wedding, school fete, or corporate event, this bouncy castle is guaranteed to keep everyone entertained.
   With its **generous 20ft x 20ft size**, this inflatable provides plenty of space for multiple users at once, making it ideal for larger gatherings. Unlike standard children’s inflatables, this unit is **suitable for both adults and children**, so everyone can join in the fun. The bold fairground artwork adds a bright and cheerful look that fits perfectly with themed events and outdoor celebrations.
@@ -50,8 +50,9 @@ upsells:
   - 'western-bouncy-castle'
   - 'celebration-bouncy-castle'
 testimonial_body: |-
-  <p>Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham&#8217;s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.</p>
-              <p>Kind regards</p>
+  Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham’s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.
+
+  Kind regards
 testimonial_attribution: 'Caroline Gumn'
 testimonial_role: 'PA to Chief Executive'
 breadcrumb_name: 'Fairground 20x20ft'

@@ -13,7 +13,7 @@ meta_title: "Rodeo Pumpkin Hire"
 og_description: "Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   ### Rodeo Pumpkin Hire!
   Experience the fright of your life on the rodeo Pumpkin.
   Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall.
@@ -50,9 +50,11 @@ upsells:
   - 'rodeo-xmas-pudding'
   - 'rodeo-reindeer'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 breadcrumb_name: 'Rodeo Pumpkin'

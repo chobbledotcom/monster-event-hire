@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2015/10/sheep-shaun.jpg
 title: "Rodeo Sheep Hire"
 meta_title: "Rodeo Sheep - Monster Event and Party Hire - Bucking sheep hire"
-description: "Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. He will have you holding on tight as he bucks and spins until you fall."
+meta_description: "Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. He will have you holding on tight as he bucks and spins until you fall."
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   # Rodeo sheep Hire
   Rodeo sheep hire,Experience the thrill of Shaun the rodeo sheep. His farmyard frolicking will have you holding on tight as he bucks and spins until you fall.
   Our trained operator controls the speed of the bucking sheep allowing fun for all users 1.2 metres and above. The rodeo sheep is surrounded by an inflatable themed bed to ensure a soft landing.
@@ -50,8 +50,9 @@ upsells:
   - 'rodeo-xmas-pudding'
   - 'rodeo-reindeer'
 testimonial_body: |-
-  <p>Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham&#8217;s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.</p>
-              <p>Kind regards</p>
+  Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham’s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.
+
+  Kind regards
 testimonial_attribution: 'Caroline Gumn'
 testimonial_role: 'PA to Chief Executive'
 breadcrumb_name: 'Rodeo Sheep'

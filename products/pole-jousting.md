@@ -17,7 +17,7 @@ meta_title: "Pole Jousting"
 og_description: "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   ## Pole Jousting
   Knock your adversary off the pole and onto the inflatable bed of defeat.
   Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun competition.
@@ -34,11 +34,15 @@ upsells:
   - 'bungee-run'
   - 'multi-sports-arena'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>We just wanted to say thank you for such an excellent service from Monster today.</p>
-              <p>Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son&#8217;s birthday party a big success.</p>
-              <p>I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!</p>
-              <p>Many thanks again.</p>
+  Hi Joanne
+
+  We just wanted to say thank you for such an excellent service from Monster today.
+
+  Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son’s birthday party a big success.
+
+  I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!
+
+  Many thanks again.
 testimonial_attribution: 'Philippa Pendred'
 date_published: '2015-10-26T11:09:24+00:00'
 primary_image_width: 720

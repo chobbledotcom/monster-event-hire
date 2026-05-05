@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/10/60ft-assault-course.jpg
 title: "60ft Army Assault Course"
 meta_title: "60ft Army Assault Course - assault course inflatable"
-description: "60ft army assault course inflatable with sections to sprint through, obstacles to leap over and small gaps to squeeze through."
+meta_description: "60ft army assault course inflatable with sections to sprint through, obstacles to leap over and small gaps to squeeze through."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 60ft Army Assault Course Hire – Inflatable Obstacle Course with Mega Slide
   Take on the ultimate challenge with our **60ft Army Assault Course Hire** – a larger, more action-packed inflatable designed for high-energy fun! Perfect for parties, school events, and corporate days, this **army-themed inflatable obstacle course** brings excitement, competition, and adventure to any event.
   Race through multiple sections filled with obstacles to leap over, gaps to squeeze through, and challenges to conquer—before finishing with an epic **10ft mega slide**!
@@ -65,9 +65,11 @@ upsells:
   - '56ft-jungle-assault-course'
   - '75ft-army-assault-course'
 testimonial_body: |-
-  <p>Dear Joanne</p>
-              <p>Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.</p>
-              <p>Kind regards</p>
+  Dear Joanne
+
+  Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.
+
+  Kind regards
 testimonial_attribution: 'Kate'
 testimonial_role: 'Office Manager / Executive Administrator, Spectrum'
 date_published: '2015-10-15T12:29:22+00:00'

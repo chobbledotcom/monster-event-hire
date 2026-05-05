@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2017/04/dash-n-grab1.jpg
 title: "Dash-n-grab-hire-Hampshire-Surrey"
 meta_title: "Dash-n-grab-hire-Hampshire-Surrey"
-description: "Hire Dash N Grab in Hampshire &amp; Surrey. A giant Hungry Hippos-style inflatable game for 8 players—perfect for parties, corporate events &amp; team building."
+meta_description: "Hire Dash N Grab in Hampshire &amp; Surrey. A giant Hungry Hippos-style inflatable game for 8 players—perfect for parties, corporate events &amp; team building."
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Dash N Grab !
   Child of the 80’s!!! Do you remember playing Hungry Hippos? Our super sized Dash N Grab brings the game truly back to life. Take part with this fully interactive Inflatable and can now play a giant version where you yourself are the hippo and have the race and grab the balls from the middle of the inflatable!
   Dash n Grab is  high energy and a very competitive game.
@@ -178,10 +178,13 @@ upsells:
   - 'inflatable-base-jump'
   - 'wibble-wobble-soldiers'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
-              <p>Hopefully we can stay in contact for any future events.</p>
-              <p>Many Thanks</p>
+  Hi Joanne,
+
+  I’m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!
+
+  Hopefully we can stay in contact for any future events.
+
+  Many Thanks
 testimonial_attribution: 'Tim Smith'
 testimonial_role: 'Havant Family Church'
 breadcrumb_name: 'Dash And Grab'

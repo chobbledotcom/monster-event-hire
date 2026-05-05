@@ -13,8 +13,8 @@ galleryImages:
   - /images/uploads/2016/04/big-ball-challenge.jpg
 title: "Big Balls Challenge"
 meta_title: "Big Balls Challenge"
-description: "Perfect for any large events, this will surely be a fantastic crowd puller, because of its enormous size it will stand out in the crowd."
-body: |-
+meta_description: "Perfect for any large events, this will surely be a fantastic crowd puller, because of its enormous size it will stand out in the crowd."
+description: |-
   # Big Balls Challenge – Inflatable Obstacle Game Hire
   Get ready for the ultimate **inflatable obstacle challenge** with the **Big Balls Challenge**! This enormous and thrilling attraction is perfect for **birthday parties, corporate fun days, school events, university activities, community festivals, and large outdoor events**. As one of the **largest inflatable challenges in the UK**, it guarantees to **stand out and attract crowds** wherever it’s set up.
   ### Features of the Big Balls Challenge
@@ -48,9 +48,11 @@ upsells:
   - 'dash-and-grab'
   - 'inflatable-base-jump'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
-              <p>Kind regards</p>
+  Hi Joanne
+
+  Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 ‘delivery men’ were efficient and polite and we look forward to doing business with you next year.
+
+  Kind regards
 testimonial_attribution: 'Katy Wood'
 testimonial_role: 'Burpham Primary School'
 date_published: '2016-04-02T12:19:15+00:00'

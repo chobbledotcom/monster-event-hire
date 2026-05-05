@@ -8,38 +8,35 @@ redirect_from:
   - /allproducts/bouncy-castles/adults-bouncy-castles/
 layout: wp-category.html
 title: 'Adults bouncy castles for Hire - adult bouncy castles - Monster Event Hire'
-description: 'Adult Bouncy castles that have been carefully sized to accommodate the bigger folks. If you would like more information, please get in touch with us today!'
+meta_description: 'Adult Bouncy castles that have been carefully sized to accommodate the bigger folks. If you would like more information, please get in touch with us today!'
+description: |-
+  # **Adult Bouncy castles **
+
+  If you’re looking for Adult bouncy castles?
+
+  Here at Monster event hire we would love to help you do exactly that.
+
+  Looking to hire an adult size castle?
+
+  Maybe its for a birthday party, a christening, or just a little fun in the garden at family parties. Because we have a comprehensive collection that suits little boys or girls and and unrivalled range for the bigger children in our lives!
+
+  So you can certainly feel like a king or a queen and bounce around in the adult Bouncy castle that suits you.
+
+  Please check out our huge array of bouncy castles for hire
+
+  **Let’s get this Party started…**
+
+  And choose your favourite Adult castle from the list below,
+
+  Please call us or book online today !!
+
+  our bouncy castles have been carefully sized to accommodate the bigger folk. Who said you should stop having fun as an adult?
+
+  Bounce away!
 body_class: 'archive tax-product-category term-adults-bouncy-castles term-54 wp-theme-littlemonsters'
 breadcrumb_name: 'Adults Bouncy Castles'
 cat_head_style: 'background:url(/images/uploads/2016/03/bouncy-casles-2.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:15em 0;'
 cat_head_title: 'Adults bouncy castles'
-cat_head_intro_html: |-
-  <h1><strong>Adult Bouncy castles </strong></h1>
-            <p>If you&#8217;re looking for Adult bouncy castles?</p>
-            <p>Here at Monster event hire we would love to help you do exactly that.</p>
-            <p>Looking to hire an adult size castle?</p>
-            <p>Maybe its for a birthday party, a christening, or just a little fun in the garden at family parties. Because we have a comprehensive collection that suits little boys or girls and and unrivalled range for the bigger children in our lives!</p>
-            <p>So you can certainly feel like a king or a queen and bounce around in the adult Bouncy castle that suits you.</p>
-            <p>Please check out our huge array of bouncy castles for hire</p>
-            <p><strong>Let’s get this Party started&#8230;</strong></p>
-            <p>And choose your favourite Adult castle from the list below,</p>
-            <p>Please call us or book online today !!</p>
-            <p>our bouncy castles have been carefully sized to accommodate the bigger folk. Who said you should stop having fun as an adult?</p>
-            <p>Bounce away!</p>
-            <p></p>
-cat_body_intro_html: |-
-  <h1><strong>Adult Bouncy castles </strong></h1>
-              <p>If you&#8217;re looking for Adult bouncy castles?</p>
-              <p>Here at Monster event hire we would love to help you do exactly that.</p>
-              <p>Looking to hire an adult size castle?</p>
-              <p>Maybe its for a birthday party, a christening, or just a little fun in the garden at family parties. Because we have a comprehensive collection that suits little boys or girls and and unrivalled range for the bigger children in our lives!</p>
-              <p>So you can certainly feel like a king or a queen and bounce around in the adult Bouncy castle that suits you.</p>
-              <p>Please check out our huge array of bouncy castles for hire</p>
-              <p><strong>Let’s get this Party started&#8230;</strong></p>
-              <p>And choose your favourite Adult castle from the list below,</p>
-              <p>Please call us or book online today !!</p>
-              <p>our bouncy castles have been carefully sized to accommodate the bigger folk. Who said you should stop having fun as an adult?</p>
-              <p>Bounce away!</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'animal-bouncer-bouncy-castle'

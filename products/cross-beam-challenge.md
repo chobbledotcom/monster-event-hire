@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2016/01/car-pics-024.jpg
 title: "Cross Beam Challenge"
 meta_title: "Cross Beam Challenge"
-description: "Cross Beam Challenge Hire in Hampshire &amp; Surrey – team-building, corporate events, and parties. Fun, safe, and interactive for all ages!"
+meta_description: "Cross Beam Challenge Hire in Hampshire &amp; Surrey – team-building, corporate events, and parties. Fun, safe, and interactive for all ages!"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   # Cross Beam Challenge Hire – Inflatable Team-Building & Corporate Fun
   Bring the thrill of competition and teamwork to your next event with our **Cross Beam Challenge Hire**. This inflatable is perfect for **corporate events, team-building days, school challenges, family fun days, and large parties**. Combining excitement, balance, and friendly rivalry, the Cross Beam Challenge is a unique activity that encourages collaboration and laughs for participants of all ages.
   Measuring **35ft long x 18ft wide x 5ft high**, this inflatable provides plenty of space for participants to test their agility and balance. Contestants must navigate the cross beams while avoiding falls, making it an engaging and interactive challenge that keeps everyone entertained. The low height makes it **safe for all ages**, while still offering enough of a challenge to get hearts racing.
@@ -55,8 +55,9 @@ upsells:
   - 'the-sweeper'
   - 'inflatable-base-jump'
 testimonial_body: |-
-  <p>Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham&#8217;s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.</p>
-              <p>Kind regards</p>
+  Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham’s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.
+
+  Kind regards
 testimonial_attribution: 'Caroline Gumn'
 testimonial_role: 'PA to Chief Executive'
 date_published: '2015-01-25T11:52:03+00:00'

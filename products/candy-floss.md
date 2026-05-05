@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/candy-floss.jpg
 title: "Candy Floss Hire"
 meta_title: "Candy Floss Hire hire"
-description: "Candy Floss Hire in Hampshire &amp; Surrey – sweeten any party or event! DIY or staffed stalls, sticks &amp; bags included. Fun for kids &amp; adults."
+meta_description: "Candy Floss Hire in Hampshire &amp; Surrey – sweeten any party or event! DIY or staffed stalls, sticks &amp; bags included. Fun for kids &amp; adults."
 category_name: "Side Stalls"
 category_slug: "side-stalls"
-body: |-
+description: |-
   ## Candy Floss Hire – For Parties, Weddings & Events
   Sweeten up your event with our **Candy Floss Hire**, a fun and interactive treat loved by guests of all ages! Perfect for **birthday parties, weddings, school fairs, corporate events, community fundraisers, and festivals**, our candy floss stall adds a nostalgic and colourful touch that creates a memorable experience for everyone.
   Making candy floss couldn’t be simpler! Whether you’d like to **serve it yourself** or have our friendly staff handle it, it’s easy to operate. We’ll provide all the **sticks, plastic bags, and equipment**, and even give you a **quick tutorial** if you want to try making your own. Watching candy floss spin into fluffy, sweet perfection is always a crowd-pleaser and adds a fun, interactive element to your event.
@@ -52,8 +52,9 @@ upsells:
   - 'high-striker'
   - 'crazy-golf'
 testimonial_body: |-
-  <p>Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.</p>
-              <p>Thanks again</p>
+  Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.
+
+  Thanks again
 testimonial_attribution: 'Enham'
 breadcrumb_name: 'Candy Floss'
 date_published: '2015-10-27T12:56:50+00:00'

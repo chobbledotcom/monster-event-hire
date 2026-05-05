@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/11/sawbones3.jpg
 title: "Giant-operation-game-hire-Hampshire-Surrey"
 meta_title: "Giant-operation-game-hire-Hampshire-Surrey - operation games hire"
-description: "Hire the Giant Saw Bones game in Hampshire &amp; Surrey. interactive Operation perfect for events, exhibitions, and team building!"
+meta_description: "Hire the Giant Saw Bones game in Hampshire &amp; Surrey. interactive Operation perfect for events, exhibitions, and team building!"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Giant Saw Bones Hire in Hampshire & Surrey 🎯
   ## Giant Operation Game Hire for Events, Parties & Team Building
   Looking for a **fun, nostalgic, and interactive game hire in Hampshire & Surrey**? Our **Giant Saw Bones** game—inspired by the classic Operation—is a hilarious test of skill, precision, and nerves!
@@ -123,10 +123,13 @@ upsells:
   - '80s-retro-arcade-games'
   - 'christmas-photo-booth'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.</p>
-              <p>We&#8217;ll definitely be in touch for future events.</p>
-              <p>Thank you again</p>
+  Hi Joanne,
+
+  I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.
+
+  We’ll definitely be in touch for future events.
+
+  Thank you again
 testimonial_attribution: 'Francesca Olle'
 testimonial_role: 'Highfield School'
 breadcrumb_name: 'Giant Saw Bones'

@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/multi-sprots-2.jpg
 title: "Multi Sports Arena"
 meta_title: "multi sports arena- volleyball inflatable hire"
-description: "Multi Sports Arena can be used for, inflatable volleyball hire, Bouncy football and much more, Inflatable volleyball is most popular for team building."
+meta_description: "Multi Sports Arena can be used for, inflatable volleyball hire, Bouncy football and much more, Inflatable volleyball is most popular for team building."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   ## Multi Sports Arena – Inflatable Volleyball Hire
   If you think this looks like something special, The Multi Sports Arena – Inflatable Volleyball Hire really is!
   Our unique multi sports arena is the perfect platform for fun and games in a soft (and bouncy) environment. Featuring inflatable goal posts that can be utilised however you like, this arena has entrances at each end for a jump-in, jump-out, quick fire experience.
@@ -49,10 +49,13 @@ upsells:
   - 'gold-cup-horse-racing-challenge'
   - 'combat-tag-archery'
 testimonial_body: |-
-  <p>Hiya</p>
-              <p>Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!</p>
-              <p>Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.</p>
-              <p>It was a perfect day.</p>
+  Hiya
+
+  Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!
+
+  Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.
+
+  It was a perfect day.
 testimonial_attribution: 'Tamara and Adrian'
 date_published: '2014-11-21T11:17:04+00:00'
 primary_image_width: 960

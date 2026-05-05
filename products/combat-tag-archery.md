@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2020/01/tag-archery-combat.jpg
 title: "Combat Tag Archery"
 meta_title: "Combat Tag Archery Hire"
-description: "Hire Combat Tag Archery for corporate events, team building, and parties. Safe foam arrows, competitive game play, trained staff, and fully insured."
+meta_description: "Hire Combat Tag Archery for corporate events, team building, and parties. Safe foam arrows, competitive game play, trained staff, and fully insured."
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Combat Tag Archery Hire – Team Building & Corporate Events
   Bring **adrenaline, fun, and friendly competition** to your next event with **Combat Tag Archery hire**! Also known as **battle archery or tag archery**, this fast-paced game combines elements of **dodgeball, Nerf battles, and paintball** into a **safe, competitive archery experience**. Perfect for **corporate team-building, birthday parties, school activities, and group events**, it’s guaranteed to keep participants engaged and entertained.
   ### How Combat Tag Archery Works
@@ -46,10 +46,13 @@ upsells:
   - 'laser-shot'
   - 'laser-clay-pigeon-shooting'
 testimonial_body: |-
-  <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+  Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were
+
+  We will certainly use them again they were great and a credit to you
+
+  **Executive Assistant
+
+  Vector Aerospace International Limited**
 testimonial_attribution: ''
 date_published: '2020-01-24T16:42:04+00:00'
 primary_image_width: 1536

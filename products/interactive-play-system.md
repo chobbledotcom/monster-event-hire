@@ -14,11 +14,11 @@ galleryImages:
   - /images/uploads/2017/04/interactive-play-stystem-1.jpg
 title: "Interactive play system &#8211; ips"
 meta_title: "Interactive play system - ips interactive play system"
-description: "Interactive Play System is a 2 player high energy game. IPS is based on a combination of light, sound and games, to enable challenging games."
+meta_description: "Interactive Play System is a 2 player high energy game. IPS is based on a combination of light, sound and games, to enable challenging games."
 og_title: "Interactive play system - ips"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Interactive Play System – ips
   This Interactive Play System is a 2 – 4 player high energy game.
   IPS is based on the unique combination of light, sound and games.
@@ -45,10 +45,13 @@ upsells:
   - 'laser-shot'
   - 'pit-stop-challenge'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
-              <p>Hopefully we can stay in contact for any future events.</p>
-              <p>Many Thanks</p>
+  Hi Joanne,
+
+  I’m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!
+
+  Hopefully we can stay in contact for any future events.
+
+  Many Thanks
 testimonial_attribution: 'Tim Smith'
 testimonial_role: 'Havant Family Church'
 breadcrumb_name: 'Interactive Play System'

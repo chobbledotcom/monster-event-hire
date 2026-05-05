@@ -12,11 +12,11 @@ galleryImages:
   - /images/uploads/2015/11/boothdesigns.jpg
 title: "Video &#038; Photo Booth hire"
 meta_title: "Video and Photo booth hire - Monster event Hire - Video Booth Hire"
-description: "Video &amp; photo booth hire, a great addition to weddings where attendees can record messages for the bride and groom,or even fun at conferences!"
+meta_description: "Video &amp; photo booth hire, a great addition to weddings where attendees can record messages for the bride and groom,or even fun at conferences!"
 og_title: "Video &amp; Photo Booth hire"
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   # Video & Photo Booth Hire
   Video & Photo Booth hire, The video booth is fully automated with on screen instructions and fully interactive touch screen controls users can record video messages of up to 40 seconds.Video booth Hire is  a unique way to capture the spirit of your party, wedding or promotion. then here at Monster event hire we would love to help you do exactly that. Looking to hire a video & Photo Booth? Maybe it’s for a birthday party, a christening or a wedding also family parties.
   We have a comprehensive collection that suits all different types of events and an unrivalled range that will help your event go off with a bang!
@@ -56,10 +56,13 @@ upsells:
   - 'magic-selfie-mirror'
   - 'green-screen-dream-machine'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Can I just say thank you for an excellent and friendly service.</p>
-              <p>Hope to work with you again in the near future</p>
-              <p>Regards</p>
+  Hi Joanne
+
+  Can I just say thank you for an excellent and friendly service.
+
+  Hope to work with you again in the near future
+
+  Regards
 testimonial_attribution: 'Sally'
 testimonial_role: 'The Co-operative food, Supply chain logistics'
 breadcrumb_name: 'Combination Video Photo Booth Hire'

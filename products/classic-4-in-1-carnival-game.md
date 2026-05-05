@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2025/07/Carnival-Game3.jpg
 title: "4 in 1 Carnival Game"
 meta_title: "4 in 1 Carnival Game"
-description: "Classic 4 in 1 Carnival Game, Pin the Tail on the Donkey, Axe Throwing, Ball on Pocket Velcro Balls . A Circus Themed game,"
+meta_description: "Classic 4 in 1 Carnival Game, Pin the Tail on the Donkey, Axe Throwing, Ball on Pocket Velcro Balls . A Circus Themed game,"
 category_name: "Stalls And Carnival Games"
 category_slug: "stalls-and-carnival-games"
-body: |-
+description: |-
   # 4 in 1 Carnival Game
   Step right up to the greatest show on Earth with our Circus Side Stall Game an inflatable extravaganza of fun and skill games under the big top!
   Great Key Features to this 4 in 1 Carnival Game – 4 Side Stall Games: Test your skills with a variety of classic carnival games, including:-
@@ -40,10 +40,13 @@ upsells:
   - 'milking-cows'
   - 'lights-out-challenge'
 testimonial_body: |-
-  <p>Hiya</p>
-              <p>Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!</p>
-              <p>Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.</p>
-              <p>It was a perfect day.</p>
+  Hiya
+
+  Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!
+
+  Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.
+
+  It was a perfect day.
 testimonial_attribution: 'Tamara and Adrian'
 breadcrumb_name: 'Classic 4 In 1 Carnival Game'
 date_published: '2025-07-02T17:22:04+00:00'

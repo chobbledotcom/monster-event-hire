@@ -6,17 +6,14 @@ redirect_from:
   - /all-products/wipeout-challenge/
 layout: wp-category.html
 title: 'Wipeout Challenge Inflatables - Monster Event Hire Event hire'
-description: 'Big on fun and big on challenge, these big inflatables have the capacity to handle big events too! Please call us today for more information!'
+meta_description: 'Big on fun and big on challenge, these big inflatables have the capacity to handle big events too! Please call us today for more information!'
+description: |-
+  Put your party and event guests to the test in a variety of Total Wipeout style challenges. Big on fun and big on challenge, these inflatables have the capacity to handle big events too!
+
+  Why not pick your Favourite items to make a pick and mix selection.
 body_class: 'archive tax-product-category term-wipeout-challenge term-313 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2015/12/wipeout-bg.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Wipeout Challenge'
-cat_head_intro_html: |-
-  <p>Put your party and event guests to the test in a variety of Total Wipeout style challenges. Big on fun and big on challenge, these inflatables have the capacity to handle big events too!<br>
-            Why not pick your Favourite items to make a pick and mix selection.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Put your party and event guests to the test in a variety of Total Wipeout style challenges. Big on fun and big on challenge, these inflatables have the capacity to handle big events too!<br>
-              Why not pick your Favourite items to make a pick and mix selection.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'ball-run-challenge'

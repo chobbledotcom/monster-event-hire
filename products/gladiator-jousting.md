@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/10/11885310_1616803648592866_5049524508560652142_n1.jpg
 title: "Gladiator Jousting"
 meta_title: "Gladiator Jousting - Monster Event Hire"
-description: "Gladiator Jousting is a perfect blend of competition, team-building and safely exercised fun! For more information, please call us today!"
+meta_description: "Gladiator Jousting is a perfect blend of competition, team-building and safely exercised fun! For more information, please call us today!"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   🎪 **Gladiator Jousting Hire (18ft x 20ft) – Hampshire & Surrey**  
   Step into the arena and prepare for an epic one-on-one battle with our **Gladiator Jousting inflatable (18ft x 20ft)**. Armed with **7-inch padded foam jousting poles**, participants climb onto their pedestal platforms and test their strength, balance, and endurance. Perfect for creating excitement and laughter, this inflatable is a showstopper that gets everyone involved—players and spectators alike.
   Whether you’re hosting a **birthday party, school event, wedding, corporate team-building day, or community festival**, Gladiator Jousting brings high-energy fun and friendly competition to any occasion. Its bold, colorful design makes it a standout feature at your event, while the inflatable structure ensures safe play for all participants.
@@ -55,8 +55,9 @@ upsells:
   - 'sumo-suit-hire'
   - 'dash-and-grab'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+  Hi Joanne
+
+  The bouncy castle went down very well with the children and grown up’s, thank you for an excellent service
 testimonial_attribution: 'David'
 date_published: '2015-10-26T11:05:54+00:00'
 primary_image_width: 720

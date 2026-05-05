@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/42121f00ffc451d0c288e11c1f28cbd4_L.jpg
 title: "Pirate 2 Bouncy Castle 12ft x 14ft"
 meta_title: "Pirate 2 Bouncy Castle 12ft x 14ft"
-description: "For the pirate lovers who want to sail the seas in the safety of a bouncy castle."
+meta_description: "For the pirate lovers who want to sail the seas in the safety of a bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Pirate 2 Bouncy Castle
   For the pirate lovers who want to sail the seas in the safety of a bouncy castle.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 9’h
@@ -28,9 +28,11 @@ upsells:
   - 'princess-castle-with-slide'
   - 'toy-story-bouncy-castle'
 testimonial_body: |-
-  <p>Just wanted to say a big thank you for providing the bouncy castle and rodeo sheep it all went perfectly.</p>
-              <p>Would also like to thank the operator (Jamie), very nice guy and easy going, only thing I would like to raise is Jamie&#8217;s face after throwing the bride off the rodeo sheep may be enjoying your work to much, but very funny.Once again a big thank you for helping make our wedding day so special.</p>
-              <p>Best wishes</p>
+  Just wanted to say a big thank you for providing the bouncy castle and rodeo sheep it all went perfectly.
+
+  Would also like to thank the operator (Jamie), very nice guy and easy going, only thing I would like to raise is Jamie’s face after throwing the bride off the rodeo sheep may be enjoying your work to much, but very funny.Once again a big thank you for helping make our wedding day so special.
+
+  Best wishes
 testimonial_attribution: 'Jenny & Mark Buckett'
 breadcrumb_name: 'Pirate 2 Bouncy Castle'
 date_published: '2015-10-14T09:31:03+00:00'

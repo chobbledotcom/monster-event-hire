@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2025/10/Whack-An-Elf-christmas-hire-.jpg
 title: "Whack an Elf"
 meta_title: "Whack an Elf Monster Event Hire"
-description: "Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.Our system uses light up targets!"
+meta_description: "Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.Our system uses light up targets!"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # Whack an Elf
   Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.
   Our system uses light up targets instead of mechanical moles but utilising the classic foam hammers for each player.
@@ -38,9 +38,11 @@ article_modified_time: '2026-02-18T11:43:08+00:00'
 twitter_data1: '1 minute'
 share_description: 'Whack an Elf Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past. Our system uses light up targets instead of mechanical moles'
 testimonial_body: |-
-  <p>We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener&#8217;s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.</p>
-              <p>We have to submit a report to our senior line managers, for next year&#8217;s graduates to read and I will be including and recommending you in this report.</p>
-              <p>Once again thank you very much.</p>
+  We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener’s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.
+
+  We have to submit a report to our senior line managers, for next year’s graduates to read and I will be including and recommending you in this report.
+
+  Once again thank you very much.
 testimonial_attribution: 'Andrew McGregor'
 breadcrumb_name: 'Whack An Elf'
 date_published: '2025-10-20T18:33:51+00:00'

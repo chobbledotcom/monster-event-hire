@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2015/11/rock-n-roller-1.jpg
 title: "rock-n-roller-gladiator-joust-hire-Hampshire-Surrey"
 meta_title: "rock-n-roller-gladiator-joust-hire-Hampshire-Surrey Hire"
-description: "Hire the Rock ‘n’ Roller Gladiator Joust in Hampshire &amp; Surrey. A unique inflatable duel with a rocking base—perfect for parties, events &amp; corporate hire."
+meta_description: "Hire the Rock ‘n’ Roller Gladiator Joust in Hampshire &amp; Surrey. A unique inflatable duel with a rocking base—perfect for parties, events &amp; corporate hire."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # Rock ‘n’ Roller Gladiator Joust Hire in Hampshire & Surrey
   ## The Ultimate Inflatable Gladiator Duel with a Rocking Twist
   Looking for a **unique inflatable hire in Hampshire or Surrey** that guarantees laughs, competition, and excitement? The **Rock ‘n’ Roller Gladiator Joust** takes the classic gladiator duel and upgrades it with a **moving, rocking base** that challenges balance as much as strength.
@@ -114,8 +114,9 @@ upsells:
   - 'multi-sports-arena'
   - 'ball-run-challenge'
 testimonial_body: |-
-  <p>Hi</p>
-              <p>I&#8217;d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.</p>
+  Hi
+
+  I’d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.
 testimonial_attribution: 'Lee Alexander'
 testimonial_role: 'Coopervision'
 breadcrumb_name: 'Rock N Roller Gladiator Joust'

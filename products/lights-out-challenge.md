@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/11/lights-out-game.jpg
 title: "Lights Out Challenge"
 meta_title: "Lights Out Challenge"
-description: "With the Lights Out Challenge Compete against your opponent in 30 or 60 second games and see who can turn out the most lights."
+meta_description: "With the Lights Out Challenge Compete against your opponent in 30 or 60 second games and see who can turn out the most lights."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 🎮 **Lights Out Challenge Hire – Test Your Speed and Reactions**
   Take on the **Lights Out Challenge** and see who has the fastest reactions! Compete against an opponent in **30 or 60-second games** to see who can turn off the most lights. It’s a thrilling test of **hand-eye coordination, speed, and focus**.
   With **three different levels of increasing speed**, the challenge ramps up as players improve. It’s suitable for **children and adults aged 6+**, making it perfect for mixed groups and family-friendly competitions.
@@ -51,10 +51,13 @@ upsells:
   - 'cash-grabber'
   - 'magic-selfie-mirror'
 testimonial_body: |-
-  <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+  Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were
+
+  We will certainly use them again they were great and a credit to you
+
+  **Executive Assistant
+
+  Vector Aerospace International Limited**
 testimonial_attribution: ''
 date_published: '2015-11-04T12:19:23+00:00'
 primary_image_width: 960

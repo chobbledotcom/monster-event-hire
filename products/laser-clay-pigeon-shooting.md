@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/08/laser-clay-laser-clay-pigeon-shooting.jpg
 title: "Laser Clay Pigeon Shooting"
 meta_title: "Laser Clay Pigeon Shooting - Monster Event Hire"
-description: "Hire laser clay pigeon shooting for parties, team building, school events, or weddings. Safe, supervised, and fun across Hampshire, Surrey &amp; Sussex."
+meta_description: "Hire laser clay pigeon shooting for parties, team building, school events, or weddings. Safe, supervised, and fun across Hampshire, Surrey &amp; Sussex."
 category_name: "Shooting Archery And Marksmen Hire"
 category_slug: "shooting-archery-and-marksmen-hire"
-body: |-
+description: |-
   # 🎯 Laser Clay Pigeon Shooting Hire – Monster Event Hire
   Bring safe, competitive excitement to your event with **Laser Clay Pigeon Shooting Hire**! This fun, interactive attraction uses **realistic infra‑red laser shotguns** and automatic clay launchers to deliver a thrilling clay shooting experience without live ammunition. It’s perfect for **birthday parties, corporate team building, school fun days, festivals, and weddings** across **Hampshire, Surrey, Sussex & London** — guaranteed to entertain guests of all ages.
   ## 🎯 How Laser Clay Pigeon Shooting Works
@@ -120,11 +120,15 @@ upsells:
   - 'cash-grabber'
   - 'retro-arcade-machine'
 testimonial_body: |-
-  <p>We have worked with Monster for five years now, from the very first year of our event. Our festival has grown considerably since it&#8217;s first year and Monster have supported us along the way with their involvement also growing each year with the festival.</p>
-              <p>Monster have a great relationship with the young attendees of our event and it&#8217;s fair to say that the activities that they provide are an absolute key element to our success and the reason that some kids keep coming back!</p>
-              <p>I&#8217;m sure ours is not the easiest event for Monster as we&#8217;re continually changing our requirements right up until the day (and on the day!) but it is never a problem for Joanne and the team who are always able to deliver.</p>
-              <p>I can&#8217;t recommend Monster highly enough &#8211; their flexibility, positive attitude and willingness to go over and above is why we continue to use them year on year.</p>
-              <p>Many thanks</p>
+  We have worked with Monster for five years now, from the very first year of our event. Our festival has grown considerably since it’s first year and Monster have supported us along the way with their involvement also growing each year with the festival.
+
+  Monster have a great relationship with the young attendees of our event and it’s fair to say that the activities that they provide are an absolute key element to our success and the reason that some kids keep coming back!
+
+  I’m sure ours is not the easiest event for Monster as we’re continually changing our requirements right up until the day (and on the day!) but it is never a problem for Joanne and the team who are always able to deliver.
+
+  I can’t recommend Monster highly enough – their flexibility, positive attitude and willingness to go over and above is why we continue to use them year on year.
+
+  Many thanks
 testimonial_attribution: 'Lucy Soal'
 testimonial_role: 'Community Services, East Hampshire District Council'
 date_published: '2015-08-05T11:16:38+00:00'

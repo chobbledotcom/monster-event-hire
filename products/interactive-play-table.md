@@ -14,7 +14,7 @@ meta_title: "Interactive Play Table"
 og_description: "Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back&hellip;"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   Interactive Play Table
   This is a 2 – 4 players high energy game lasts 1 min each so the turn around is high with this .
   3 pre-set games including “Light Hunter” “Steal the light” & “Back to base and ensures your clients never get bored.
@@ -30,8 +30,9 @@ upsells:
   - 'laser-shot'
   - 'milking-cows'
 testimonial_body: |-
-  <p>Hi</p>
-              <p>I&#8217;d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.</p>
+  Hi
+
+  I’d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.
 testimonial_attribution: 'Lee Alexander'
 testimonial_role: 'Coopervision'
 date_published: '2019-01-09T18:01:07+00:00'

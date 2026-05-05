@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2017/01/1.2-1.jpg
 title: "Grand Bounce National"
 meta_title: "Grand bounce national hire - inflatable space hopper Giant Horses"
-description: "Grand Bounce National, jump on your very own horse bounce your way down the track for loads of bouncy fun and entertainment."
+meta_description: "Grand Bounce National, jump on your very own horse bounce your way down the track for loads of bouncy fun and entertainment."
 category_name: "Product Category"
 category_slug: "product-category"
-body: |-
+description: |-
   # 🎪 **Grand Bounce National – Inflatable Space Hopper Track Hire**
   Get ready to **bounce, race, and laugh** with our **Grand Bounce National inflatable**. Hop on your very own inflatable horse and race down the track in a safe, cushioned environment. **As players test their balance and stamina**, they will enjoy friendly competition while having endless fun.
   Perfect for **fun days, birthday parties, school events, corporate team-building, and horse-themed events**, this inflatable provides **high-energy entertainment** for both participants and spectators. **Whether you’re hosting a family celebration or a corporate challenge**, the Grand Bounce National guarantees laughs and excitement.
@@ -55,8 +55,9 @@ upsells:
   - 'the-challenger'
   - 'inflatable-base-jump'
 testimonial_body: |-
-  <p>We would like to take this opportunity to thank you for your hard work and support on this year&#8217;s Playday.</p>
-              <p>Despite the weather between us we managed to provide a jam packed day full of fun for 100&#8217;s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.</p>
+  We would like to take this opportunity to thank you for your hard work and support on this year’s Playday.
+
+  Despite the weather between us we managed to provide a jam packed day full of fun for 100’s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.
 testimonial_attribution: 'Fran Regan & Karen Esprit'
 testimonial_role: 'Playday Coordinators'
 breadcrumb_name: 'The Grand Bounce National'

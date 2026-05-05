@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/10/inflatables-001.jpg
 title: "Rodeo Pig Hire"
 meta_title: "Rodeo Pig Hire - Monster Event Hire - Hire a rodeo pig"
-description: "Rodeo pig Hire (or Buckingpig hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators. Call us for more information!"
+meta_description: "Rodeo pig Hire (or Buckingpig hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators. Call us for more information!"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   # rodeo pig Hire
   rodeo pig Hire experience the thrill Porky the . This slippery animal rolls, bucks and spins until you finally fall.
   Our trained operator controls the speed of the bucking pig allowing fun for all users 1.2 metres and above.
@@ -52,8 +52,9 @@ upsells:
   - 'rodeo-sheep'
   - 'rodeo-reindeer'
 testimonial_body: |-
-  <p>We would like to take this opportunity to thank you for your hard work and support on this year&#8217;s Playday.</p>
-              <p>Despite the weather between us we managed to provide a jam packed day full of fun for 100&#8217;s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.</p>
+  We would like to take this opportunity to thank you for your hard work and support on this year’s Playday.
+
+  Despite the weather between us we managed to provide a jam packed day full of fun for 100’s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.
 testimonial_attribution: 'Fran Regan & Karen Esprit'
 testimonial_role: 'Playday Coordinators'
 breadcrumb_name: 'Rodeo Pig'

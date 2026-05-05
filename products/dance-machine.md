@@ -18,12 +18,12 @@ galleryImages:
   - /images/uploads/2015/12/dance-machine-hire-.jpg
 title: "Dance machine Hire"
 meta_title: "Dance Machine hire - Monster Event Hire - Hire dance machine&#039;s"
-description: "dance machine Hire is a proven party favourite. Featuring current artists, classic disco tracks -there&#039;s something for everyone! Call today"
+meta_description: "dance machine Hire is a proven party favourite. Featuring current artists, classic disco tracks -there&#039;s something for everyone! Call today"
 og_title: "twin dance machine"
 og_description: "Our stunning twin Dance machine is a proven party favourite. Our dance machine uses the latest software featuring current artists, classic tracks &amp; more."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 💃 Dance Machine Hire – Monster Event Hire
   Add **non‑stop energy and fun** to your event with our **Dance Machine Hire**! Whether you’re planning a **birthday party, school disco, corporate event, festival, or family celebration**, our Dance Machine brings music, lights, and excitement that keeps guests moving and laughing.
   From young kids to adults, our Dance Machine is a **great crowd‑pleaser** and adds a memorable highlight to any occasion.
@@ -126,9 +126,11 @@ upsells:
   - 'lights-out-challenge'
   - 'rodeo-xmas-pudding'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to thank you for helping to make our daughter&#8217;s wedding a successful and very happy occasion last Saturday. The marquee was a great success, and delivery and pick up went very smoothly. We will gladly and heartily recommend you to anyone at any time!</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just wanted to thank you for helping to make our daughter’s wedding a successful and very happy occasion last Saturday. The marquee was a great success, and delivery and pick up went very smoothly. We will gladly and heartily recommend you to anyone at any time!
+
+  Thanks again
 testimonial_attribution: 'Anne Porter'
 breadcrumb_name: 'Dance Machine'
 date_published: '2015-12-07T08:16:28+00:00'

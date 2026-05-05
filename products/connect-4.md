@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/image1.jpeg
 title: "Garden game package"
 meta_title: "giant garden games package - Monster Event and Party Hire"
-description: "Dubbed the chess of the 21st century, connect 4 is the ultimate contest of two minds. Please call today for more information on any of our products!"
+meta_description: "Dubbed the chess of the 21st century, connect 4 is the ultimate contest of two minds. Please call today for more information on any of our products!"
 category_name: "Giant Game Hire"
 category_slug: "games"
-body: |-
+description: |-
   # Garden game package
   3 garden game favourites included in this package
   ### Giant Snakes and Ladders
@@ -36,9 +36,11 @@ upsells:
   - 'classic-4-in-1-carnival-game'
   - 'interactive-play-system'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
-              <p>Kind regards</p>
+  Hi Joanne
+
+  Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 ‘delivery men’ were efficient and polite and we look forward to doing business with you next year.
+
+  Kind regards
 testimonial_attribution: 'Katy Wood'
 testimonial_role: 'Burpham Primary School'
 breadcrumb_name: 'Connect 4'

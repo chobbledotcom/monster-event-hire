@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/snow-board-and-reindeer-simulator-hire-.jpg
 title: "Snowboard Simulator"
 meta_title: "Snowboard Simulator Hire"
-description: "Snowboard simulator hire !Check out our snowboard simulator!  Ready to test your skills on the piste? perfect for your winter themed events."
+meta_description: "Snowboard simulator hire !Check out our snowboard simulator!  Ready to test your skills on the piste? perfect for your winter themed events."
 category_name: "Simulator Hire"
 category_slug: "simulator-hire"
-body: |-
+description: |-
   ## Snowboard simulator !
   Check out our snowboard simulator!  Ready to test your skills on the piste?
   This is a fantastic alternative to the Surfboard, for your winter themed events.
@@ -40,11 +40,15 @@ upsells:
   - 'buzz-wire'
   - 'gold-cup-horse-racing-challenge'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).<br>
-              Please thank the guy who delivered and collected (sorry didn&#8217;t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.</p>
-              <p>Hopefully we will be able to book again with you in the future.</p>
-              <p>Regards</p>
+  Hi Joanne,
+
+  Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).
+
+  Please thank the guy who delivered and collected (sorry didn’t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.
+
+  Hopefully we will be able to book again with you in the future.
+
+  Regards
 testimonial_attribution: 'Hilary'
 date_published: '2015-10-17T16:21:58+00:00'
 primary_image_width: 960

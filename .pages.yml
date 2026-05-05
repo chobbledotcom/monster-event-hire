@@ -59,13 +59,13 @@ content:
     fields:
       - { name: title, type: string, label: Title }
       - { name: meta_title, type: string, label: SEO Title }
-      - { name: description, type: string, label: SEO Description }
+      - { name: meta_description, type: string, label: SEO Description }
       - name: galleryImages
         label: Gallery
         type: image
         options: { multiple: true }
       - { name: galleryAlt, type: string, label: Gallery Alt Text }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: description, label: Description, type: rich-text, options: { format: markdown } }
       - name: category_slug
         label: Category
         type: reference
@@ -76,7 +76,7 @@ content:
           label: "{cat_head_title}"
       - { name: category_name, type: string, label: Category Name (display) }
       - { name: share_description, type: string, label: Share Description }
-      - { name: testimonial_body, type: code, label: Testimonial, options: { language: markdown } }
+      - { name: testimonial_body, type: rich-text, label: Testimonial, options: { format: markdown } }
       - { name: testimonial_attribution, type: string, label: Testimonial Attribution }
       - name: item_data
         label: Item Tags
@@ -122,9 +122,8 @@ content:
     fields:
       - { name: cat_head_title, type: string, label: Short Title }
       - { name: title, type: string, label: Page Title (SEO) }
-      - { name: description, type: string, label: SEO Description }
-      - { name: cat_head_intro_html, type: code, label: Intro (Header), options: { language: html } }
-      - { name: cat_body_intro_html, type: code, label: Intro (Body), options: { language: html } }
+      - { name: meta_description, type: string, label: SEO Description }
+      - { name: description, label: Description, type: rich-text, options: { format: markdown } }
       - { name: cat_head_style, type: string, label: Header Style (CSS) }
       - { name: loop_class, type: string, label: Loop CSS Class }
       - name: product_slugs

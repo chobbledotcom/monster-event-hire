@@ -6,18 +6,20 @@ redirect_from:
   - /all-products/party-favourites/
 layout: wp-category.html
 title: 'Party favourites For hire'
-description: 'Explore our Party Favourites—bouncy castles, assault courses, and interactive games that guarantee fun for kids and adults at parties and events.'
+meta_description: 'Explore our Party Favourites—bouncy castles, assault courses, and interactive games that guarantee fun for kids and adults at parties and events.'
+description: |-
+  ## Party Favourites
+
+  Make your next party or event truly unforgettable with our **Party Favourites**—the most popular inflatables, activities, and games that consistently score a perfect 10 on the fun-meter!
+
+  Perfect for **birthdays, family gatherings, school events, or corporate parties**, these crowd-pleasing attractions are loved by both kids and adults. From **bouncy castles** and **assault courses** to **interactive games**, our Party Favourites offer guaranteed fun for everyone.
+
+  Browse our selection today and choose the must-have activities that will keep your guests entertained from start to finish.
 body_class: 'archive tax-product-category term-party-favourites term-50 wp-theme-littlemonsters'
 og_title: 'Party favourites Archives'
 breadcrumb_name: 'Party Favourites'
 cat_head_style: 'background:url(/images/uploads/2015/11/bouncy-castle-hire-backdrop.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover;'
 cat_head_title: 'Party favourites!'
-cat_head_intro_html: |-
-  <h2 data-section-id="vn6aux" data-start="130" data-end="151">Party Favourites</h2>
-            <p data-start="153" data-end="341">Make your next party or event truly unforgettable with our <strong data-start="212" data-end="232">Party Favourites</strong>—the most popular inflatables, activities, and games that consistently score a perfect 10 on the fun-meter!</p>
-            <p data-start="343" data-end="625">Perfect for <strong data-start="355" data-end="424">birthdays, family gatherings, school events, or corporate parties</strong>, these crowd-pleasing attractions are loved by both kids and adults. From <strong data-start="499" data-end="517">bouncy castles</strong> and <strong data-start="522" data-end="541">assault courses</strong> to <strong data-start="545" data-end="566">interactive games</strong>, our Party Favourites offer guaranteed fun for everyone.</p>
-            <p data-start="627" data-end="752">Browse our selection today and choose the must-have activities that will keep your guests entertained from start to finish.</p>
-            <p></p>
 product_slugs: 
   - 'dance-machine'
   - 'green-screen-dream-machine'

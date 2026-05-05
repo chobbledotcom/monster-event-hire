@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/11863451_1615489692057595_3472430590712009925_n1.jpg
 title: "Football Speed Cage"
 meta_title: "Football Speed Cage"
-description: "Hire the Football Speed Cage for parties, corporate events, or school sports. Test your shot speed with this, interactive inflatable game!"
+meta_description: "Hire the Football Speed Cage for parties, corporate events, or school sports. Test your shot speed with this, interactive inflatable game!"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   # Football Speed Cage Hire – Test Your Shot and Power
   Bring **action-packed sports fun** to your next event with our **Football Speed Cage hire**! Whether you’re hosting a **birthday party, corporate team-building day, school sports day, university event, or community festival**, this inflatable challenge lets players **test their speed, accuracy, and power** in an interactive and exciting environment. With **real-time feedback**, it guarantees fun for **all ages and abilities**.
   ### Features of the Football Speed Cage
@@ -53,8 +53,9 @@ upsells:
   - 'human-table-football-ropes'
   - 'crazy-golf'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 date_published: '2015-10-26T15:04:10+00:00'
 primary_image_width: 960

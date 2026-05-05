@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2019/01/49599688_1980799378891843_364190841331253248_n.jpg
 title: "Cocktail Table Retro games machine"
 meta_title: "Cocktail Table Retro games machine"
-description: "Remember the arcade and console games of yesteryear? Why not sit down on this cocktail table and remember these never ageing games."
+meta_description: "Remember the arcade and console games of yesteryear? Why not sit down on this cocktail table and remember these never ageing games."
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   ## 80’s Retro Arcade Classics Machine Hire – Nostalgic Fun for Any Event
   Step back in time with our **80’s Retro Arcade Classics Machine hire**! Perfect for **birthday parties, corporate events, school and university events, and community festivals**, this interactive arcade machine brings the **fun and nostalgia of classic 80s gaming** straight to your event. Relive your youth with iconic games like **Donkey Kong, Pac-Man, Space Invaders, Galaga, Dig Dug, Arkanoid, and many more**.
   ### Features of the 80’s Retro Arcade Machine
@@ -47,16 +47,13 @@ upsells:
   - 'racing-simulator'
   - 'lights-out-challenge'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <div>
-                Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I&#8217;ll be back in touch to book the same again for next year.
-              </div>
-              <div></div>
-              <div>
-                Kind regards,
-                <p></p>
-                <p>Charlotte</p>
-              </div>
+  Hi Joanne,
+
+  Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I’ll be back in touch to book the same again for next year.
+
+  Kind regards,
+
+  Charlotte
 testimonial_attribution: ''
 breadcrumb_name: 'Retro Arcade Machine'
 date_published: '2019-01-09T17:48:23+00:00'

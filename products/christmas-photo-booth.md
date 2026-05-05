@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2014/11/12356942_912977918739518_1103845727905215541_o1.jpg
 title: "Christmas Photo Booth"
 meta_title: "Christmas Photo Booth - Monster Event Hire - Xmas photo booth hire"
-description: "Christmas photo booth Hire is a unique way to capture the spirit of your christmas party, Unlimited photographs for the hire duration!"
+meta_description: "Christmas photo booth Hire is a unique way to capture the spirit of your christmas party, Unlimited photographs for the hire duration!"
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   # Christmas Photo Booth Hire in Hampshire & Surrey 🎄📸
   ## Capture Magical Moments This Festive Season
   Looking to add something unforgettable to your event? Our **Christmas Photo Booth hire in Hampshire & Surrey** is the perfect way to capture the fun, laughter, and festive spirit of your celebration.
@@ -136,8 +136,9 @@ upsells:
   - 'rodeo-reindeer'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.</p>
-              <p>Thanks again</p>
+  Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.
+
+  Thanks again
 testimonial_attribution: 'Enham'
 date_published: '2014-11-24T11:40:27+00:00'
 primary_image_width: 960

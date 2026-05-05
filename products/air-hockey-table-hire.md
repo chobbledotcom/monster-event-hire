@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2019/05/air-hockey-1.jpg
 title: "Air hockey table hire"
 meta_title: "Air hockey hire - Monster Event Hire - Giant game hire"
-description: "Air Hockey Table is perfect to hire for those corporate events, team building days, University Fresher&#039;s Fairs, Staff Parties or exhibitions."
+meta_description: "Air Hockey Table is perfect to hire for those corporate events, team building days, University Fresher&#039;s Fairs, Staff Parties or exhibitions."
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # Air Hockey Table
   a classic game often found in bars and bowling alleys and ideal for a bit of office entertainment.
   a fantastically addictive and high-energy game that will bring out your competitive side.
@@ -35,10 +35,13 @@ upsells:
   - '3-in-1-sports-inflatable-game'
   - 'crazy-golf'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!</p>
-              <p>The bouncy castle was loved by all! We will definitely be spreading the word!</p>
-              <p>All the best.</p>
+  Hi Joanne,
+
+  I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!
+
+  The bouncy castle was loved by all! We will definitely be spreading the word!
+
+  All the best.
 testimonial_attribution: 'Komal'
 breadcrumb_name: 'Air Hockey Table Hire'
 date_published: '2019-05-04T13:10:46+00:00'

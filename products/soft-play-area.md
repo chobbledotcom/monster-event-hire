@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2016/02/soft-play.jpg
 title: "Soft Play Area"
 meta_title: "Soft Play Area"
-description: "A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied"
+meta_description: "A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
-body: |-
+description: |-
   ### Soft play
   A soft and safe play area, complete with padded blocks and other fun items. Perfect for keeping the little ones occupied whilst adults get to enjoy the big toys!
   indoor hire only, or under a marquee.
@@ -26,9 +26,11 @@ upsells:
   - 'high-striker'
   - 'axe-throwing-inflatable'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 date_published: '2016-02-10T13:00:04+00:00'

@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2015/08/surf-simulator.jpg
 title: "Surf Simulator hire"
 meta_title: "Surf Simulator hire - Monster Event Hire"
-description: "surf simulator hire,Our surf simulator is radical fun. Imagine you&#039;re surfing the waves, only you don&#039;t need to worry about getting wet! Call us today for more information!"
+meta_description: "surf simulator hire,Our surf simulator is radical fun. Imagine you&#039;re surfing the waves, only you don&#039;t need to worry about getting wet! Call us today for more information!"
 category_name: "Simulator Hire"
 category_slug: "simulator-hire"
-body: |-
+description: |-
   # 🏄 Surf Simulator Hire – Monster Event Hire
   Bring the thrill of the waves to your event with our **Surf Simulator hire**! Perfect for **birthday parties, corporate events, school fun days, festivals, and team building**, this exciting attraction lets guests **ride the waves safely on land**. Available across **Hampshire, Surrey, Sussex & London**, our Surf Simulator guarantees fun, laughter, and unforgettable memories for all ages.
   ## 🌊 How the Surf Simulator Works
@@ -81,9 +81,11 @@ upsells:
   - 'football-speed-cage'
   - 'archery'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 breadcrumb_name: 'Surf Simulator'

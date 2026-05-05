@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/mystery-green-screen-1.jpg
 title: "Green Screen Dream Machine photo booth"
 meta_title: "Green Screen Dream Machine photo booth"
-description: "The Green Screen Dream Machine is the ultimate party and wedding photo booth. Choose from over 800 background combinations."
+meta_description: "The Green Screen Dream Machine is the ultimate party and wedding photo booth. Choose from over 800 background combinations."
 category_name: "Party Favourites"
 category_slug: "party-favourites"
-body: |-
+description: |-
   ![greenscreencurtain](/images/uploads/2015/11/greenscreencurtain.jpg)
   ### Classic Booth
   Allows users to choose the superimposed curtain colour curtain behind them for a classic photo booth feel  
@@ -90,11 +90,15 @@ upsells:
   - 'magic-selfie-mirror'
   - 'combination-video-photo-booth-hire'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>We just wanted to say thank you for such an excellent service from Monster today.</p>
-              <p>Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son&#8217;s birthday party a big success.</p>
-              <p>I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!</p>
-              <p>Many thanks again.</p>
+  Hi Joanne
+
+  We just wanted to say thank you for such an excellent service from Monster today.
+
+  Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son’s birthday party a big success.
+
+  I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!
+
+  Many thanks again.
 testimonial_attribution: 'Philippa Pendred'
 breadcrumb_name: 'Green Screen Dream Machine'
 date_published: '2015-11-05T11:24:33+00:00'

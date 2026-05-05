@@ -8,12 +8,10 @@ redirect_from:
   - /allproducts/stalls-and-carnival-games/side-stalls/
 layout: wp-category.html
 title: 'Side Stalls and Mini Activities'
-description: 'From the classic hook-a-duck and candy floss stall to crazy golf and laser shot - there&#039;s something for everyone! Keep all of your guests occupied.'
+meta_description: 'From the classic hook-a-duck and candy floss stall to crazy golf and laser shot - there&#039;s something for everyone! Keep all of your guests occupied.'
 body_class: 'archive tax-product-category term-side-stalls term-166 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2025/07/Carnival-Game.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Side Stalls'
-cat_head_intro_html: |-
-  
 loop_class: 'bouncy_castle'
 product_slugs: 
   - '3-in-1-sports-inflatable-game'

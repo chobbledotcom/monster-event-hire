@@ -4,7 +4,7 @@ templateEngineOverride: liquid
 {%- assign _short_title = cat_head_title | default: title -%}
 {%- assign _og_title_default = _short_title | append: " Archives" -%}
 {%- assign _og_title = og_title | default: _og_title_default -%}
-{%- assign _og_description = og_description | default: description -%}
+{%- assign _og_description = og_description | default: meta_description -%}
 {%- assign _breadcrumb_name = breadcrumb_name | default: cat_head_title | default: title -%}
 {%- assign _og_img_src = og_image | default: primary_image -%}
 {%- assign _img_ext = _og_img_src | split: "." | last | downcase -%}
@@ -24,7 +24,7 @@ templateEngineOverride: liquid
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="{{ description }}">
+  <meta name="description" content="{{ meta_description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="{{ og_type | default: 'article' }}">
   <meta property="og:title" content="{{ _og_title }}">
@@ -76,15 +76,14 @@ templateEngineOverride: liquid
         <div class="wrapper editable-area">
           <h1 class="title" itemprop="name">{{ cat_head_title }}</h1>
           <p itemprop="text"></p>
-          {{ cat_head_intro_html }}
         </div>
       </div>
       {%- endif -%}
-      {%- if cat_body_intro_html -%}
+      {%- if description -%}
       <div class="cat-body light-grey-bg">
         <div class="cat-body light-grey-bg">
           <div class="loop-holder products wrapper{% if loop_class %} {{ loop_class }}{% endif %}">
-            {{ cat_body_intro_html }}
+            {{ description | renderContent: "md" }}
           </div>
         </div>
       </div>

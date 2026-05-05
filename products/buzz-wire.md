@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/11/buzz-wire1.jpg
 title: "Buzz Wire"
 meta_title: "Giant Buzz Wire - Monster Event and Party Hire%"
-description: "Our giant buzz wire puts your composure to the test as you navigate the stick over and around its twists."
+meta_description: "Our giant buzz wire puts your composure to the test as you navigate the stick over and around its twists."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Giant Buzz Wire Hire – Inflatable Skill Challenge
   Test your **steady hand and concentration** with our **Giant Buzz Wire**, the ultimate **inflatable skill challenge** for **birthday parties, corporate team-building events, school activities, university events, and community festivals**. This interactive and fun game is perfect for **kids, teens, and adults**, providing competitive entertainment and a “just one more go” thrill that keeps participants coming back for more.
   ### Features of the Giant Buzz Wire
@@ -51,8 +51,9 @@ upsells:
   - 'retro-arcade-machine'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 date_published: '2015-11-11T13:46:10+00:00'
 primary_image_width: 2016

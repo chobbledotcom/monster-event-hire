@@ -13,7 +13,7 @@ meta_title: "Rodeo Rugby Ball"
 og_description: "Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   ## Rodeo Rugby Ball !
   Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall.
   Our trained operator controls the speed of the Rodeo Rugby ball allowing fun for all users 1.2 metres and above. The rodeo is surrounded by an inflatable themed bed to ensure a soft landing.
@@ -49,8 +49,9 @@ upsells:
   - 'rodeo-pumpkin'
   - 'rodeo-sheep'
 testimonial_body: |-
-  <p>I just want to say what a great time we had the other night with the rodeo bull, it was &#8220;bucking brilliant&#8221;.</p>
-              <p>Thanks again</p>
+  I just want to say what a great time we had the other night with the rodeo bull, it was “bucking brilliant”.
+
+  Thanks again
 testimonial_attribution: 'Paul'
 date_published: '2015-11-20T16:06:48+00:00'
 primary_image_width: 640

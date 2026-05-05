@@ -20,10 +20,10 @@ galleryImages:
   - /images/uploads/2025/04/magic-mirror-themed-.jpg
 title: "Magic Selfie Mirror"
 meta_title: "Magic Selfie Mirror - Monster Event Hire - Selfie mirror Hire"
-description: "Magic Selfie Mirror is a fun, interactive way to take pics during your event. The Magic selfie mirror photos print instantly."
+meta_description: "Magic Selfie Mirror is a fun, interactive way to take pics during your event. The Magic selfie mirror photos print instantly."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # ✨ Magic Selfie Mirror Hire – Monster Event Hire
   Make your event unforgettable with our **Magic Selfie Mirror Hire**! This interactive mirror combines photos, animations, and personalised touches to create a **fun, stylish, and memorable experience** for guests of all ages.
   Whether you’re hosting a **wedding, birthday party, school prom, corporate event, or festival**, the Magic Selfie Mirror adds an element of **interactive entertainment** that people love. Plus, we offer hire across **Hampshire, Surrey, Sussex & London**, bringing the fun directly to your venue.
@@ -115,11 +115,15 @@ upsells:
   - 'laser-shot'
   - 'christmas-photo-booth'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>We just wanted to say thank you for such an excellent service from Monster today.</p>
-              <p>Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son&#8217;s birthday party a big success.</p>
-              <p>I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!</p>
-              <p>Many thanks again.</p>
+  Hi Joanne
+
+  We just wanted to say thank you for such an excellent service from Monster today.
+
+  Nathan was absolutely delightful. He was very professional setting up the equipment and then fantastic (and extremely patient) with the children when they were racing. Please can you thank him for helping to make our son’s birthday party a big success.
+
+  I had lots of mums asking me where we had got the Kiddy Karts from. I will be sure to pass on your details and will definitely be in touch in the future as we have 3 little ones and no doubt many more parties to organise over the years to come!
+
+  Many thanks again.
 testimonial_attribution: 'Philippa Pendred'
 date_published: '2025-04-11T18:26:06+00:00'
 primary_image_width: 1200

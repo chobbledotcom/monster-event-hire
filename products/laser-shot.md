@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/lasershot.jpg
 title: "Indoor Laser Shooting Game Hire Laser Shot"
 meta_title: "Indoor Laser Shooting Game Hire Laser Shot"
-description: "Indoor Laser Shooting system. Laser Shot! Great competitive fun, Team Building, military balls, corporate events, parties and conferences."
+meta_description: "Indoor Laser Shooting system. Laser Shot! Great competitive fun, Team Building, military balls, corporate events, parties and conferences."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Indoor Laser Shooting Game Hire Laser Shot
   Laser Shot Hire is an interactive shooting game suitable for all ages and abilities.
   Targets of various types are projected onto a large screen and by using their skill and judgement competitors shoot at clay pigeons, ducks flying through the air, quails taking off from the wood.
@@ -45,9 +45,11 @@ upsells:
   - '80s-retro-arcade-games'
   - 'christmas-photo-booth'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 breadcrumb_name: 'Laser Shot'

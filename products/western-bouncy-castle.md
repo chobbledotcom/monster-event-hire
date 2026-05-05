@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/westernbounceadult.jpg
 title: "Western Bouncy Castle 15ft x 16ft"
 meta_title: "Western Bouncy Castle 15ft x 16ft"
-description: "Feel like a cowboy on a bucking horse on this western bouncy castle. Yeehaw! Why not add on our Rodeo Bull and Cactus lasso, to your event "
+meta_description: "Feel like a cowboy on a bucking horse on this western bouncy castle. Yeehaw! Why not add on our Rodeo Bull and Cactus lasso, to your event "
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Western Bouncy Castle
   The Western bouncy castle of the frontier. Feel like a cowboy on a bucking horse on this bounding bouncy castle. Yeehaw!
   #### Suitable for use by both children and adults
@@ -35,8 +35,9 @@ upsells:
   - 'pirate-2-bouncy-castle'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 breadcrumb_name: 'Western Bouncy Castle'
 date_published: '2015-10-15T09:52:06+00:00'

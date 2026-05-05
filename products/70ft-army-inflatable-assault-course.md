@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2019/05/green-giant1.jpg
 title: "Green Giant 70ft assault course"
 meta_title: "Green Giant 70ft assault course inflatable assault- course hire"
-description: "70ft inflatable obstacle course for parties, school events, corporate fun days, and family festivals. Safe, exciting, and full of challenges!"
+meta_description: "70ft inflatable obstacle course for parties, school events, corporate fun days, and family festivals. Safe, exciting, and full of challenges!"
 category_name: "Courses"
 category_slug: "courses"
-body: |-
+description: |-
   # The Green Giant Assault course
   🎪 **Inflatable Obstacle Course Hire – 70ft x 18ft x 15ft**
   Take your event to the next level with our **inflatable assault course**. Perfect for **family fun days, corporate events, school reward days, or community festivals**, this obstacle course challenges all comers. Participants can race, climb, and slide their way to victory in a **safe, cushioned environment**.
@@ -49,9 +49,11 @@ upsells:
   - '56ft-jungle-assault-course'
   - 'fun-fair-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 breadcrumb_name: '70ft Army Inflatable Assault Course'

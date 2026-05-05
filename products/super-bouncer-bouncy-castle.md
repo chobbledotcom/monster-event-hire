@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/superbouncer.jpg
 title: "Super Bouncer Bouncy Castle 23ft x 28ft"
 meta_title: "Super Bouncer Bouncy Castle 23ft x 28ft Super Bouncer Bouncy Castle"
-description: "You&#039;re a bouncy castle pro and all those ordinary bouncy castles are bounced out.It&#039;s time.Time to try out the Super Bouncer."
+meta_description: "You&#039;re a bouncy castle pro and all those ordinary bouncy castles are bounced out.It&#039;s time.Time to try out the Super Bouncer."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   You’re a bouncy castle pro and all those ordinary bouncy castles are bounced out.
   It’s time.
   Time to try out the S*uper Bouncer.*
@@ -35,8 +35,9 @@ upsells:
   - 'celebration-bouncy-castle'
   - 'big-top-bouncy-castle'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+  Hi Joanne
+
+  The bouncy castle went down very well with the children and grown up’s, thank you for an excellent service
 testimonial_attribution: 'David'
 breadcrumb_name: 'Super Bouncer Bouncy Castle'
 date_published: '2015-10-15T09:41:48+00:00'

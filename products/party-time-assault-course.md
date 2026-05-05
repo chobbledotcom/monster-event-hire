@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2016/04/partytime3-1.jpg
 title: "56ft Party Time Assault Course"
 meta_title: "56ft Party Time Assault Course - Party Time Assault Course"
-description: "We&#039;re all up for a party! Why not try our new Party Time Assault Course, great for any party, family fun days and school reward days."
+meta_description: "We&#039;re all up for a party! Why not try our new Party Time Assault Course, great for any party, family fun days and school reward days."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # Party Time Assault Course Hire (56ft) – Inflatable Obstacle Course for All Ages
   Get the party started with our **Party Time Assault Course Hire** – a huge 56ft inflatable packed with fun, colour, and excitement! Perfect for birthdays, school events, and celebrations, this vibrant **inflatable obstacle course** is designed to keep guests entertained for hours.
   Challenge your friends as you race through the action-packed course. Start in the run section with biff and bash obstacles, dive into the tunnel, tackle the mangles, and finish with an exciting climb up and over the slide!
@@ -55,9 +55,11 @@ upsells:
   - 'pirate-ship-assault-course'
   - 'fun-fair-assault-course'
 testimonial_body: |-
-  <p>I just wanted to take this opportunity to say a big thank you on behalf of the Maynard family &#8211; the birthday boy and his pals had a terrific time on Saturday, despite the changeable weather. Great fun was had by all on your rodeo bull, sumos and human bowling. I&#8217;d like to send my own thanks to the 2 lovely guys who came with the inflatables. They were great with the kids, promoting fun whilst still retaining that air of &#8216;safety conscious&#8217;.</p>
-              <p>They were a pleasure to work with! I look forward to calling on your services again sometime in the future.</p>
-              <p>Kind regards</p>
+  I just wanted to take this opportunity to say a big thank you on behalf of the Maynard family – the birthday boy and his pals had a terrific time on Saturday, despite the changeable weather. Great fun was had by all on your rodeo bull, sumos and human bowling. I’d like to send my own thanks to the 2 lovely guys who came with the inflatables. They were great with the kids, promoting fun whilst still retaining that air of ‘safety conscious’.
+
+  They were a pleasure to work with! I look forward to calling on your services again sometime in the future.
+
+  Kind regards
 testimonial_attribution: 'Karen'
 breadcrumb_name: 'Party Time Assault Course'
 date_published: '2016-04-15T12:10:25+00:00'

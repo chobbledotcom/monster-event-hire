@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/08/10847869_1507431982863367_2176818440922661476_n1.jpg
 title: "Archery Hire"
 meta_title: "Archery Hire - Monster Event and Party Hire"
-description: "Archery Hire is great for all events especially birthday parties and corporate team building. Please call us today for more information!"
+meta_description: "Archery Hire is great for all events especially birthday parties and corporate team building. Please call us today for more information!"
 category_name: "Shooting Archery And Marksmen Hire"
 category_slug: "shooting-archery-and-marksmen-hire"
-body: |-
+description: |-
   # Archery Hire – Event Fun for Kids and Adults
   Bring **exciting and interactive archery** to your next event! Perfect for **birthday parties, corporate team-building, school events, and community festivals**, archery is a safe, fun activity that allows **children and adults aged 8+** to test their skills and enjoy friendly competition. Everyone can hit the target with **minimal tuition**, making it accessible for all levels.
   ### Features of Our Archery Experience
@@ -51,10 +51,13 @@ upsells:
   - 'big-red-assault-course'
   - 'multi-sports-arena'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
-              <p>Hopefully we can stay in contact for any future events.</p>
-              <p>Many Thanks</p>
+  Hi Joanne,
+
+  I’m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!
+
+  Hopefully we can stay in contact for any future events.
+
+  Many Thanks
 testimonial_attribution: 'Tim Smith'
 testimonial_role: 'Havant Family Church'
 breadcrumb_name: 'Archery'

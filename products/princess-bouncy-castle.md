@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/princessbouncycastle.jpg
 title: "Princess Bouncy Castle 12ft x 14ft"
 meta_title: "Princess Bouncy Castle 12ft x 14ft"
-description: "Make your little princess or Prince feel special with their own princess bouncy castle."
+meta_description: "Make your little princess or Prince feel special with their own princess bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Princess Bouncy Castle
   Make your little princess or Prince feel special with his or her own princess bouncy castle for there special day.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 11’h
@@ -26,9 +26,11 @@ upsells:
   - 'jungle-bouncy-castle-2'
   - 'princess-castle-with-slide'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we&#8217;ll defo be using you again for a summer party, will be in touch soon.</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we’ll defo be using you again for a summer party, will be in touch soon.
+
+  Thanks again
 testimonial_attribution: 'Coral'
 breadcrumb_name: 'Princess Bouncy Castle'
 date_published: '2015-10-14T08:42:38+00:00'

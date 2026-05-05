@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2025/03/christmas-office-party-Elf-Racing-Derby-Hire.jpg
 title: "Roll And Bowl Elf Racing Derby Hire"
 meta_title: "Roll And Bowl Elf Racing Derby Hire - Monster Event Hire"
-description: "Roll And Bowl Elf Racing Derby Hire game, great for Christmas party entertainment &amp; events. In Hampshire, Surrey, Sussex and Berkshire"
+meta_description: "Roll And Bowl Elf Racing Derby Hire game, great for Christmas party entertainment &amp; events. In Hampshire, Surrey, Sussex and Berkshire"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   ## Roll And Bowl Elf Racing Derby Hire
   Our brand new Roll And Bowl Elf Racing Derby Hire is a compact version of the classic fairground Roll a Ball type game.
   Completely portable this 2 person Roll a Ball game requires the players to roll their balls up the playing field and through the coloured holes to add lights to the score board,  players roll the ball along the game and score points to move their themed Christmas Elf go along the track to become the winner.
@@ -48,10 +48,13 @@ upsells:
   - 'santas-christmas-grotto'
   - 'laser-shot'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
-              <p>Hopefully we can stay in contact for any future events.</p>
-              <p>Many Thanks</p>
+  Hi Joanne,
+
+  I’m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!
+
+  Hopefully we can stay in contact for any future events.
+
+  Many Thanks
 testimonial_attribution: 'Tim Smith'
 testimonial_role: 'Havant Family Church'
 date_published: '2025-03-31T19:05:24+00:00'

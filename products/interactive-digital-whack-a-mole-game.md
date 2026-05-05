@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2025/03/whackamole.jpg
 title: "Whack A Mole"
 meta_title: "Interactive Digital Whack A Mole Game"
-description: "Interactive Digital Whack A Mole, A great twist to the Classic Arcade game, great fun for players and spectators."
+meta_description: "Interactive Digital Whack A Mole, A great twist to the Classic Arcade game, great fun for players and spectators."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Interactive Digital Whack A Mole,
   The Interactive Digital Whack A Mole is a great concept on the classic arcade game whack a mole, you might have played in the past.
   Our system uses light up targets instead of mechanical moles but utilising the classic foam hammers for each player.
@@ -42,12 +42,15 @@ upsells:
   - 'lights-out-challenge'
   - 'dance-machine'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+  Dear Joanne,
+
+  Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.
+
+  Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.
+
+  Best wishes
+
+  Matt – Head of Boarding (SLT)
 testimonial_attribution: ''
 breadcrumb_name: 'Interactive Digital Whack A Mole Game'
 date_published: '2025-03-27T18:36:14+00:00'

@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2016/04/86ft-army-assault-course.jpg
 title: "86 ft Army Assault Course"
 meta_title: "86 ft Army Assault Course -86ft Army Assault Course inflatable"
-description: "86ft inflatable army assault course is big on size and pushes the fun factor to an even bigger scale. great for school reward days, team building"
+meta_description: "86ft inflatable army assault course is big on size and pushes the fun factor to an even bigger scale. great for school reward days, team building"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 86ft Army Assault Course Hire – Giant Inflatable Obstacle Course with Mega Slide
   Go bigger, faster, and more extreme with our **86ft Army Assault Course Hire** – one of the largest and most impressive inflatables available. Perfect for large-scale events, this **giant army inflatable obstacle course** delivers non-stop action, चुनौती, and excitement for all ages.
   Begin your mission by squeezing through the letterbox entrance, then charge through biff and bash soldiers, crawl through tunnels, battle the mangles, and take on multiple obstacle sections. Build speed through the slip-and-slide before conquering the epic **10ft mega slide finish**!
@@ -56,9 +56,11 @@ upsells:
   - '50ft-army-assault-course'
   - '75ft-army-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we&#8217;ll defo be using you again for a summer party, will be in touch soon.</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we’ll defo be using you again for a summer party, will be in touch soon.
+
+  Thanks again
 testimonial_attribution: 'Coral'
 breadcrumb_name: '86 Ft Army Assault Course'
 date_published: '2016-04-18T17:43:14+00:00'

@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2015/10/armyslide-1.jpg
 title: "Army Slide"
 meta_title: "Army Slide - Monster Event Hire"
-description: "Hire our 18ft Army Inflatable Slide in Hampshire &amp; Surrey – thrilling, military-themed fun for kids &amp; adults. Delivery, setup &amp; collection!"
+meta_description: "Hire our 18ft Army Inflatable Slide in Hampshire &amp; Surrey – thrilling, military-themed fun for kids &amp; adults. Delivery, setup &amp; collection!"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   # Army Slide Hire – Large Military Themed Inflatable Slide (18ft High)
   The army knows how to harness gravity… now it’s your turn. Take on the challenge and test this **Army Inflatable Slide Hire**, built for speed, excitement, and adrenaline-filled fun!
   This eye-catching **military-themed inflatable slide** stands tall at 18ft and delivers a thrilling ride every time. Climb to the top, take a deep breath, and launch yourself down for an exhilarating finish—perfect for both kids and adults looking for action-packed entertainment.
@@ -59,9 +59,11 @@ upsells:
   - 'circus-slide'
   - 'jungle-slide'
 testimonial_body: |-
-  <p>We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener&#8217;s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.</p>
-              <p>We have to submit a report to our senior line managers, for next year&#8217;s graduates to read and I will be including and recommending you in this report.</p>
-              <p>Once again thank you very much.</p>
+  We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener’s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.
+
+  We have to submit a report to our senior line managers, for next year’s graduates to read and I will be including and recommending you in this report.
+
+  Once again thank you very much.
 testimonial_attribution: 'Andrew McGregor'
 date_published: '2015-10-26T10:38:50+00:00'
 primary_image_width: 1334

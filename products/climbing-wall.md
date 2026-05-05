@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/climbing-wall-corporate-.jpg
 title: "Climbing Wall Hire"
 meta_title: "Climbing Wall Hire - Monster Event Hire - Climbing Wall"
-description: "Hire a mobile climbing wall for parties,corporate events, school fun days &amp; festivals across Hampshire, Surrey, Sussex &amp; London. Safe,staff-operated fun!"
+meta_description: "Hire a mobile climbing wall for parties,corporate events, school fun days &amp; festivals across Hampshire, Surrey, Sussex &amp; London. Safe,staff-operated fun!"
 category_name: "Climbing Walls"
 category_slug: "climbing-wall"
-body: |-
+description: |-
   # 🧗‍♂️ Climbing Wall Hire – Monster Event Hire
   Make your event unforgettable with our **mobile climbing wall**, perfect for parties, school fun days, corporate team-building events, festivals, and more across **Hampshire, Surrey, Sussex & London**.
   ## 📏 Size & Impact
@@ -95,9 +95,11 @@ upsells:
   - 'gold-cup-horse-racing-challenge'
   - 'laser-shot'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 &#8216;delivery men&#8217; were efficient and polite and we look forward to doing business with you next year.</p>
-              <p>Kind regards</p>
+  Hi Joanne
+
+  Just wanted to say a huge thank you to Monster, who for the second year running, have provided an efficient, professional service from start to finish. Everything was delivered on time. The 60ft assault course was a great success! The 2 ‘delivery men’ were efficient and polite and we look forward to doing business with you next year.
+
+  Kind regards
 testimonial_attribution: 'Katy Wood'
 testimonial_role: 'Burpham Primary School'
 breadcrumb_name: 'Climbing Wall'

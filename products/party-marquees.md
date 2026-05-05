@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2015/12/photo-5.jpg
 title: "Party Marquee Hire"
 meta_title: "Party marquee | capri marquee | marquee hire |surrey | Hampshire |sussex"
-description: "Party marquees,The elegant design of our Capri Marquees create wonderful spaces with gorgeous lighting that can be arranged to suit your tastes"
+meta_description: "Party marquees,The elegant design of our Capri Marquees create wonderful spaces with gorgeous lighting that can be arranged to suit your tastes"
 category_name: "Marquees"
 category_slug: "marquees"
-body: |-
+description: |-
   # 🎪 Party Marquee Hire – Monster Event Hire
   Make any celebration unforgettable with **Party Marquee Hire** from **Monster Event Hire**! Whether you’re planning a **birthday party, wedding reception, family gathering, corporate event, school fun day, garden party or festival**, our high‑quality party marquees provide stylish, weather‑proof space that keeps your guests comfortable and entertained. We deliver, set up and operate marquees across **Hampshire, Surrey, Sussex & London**.
   ## 🏡 What Our Party Marquees Offer
@@ -134,8 +134,9 @@ upsells:
   - 'atari-pong-table-hire'
   - 'rodeo-bull-hire'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 breadcrumb_name: 'Party Marquees'
 date_published: '2014-12-07T16:49:57+00:00'

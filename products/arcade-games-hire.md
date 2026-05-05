@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2020/01/street-fighter-arcade-game.jpg
 title: "Arcade Games Hire"
 meta_title: "Arcade Games Hire - Monster Event Hire - Hire arcade games"
-description: "Arcade Game Hire,Try not to wear your fingers out.Take on our pack man, see how long you can last against the ghosts while trying to eat you."
+meta_description: "Arcade Game Hire,Try not to wear your fingers out.Take on our pack man, see how long you can last against the ghosts while trying to eat you."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Arcade Games Hire
   Arcade games hire, then here at Monster event hire we would love to help you do exactly that. Looking to hire an arcade game? Maybe it’s for a birthday party, a christening or a wedding also family parties. We have a comprehensive collection that suits all different types of events and an unrivalled range that will help your event go off with a bang!
   **Let’s get this Party started…**
@@ -40,11 +40,15 @@ share_description: 'Arcade Games Hire Arcade games hire, then here at Monster ev
 upsells: 
   - 'buzz-wire'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).<br>
-              Please thank the guy who delivered and collected (sorry didn&#8217;t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.</p>
-              <p>Hopefully we will be able to book again with you in the future.</p>
-              <p>Regards</p>
+  Hi Joanne,
+
+  Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).
+
+  Please thank the guy who delivered and collected (sorry didn’t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.
+
+  Hopefully we will be able to book again with you in the future.
+
+  Regards
 testimonial_attribution: 'Hilary'
 date_published: '2020-01-24T15:55:41+00:00'
 primary_image_width: 352

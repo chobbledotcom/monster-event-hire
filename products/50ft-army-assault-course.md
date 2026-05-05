@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/10/army-assault-course7.jpg
 title: "50ft Army Assault Course"
 meta_title: "50ft Army Assault Course - Oblstacle Course Hire"
-description: "“Hire the 50ft Army Assault Course inflatable for birthday parties, school events, corporate team-building, and fun for kids and adults!”"
+meta_description: "“Hire the 50ft Army Assault Course inflatable for birthday parties, school events, corporate team-building, and fun for kids and adults!”"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 50ft Army Assault Course – Inflatable Obstacle Challenge
   Take on the **ultimate inflatable challenge** with our **50ft Army Assault Course**! This popular inflatable obstacle course is perfect for **birthday parties, school events, family fun days, corporate team-building, and community festivals**. Designed for **children, teens, and adults**, it’s a thrilling, active experience that tests your agility, balance, and determination.
   ### Features of the 50ft Army Assault Course
@@ -58,16 +58,13 @@ upsells:
   - 'boot-camp-challenge-assault-course'
   - '125ft-army-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <div>
-                Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I&#8217;ll be back in touch to book the same again for next year.
-              </div>
-              <div></div>
-              <div>
-                Kind regards,
-                <p></p>
-                <p>Charlotte</p>
-              </div>
+  Hi Joanne,
+
+  Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I’ll be back in touch to book the same again for next year.
+
+  Kind regards,
+
+  Charlotte
 testimonial_attribution: ''
 date_published: '2015-10-15T12:15:04+00:00'
 primary_image_width: 3264

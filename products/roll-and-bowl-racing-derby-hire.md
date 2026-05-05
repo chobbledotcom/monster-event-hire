@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2025/03/roll-and-bowl-grand-national1.jpg
 title: "Roll And Bowl Racing Derby Hire"
 meta_title: "Roll And Bowl Racing Derby Hire"
-description: "Our brand new Roll And Bowl Racing Derby Hire, for party entertainment &amp; events. In Hampshire, Surrey, Sussex and Berkshire"
+meta_description: "Our brand new Roll And Bowl Racing Derby Hire, for party entertainment &amp; events. In Hampshire, Surrey, Sussex and Berkshire"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Roll And Bowl Racing Derby Hire
   Our brand new Roll And Bowl Racing Derby Hire is a compact version of the classic fairground Roll a Ball type game.
   Completely portable this 2 person Roll a Ball game requires the players to roll their balls up the playing field and through the coloured holes to add lights to the score board,   players roll the ball along the game and score points to move their themed character along the track to become the winner.
@@ -42,8 +42,9 @@ upsells:
   - 'lights-out-challenge'
   - 'arcade-games-hire'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 date_published: '2025-03-31T19:15:34+00:00'
 primary_image_width: 768

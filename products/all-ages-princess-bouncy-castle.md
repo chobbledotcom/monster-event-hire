@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/princess15ft.jpg
 title: "All Ages Princess Bouncy Castle 15ft x 16ft"
 meta_title: "All Ages Princess Bouncy Castle 15ft x 16ft"
-description: "You can always be a princess if you want, on this suitable for all ages prinncess bouncy castle."
+meta_description: "You can always be a princess if you want, on this suitable for all ages prinncess bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### All Ages Princess Bouncy Castle
   This all ages princess bouncy castle is to remind you that you, can always be a princess if you want, suitable for all ages.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: **15’w** X **16’d** X **15’h**
@@ -36,10 +36,13 @@ upsells:
   - 'jungle-bouncy-castle-2'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+  Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were
+
+  We will certainly use them again they were great and a credit to you
+
+  **Executive Assistant
+
+  Vector Aerospace International Limited**
 testimonial_attribution: ''
 breadcrumb_name: 'All Ages Princess Bouncy Castle'
 date_published: '2015-10-15T08:57:13+00:00'

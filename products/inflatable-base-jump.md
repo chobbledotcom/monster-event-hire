@@ -19,7 +19,7 @@ meta_title: "Inflatable Base Jump"
 og_description: "Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off&hellip;"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Inflatable Base Jump
   Climbing up may be difficult, but that’s nothing compared to the courage required to leap off the edge onto the safety area below.
   Find out how it might feel to be a Hollywood stuntman jumping off a building!
@@ -46,10 +46,13 @@ upsells:
   - 'boot-camp-challenge-assault-course'
   - 'mangle-run'
 testimonial_body: |-
-  <p>Joanne</p>
-              <p>Just to say a big thank you, the two guys were really great and really worked hard all day long.<br>
-              The day was a great success and everyone loved the football especially.</p>
-              <p>Many thanks for all your hard work.</p>
+  Joanne
+
+  Just to say a big thank you, the two guys were really great and really worked hard all day long.
+
+  The day was a great success and everyone loved the football especially.
+
+  Many thanks for all your hard work.
 testimonial_attribution: 'Paul'
 date_published: '2015-11-24T13:17:05+00:00'
 primary_image_width: 960
