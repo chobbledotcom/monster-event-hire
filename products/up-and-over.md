@@ -16,10 +16,11 @@ og_description: "Up and Over Mini Everest is a brilliant inflatable that’s id
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
 description: |-
-  Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events.
-  Mix and match with other inflatables in the Wipeout range!
+  Up and Over Mini Everest is a brilliant inflatable that’s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range!
+
   Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.
-  30ft L x 21ftw x 12fth
+
+  **Dimensions:** 30ft L x 21ft W x 12ft H
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-1138 wp-theme-littlemonsters up-and-over-mini-everest'
 og_image_width: 1024

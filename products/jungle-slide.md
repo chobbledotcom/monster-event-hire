@@ -16,8 +16,8 @@ og_description: "Glide down our jungle slide and feel its jungliness. Be like T
 category_name: "Mega Slides"
 category_slug: "mega-slides"
 description: |-
-  Glide down our jungle slide and feel its jungliness. Be like Tarzan!
-  ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 18x18x12
+  Glide down our jungle slide and feel its jungliness. Be like Tarzan!
+
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 18x18x12
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-246 wp-theme-littlemonsters jungle-slide'

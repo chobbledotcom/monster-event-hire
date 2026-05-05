@@ -17,7 +17,8 @@ category_name: "Football Games"
 category_slug: "football-games"
 description: |-
   Save as many as you can with our inflatable penalty shootout arena. Diving around like a gymnast not required – but recommended.
-  14FTX14FTX12FT HIGH
+
+  **Dimensions:** 14ft x 14ft x 12ft high
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-287 wp-theme-littlemonsters penalty-shootout'
 article_modified_time: '2017-03-02T10:25:28+00:00'
