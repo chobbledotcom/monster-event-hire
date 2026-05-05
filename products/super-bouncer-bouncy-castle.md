@@ -35,8 +35,9 @@ upsells:
   - 'celebration-bouncy-castle'
   - 'big-top-bouncy-castle'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+  Hi Joanne
+
+  The bouncy castle went down very well with the children and grown up’s, thank you for an excellent service
 testimonial_attribution: 'David'
 breadcrumb_name: 'Super Bouncer Bouncy Castle'
 date_published: '2015-10-15T09:41:48+00:00'

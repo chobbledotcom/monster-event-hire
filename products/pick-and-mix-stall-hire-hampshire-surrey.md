@@ -119,10 +119,13 @@ upsells:
   - 'high-striker'
   - 'laser-shot'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Can I just say thank you for an excellent and friendly service.</p>
-              <p>Hope to work with you again in the near future</p>
-              <p>Regards</p>
+  Hi Joanne
+
+  Can I just say thank you for an excellent and friendly service.
+
+  Hope to work with you again in the near future
+
+  Regards
 testimonial_attribution: 'Sally'
 testimonial_role: 'The Co-operative food, Supply chain logistics'
 breadcrumb_name: 'Pick And Mix Stall Hire Hampshire Surrey'

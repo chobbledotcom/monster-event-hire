@@ -35,8 +35,9 @@ upsells:
   - 'pirate-2-bouncy-castle'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 breadcrumb_name: 'Western Bouncy Castle'
 date_published: '2015-10-15T09:52:06+00:00'

@@ -126,9 +126,11 @@ upsells:
   - 'lights-out-challenge'
   - 'rodeo-xmas-pudding'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just wanted to thank you for helping to make our daughter&#8217;s wedding a successful and very happy occasion last Saturday. The marquee was a great success, and delivery and pick up went very smoothly. We will gladly and heartily recommend you to anyone at any time!</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just wanted to thank you for helping to make our daughter’s wedding a successful and very happy occasion last Saturday. The marquee was a great success, and delivery and pick up went very smoothly. We will gladly and heartily recommend you to anyone at any time!
+
+  Thanks again
 testimonial_attribution: 'Anne Porter'
 breadcrumb_name: 'Dance Machine'
 date_published: '2015-12-07T08:16:28+00:00'

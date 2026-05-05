@@ -51,8 +51,9 @@ upsells:
   - 'pit-stop-challenge'
   - '3-in-1-sports-inflatable-game'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+  Hi Joanne
+
+  The bouncy castle went down very well with the children and grown up’s, thank you for an excellent service
 testimonial_attribution: 'David'
 breadcrumb_name: 'Cross Bow Challenge'
 date_published: '2015-11-20T17:15:16+00:00'

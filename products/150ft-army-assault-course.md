@@ -56,12 +56,15 @@ upsells:
   - 'boot-camp-challenge-assault-course'
   - 'combat-tag-archery'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+  Dear Joanne,
+
+  Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.
+
+  Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.
+
+  Best wishes
+
+  Matt – Head of Boarding (SLT)
 testimonial_attribution: ''
 date_published: '2015-10-20T13:59:07+00:00'
 primary_image_width: 1136

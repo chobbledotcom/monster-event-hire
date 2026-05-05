@@ -27,10 +27,13 @@ upsells:
   - 'princess-castle-with-slide'
   - 'pirate-2-bouncy-castle'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!</p>
-              <p>The bouncy castle was loved by all! We will definitely be spreading the word!</p>
-              <p>All the best.</p>
+  Hi Joanne,
+
+  I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!
+
+  The bouncy castle was loved by all! We will definitely be spreading the word!
+
+  All the best.
 testimonial_attribution: 'Komal'
 breadcrumb_name: 'Space Aliens Bouncy Castle 2'
 date_published: '2016-04-18T18:54:50+00:00'

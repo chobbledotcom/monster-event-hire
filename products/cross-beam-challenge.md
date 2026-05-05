@@ -55,8 +55,9 @@ upsells:
   - 'the-sweeper'
   - 'inflatable-base-jump'
 testimonial_body: |-
-  <p>Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham&#8217;s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.</p>
-              <p>Kind regards</p>
+  Just a quick email to thank you very much for the excellent service that you gave us with your attendance at Enham’s 90th Birthday Fun Day. I cannot fault the service received from the time of my first enquiry up until your departure from the event and I was impressed with the professional service you offered throughout.
+
+  Kind regards
 testimonial_attribution: 'Caroline Gumn'
 testimonial_role: 'PA to Chief Executive'
 date_published: '2015-01-25T11:52:03+00:00'

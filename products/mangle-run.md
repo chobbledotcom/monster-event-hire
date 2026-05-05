@@ -31,9 +31,11 @@ upsells:
   - 'ball-run-challenge'
   - 'wibble-wobble-soldiers'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we&#8217;ll defo be using you again for a summer party, will be in touch soon.</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we’ll defo be using you again for a summer party, will be in touch soon.
+
+  Thanks again
 testimonial_attribution: 'Coral'
 breadcrumb_name: 'Mangle Run'
 date_published: '2015-01-25T12:30:14+00:00'

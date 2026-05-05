@@ -42,12 +42,15 @@ upsells:
   - 'lights-out-challenge'
   - 'dance-machine'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+  Dear Joanne,
+
+  Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.
+
+  Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.
+
+  Best wishes
+
+  Matt – Head of Boarding (SLT)
 testimonial_attribution: ''
 breadcrumb_name: 'Interactive Digital Whack A Mole Game'
 date_published: '2025-03-27T18:36:14+00:00'

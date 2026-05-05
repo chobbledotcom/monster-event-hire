@@ -134,8 +134,9 @@ upsells:
   - 'atari-pong-table-hire'
   - 'rodeo-bull-hire'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 breadcrumb_name: 'Party Marquees'
 date_published: '2014-12-07T16:49:57+00:00'

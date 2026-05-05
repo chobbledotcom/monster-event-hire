@@ -36,10 +36,13 @@ upsells:
   - 'jungle-bouncy-castle-2'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+  Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were
+
+  We will certainly use them again they were great and a credit to you
+
+  **Executive Assistant
+
+  Vector Aerospace International Limited**
 testimonial_attribution: ''
 breadcrumb_name: 'All Ages Princess Bouncy Castle'
 date_published: '2015-10-15T08:57:13+00:00'

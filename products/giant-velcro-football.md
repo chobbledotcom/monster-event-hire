@@ -55,8 +55,9 @@ upsells:
   - 'archery'
   - 'human-table-football'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>The bouncy castle went down very well with the children and grown up&#8217;s, thank you for an excellent service</p>
+  Hi Joanne
+
+  The bouncy castle went down very well with the children and grown up’s, thank you for an excellent service
 testimonial_attribution: 'David'
 date_published: '2015-10-26T14:48:55+00:00'
 primary_image_width: 4288

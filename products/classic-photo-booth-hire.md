@@ -126,9 +126,11 @@ upsells:
   - 'cash-grabber'
   - 'retro-arcade-machine'
 testimonial_body: |-
-  <p>Just wanted to say a big thank you for providing the bouncy castle and rodeo sheep it all went perfectly.</p>
-              <p>Would also like to thank the operator (Jamie), very nice guy and easy going, only thing I would like to raise is Jamie&#8217;s face after throwing the bride off the rodeo sheep may be enjoying your work to much, but very funny.Once again a big thank you for helping make our wedding day so special.</p>
-              <p>Best wishes</p>
+  Just wanted to say a big thank you for providing the bouncy castle and rodeo sheep it all went perfectly.
+
+  Would also like to thank the operator (Jamie), very nice guy and easy going, only thing I would like to raise is Jamie’s face after throwing the bride off the rodeo sheep may be enjoying your work to much, but very funny.Once again a big thank you for helping make our wedding day so special.
+
+  Best wishes
 testimonial_attribution: 'Jenny & Mark Buckett'
 breadcrumb_name: 'Classic Photo Booth Hire'
 date_published: '2015-08-03T14:52:51+00:00'

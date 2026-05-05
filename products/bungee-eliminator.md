@@ -52,8 +52,9 @@ upsells:
   - 'archery'
   - 'medieval-human-demolition'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 date_published: '2015-10-19T15:33:51+00:00'
 primary_image_width: 960

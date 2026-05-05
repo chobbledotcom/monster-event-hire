@@ -42,8 +42,9 @@ upsells:
   - 'lights-out-challenge'
   - 'arcade-games-hire'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 date_published: '2025-03-31T19:15:34+00:00'
 primary_image_width: 768

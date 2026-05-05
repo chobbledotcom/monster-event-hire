@@ -57,9 +57,11 @@ upsells:
   - 'under-pressure'
   - 'dance-machine'
 testimonial_body: |-
-  <p>Dear Joanne</p>
-              <p>Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.</p>
-              <p>Kind regards</p>
+  Dear Joanne
+
+  Please can you pass on our thanks to Mark and Nathan for their fantastic supervision of the bungee run yesterday. They really made it such fun for all and everyone thought that they were brilliant. We had such a great afternoon and thank you so much, we will definitely use you again and most definitely recommend you.
+
+  Kind regards
 testimonial_attribution: 'Kate'
 testimonial_role: 'Office Manager / Executive Administrator, Spectrum'
 breadcrumb_name: 'Atari Pong Table Hire'

@@ -60,10 +60,13 @@ upsells:
   - 'fairground-20x20ft'
   - 'western-bouncy-castle'
 testimonial_body: |-
-  <p>Joanne</p>
-              <p>Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.</p>
-              <p>Thanks Again</p>
-              <p>Matt</p>
+  Joanne
+
+  Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.
+
+  Thanks Again
+
+  Matt
 testimonial_attribution: ''
 breadcrumb_name: 'Big Top Bouncy Castle'
 date_published: '2015-10-15T09:45:26+00:00'

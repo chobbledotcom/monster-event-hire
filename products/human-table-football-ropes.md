@@ -41,10 +41,13 @@ upsells:
   - 'bungee-run'
   - 'medieval-human-demolition'
 testimonial_body: |-
-  <p>Hiya</p>
-              <p>Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!</p>
-              <p>Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.</p>
-              <p>It was a perfect day.</p>
+  Hiya
+
+  Thank you so much for your professional service last weekend. It was lovely to see all the crazy golf set up and waiting for us when we arrived at the reception. It was enjoyed by many of our guests, young (18 months) and old (92 years)!
+
+  Also, thank you for all your quick replies to my worried emails during the run up to the day. You were fantastic at reassuring us.
+
+  It was a perfect day.
 testimonial_attribution: 'Tamara and Adrian'
 breadcrumb_name: 'Human Table Football Ropes'
 date_published: '2014-12-11T16:24:28+00:00'

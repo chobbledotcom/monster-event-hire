@@ -30,10 +30,13 @@ upsells:
   - 'the-sweeper'
   - 'boot-camp-challenge-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!</p>
-              <p>The bouncy castle was loved by all! We will definitely be spreading the word!</p>
-              <p>All the best.</p>
+  Hi Joanne,
+
+  I just wanted to say thank you for the smooth service on Saturday and also for being able to accommodate us at such late notice!
+
+  The bouncy castle was loved by all! We will definitely be spreading the word!
+
+  All the best.
 testimonial_attribution: 'Komal'
 date_published: '2015-01-25T11:37:21+00:00'
 primary_image_width: 4288

@@ -46,8 +46,9 @@ upsells:
   - 'lights-out-challenge'
   - 'buzz-wire'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 breadcrumb_name: 'Aquaventronics Revolution Game Hire Uk'
 date_published: '2026-04-04T09:33:35+00:00'

@@ -133,10 +133,13 @@ upsells:
   - 'mangle-run'
   - 'wibble-wobble-soldiers'
 testimonial_body: |-
-  <p>Hi there</p>
-              <p>Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.</p>
-              <p>I will be recommending your company to other parents for future events.</p>
-              <p>Regards</p>
+  Hi there
+
+  Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.
+
+  I will be recommending your company to other parents for future events.
+
+  Regards
 testimonial_attribution: 'Mrs Caroline Carlin'
 breadcrumb_name: 'Boot Camp Challenge Assault Course'
 date_published: '2024-04-25T08:25:00+00:00'

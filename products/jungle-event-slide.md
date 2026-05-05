@@ -33,10 +33,13 @@ article_modified_time: '2026-02-16T15:42:33+00:00'
 twitter_data1: '1 minute'
 share_description: 'Jungle Event Slide This Jungle event Slide is another great addition to our range of Inflatables. Not for the light hearted!  Let your adventurous side of you free as you climb the steps to the'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.</p>
-              <p>We&#8217;ll definitely be in touch for future events.</p>
-              <p>Thank you again</p>
+  Hi Joanne,
+
+  I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.
+
+  We’ll definitely be in touch for future events.
+
+  Thank you again
 testimonial_attribution: 'Francesca Olle'
 testimonial_role: 'Highfield School'
 date_published: '2026-02-16T15:34:05+00:00'

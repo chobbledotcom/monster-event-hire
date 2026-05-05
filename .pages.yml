@@ -65,7 +65,7 @@ content:
         type: image
         options: { multiple: true }
       - { name: galleryAlt, type: string, label: Gallery Alt Text }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: body, label: Body, type: rich-text, options: { format: markdown } }
       - name: category_slug
         label: Category
         type: reference
@@ -76,7 +76,7 @@ content:
           label: "{cat_head_title}"
       - { name: category_name, type: string, label: Category Name (display) }
       - { name: share_description, type: string, label: Share Description }
-      - { name: testimonial_body, type: code, label: Testimonial, options: { language: markdown } }
+      - { name: testimonial_body, type: rich-text, label: Testimonial, options: { format: markdown } }
       - { name: testimonial_attribution, type: string, label: Testimonial Attribution }
       - name: item_data
         label: Item Tags

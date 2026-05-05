@@ -34,10 +34,13 @@ upsells:
   - 'laser-shot'
   - 'laser-clay-pigeon-shooting'
 testimonial_body: |-
-  <p>Joanne</p>
-              <p>Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.</p>
-              <p>Thanks Again</p>
-              <p>Matt</p>
+  Joanne
+
+  Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.
+
+  Thanks Again
+
+  Matt
 testimonial_attribution: ''
 breadcrumb_name: 'Pedal Go Carts'
 date_published: '2017-01-10T07:10:54+00:00'

@@ -45,9 +45,11 @@ upsells:
   - 'lights-out-challenge'
   - 'santas-christmas-grotto'
 testimonial_body: |-
-  <p style="font-weight: 400;">I wanted to say a huge thank you to the team of three who accompanied the activities on Monday &#8211; they were all absolutely fantastic and did a really great job of overseeing the activities and encouraging people to join in whenever there were spaces &#8211; which I’m pleased to say were not very often. The weather was fab and there must have been 300 people coming and going during the three hours that I ran the event for. I hope that the team tucked into the cakes, ice creams and cold drinks that were on offer &#8211; I did keep telling them to!</p>
-              <p style="font-weight: 400;">Many thanks for arranging this for me, Joanne, appreciate it very much and I will certainly be using your services again, if you’ll have me.</p>
-              <p style="font-weight: 400;">Kind regards Chris &#8211; FIL Investment Management Limited</p>
+  I wanted to say a huge thank you to the team of three who accompanied the activities on Monday – they were all absolutely fantastic and did a really great job of overseeing the activities and encouraging people to join in whenever there were spaces – which I’m pleased to say were not very often. The weather was fab and there must have been 300 people coming and going during the three hours that I ran the event for. I hope that the team tucked into the cakes, ice creams and cold drinks that were on offer – I did keep telling them to!
+
+  Many thanks for arranging this for me, Joanne, appreciate it very much and I will certainly be using your services again, if you’ll have me.
+
+  Kind regards Chris – FIL Investment Management Limited
 testimonial_attribution: ''
 breadcrumb_name: 'Digital Prize Wheel'
 date_published: '2026-03-26T20:27:07+00:00'

@@ -58,16 +58,13 @@ upsells:
   - 'boot-camp-challenge-assault-course'
   - '125ft-army-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <div>
-                Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I&#8217;ll be back in touch to book the same again for next year.
-              </div>
-              <div></div>
-              <div>
-                Kind regards,
-                <p></p>
-                <p>Charlotte</p>
-              </div>
+  Hi Joanne,
+
+  Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I’ll be back in touch to book the same again for next year.
+
+  Kind regards,
+
+  Charlotte
 testimonial_attribution: ''
 date_published: '2015-10-15T12:15:04+00:00'
 primary_image_width: 3264

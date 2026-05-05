@@ -24,8 +24,9 @@ upsells:
   - 'giant-darts'
   - 'buzz-wire'
 testimonial_body: |-
-  <p>I just want to say what a great time we had the other night with the rodeo bull, it was &#8220;bucking brilliant&#8221;.</p>
-              <p>Thanks again</p>
+  I just want to say what a great time we had the other night with the rodeo bull, it was “bucking brilliant”.
+
+  Thanks again
 testimonial_attribution: 'Paul'
 date_published: '2015-10-27T13:43:46+00:00'
 primary_image_width: 433

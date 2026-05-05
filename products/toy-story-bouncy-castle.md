@@ -25,9 +25,11 @@ upsells:
   - 'jungle-bouncy-castle-2'
   - 'princess-castle-with-slide'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Just wanted to say many thanks for supporting us at our Family fun Day again this year. Your guys were as prompt and efficient as ever.</p>
-              <p>Kind Regards</p>
+  Dear Joanne,
+
+  Just wanted to say many thanks for supporting us at our Family fun Day again this year. Your guys were as prompt and efficient as ever.
+
+  Kind Regards
 testimonial_attribution: 'Angela'
 date_published: '2015-10-14T10:06:01+00:00'
 primary_image_width: 350

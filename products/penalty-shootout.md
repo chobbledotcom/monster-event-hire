@@ -27,9 +27,11 @@ upsells:
   - 'football-speed-cage'
   - 'human-table-football'
 testimonial_body: |-
-  <p>We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener&#8217;s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.</p>
-              <p>We have to submit a report to our senior line managers, for next year&#8217;s graduates to read and I will be including and recommending you in this report.</p>
-              <p>Once again thank you very much.</p>
+  We just wanted to send a quick email to thank you so very much for the help we received in putting on our STFC event at Cosener’s House. The level of speed, efficiency and professionalism that Jamie showed on the day was outstanding. Everyone who played thoroughly enjoyed themselves and the event ran flawlessly.
+
+  We have to submit a report to our senior line managers, for next year’s graduates to read and I will be including and recommending you in this report.
+
+  Once again thank you very much.
 testimonial_attribution: 'Andrew McGregor'
 date_published: '2015-10-26T15:02:39+00:00'
 primary_image_width: 350

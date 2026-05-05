@@ -49,8 +49,9 @@ upsells:
   - 'crazy-golf'
   - 'giant-velcro-football'
 testimonial_body: |-
-  <p>We would like to take this opportunity to thank you for your hard work and support on this year&#8217;s Playday.</p>
-              <p>Despite the weather between us we managed to provide a jam packed day full of fun for 100&#8217;s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.</p>
+  We would like to take this opportunity to thank you for your hard work and support on this year’s Playday.
+
+  Despite the weather between us we managed to provide a jam packed day full of fun for 100’s of children and families from around Ealing.Without your dedication and enthusiasm this would have not have been possible so we would like to personally thank you for the huge part you played.
 testimonial_attribution: 'Fran Regan & Karen Esprit'
 testimonial_role: 'Playday Coordinators'
 breadcrumb_name: 'Zorbing'

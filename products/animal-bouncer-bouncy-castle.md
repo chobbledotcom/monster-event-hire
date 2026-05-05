@@ -51,8 +51,9 @@ upsells:
   - 'big-top-bouncy-castle'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p>Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!</p>
-              <p>Thanks again</p>
+  Hi Monster team, Just to say a big thank you for the great service you provided on Sunday 7/2/10. Our little ones looooved your assault course and it was a joy to watch them have so much fun. We will be back in touch next year no doubt!
+
+  Thanks again
 testimonial_attribution: 'Victoria Marshall'
 breadcrumb_name: 'Animal Bouncer Bouncy Castle'
 date_published: '2015-10-15T10:13:21+00:00'

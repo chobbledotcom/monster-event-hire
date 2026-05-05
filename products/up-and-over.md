@@ -32,10 +32,13 @@ upsells:
   - 'the-sweeper'
   - 'the-challenger'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Despite a two hour down pour during our event, all equipment was enjoyed yesterday!<br>
-              Thanks to you and your team.</p>
-              <p>Kind regards</p>
+  Hi Joanne,
+
+  Despite a two hour down pour during our event, all equipment was enjoyed yesterday!
+
+  Thanks to you and your team.
+
+  Kind regards
 testimonial_attribution: 'Verity'
 testimonial_role: 'Tudor Capital Europe LLP'
 breadcrumb_name: 'Up And Over'

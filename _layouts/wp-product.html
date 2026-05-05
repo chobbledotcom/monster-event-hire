@@ -87,7 +87,7 @@ filter_attributes: []
       <div class="testimonial">
         <div class="wrapper">
           <div class="testimonial-body">
-            {{ testimonial_body }}
+            {{ testimonial_body | renderContent: "md" }}
           </div>
           <div class="testimonial-client-name">
             {{ testimonial_attribution }}{% if testimonial_role %}, <em class="orange">{{ testimonial_role }}</em>{% endif %}

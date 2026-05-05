@@ -78,10 +78,13 @@ upsells:
   - 'retro-arcade-machine'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Hi there</p>
-              <p>Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.</p>
-              <p>I will be recommending your company to other parents for future events.</p>
-              <p>Regards</p>
+  Hi there
+
+  Just a quick note to say thank you for excellant service today for my daughters birthday party. She had the princess castle and the kids loved it.
+
+  I will be recommending your company to other parents for future events.
+
+  Regards
 testimonial_attribution: 'Mrs Caroline Carlin'
 date_published: '2015-08-08T14:16:00+00:00'
 primary_image_width: 1440

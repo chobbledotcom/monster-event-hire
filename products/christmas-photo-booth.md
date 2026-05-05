@@ -136,8 +136,9 @@ upsells:
   - 'rodeo-reindeer'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.</p>
-              <p>Thanks again</p>
+  Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.
+
+  Thanks again
 testimonial_attribution: 'Enham'
 date_published: '2014-11-24T11:40:27+00:00'
 primary_image_width: 960

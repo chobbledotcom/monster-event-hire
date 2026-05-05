@@ -28,8 +28,9 @@ upsells:
   - 'pirate-2-bouncy-castle'
   - 'space-aliens-bouncy-castle-2'
 testimonial_body: |-
-  <p>I had a bouncy castle from you at the weekend, at short notice, I would just like to say a big thank you I will make sure if i have my grandson for his next birthday i will phone you.</p>
-              <p>Kind regards</p>
+  I had a bouncy castle from you at the weekend, at short notice, I would just like to say a big thank you I will make sure if i have my grandson for his next birthday i will phone you.
+
+  Kind regards
 testimonial_attribution: 'Claire Morris'
 breadcrumb_name: 'Princess Pink Bouncy Castle'
 date_published: '2015-10-14T10:11:48+00:00'

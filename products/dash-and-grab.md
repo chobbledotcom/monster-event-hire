@@ -178,10 +178,13 @@ upsells:
   - 'inflatable-base-jump'
   - 'wibble-wobble-soldiers'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I&#8217;m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!</p>
-              <p>Hopefully we can stay in contact for any future events.</p>
-              <p>Many Thanks</p>
+  Hi Joanne,
+
+  I’m just writing to say a massive thank you for your services and help on Saturday. The two lads you sent down to set-up and break down were excellent and both had brilliant attitudes, a really good advert for your company!
+
+  Hopefully we can stay in contact for any future events.
+
+  Many Thanks
 testimonial_attribution: 'Tim Smith'
 testimonial_role: 'Havant Family Church'
 breadcrumb_name: 'Dash And Grab'

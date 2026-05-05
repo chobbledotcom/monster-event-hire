@@ -52,8 +52,9 @@ upsells:
   - 'high-striker'
   - 'crazy-golf'
 testimonial_body: |-
-  <p>Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.</p>
-              <p>Thanks again</p>
+  Many thanks for helping to organise our rodeo event on Friday. The day went well and we did a sterling job of raising awareness of the charity in the Southampton shopping centre. Please pass on our thanks to Jamie, your rodeo operator. He was very friendly, professional and extremely helpful.
+
+  Thanks again
 testimonial_attribution: 'Enham'
 breadcrumb_name: 'Candy Floss'
 date_published: '2015-10-27T12:56:50+00:00'

@@ -40,11 +40,15 @@ share_description: 'Arcade Games Hire Arcade games hire, then here at Monster ev
 upsells: 
   - 'buzz-wire'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).<br>
-              Please thank the guy who delivered and collected (sorry didn&#8217;t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.</p>
-              <p>Hopefully we will be able to book again with you in the future.</p>
-              <p>Regards</p>
+  Hi Joanne,
+
+  Just wanted to say that the inflatable was huge hit over the weekend for our Cubs ( and some of the adults !).
+
+  Please thank the guy who delivered and collected (sorry didn’t get his name) as it is not the easiest place to find and he was very helpful in stetting it up etc.
+
+  Hopefully we will be able to book again with you in the future.
+
+  Regards
 testimonial_attribution: 'Hilary'
 date_published: '2020-01-24T15:55:41+00:00'
 primary_image_width: 352

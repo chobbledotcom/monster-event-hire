@@ -123,10 +123,13 @@ upsells:
   - '80s-retro-arcade-games'
   - 'christmas-photo-booth'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.</p>
-              <p>We&#8217;ll definitely be in touch for future events.</p>
-              <p>Thank you again</p>
+  Hi Joanne,
+
+  I just wanted to say a huge thank you for Sunday. The activities were brilliant, the children and staff loved them and the staff who set up and took away were really helpful.
+
+  We’ll definitely be in touch for future events.
+
+  Thank you again
 testimonial_attribution: 'Francesca Olle'
 testimonial_role: 'Highfield School'
 breadcrumb_name: 'Giant Saw Bones'

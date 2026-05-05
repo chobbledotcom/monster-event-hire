@@ -55,9 +55,11 @@ upsells:
   - 'pirate-ship-assault-course'
   - 'fun-fair-assault-course'
 testimonial_body: |-
-  <p>I just wanted to take this opportunity to say a big thank you on behalf of the Maynard family &#8211; the birthday boy and his pals had a terrific time on Saturday, despite the changeable weather. Great fun was had by all on your rodeo bull, sumos and human bowling. I&#8217;d like to send my own thanks to the 2 lovely guys who came with the inflatables. They were great with the kids, promoting fun whilst still retaining that air of &#8216;safety conscious&#8217;.</p>
-              <p>They were a pleasure to work with! I look forward to calling on your services again sometime in the future.</p>
-              <p>Kind regards</p>
+  I just wanted to take this opportunity to say a big thank you on behalf of the Maynard family – the birthday boy and his pals had a terrific time on Saturday, despite the changeable weather. Great fun was had by all on your rodeo bull, sumos and human bowling. I’d like to send my own thanks to the 2 lovely guys who came with the inflatables. They were great with the kids, promoting fun whilst still retaining that air of ‘safety conscious’.
+
+  They were a pleasure to work with! I look forward to calling on your services again sometime in the future.
+
+  Kind regards
 testimonial_attribution: 'Karen'
 breadcrumb_name: 'Party Time Assault Course'
 date_published: '2016-04-15T12:10:25+00:00'

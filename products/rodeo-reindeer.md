@@ -49,8 +49,9 @@ upsells:
   - 'christmas-photo-booth'
   - 'atari-pong-table-hire'
 testimonial_body: |-
-  <p>Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.</p>
-              <p>Thanks</p>
+  Just wanted to say a huge thank you for Saturday night. All had a fab time even if some of us are still achey to say the least! The rodeo bull was brilliant and your staff member (dave) was fantastic, the best staff party yet. I will certainly be recommending you.
+
+  Thanks
 testimonial_attribution: 'Sarah'
 breadcrumb_name: 'Rodeo Reindeer'
 date_published: '2015-11-23T13:12:36+00:00'

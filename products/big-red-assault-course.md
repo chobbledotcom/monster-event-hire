@@ -39,11 +39,15 @@ upsells:
   - 'dash-and-grab'
   - 'the-sweeper'
 testimonial_body: |-
-  <p>We have worked with Monster for five years now, from the very first year of our event. Our festival has grown considerably since it&#8217;s first year and Monster have supported us along the way with their involvement also growing each year with the festival.</p>
-              <p>Monster have a great relationship with the young attendees of our event and it&#8217;s fair to say that the activities that they provide are an absolute key element to our success and the reason that some kids keep coming back!</p>
-              <p>I&#8217;m sure ours is not the easiest event for Monster as we&#8217;re continually changing our requirements right up until the day (and on the day!) but it is never a problem for Joanne and the team who are always able to deliver.</p>
-              <p>I can&#8217;t recommend Monster highly enough &#8211; their flexibility, positive attitude and willingness to go over and above is why we continue to use them year on year.</p>
-              <p>Many thanks</p>
+  We have worked with Monster for five years now, from the very first year of our event. Our festival has grown considerably since it’s first year and Monster have supported us along the way with their involvement also growing each year with the festival.
+
+  Monster have a great relationship with the young attendees of our event and it’s fair to say that the activities that they provide are an absolute key element to our success and the reason that some kids keep coming back!
+
+  I’m sure ours is not the easiest event for Monster as we’re continually changing our requirements right up until the day (and on the day!) but it is never a problem for Joanne and the team who are always able to deliver.
+
+  I can’t recommend Monster highly enough – their flexibility, positive attitude and willingness to go over and above is why we continue to use them year on year.
+
+  Many thanks
 testimonial_attribution: 'Lucy Soal'
 testimonial_role: 'Community Services, East Hampshire District Council'
 date_published: '2025-03-27T18:18:55+00:00'

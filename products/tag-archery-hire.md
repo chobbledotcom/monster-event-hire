@@ -47,12 +47,15 @@ upsells:
   - 'big-red-assault-course'
   - 'the-sweeper'
 testimonial_body: |-
-  <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+  Dear Joanne,
+
+  Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.
+
+  Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.
+
+  Best wishes
+
+  Matt – Head of Boarding (SLT)
 testimonial_attribution: ''
 date_published: '2020-01-24T16:42:04+00:00'
 primary_image_width: 1536

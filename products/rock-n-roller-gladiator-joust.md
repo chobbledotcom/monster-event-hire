@@ -114,8 +114,9 @@ upsells:
   - 'multi-sports-arena'
   - 'ball-run-challenge'
 testimonial_body: |-
-  <p>Hi</p>
-              <p>I&#8217;d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.</p>
+  Hi
+
+  I’d just like to email you to say thank you for the brilliant service you have given us from the first email to the day and a very big thanks to the man you sent with the hire equipment for doing a great job and being very pleasant. We will be sure to use you for future events.So again a big thanks from the coopervision staff forum and the children who enjoyed the equipment.
 testimonial_attribution: 'Lee Alexander'
 testimonial_role: 'Coopervision'
 breadcrumb_name: 'Rock N Roller Gladiator Joust'

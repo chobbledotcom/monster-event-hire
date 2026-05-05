@@ -56,9 +56,11 @@ upsells:
   - '50ft-army-assault-course'
   - '75ft-army-assault-course'
 testimonial_body: |-
-  <p>Hi Joanne</p>
-              <p>Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we&#8217;ll defo be using you again for a summer party, will be in touch soon.</p>
-              <p>Thanks again</p>
+  Hi Joanne
+
+  Just a line to let you know we had such a great day with the Rodeo Pig, how much fun is that?! Dave was brilliant, and the pig made the party, thanks again, and we’ll defo be using you again for a summer party, will be in touch soon.
+
+  Thanks again
 testimonial_attribution: 'Coral'
 breadcrumb_name: '86 Ft Army Assault Course'
 date_published: '2016-04-18T17:43:14+00:00'

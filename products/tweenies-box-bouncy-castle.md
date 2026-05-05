@@ -24,10 +24,13 @@ upsells:
   - 'jungle-bouncy-castle-2'
   - 'pirate-2-bouncy-castle'
 testimonial_body: |-
-  <p>Joanne</p>
-              <p>Just to say a big thank you, the two guys were really great and really worked hard all day long.<br>
-              The day was a great success and everyone loved the football especially.</p>
-              <p>Many thanks for all your hard work.</p>
+  Joanne
+
+  Just to say a big thank you, the two guys were really great and really worked hard all day long.
+
+  The day was a great success and everyone loved the football especially.
+
+  Many thanks for all your hard work.
 testimonial_attribution: 'Paul'
 date_published: '2015-10-14T09:17:41+00:00'
 primary_image_width: 600

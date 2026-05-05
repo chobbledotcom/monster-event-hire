@@ -26,9 +26,11 @@ upsells:
   - 'high-striker'
   - 'axe-throwing-inflatable'
 testimonial_body: |-
-  <p>Hi Joanne,</p>
-              <p>just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!</p>
-              <p>Best Wishes</p>
+  Hi Joanne,
+
+  just wanted to drop you a line to say thank you so much for all of your help yesterday. Your company has been a pleasure to deal with, both during the bookings and on site. Friendly and efficient, what more could we have asked for?!
+
+  Best Wishes
 testimonial_attribution: 'Tina'
 testimonial_role: 'Specsavers'
 date_published: '2016-02-10T13:00:04+00:00'
