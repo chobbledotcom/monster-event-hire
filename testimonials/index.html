@@ -1,4 +1,9 @@
 ---
+pagination:
+  data: collections.reviews
+  size: 4
+  alias: testimonials
+permalink: "/testimonials{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber | plus: 1 }}{% endif %}/"
 ---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js remove-margin" itemscope itemtype="https://schema.org/WebPage">
@@ -29,7 +34,13 @@
   {%- include "wp-block-styles.html" -%}
   {%- include "head-end.html" -%}
 </head>
-<body data-rsssl="1" class="wp-singular page-template page-template-testimonials page-template-testimonials-php page page-id-17 page-child parent-pageid-27 wp-theme-littlemonsters testimonials">
+{%- assign currentPage = pagination.pageNumber | plus: 1 -%}
+{%- if currentPage > 1 -%}
+  {%- assign bodyClass = "paged wp-singular page-template page-template-testimonials page-template-testimonials-php page page-id-17 page-child parent-pageid-27 paged-" | append: currentPage | append: " page-paged-" | append: currentPage | append: " wp-theme-littlemonsters testimonials" -%}
+{%- else -%}
+  {%- assign bodyClass = "wp-singular page-template page-template-testimonials page-template-testimonials-php page page-id-17 page-child parent-pageid-27 wp-theme-littlemonsters testimonials" -%}
+{%- endif -%}
+<body data-rsssl="1" class="{{ bodyClass }}">
 <div id="site-wrap">
     {%- include "site-header.html" -%}
     <div class="breadcrumbs">
@@ -38,6 +49,11 @@
           <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a>
           <meta itemprop="position" content="1"></span><span class="breadcrumb-testimonials" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/testimonials/"><span itemprop="name">Testimonials</span></a>
           <meta itemprop="position" content="2"></span>
+          {%- if currentPage > 1 -%}
+          <span class="breadcrumb-page" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/testimonials/page/"><span itemprop="name">Page</span></a>
+          <meta itemprop="position" content="3"></span><span class="breadcrumb-{{ currentPage }}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">&nbsp; &raquo; &nbsp;<a itemprop="item" href="/testimonials/page/{{ currentPage }}/"><span itemprop="name">{{ currentPage }}</span></a>
+          <meta itemprop="position" content="4"></span>
+          {%- endif -%}
         </div>
       </div>
     </div>
@@ -46,53 +62,20 @@
         <div class="grid-8-12 main-content the_content page_content">
           <h1 itemprop="name" class="page-title title">Testimonials</h1>
           <div itemprop="text"></div>
+          {%- for review in testimonials -%}
           <div class="testimonial-item" itemprop="review" itemscope itemtype="http://schema.org/Review">
             <div class="testimonial-body" itemprop="reviewBody">
-              <p>Dear Joanne,</p>
-              <p>Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night. They were a real credit to your company, polite, courteous and hard working and made everything seamless.</p>
-              <p>Arranging a BBQ for over 120 children and adults is quite stressful but with their professionalism, everything ran smoothly.</p>
-              <p>Best wishes</p>
-              <p>Matt &#8211; Head of Boarding (SLT)</p>
-              <p>&nbsp;</p>
+              {{ review.content }}
             </div>
-            <div class="testimonial-client-name" itemprop="author"></div>
-          </div>
-          <div class="testimonial-item" itemprop="review" itemscope itemtype="http://schema.org/Review">
-            <div class="testimonial-body" itemprop="reviewBody">
-              <p style="font-weight: 400;">Thank you to your team – the 3 guys were a pleasure and we were so impressed with how friendly and helpful they were</p>
-              <p style="font-weight: 400;">We will certainly use them again they were great and a credit to you</p>
-              <p style="font-weight: 400;"><b>Executive Assistant<br>
-              Vector Aerospace International Limited</b></p>
+            <div class="testimonial-client-name" itemprop="author">
+              {%- if review.data.name -%}{{ review.data.name }}{%- endif -%}
+              {%- if review.data.role -%}{%- if review.data.name %}, {% endif -%}<em class="orange">{{ review.data.role }}</em>{%- endif -%}
             </div>
-            <div class="testimonial-client-name" itemprop="author"></div>
           </div>
-          <div class="testimonial-item" itemprop="review" itemscope itemtype="http://schema.org/Review">
-            <div class="testimonial-body" itemprop="reviewBody">
-              <p>Hi Joanne,</p>
-              <div>
-                Just wanted to write and say a quick thank you for the inflatable assault course yesterday. Everything went to plan and the kids had a fantastic time!  I&#8217;ll be back in touch to book the same again for next year.
-              </div>
-              <div></div>
-              <div>
-                Kind regards,
-                <p></p>
-                <p>Charlotte</p>
-              </div>
-            </div>
-            <div class="testimonial-client-name" itemprop="author"></div>
-          </div>
-          <div class="testimonial-item" itemprop="review" itemscope itemtype="http://schema.org/Review">
-            <div class="testimonial-body" itemprop="reviewBody">
-              <p>Joanne</p>
-              <p>Just wanted to say that the team and equipment on Saturday were fantastic and added hugely to an extremely enjoyable party.</p>
-              <p>Thanks Again</p>
-              <p>Matt</p>
-            </div>
-            <div class="testimonial-client-name" itemprop="author"></div>
-          </div>
+          {%- endfor -%}
           <div class="clearfix pagination pad-bottom">
             <div id='pagination' class='pad white-bg clearfix'>
-              {%- assign testimonialPage = 1 -%}{%- include "testimonials-links.html" -%}
+              {%- include "testimonials-links.html" -%}
             </div>
           </div>
         </div>

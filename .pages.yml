@@ -158,10 +158,19 @@ content:
     path: reviews
     type: collection
     subfolders: false
+    view:
+      fields: [name, role, date, rating]
+      primary: name
+      sort: [date]
     fields:
       - { name: name, type: string, label: Name }
+      - { name: role, type: string, label: Role / Company }
       - { name: url, type: string, label: URL }
+      - { name: rating, type: number, label: Rating (1-5) }
+      - { name: date, type: date, label: Date }
       - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: legacy, type: boolean, label: Legacy testimonial }
+      - { name: hidden, type: boolean, label: Hidden }
       - name: products
         label: Products
         type: reference
