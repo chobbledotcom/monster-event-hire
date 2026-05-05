@@ -12,7 +12,7 @@ meta_title: "Tweenies Box Bouncy Castle"
 og_description: "A Tweenies themed bouncy castle that boasts a smaller entrance for more enclosed fun!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   A Tweenies themed bouncy castle that boasts a smaller entrance for more enclosed fun!
   Equipment dimensions **12'w** X **12'd** X **10'h**
 layout: wp-product.html

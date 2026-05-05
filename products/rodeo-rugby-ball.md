@@ -13,7 +13,7 @@ meta_title: "Rodeo Rugby Ball"
 og_description: "Rodeo Rugby Ball ! Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall. Our trained operator controls the speed of the Rodeo Rugby ball allowing&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   ## Rodeo Rugby Ball !
   Experience the thrill of the rodeo Rugby ball. This Gilbert rugby ball rolls, bucks and spins until you fall.
   Our trained operator controls the speed of the Rodeo Rugby ball allowing fun for all users 1.2 metres and above. The rodeo is surrounded by an inflatable themed bed to ensure a soft landing.

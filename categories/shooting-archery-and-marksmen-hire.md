@@ -6,16 +6,13 @@ redirect_from:
   - /all-products/shooting-archery-and-marksmen-hire/
 layout: wp-category.html
 title: 'Shooting Games - Monster Event Hire Event Hire'
-description: 'Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision. Please get in touch with us today!'
+meta_description: 'Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision. Please get in touch with us today!'
+description: |-
+  Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision.
 body_class: 'archive tax-product-category term-shooting-archery-and-marksmen-hire term-58 wp-theme-littlemonsters'
 breadcrumb_name: 'Shooting Archery And Marksmen Hire'
 cat_head_style: 'background:url(/images/uploads/2015/10/laserclayshoot.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Shooting Games'
-cat_head_intro_html: |-
-  <p>Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'archery'

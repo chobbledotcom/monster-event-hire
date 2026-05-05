@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/superheros.jpg
 title: "Superheroes Bouncy Castle 15ft x 16ft"
 meta_title: "Superheroes Bouncy Castle 15ft x 16ft Superheroes Bouncy Castle"
-description: "We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle."
+meta_description: "We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Superheroes Bouncy Castle
   We all secretly still look up to superheroes. Let that admiration loose, if only for a day, with this superhero-themed bouncy castle.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: **15’w** X **16’d** X **15’h**

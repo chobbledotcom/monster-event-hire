@@ -13,7 +13,7 @@ meta_title: "Pit Stop Challenge"
 og_description: "check out steve! the tyre change champ. Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock. The Pit Stop Challenge is&hellip;"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   check out steve! the tyre change champ.
   Simulate the high-octane duty of a motor racing pit stop crew. Use speed and precision to get the tyres changed against the clock.
   The Pit Stop Challenge is great for both garden parties and team building days!

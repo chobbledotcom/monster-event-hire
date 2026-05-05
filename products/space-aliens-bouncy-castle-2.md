@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2016/02/spacealiens.jpg
 title: "Space Bouncy Castle 12ft x 14ft"
 meta_title: "Space Bouncy Castle 12ft x 14ft Space Bouncy Castle"
-description: "Need transporting to another universe, this is certainly the space bouncy castle for you!"
+meta_description: "Need transporting to another universe, this is certainly the space bouncy castle for you!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Space Bouncy Castle
   Need transporting to another universe.
   Your party has lift off! This themed space bouncy castle will give your little aliens and astronauts hours of fun.

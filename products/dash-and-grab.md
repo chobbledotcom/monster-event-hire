@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2017/04/dash-n-grab1.jpg
 title: "Dash-n-grab-hire-Hampshire-Surrey"
 meta_title: "Dash-n-grab-hire-Hampshire-Surrey"
-description: "Hire Dash N Grab in Hampshire &amp; Surrey. A giant Hungry Hippos-style inflatable game for 8 players—perfect for parties, corporate events &amp; team building."
+meta_description: "Hire Dash N Grab in Hampshire &amp; Surrey. A giant Hungry Hippos-style inflatable game for 8 players—perfect for parties, corporate events &amp; team building."
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Dash N Grab !
   Child of the 80’s!!! Do you remember playing Hungry Hippos? Our super sized Dash N Grab brings the game truly back to life. Take part with this fully interactive Inflatable and can now play a giant version where you yourself are the hippo and have the race and grab the balls from the middle of the inflatable!
   Dash n Grab is  high energy and a very competitive game.

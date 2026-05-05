@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/fairground-large.jpg
 title: "Fairground Bouncy Castle 15ft x 16ft"
 meta_title: "Fairground Bouncy Castle 15ft x 16ft"
-description: "Relive the joys of the fairground with this classic Fairground Bouncy Castle 15ft x 16ft"
+meta_description: "Relive the joys of the fairground with this classic Fairground Bouncy Castle 15ft x 16ft"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   ## 🎪 Fairground Bouncy Castle Hire (15ft x 16ft) – Hampshire & Surrey
   Relive the magic and excitement of the fair with our **Fairground Bouncy Castle (15ft x 16ft)**. Designed with bright, colourful artwork inspired by traditional funfairs, this inflatable is perfect for adding a lively and nostalgic touch to any event. Whether you’re hosting a birthday party, family gathering, school fete, or community celebration, this bouncy castle is guaranteed to be a hit with guests of all ages.
   With a **15ft wide x 16ft long footprint and 13ft height**, this unit is ideal for **gardens and venues where space may be limited**, while still offering plenty of room for bouncing fun. It’s a great option for those who want the full fairground experience without needing the larger space required for bigger inflatables.

@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2015/11/underpressure1.jpg
 title: "Under Pressure / Light Chaser"
 meta_title: "Under Pressure / Light Chaser -Batak wall / cage light Chaser"
-description: "In the light Chaser Batak wall / cage each button lights up, the player must rapidly press them to score points. All whilst Under Pressure."
+meta_description: "In the light Chaser Batak wall / cage each button lights up, the player must rapidly press them to score points. All whilst Under Pressure."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Light Chaser “Under Pressure” – Speed Reaction Game Hire
   Bring **fast-paced fun and excitement** to your next event with the **Light Chaser “Under Pressure”** – a state-of-the-art **speed reaction game**. This interactive **Batak wall/cage game** tests players’ speed, agility, and reflexes while providing hours of entertainment for all ages.
   ### Features of Light Chaser “Under Pressure”

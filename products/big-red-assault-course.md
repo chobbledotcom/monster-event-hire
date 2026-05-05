@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2025/03/inflatable-hire.jpg
 title: "Big Red Assault Course"
 meta_title: "Big Red Assault Course - Monster Event Hire"
-description: "This 80ft Big Red Assault Course has lots of fun inside to challenge the fittest of users. Great For family fun and entertainment"
+meta_description: "This 80ft Big Red Assault Course has lots of fun inside to challenge the fittest of users. Great For family fun and entertainment"
 category_name: "Courses"
 category_slug: "courses"
-body: |-
+description: |-
   ## 80ft Big Red Assault Course
   This 80ft Big Red  Assault Course has lots of fun inside to challenge the fittest of users.
   Another really great choice in our range! At the start you enter through a big letter box opening, Meet the biff and bash with diagonal arms, though the tunnel then squeeze yourself through the mangles and yet more of the biff and bash then its up and over the first of the slide and then up the mega 10ft slide to finally finish this assault.

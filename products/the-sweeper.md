@@ -18,10 +18,10 @@ galleryImages:
   - /images/uploads/2017/02/sweeper.jpg
 title: "The Last Man Standing, Sweeper (Total Wipeout)"
 meta_title: "The Last Man Standing, Sweeper (Total Wipeout) sweeper"
-description: "Made popular by the TV show &#039;Total Wipeout&#039; the last-man-standing juggernaut &#039;The Sweeper&#039; is perfect for all events."
+meta_description: "Made popular by the TV show &#039;Total Wipeout&#039; the last-man-standing juggernaut &#039;The Sweeper&#039; is perfect for all events."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   ## The Last Man Standing, Sweeper (Total Wipeout)
   Made popular by the TV show ‘Total Wipeout’, The Last Man Standing, Sweeper is perfect for all events.
   This inflatable fun-fest features an inflatable bed with a swinging central arm. Positioned around the edge of the bed, players must jump over the swinging arm whilst maintaining their balance on the inflatable surround.

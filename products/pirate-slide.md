@@ -12,7 +12,7 @@ meta_title: "Pirate Slide"
 og_description: "Why walk the plank when you can slide down this beauty?"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   Why walk the plank when you can slide down this beauty?
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 25Ft x 20ft x 20ft
 layout: wp-product.html

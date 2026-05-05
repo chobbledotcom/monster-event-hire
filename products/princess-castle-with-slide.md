@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/princess-side-slide.jpg
 title: "Princess Bouncy Castle With Side Slide"
 meta_title: "Princess Bouncy Castle With Side Slide"
-description: "Princess bouncy castle with side slide, for all the little princesses out there!"
+meta_description: "Princess bouncy castle with side slide, for all the little princesses out there!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Princess Bouncy Castle With Side Slide
   Fantastic Princess bouncy castle with side slide, for all the little princesses out there!
   Equipment dimensions: 18.5 ft- W x 14.5ft-L x 11’H

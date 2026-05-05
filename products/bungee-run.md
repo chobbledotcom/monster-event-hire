@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/10/Bsen14960-4-2025.jpg
 title: "bungee run inflatable hire"
 meta_title: "bungee-run-inflatable-hire"
-description: "Hire the exciting Bungee Run inflatable for fun days, corporate events, schools and parties. a competitive inflatable game where players race against a bungee cord."
+meta_description: "Hire the exciting Bungee Run inflatable for fun days, corporate events, schools and parties. a competitive inflatable game where players race against a bungee cord."
 category_name: "Bungee"
 category_slug: "bungee"
-body: |-
+description: |-
   # Bungee Run Inflatable Hire
   Put your **strength, speed and stamina to the test** with our exciting **Bungee Run inflatable hire**. This adrenaline-filled interactive game challenges two competitors to race down an inflatable lane while attached to a powerful bungee cord.
   Participants run as far as they can before the elastic cord pulls them back, placing their Velcro marker along the centre wall to see who can reach the furthest point. The competitor who places their marker the furthest wins the race!

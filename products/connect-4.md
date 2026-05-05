@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/image1.jpeg
 title: "Garden game package"
 meta_title: "giant garden games package - Monster Event and Party Hire"
-description: "Dubbed the chess of the 21st century, connect 4 is the ultimate contest of two minds. Please call today for more information on any of our products!"
+meta_description: "Dubbed the chess of the 21st century, connect 4 is the ultimate contest of two minds. Please call today for more information on any of our products!"
 category_name: "Giant Game Hire"
 category_slug: "games"
-body: |-
+description: |-
   # Garden game package
   3 garden game favourites included in this package
   ### Giant Snakes and Ladders

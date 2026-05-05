@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/10/dragon.jpg
 title: "Dragon bouncy castle with slide"
 meta_title: "Dragon bouncy castle with slide"
-description: "This fun themed Dragon bouncy castle will bring your party to a roaring success !"
+meta_description: "This fun themed Dragon bouncy castle will bring your party to a roaring success !"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Dragon bouncy castle with slide
   This fun themed Dragon castle will bring your party to a roaring success !
   The Dragon castle comes with a slide under the dragons wing.

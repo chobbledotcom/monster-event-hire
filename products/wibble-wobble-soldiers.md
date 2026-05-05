@@ -15,7 +15,7 @@ meta_title: "Wibble Wobble Soldiers"
 og_description: "Wibble Wobble soldiers is a brilliant inflatable that&#8217;s ideal for team building and corporate events. Mix and match with other inflatables in the Wipeout range! Groups from 30 to 150 participants are welcome, with a&hellip;"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   Wibble Wobble soldiers is a brilliant inflatable that’s ideal for team building and corporate events.
   Mix and match with other inflatables in the Wipeout range!
   Groups from 30 to 150 participants are welcome, with a maximum of 10 per team.

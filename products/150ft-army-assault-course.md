@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/army-assault-course41.jpg
 title: "150ft Army Assault Course"
 meta_title: "150ft Army Assault Course - Monster Event Hire"
-description: "This 150 ft inflatable army assault course is not only big on size but pushes the fun factor to an even bigger scale."
+meta_description: "This 150 ft inflatable army assault course is not only big on size but pushes the fun factor to an even bigger scale."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   ## 150ft Army Assault Course – Inflatable Obstacle Challenge
   Take on the ultimate test of strength, speed, and agility with our **150ft Army Assault Course** – the largest inflatable army obstacle course available! Stretching a massive **150 feet in length**, this inflatable course is designed to challenge both **children and adults** while providing endless fun and excitement for participants and spectators alike. Perfect for **birthday parties, school events, corporate team-building, community festivals, and large outdoor events**, this inflatable course guarantees unforgettable entertainment.
   ### Features of the 150ft Army Assault Course

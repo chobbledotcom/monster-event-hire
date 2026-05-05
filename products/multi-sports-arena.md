@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/multi-sprots-2.jpg
 title: "Multi Sports Arena"
 meta_title: "multi sports arena- volleyball inflatable hire"
-description: "Multi Sports Arena can be used for, inflatable volleyball hire, Bouncy football and much more, Inflatable volleyball is most popular for team building."
+meta_description: "Multi Sports Arena can be used for, inflatable volleyball hire, Bouncy football and much more, Inflatable volleyball is most popular for team building."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   ## Multi Sports Arena – Inflatable Volleyball Hire
   If you think this looks like something special, The Multi Sports Arena – Inflatable Volleyball Hire really is!
   Our unique multi sports arena is the perfect platform for fun and games in a soft (and bouncy) environment. Featuring inflatable goal posts that can be utilised however you like, this arena has entrances at each end for a jump-in, jump-out, quick fire experience.

@@ -12,11 +12,11 @@ galleryImages:
   - /images/uploads/2018/12/pongtablecolour.jpg
 title: "Atari Pong Table"
 meta_title: "Atari Pong Table Hire - Atari Pong Table"
-description: "Atari Pong Table, How much Fun can you have! Nostalgia and modern day tech have brought this 70&#039;s classic to our hire fleet."
+meta_description: "Atari Pong Table, How much Fun can you have! Nostalgia and modern day tech have brought this 70&#039;s classic to our hire fleet."
 og_title: "Atari Pong Table, Retro games hire."
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   ## Atari Pong Table Hire – Retro Gaming Fun
   Step back in time and bring **retro gaming excitement** to your event with our **Atari Pong Table hire**! Combining **nostalgia and modern technology**, this 70’s classic is the perfect addition to **corporate events, exhibitions, birthday parties, university events, and Christmas parties**. Experience the thrill of **mechanical game play with lights, sound effects, and LED visuals**, and let your guests enjoy a truly interactive, competitive experience.
   ### Features of the Atari Pong Table

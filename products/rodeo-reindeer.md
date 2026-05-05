@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/snow-board-and-reindeer-simulator-hire-.jpg
 title: "Rodeo Reindeer Hire"
 meta_title: "Rodeo Reindeer Hire - Monster Event Hire Bucking Reindeer hire"
-description: "Rodeo Reindeer hire (or Bucking reindeer hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators."
+meta_description: "Rodeo Reindeer hire (or Bucking reindeer hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators."
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   # Rodeo Reindeer Hire
   Rodeo Reindeer hire ,Experience the thrill of Rodney our Christmas themed Rodeo Reindeer. It’s ‘snow joke’ as he bucks and spins until you fall.
   Our trained operator controls the speed of the Rodeo Reindeer allowing fun for all users 1.2 metres and above. The Rodeo Reindeer is surrounded by an inflatable themed bed to ensure a soft landing.

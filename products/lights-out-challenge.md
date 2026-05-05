@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/11/lights-out-game.jpg
 title: "Lights Out Challenge"
 meta_title: "Lights Out Challenge"
-description: "With the Lights Out Challenge Compete against your opponent in 30 or 60 second games and see who can turn out the most lights."
+meta_description: "With the Lights Out Challenge Compete against your opponent in 30 or 60 second games and see who can turn out the most lights."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 🎮 **Lights Out Challenge Hire – Test Your Speed and Reactions**
   Take on the **Lights Out Challenge** and see who has the fastest reactions! Compete against an opponent in **30 or 60-second games** to see who can turn off the most lights. It’s a thrilling test of **hand-eye coordination, speed, and focus**.
   With **three different levels of increasing speed**, the challenge ramps up as players improve. It’s suitable for **children and adults aged 6+**, making it perfect for mixed groups and family-friendly competitions.

@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2026/02/jungle-slide.jpg
 title: "Jungle Event Slide"
 meta_title: "Jungle Event Slide"
-description: "This Jungle event Slide is another great addition to our range of Inflatables.Not for the light hearted! suitable for children and adults."
+meta_description: "This Jungle event Slide is another great addition to our range of Inflatables.Not for the light hearted! suitable for children and adults."
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   # Jungle Event Slide
   **This Jungle event Slide is another great addition to our range of Inflatables.**
   Not for the light hearted!  Let your adventurous side of you free as you climb the steps to the top of our Jungle Mega Slide and then have a safe slide to the bottom.  This is a high slide!

@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/08/rodeo-bull.jpg
 title: "Rodeo Bull Hire"
 meta_title: "Rodeo Bull Hire – Monster Event Hire"
-description: "Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex."
+meta_description: "Hire a thrilling rodeo bull for parties, school events, corporate fun, and festivals. Staff-operated, safe, and fully insured across Hampshire, Surrey &amp; Sussex."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # rodeo bull Hire
   Experience the thrill of our **Rodeo Bull Hire**! Hold on tight as the bull bucks and spins — a hilarious challenge for riders and a spectacle for spectators.
   Our **trained operator controls the speed**, so it’s fun and safe for everyone **1.2 m / 10 yrs and above**. The bull is surrounded by an **inflatable safety mat** to ensure a soft landing. Riders compete to see **how long they can stay on**, tracked by our **large LED timer**.

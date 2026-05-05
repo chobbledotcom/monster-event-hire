@@ -17,7 +17,7 @@ meta_title: "Pole Jousting"
 og_description: "Pole Jousting Knock your adversary off the pole and onto the inflatable bed of defeat. Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun&hellip;"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   ## Pole Jousting
   Knock your adversary off the pole and onto the inflatable bed of defeat.
   Armed with pillows, this jousting event is the perfect way of giving two friends (of similar stature) a dose of fun competition.

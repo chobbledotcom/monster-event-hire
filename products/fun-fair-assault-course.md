@@ -18,10 +18,10 @@ galleryImages:
   - /images/uploads/2015/10/funfair-assaultcourse8.jpg
 title: "50ft Fun fair assault course"
 meta_title: "50ft Fun fair assault course Fun fair assault course"
-description: "The Fun fair assault course that places more emphasis on fun! Ideal for birthdays, family fun days, school reward days and team building."
+meta_description: "The Fun fair assault course that places more emphasis on fun! Ideal for birthdays, family fun days, school reward days and team building."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # Fun Fair Assault Course – Inflatable Hire
   Bring excitement and laughter to your event with our **Fun Fair Assault Course**! Designed to focus on **fun and entertainment** rather than competition, this inflatable obstacle course is perfect for **birthday parties, school events, family fun days, community festivals, and corporate fun days**. Suitable for **children, teens, and adults**, it delivers action-packed enjoyment for everyone.
   ### Features

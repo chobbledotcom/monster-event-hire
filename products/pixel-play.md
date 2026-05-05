@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2025/10/pixelplay.jpg
 title: "Pixel Play"
 meta_title: "Pixel Play - Monster Event Hire"
-description: "Pixel play is multi player interactive game. With 4 built in gaming modes this make Pixel Play one of best value interactive games."
+meta_description: "Pixel play is multi player interactive game. With 4 built in gaming modes this make Pixel Play one of best value interactive games."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Pixel Play
   # **Pixel Play Game Hire**
   **2 Player Game | 4 Retro Games | 676 LED Lights**

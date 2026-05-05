@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2019/01/49599688_1980799378891843_364190841331253248_n.jpg
 title: "Cocktail Table Retro games machine"
 meta_title: "Cocktail Table Retro games machine"
-description: "Remember the arcade and console games of yesteryear? Why not sit down on this cocktail table and remember these never ageing games."
+meta_description: "Remember the arcade and console games of yesteryear? Why not sit down on this cocktail table and remember these never ageing games."
 category_name: "Christmas"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   ## 80’s Retro Arcade Classics Machine Hire – Nostalgic Fun for Any Event
   Step back in time with our **80’s Retro Arcade Classics Machine hire**! Perfect for **birthday parties, corporate events, school and university events, and community festivals**, this interactive arcade machine brings the **fun and nostalgia of classic 80s gaming** straight to your event. Relive your youth with iconic games like **Donkey Kong, Pac-Man, Space Invaders, Galaga, Dig Dug, Arkanoid, and many more**.
   ### Features of the 80’s Retro Arcade Machine

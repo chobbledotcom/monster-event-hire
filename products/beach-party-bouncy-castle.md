@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/beachparty.jpg
 title: "All ages Beach Party Bouncy Castle 15ft x 16ft"
 meta_title: "All ages Beach Party Bouncy Castle 15ft x 16ft"
-description: "Straight off the beach, surfin&#039; it up - the tide&#039;s gone out so let&#039;s have a beach party! First port of call, BOUNCY CASTLE."
+meta_description: "Straight off the beach, surfin&#039; it up - the tide&#039;s gone out so let&#039;s have a beach party! First port of call, BOUNCY CASTLE."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # Beach Party Bouncy Castle Hire – Surf Theme Inflatable for Kids & Adults
   Bring the seaside to your event with our **Beach Party Bouncy Castle Hire** – the perfect inflatable for summer parties, tropical themes, and fun-filled celebrations. With its bright colours and surf-inspired design, this **beach-themed bouncy castle** is guaranteed to be a hit with guests of all ages.
   Straight off the beach and ready for action, this inflatable creates the ultimate party vibe—no sand required! 🏖️

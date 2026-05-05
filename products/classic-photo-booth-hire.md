@@ -17,10 +17,10 @@ galleryImages:
   - /images/uploads/2015/10/props1.jpg
 title: "Photo Booth Hire"
 meta_title: "Photo Booth Hire - Monster Event Hire - Photo booth&#039;s"
-description: "Photo booth Hire is a unique way to capture the spirit of your party, wedding or promotion - Unlimited photographs for the hire duration!"
+meta_description: "Photo booth Hire is a unique way to capture the spirit of your party, wedding or promotion - Unlimited photographs for the hire duration!"
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   # 📸 Photo Booth Hire – Monster Event Hire
   Capture fun, laughter and unforgettable memories with our **Photo Booth Hire**! Whether you’re planning a **wedding, birthday party, corporate event, school prom, festival or family celebration**, our photo booth adds a stylish, interactive experience that guests love.
   **Plus**, we offer Photo Booth Hire across **Hampshire, Surrey, Sussex & London**, bringing the fun directly to your venue.

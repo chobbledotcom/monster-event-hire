@@ -13,11 +13,11 @@ galleryImages:
   - /images/uploads/2015/11/inside1.jpg
 title: "Santa&#8217;s Christmas Grotto"
 meta_title: "Santa&#039;s Christmas Grotto"
-description: "“Hire Santa’s Christmas Grotto for indoor or outdoor events. Perfect for parties, corporate events, schools, and festive celebrations!”"
+meta_description: "“Hire Santa’s Christmas Grotto for indoor or outdoor events. Perfect for parties, corporate events, schools, and festive celebrations!”"
 og_title: "Santa&#039;s Christmas Grotto"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
-body: |-
+description: |-
   # Santa’s Christmas Grotto – Inflatable Hire
   Bring the magic of Christmas to your event with our **inflatable Santa’s Christmas Grotto**! Perfect for **indoor and outdoor events**, this festive attraction offers a **memorable Christmas experience** for families, friends, colleagues, and children of all ages. Whether you’re organising a **Christmas party, corporate celebration, school event, or shopping centre activation**, Santa’s Grotto adds a magical touch that delights every visitor.
   ### Features of Santa’s Christmas Grotto

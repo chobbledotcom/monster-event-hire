@@ -6,15 +6,12 @@ redirect_from:
   - /all-products/wedding-entertainment/
 layout: wp-category.html
 title: 'Wedding Entertainment - Monster Event Hire Event hire'
-description: 'Hire wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters, we have it all!'
+meta_description: 'Hire wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters, we have it all!'
+description: |-
+  Hire the very best wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters that will not be missed by your guests.
 body_class: 'archive tax-product-category term-wedding-entertainment term-537 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2015/11/photo-booth-fun1.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Wedding Entertainment'
-cat_head_intro_html: |-
-  <p>Hire the very best wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters that will not be missed by your guests.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Hire the very best wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters that will not be missed by your guests.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'atari-pong-table-hire'

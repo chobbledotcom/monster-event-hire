@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2024/04/bootcamp-14.jpg
 title: "Boot Camp Challenge"
 meta_title: "Boot camp challenge assault course"
-description: "The boot camp challenge assault course is an adrenaline packed inflatable suitable for all age users this one will stand out at any event."
+meta_description: "The boot camp challenge assault course is an adrenaline packed inflatable suitable for all age users this one will stand out at any event."
 category_name: "Inflatable Assault Course And Obstacle Course Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 100ft Boot Camp Challenge Assault Course Hire in Hampshire & Surrey
   ## The Ultimate Giant Inflatable Obstacle Course Experience
   Looking for a **show-stopping inflatable assault course hire in Hampshire or Surrey**? Our **100ft Boot Camp Challenge** is the **ultimate test of speed, stamina, and determination**—packed with obstacles, slides, and non-stop action from start to finish.

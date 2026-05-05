@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/mystery-green-screen-1.jpg
 title: "Green Screen Dream Machine photo booth"
 meta_title: "Green Screen Dream Machine photo booth"
-description: "The Green Screen Dream Machine is the ultimate party and wedding photo booth. Choose from over 800 background combinations."
+meta_description: "The Green Screen Dream Machine is the ultimate party and wedding photo booth. Choose from over 800 background combinations."
 category_name: "Party Favourites"
 category_slug: "party-favourites"
-body: |-
+description: |-
   ![greenscreencurtain](/images/uploads/2015/11/greenscreencurtain.jpg)
   ### Classic Booth
   Allows users to choose the superimposed curtain colour curtain behind them for a classic photo booth feel  

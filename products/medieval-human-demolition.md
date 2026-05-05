@@ -22,7 +22,7 @@ meta_title: "Medieval Human Demolition"
 og_description: "Human Demolition Time for your party to go medieval with this Human Demolition ! It&#8217;s big, it&#8217;s bold and it is extreme. This high energy game is a demolition bonanza &#8211; its size is sure to&hellip;"
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   ## Human Demolition
   Time for your party to go medieval with this Human Demolition ! It’s big, it’s bold and it is *extreme*. This high energy game is a demolition bonanza – its size is sure to draw the crowd!
   Starting with four players standing on medieval pedestals\*, the aim is to swing the imitation wrecking ball (it still packs a punch!) at the other contestants to dethrone them and send them crashing out of the arena. The last man standing wins.

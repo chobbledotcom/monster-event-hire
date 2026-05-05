@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/11/28-7-2015.jpg
 title: "Zorbing hire"
 meta_title: "Zorbing - Monster Event and Party Hire"
-description: "Zorbing is the incredible game where players reside within a giant plastic bubble. call today for more information on any of our party games!"
+meta_description: "Zorbing is the incredible game where players reside within a giant plastic bubble. call today for more information on any of our party games!"
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # 🎉 **Zorbing Hire – Safe, Thrilling Bubble Fun for All Ages**
   Experience the excitement of **zorbing hire**, the adrenaline-filled activity where players step inside a giant inflatable plastic bubble. The bubble protects participants while allowing a **whole new level of movement**, making the game both safe and incredibly fun. **Whether bouncing, rolling, or racing**, zorbing is a high-energy activity suitable for all ages, making it perfect for parties, corporate events, and team-building challenges.
   ### **How Zorbing Works**

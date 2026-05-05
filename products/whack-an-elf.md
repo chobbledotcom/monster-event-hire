@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2025/10/Whack-An-Elf-christmas-hire-.jpg
 title: "Whack an Elf"
 meta_title: "Whack an Elf Monster Event Hire"
-description: "Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.Our system uses light up targets!"
+meta_description: "Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.Our system uses light up targets!"
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # Whack an Elf
   Whack an Elf is a great concept on the classic arcade game whack a mole, you might have played in the past.
   Our system uses light up targets instead of mechanical moles but utilising the classic foam hammers for each player.

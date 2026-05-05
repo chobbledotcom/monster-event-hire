@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/pirate-ship1.jpg
 title: "Pirate ship inflatable"
 meta_title: "Pirate ship inflatable Pirate ship inflatable"
-description: "An assault course that&#039;s shaped like a pirate ship inflatable. Great for Pirate themed Birthday parties. contact us today"
+meta_description: "An assault course that&#039;s shaped like a pirate ship inflatable. Great for Pirate themed Birthday parties. contact us today"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   ## Pirate ship inflatable
   An assault course that’s shaped like a pirate ship inflatable. Picture it now – you’re held hostage on a pirate ship and the only way they’ll spare you is if you can prove your agility and speed up and down the slide.
   #### Suitable For Children only

@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/42121f00ffc451d0c288e11c1f28cbd4_L.jpg
 title: "Pirate 2 Bouncy Castle 12ft x 14ft"
 meta_title: "Pirate 2 Bouncy Castle 12ft x 14ft"
-description: "For the pirate lovers who want to sail the seas in the safety of a bouncy castle."
+meta_description: "For the pirate lovers who want to sail the seas in the safety of a bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Pirate 2 Bouncy Castle
   For the pirate lovers who want to sail the seas in the safety of a bouncy castle.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 9’h

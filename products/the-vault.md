@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2025/10/the-vault-game.jpg
 title: "The Vault"
 meta_title: "The Vault Game Hire - Monster Event Hire ✅"
-description: "The vault - Crack The Code Attempt to unlock The Vault by cracking the &quot;secret code&quot; in just 30 seconds Select one of the 4 difficulty level."
+meta_description: "The vault - Crack The Code Attempt to unlock The Vault by cracking the &quot;secret code&quot; in just 30 seconds Select one of the 4 difficulty level."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # 🔐 The Vault Game Hire – Monster Event Hire
   Unlock excitement with **The Vault game hire** from **Monster Event Hire**! This fast‑paced challenge puts players to the test as they race against the clock to **crack the secret code** and open *The Vault*. It’s perfect for **birthday parties, corporate events, team building, school fun days, exhibitions, and festivals** across **Hampshire, Surrey, Sussex & London** — delivering fun, suspense, and friendly competition for all ages.
   ## 🎯 How The Vault Works

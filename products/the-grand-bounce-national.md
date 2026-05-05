@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2017/01/1.2-1.jpg
 title: "Grand Bounce National"
 meta_title: "Grand bounce national hire - inflatable space hopper Giant Horses"
-description: "Grand Bounce National, jump on your very own horse bounce your way down the track for loads of bouncy fun and entertainment."
+meta_description: "Grand Bounce National, jump on your very own horse bounce your way down the track for loads of bouncy fun and entertainment."
 category_name: "Product Category"
 category_slug: "product-category"
-body: |-
+description: |-
   # 🎪 **Grand Bounce National – Inflatable Space Hopper Track Hire**
   Get ready to **bounce, race, and laugh** with our **Grand Bounce National inflatable**. Hop on your very own inflatable horse and race down the track in a safe, cushioned environment. **As players test their balance and stamina**, they will enjoy friendly competition while having endless fun.
   Perfect for **fun days, birthday parties, school events, corporate team-building, and horse-themed events**, this inflatable provides **high-energy entertainment** for both participants and spectators. **Whether you’re hosting a family celebration or a corporate challenge**, the Grand Bounce National guarantees laughs and excitement.

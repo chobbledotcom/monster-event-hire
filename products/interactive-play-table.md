@@ -14,7 +14,7 @@ meta_title: "Interactive Play Table"
 og_description: "Interactive Play Table This is a 2 &#8211; 4 players high energy game lasts 1 min each so the turn around is high with this . 3 pre-set games including “Light Hunter” “Steal the light” &amp; “Back&hellip;"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   Interactive Play Table
   This is a 2 – 4 players high energy game lasts 1 min each so the turn around is high with this .
   3 pre-set games including “Light Hunter” “Steal the light” & “Back to base and ensures your clients never get bored.

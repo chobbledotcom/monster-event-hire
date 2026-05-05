@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/10/inflatables-001.jpg
 title: "Rodeo Pig Hire"
 meta_title: "Rodeo Pig Hire - Monster Event Hire - Hire a rodeo pig"
-description: "Rodeo pig Hire (or Buckingpig hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators. Call us for more information!"
+meta_description: "Rodeo pig Hire (or Buckingpig hire) Hire - a hugely popular and entertaining activity for the rider as well as the spectators. Call us for more information!"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   # rodeo pig Hire
   rodeo pig Hire experience the thrill Porky the . This slippery animal rolls, bucks and spins until you finally fall.
   Our trained operator controls the speed of the bucking pig allowing fun for all users 1.2 metres and above.

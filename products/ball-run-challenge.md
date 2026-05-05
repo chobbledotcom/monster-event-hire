@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2015/11/12202422_10154321104248761_1545968602_n1.jpg
 title: "Ball Run Challenge"
 meta_title: "Ball Run Challenge: team building inflatable hire."
-description: "Run and Jump from platform to platform whilst huge balls are swung at you, can you make it through the ball run challenge, team building"
+meta_description: "Run and Jump from platform to platform whilst huge balls are swung at you, can you make it through the ball run challenge, team building"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   # Ball Run Challenge Inflatable – Team Building & Event Hire
   Take on the ultimate **inflatable obstacle challenge** with the **Ball Run Challenge**! Perfect for **corporate team-building events, school activities, birthday parties, university events, and community festivals**, this interactive inflatable game is designed to test **agility, balance, and determination** while delivering **hours of fun**.
   ### Features of the Ball Run Challenge

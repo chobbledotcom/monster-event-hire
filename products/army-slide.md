@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2015/10/armyslide-1.jpg
 title: "Army Slide"
 meta_title: "Army Slide - Monster Event Hire"
-description: "Hire our 18ft Army Inflatable Slide in Hampshire &amp; Surrey – thrilling, military-themed fun for kids &amp; adults. Delivery, setup &amp; collection!"
+meta_description: "Hire our 18ft Army Inflatable Slide in Hampshire &amp; Surrey – thrilling, military-themed fun for kids &amp; adults. Delivery, setup &amp; collection!"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   # Army Slide Hire – Large Military Themed Inflatable Slide (18ft High)
   The army knows how to harness gravity… now it’s your turn. Take on the challenge and test this **Army Inflatable Slide Hire**, built for speed, excitement, and adrenaline-filled fun!
   This eye-catching **military-themed inflatable slide** stands tall at 18ft and delivers a thrilling ride every time. Climb to the top, take a deep breath, and launch yourself down for an exhilarating finish—perfect for both kids and adults looking for action-packed entertainment.

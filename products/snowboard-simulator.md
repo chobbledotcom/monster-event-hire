@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/snow-board-and-reindeer-simulator-hire-.jpg
 title: "Snowboard Simulator"
 meta_title: "Snowboard Simulator Hire"
-description: "Snowboard simulator hire !Check out our snowboard simulator!  Ready to test your skills on the piste? perfect for your winter themed events."
+meta_description: "Snowboard simulator hire !Check out our snowboard simulator!  Ready to test your skills on the piste? perfect for your winter themed events."
 category_name: "Simulator Hire"
 category_slug: "simulator-hire"
-body: |-
+description: |-
   ## Snowboard simulator !
   Check out our snowboard simulator!  Ready to test your skills on the piste?
   This is a fantastic alternative to the Surfboard, for your winter themed events.

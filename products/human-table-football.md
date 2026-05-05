@@ -18,10 +18,10 @@ galleryImages:
   - /images/uploads/2015/10/human-table-football.jpg
 title: "Human Table Football"
 meta_title: "Human Table Football"
-description: "Test yourself on our people-sized Human Table Football arena. Restrict your movement and rely on teamwork to win. please contact us today!"
+meta_description: "Test yourself on our people-sized Human Table Football arena. Restrict your movement and rely on teamwork to win. please contact us today!"
 category_name: "Football Games"
 category_slug: "football-games"
-body: |-
+description: |-
   ## Deluxe Human Table Football – Event Hire
   Bring the excitement of football to life with our **Deluxe Human Table Football** – a giant inflatable version of the classic table-top game. Perfect for **team-building, corporate events, school fun days, and parties**, this game delivers **high-energy fun** for players and spectators alike.
   ### Features of Deluxe Human Table Football

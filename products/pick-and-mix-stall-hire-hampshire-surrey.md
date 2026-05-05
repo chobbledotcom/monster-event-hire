@@ -10,11 +10,11 @@ galleryImages:
   - /images/uploads/2019/05/pick-n-mx-sweets.jpg
 title: "Pick and Mix Stall Hire in Hampshire &#038; Surrey"
 meta_title: "Pick and Mix Stall Hire in Hampshire &amp; Surrey"
-description: "Hire a Pick and Mix Stall in Hampshire &amp; Surrey. 30kg of sweets, perfect for parties, weddings, corporate events, and exhibitions."
+meta_description: "Hire a Pick and Mix Stall in Hampshire &amp; Surrey. 30kg of sweets, perfect for parties, weddings, corporate events, and exhibitions."
 og_title: "Pick and Mix Stall Hire in Hampshire &amp; Surrey"
 category_name: "Stalls And Carnival Games"
 category_slug: "stalls-and-carnival-games"
-body: |-
+description: |-
   # Pick and Mix Stall Hire in Hampshire & Surrey
   ## What’s Included in Our Pick and Mix Hire
   -   **30kg of your favourite sweets** including:
@@ -133,5 +133,5 @@ date_published: '2019-05-04T12:35:31+00:00'
 jsonld_name: 'Pick and Mix Stall Hire in Hampshire & Surrey'
 primary_image_width: 794
 primary_image_height: 960
-primary_image_caption: 'pick ''n'' Mix stall (inc 40kg of sweets) £435 plus vat - Our cinema style Pick ''n" Mix stand is supplied complete with just over 40kg''s of quality sweets'
+primary_image_caption: "pick 'n' Mix stall (inc 40kg of sweets) £435 plus vat - Our cinema style Pick 'n' Mix stand is supplied complete with just over 40kg's of quality sweets"
 ---

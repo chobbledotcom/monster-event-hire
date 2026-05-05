@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/10/army-assault-course7.jpg
 title: "50ft Army Assault Course"
 meta_title: "50ft Army Assault Course - Oblstacle Course Hire"
-description: "“Hire the 50ft Army Assault Course inflatable for birthday parties, school events, corporate team-building, and fun for kids and adults!”"
+meta_description: "“Hire the 50ft Army Assault Course inflatable for birthday parties, school events, corporate team-building, and fun for kids and adults!”"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 50ft Army Assault Course – Inflatable Obstacle Challenge
   Take on the **ultimate inflatable challenge** with our **50ft Army Assault Course**! This popular inflatable obstacle course is perfect for **birthday parties, school events, family fun days, corporate team-building, and community festivals**. Designed for **children, teens, and adults**, it’s a thrilling, active experience that tests your agility, balance, and determination.
   ### Features of the 50ft Army Assault Course

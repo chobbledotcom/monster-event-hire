@@ -12,7 +12,7 @@ meta_title: "Tug of War"
 og_description: "Pull yourself to victory with this classic Tug of War game!"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
-body: |-
+description: |-
   Pull yourself to victory with this classic Tug of War game!
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-372 wp-theme-littlemonsters tug-of-war'

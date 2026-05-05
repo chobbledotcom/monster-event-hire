@@ -19,7 +19,7 @@ meta_title: "Inflatable Base Jump"
 og_description: "Inflatable Base Jump Climbing up may be difficult, but that&#8217;s nothing compared to the courage required to leap off the edge onto the safety area below. Find out how it might feel to be a Hollywood stuntman jumping off&hellip;"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Inflatable Base Jump
   Climbing up may be difficult, but that’s nothing compared to the courage required to leap off the edge onto the safety area below.
   Find out how it might feel to be a Hollywood stuntman jumping off a building!

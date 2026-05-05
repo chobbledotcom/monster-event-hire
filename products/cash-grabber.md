@@ -13,8 +13,8 @@ galleryImages:
   - /images/uploads/2015/12/Grab-A-Grand-Cash-Grabber.jpg
 title: "Cash Grabber"
 meta_title: "Cash Grabber - grab a grand hire - cash cube hire."
-description: "The cash grabber hire is a truly unique and one off experience with all the thrills of a TV game show. Please call us today"
-body: |-
+meta_description: "The cash grabber hire is a truly unique and one off experience with all the thrills of a TV game show. Please call us today"
+description: |-
   # 💸 Cash Grabber Hire – Monster Event Hire
   Add a **unique crowd‑pleasing game** to your event with our **Cash Grabber Hire**! Step inside the transparent cube and grab as many flying cash notes or tokens as you can **before the countdown ends**. Inspired by classic TV challenge games like *The Crystal Maze*, this fast‑paced activity is perfect for **parties, corporate events, school fun days, and festivals** across **Hampshire, Surrey, Sussex & London**.
   ## 🎉 What Is the Cash Grabber Game?

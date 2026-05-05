@@ -6,22 +6,19 @@ redirect_from:
   - /all-products/team-building-corporate/
 layout: wp-category.html
 title: 'Team building / corporate Fun Entertainment - Monster Event Hire Event hire'
-description: 'Break the ice and build a great team. A wide range of inflatable activities perfect for team building - working together like a well-oiled machine!'
+meta_description: 'Break the ice and build a great team. A wide range of inflatable activities perfect for team building - working together like a well-oiled machine!'
+description: |-
+  ## **Team Building Events**
+
+  Break the ice and build a great team spirit. We offer a wide range of inflatable activities for the perfect work day out. Get your team working together like a well-oiled machine!
+
+  For you team building event you can choose from a vast list of inflatables including Archery, Human Table Football, Inflatable volleyball, laser clay pigeon shooting, Inflatable axe throwing, or why not use our Climbing wall as part of your  program with one of our assault course’s we would recommend our whopping 150ft assault course.
+
+  Why not pick your Favourite items to make a pick and mix selection to make your event great.
 body_class: 'archive tax-product-category term-team-building-corporate term-60 wp-theme-littlemonsters'
 breadcrumb_name: 'Team Building Corporate'
 cat_head_style: 'background:url(/images/uploads/2016/02/corporate-event-hire.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:25em 0;'
 cat_head_title: 'Team building / corporate'
-cat_head_intro_html: |-
-  <h2><strong>Team Building Events</strong></h2>
-            <p>Break the ice and build a great team spirit. We offer a wide range of inflatable activities for the perfect work day out. Get your team working together like a well-oiled machine!</p>
-            <p>For you team building event you can choose from a vast list of inflatables including Archery, Human Table Football, Inflatable volleyball, laser clay pigeon shooting, Inflatable axe throwing, or why not use our Climbing wall as part of your  program with one of our assault course’s we would recommend our whopping 150ft assault course.</p>
-            <p>Why not pick your Favourite items to make a pick and mix selection to make your event great.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <h2><strong>Team Building Events</strong></h2>
-              <p>Break the ice and build a great team spirit. We offer a wide range of inflatable activities for the perfect work day out. Get your team working together like a well-oiled machine!</p>
-              <p>For you team building event you can choose from a vast list of inflatables including Archery, Human Table Football, Inflatable volleyball, laser clay pigeon shooting, Inflatable axe throwing, or why not use our Climbing wall as part of your  program with one of our assault course’s we would recommend our whopping 150ft assault course.</p>
-              <p>Why not pick your Favourite items to make a pick and mix selection to make your event great.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - '150ft-army-assault-course'

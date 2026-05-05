@@ -17,10 +17,10 @@ galleryImages:
   - /images/uploads/2014/12/human-table-football.jpg
 title: "Human Table Football (Ropes)"
 meta_title: "Human Table Football (Ropes) Human Table Football Ropes"
-description: "Human table football ropes Participants are strapped into place, only allows side-to-side movement, you then have to rely on teamwork skills to win."
+meta_description: "Human table football ropes Participants are strapped into place, only allows side-to-side movement, you then have to rely on teamwork skills to win."
 category_name: "Football Games"
 category_slug: "football-games"
-body: |-
+description: |-
   ## Human Table Football Ropes version .
   Human table football ropes is a outrageously hilarious game of 5-a-side Football with a difference!
   How did you get roped in to this? Full size human table football rope version, get strapped into the football table with ropes rather than bars.

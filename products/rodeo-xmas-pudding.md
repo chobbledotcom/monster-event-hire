@@ -14,7 +14,7 @@ meta_title: "Rodeo Xmas Pudding"
 og_description: "Rodeo Xmas Pudding ! Experience the thrill of the Rodeo Xmas Pudding. this is No sweet treat, this Christmas rodeo pudding bucks and spins until you fall. Our Trained operator controls the speed of the&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   ## Rodeo Xmas Pudding !
   Experience the thrill of the Rodeo Xmas Pudding. this is No sweet treat, this Christmas rodeo pudding bucks and spins until you fall.
   Our Trained operator controls the speed of the Christmas Pudding allowing fun for all ages.

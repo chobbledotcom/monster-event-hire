@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/08/laser-clay-laser-clay-pigeon-shooting.jpg
 title: "Laser Clay Pigeon Shooting"
 meta_title: "Laser Clay Pigeon Shooting - Monster Event Hire"
-description: "Hire laser clay pigeon shooting for parties, team building, school events, or weddings. Safe, supervised, and fun across Hampshire, Surrey &amp; Sussex."
+meta_description: "Hire laser clay pigeon shooting for parties, team building, school events, or weddings. Safe, supervised, and fun across Hampshire, Surrey &amp; Sussex."
 category_name: "Shooting Archery And Marksmen Hire"
 category_slug: "shooting-archery-and-marksmen-hire"
-body: |-
+description: |-
   # 🎯 Laser Clay Pigeon Shooting Hire – Monster Event Hire
   Bring safe, competitive excitement to your event with **Laser Clay Pigeon Shooting Hire**! This fun, interactive attraction uses **realistic infra‑red laser shotguns** and automatic clay launchers to deliver a thrilling clay shooting experience without live ammunition. It’s perfect for **birthday parties, corporate team building, school fun days, festivals, and weddings** across **Hampshire, Surrey, Sussex & London** — guaranteed to entertain guests of all ages.
   ## 🎯 How Laser Clay Pigeon Shooting Works

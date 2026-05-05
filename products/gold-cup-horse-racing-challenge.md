@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2019/08/gold-cup-horse-racing-hire-.jpg
 title: "Gold Cup horse racing challenge"
 meta_title: "Gold Cup horse racing challenge"
-description: "The faster the riders perform the galloping movement the faster their horse travels up the racecourse towards the finishing post"
+meta_description: "The faster the riders perform the galloping movement the faster their horse travels up the racecourse towards the finishing post"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Gold Cup Horse Racing Challenge – Event Hire
   Bring **excitement and competition** to your next event with our **Gold Cup Horse Racing Challenge**. Perfect for **birthday parties, corporate events, team-building, and fun-packed gatherings**, this game delivers fast-paced fun for **4 players**.
   ### Features of the Gold Cup Horse Racing Game

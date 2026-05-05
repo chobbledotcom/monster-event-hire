@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/12/11race.jpg
 title: "Racing Simulator hire"
 meta_title: "Racing Simulator hire - Monster Event Hire"
-description: "Racing simulator hire linked as a pair or individually on their own. This is great fun and will guarantee to get everyone revving on the driving simulator."
+meta_description: "Racing simulator hire linked as a pair or individually on their own. This is great fun and will guarantee to get everyone revving on the driving simulator."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Racing Simulator Hire.
   Racing simulator hire,  The players are seated in semi bucket race seats on the driving simulators, with force feed back steering wheels and full pedal sets each driver has an independent screen for head to head racing action on built in LCD TV screens.
   Each driver has total control over his / her own pedals, steering and even gearing if wanted, have a great interactive driving experience with our racing simulators.

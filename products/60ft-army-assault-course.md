@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/10/60ft-assault-course.jpg
 title: "60ft Army Assault Course"
 meta_title: "60ft Army Assault Course - assault course inflatable"
-description: "60ft army assault course inflatable with sections to sprint through, obstacles to leap over and small gaps to squeeze through."
+meta_description: "60ft army assault course inflatable with sections to sprint through, obstacles to leap over and small gaps to squeeze through."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 60ft Army Assault Course Hire – Inflatable Obstacle Course with Mega Slide
   Take on the ultimate challenge with our **60ft Army Assault Course Hire** – a larger, more action-packed inflatable designed for high-energy fun! Perfect for parties, school events, and corporate days, this **army-themed inflatable obstacle course** brings excitement, competition, and adventure to any event.
   Race through multiple sections filled with obstacles to leap over, gaps to squeeze through, and challenges to conquer—before finishing with an epic **10ft mega slide**!

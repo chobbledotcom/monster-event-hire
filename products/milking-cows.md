@@ -12,7 +12,7 @@ meta_title: "Milking Cows"
 og_description: "Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest? This udderly riveting game will get your hands mooving in ways you never&hellip;"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
-body: |-
+description: |-
   Finally, an answer to a question that has nagged philosophers and common folk for generations. Who can milk a cow that fastest?
   This udderly riveting game will get your hands mooving in ways you never thought possible.
 layout: wp-product.html

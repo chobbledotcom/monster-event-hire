@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2017/01/Kick-N-Stick-foot-darts.jpg
 title: "Kick N Stick foot darts"
 meta_title: "Kick N Stick foot darts"
-description: "Kick n stick foot darts, kick the Velcro footballs onto the giant dart board, trying to get that bulls eye !"
+meta_description: "Kick n stick foot darts, kick the Velcro footballs onto the giant dart board, trying to get that bulls eye !"
 category_name: "Product Category"
 category_slug: "product-category"
-body: |-
+description: |-
   # Double Sided Kick N Stick foot darts !
   Introducing our Double Sided Giant Kick N Stick foot darts, this is a fun and interactive game for everyone.
   A combination of the beautiful game we call football and a British pub classic.

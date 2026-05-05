@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2015/10/75ftarmy.jpg
 title: "75ft Army Assault Course"
 meta_title: "75ft inflatable Army Assault Course"
-description: "At 75ft this inflatable Army assault course has lots to offer. Ideal for school reward days and team building. Different sizes also available"
+meta_description: "At 75ft this inflatable Army assault course has lots to offer. Ideal for school reward days and team building. Different sizes also available"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 75ft Army Assault Course Hire – Large Inflatable Obstacle Course with Mega Slide
   Take on the ultimate inflatable challenge with our **75ft Army Assault Course Hire** – one of the biggest and most popular obstacle courses in our range! Packed with exciting features and a bold military theme, this **inflatable assault course** is perfect for high-energy events and competitive fun.
   Start your mission by crawling through the letterbox entrance, then take on the biff and bash soldiers, push through tunnels, squeeze through mangles, and tackle even more obstacles along the way. Build momentum as you hit the slip-and-slide section before climbing up to conquer the towering **10ft mega slide finale**!

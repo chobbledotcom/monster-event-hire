@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2026/04/Revolution.jpg
 title: "Aquaventronics Revolution Game Hire UK"
 meta_title: "Aquaventronics Revolution Game Hire UK - Monster Event Hire"
-description: "Aquaventronics Revolution game UK. An arcade reaction game perfect for corporate events, exhibitions, and interactive entertainment."
+meta_description: "Aquaventronics Revolution game UK. An arcade reaction game perfect for corporate events, exhibitions, and interactive entertainment."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # Aquaventronics Revolution Game Hire UK
   Looking for a high-energy attraction that gets people talking? The **Aquaventronics Revolution game hire** is one of the most popular **arcade-style reaction games in the UK**, perfect for events, exhibitions, and corporate entertainment. Designed for fast-paced, head-to-head competition, it delivers excitement, engagement, and unforgettable experiences.
   ## What is the Revolution Game?

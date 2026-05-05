@@ -15,7 +15,7 @@ meta_title: "Penalty Shootout"
 og_description: "Save as many as you can with our inflatable penalty shootout arena. Diving around like a gymnast not required &#8211; but recommended."
 category_name: "Football Games"
 category_slug: "football-games"
-body: |-
+description: |-
   Save as many as you can with our inflatable penalty shootout arena. Diving around like a gymnast not required – but recommended.
   14FTX14FTX12FT HIGH
 layout: wp-product.html

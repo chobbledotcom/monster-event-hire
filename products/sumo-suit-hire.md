@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2015/10/sumo-surround.jpg
 title: "Sumo Suit Hire"
 meta_title: "Sumo Suit Hire"
-description: "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!"
+meta_description: "The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Please call us today for more information!"
 category_name: "Giant Game Hire"
 category_slug: "games"
-body: |-
+description: |-
   The always-popular sumo suits are fantastic entertainment for spectators and participants alike. Enabling you to experience the legendary sumo, these padded suits give you the weight and protection to push, pull or throw your opponent out of the ring.
   If pushing, pulling or throwing isn’t your thing, try and ‘turtle’ your opponent by forcing them onto their back!
   Available for hire:

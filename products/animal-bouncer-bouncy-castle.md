@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/Animal-bouncer-large.jpg
 title: "20ft Animal Bouncer Bouncy Castle"
 meta_title: "20ft Animal Bouncer Bouncy Castle"
-description: "Hire the 20ft Animal Bouncer Bouncy Castle for kids and adults. Perfect for birthday parties, school events, family fun days"
+meta_description: "Hire the 20ft Animal Bouncer Bouncy Castle for kids and adults. Perfect for birthday parties, school events, family fun days"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   ## 20ft Animal Bouncer Bouncy Castle
   Bring **fun and excitement** to your event with our **20ft Animal Bouncer Bouncy Castle**! This **inflatable bouncy castle** is perfect for **kids and adults**, making it ideal for **birthday parties, school events, family fun days, community events, and corporate parties**. With its vibrant animal theme, the **Animal Bouncer Bouncy Castle** guarantees endless fun for everyone.
   ### Features

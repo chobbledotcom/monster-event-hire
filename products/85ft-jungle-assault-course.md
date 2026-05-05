@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/10/jungle-assault-course.jpg
 title: "85ft Jungle Assault Course"
 meta_title: "85ft Jungle Assault Course inflatable"
-description: "Sprint through obstacle-laden areas, jump around and then drop down a mega slide or two. This 85ft Jungle Assault Course will be a challenge."
+meta_description: "Sprint through obstacle-laden areas, jump around and then drop down a mega slide or two. This 85ft Jungle Assault Course will be a challenge."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # 85ft Jungle Assault Course Hire – Inflatable Obstacle Fun
   Take your event to the next level with our **Assault Course**! Perfect for **birthday parties, corporate team-building events, school sports days, university events, and community festivals**, this inflatable obstacle course combines **fun, fitness, and friendly competition**. With **challenging obstacles, jumps, and mega slides**, it’s an exciting adventure suitable for **both children and adults**.
   ### Features

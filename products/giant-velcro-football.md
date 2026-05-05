@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2015/10/football-013.jpg
 title: "Giant Velcro Football"
 meta_title: "Giant Velcro Football"
-description: "Velcro football hire Hampshire &amp; Surrey. Interactive inflatable game for kids &amp; adults, perfect for events, promotions &amp; team building."
+meta_description: "Velcro football hire Hampshire &amp; Surrey. Interactive inflatable game for kids &amp; adults, perfect for events, promotions &amp; team building."
 category_name: "Football Games"
 category_slug: "football-games"
-body: |-
+description: |-
   ## ⚽ Giant Velcro Football Hire – Hampshire & Surrey
   Test your skills and dive like a pro with our **Giant Velcro Football**, a fun and competitive inflatable game that’s perfect for football fans of all ages. This exciting attraction lets players experience the thrill of goalkeeping and scoring in a unique and hilarious way—making it a standout feature at any event.
   The game is simple but highly entertaining. One player takes position as the goalkeeper, wearing a Velcro suit, while the opposing team kicks soft footballs towards them. The aim is to **score goals by sticking the balls to the Velcro wall panels**, while the goalkeeper dives and leaps to make incredible saves. Thanks to the **soft inflatable landing area**, players can safely throw themselves into action without worry.

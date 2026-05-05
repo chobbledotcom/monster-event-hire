@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2015/10/jungle-assault-course5.jpg
 title: "56ft Jungle Assault Course"
 meta_title: "56ft Jungle Assault Course"
-description: "Welcome to the jungle. We’ve got fun and games. This 56ft jungle themed assault course is suitable for both children and Big kids!"
+meta_description: "Welcome to the jungle. We’ve got fun and games. This 56ft jungle themed assault course is suitable for both children and Big kids!"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # Jungle Assault Course Hire (56ft) – Inflatable Obstacle Course for Kids & Adults
   Looking for an exciting **jungle assault course hire in Hampshire, Surrey, or surrounding areas**? Our **56ft Jungle Inflatable Assault Course** is the ultimate attraction for parties, school events, weddings, and corporate fun days.
   Packed with energy and adventure, this **jungle-themed inflatable obstacle course** is perfect for both children and adults (“big kids” included!). Race your friends through a series of fun challenges including bish bash obstacles, hurdles to jump over, tunnels to squeeze through, and finish with a thrilling slide.

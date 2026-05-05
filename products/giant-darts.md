@@ -13,7 +13,7 @@ meta_title: "Giant Darts"
 og_description: "Check out our giant darts game, surely you can&#8217;t miss a bullseye that big?"
 category_name: "Side Stalls"
 category_slug: "side-stalls"
-body: |-
+description: |-
   Check out our giant darts game, surely you can’t miss a bullseye that big?
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-1070 wp-theme-littlemonsters giant-darts'

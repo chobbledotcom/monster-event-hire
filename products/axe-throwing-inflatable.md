@@ -14,11 +14,11 @@ galleryImages:
   - /images/uploads/2020/01/axe-throwing.jpg
 title: "Axe Throwing"
 meta_title: "Axe Throwing - inflatable axe throwing - monster event hire"
-description: "Enjoy all the fun of Axe Throwing without the Danger! with our Axe throwing inflatable, Our velcro axes are safe for all age groups."
+meta_description: "Enjoy all the fun of Axe Throwing without the Danger! with our Axe throwing inflatable, Our velcro axes are safe for all age groups."
 og_description: "Enjoy all the fun of Axe Throwing without the Danger! Our velcro axes are safe for all age groups, how goods your aim? Can you split the board?"
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # Axe Throwing Inflatable Hire – Safe & Fun Event Activity
   Bring the excitement of **axe throwing** to your next event with our **Axe Throwing Inflatable hire**! Also known as **Ax Toss**, this thrilling and interactive inflatable game has quickly become one of the most popular attractions for **corporate events, birthday parties, school activities, university events, and community festivals**. Now your guests can experience **axe throwing in a safe and fun environment** with our **Velcro axes**, making it perfect for **kids, teens, and adults**.
   ### Features of the Axe Throwing Inflatable

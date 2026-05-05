@@ -6,15 +6,12 @@ redirect_from:
   - /all-products/mega-slides/
 layout: wp-category.html
 title: 'Mega Slides - Little Monsters'
-description: 'Our slides range from compact to HUGE and event attendees are desperate to go down on them. Please get in touch today for more information!'
+meta_description: 'Our slides range from compact to HUGE and event attendees are desperate to go down on them. Please get in touch today for more information!'
+description: |-
+  Slides – they’re the vehicle for safely enjoying gravity. Our slides range from compact to HUGE and event attendees are desperate to go down on them.
 body_class: 'archive tax-product-category term-mega-slides term-142 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2015/11/mega-slide-hire-backdrop.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Mega Slides'
-cat_head_intro_html: |-
-  <p>Slides – they’re the vehicle for safely enjoying gravity. Our slides range from compact to HUGE and event attendees are desperate to go down on them.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Slides – they’re the vehicle for safely enjoying gravity. Our slides range from compact to HUGE and event attendees are desperate to go down on them.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'army-slide'

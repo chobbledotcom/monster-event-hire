@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2015/10/10407753_1605751956364702_8900614747535269432_n1.jpg
 title: "Bungee Eliminator"
 meta_title: "Bungee Eliminator hire."
-description: "Bungee Eliminator Hire in – 36ft inflatable bungee game for 2 players. Perfect for parties, school events, and corporate fun days!"
+meta_description: "Bungee Eliminator Hire in – 36ft inflatable bungee game for 2 players. Perfect for parties, school events, and corporate fun days!"
 category_name: "Bungee"
 category_slug: "bungee"
-body: |-
+description: |-
   # Bungee Eliminator Hire – Inflatable 36ft Bungee Game for Parties & Events
   Take the fun to the next level with our **Bungee Eliminator Hire**, a thrilling inflatable challenge perfect for **birthday parties, school events, corporate fun days, and festivals**. This massive **36ft long bungee bed** guarantees laughter, competition, and high-energy entertainment for all ages.
   The rules are simple but hilariously competitive! Two players run in opposite directions on the bungee track, trying to collect as many **Velcro tabs** as possible. The closer you get to your goal, the greater the tension… literally! Expect plenty of funny falls, wobbles, and competitive fun that keeps everyone entertained.

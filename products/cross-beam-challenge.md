@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2016/01/car-pics-024.jpg
 title: "Cross Beam Challenge"
 meta_title: "Cross Beam Challenge"
-description: "Cross Beam Challenge Hire in Hampshire &amp; Surrey – team-building, corporate events, and parties. Fun, safe, and interactive for all ages!"
+meta_description: "Cross Beam Challenge Hire in Hampshire &amp; Surrey – team-building, corporate events, and parties. Fun, safe, and interactive for all ages!"
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   # Cross Beam Challenge Hire – Inflatable Team-Building & Corporate Fun
   Bring the thrill of competition and teamwork to your next event with our **Cross Beam Challenge Hire**. This inflatable is perfect for **corporate events, team-building days, school challenges, family fun days, and large parties**. Combining excitement, balance, and friendly rivalry, the Cross Beam Challenge is a unique activity that encourages collaboration and laughs for participants of all ages.
   Measuring **35ft long x 18ft wide x 5ft high**, this inflatable provides plenty of space for participants to test their agility and balance. Contestants must navigate the cross beams while avoiding falls, making it an engaging and interactive challenge that keeps everyone entertained. The low height makes it **safe for all ages**, while still offering enough of a challenge to get hearts racing.

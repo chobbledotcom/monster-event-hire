@@ -14,11 +14,11 @@ galleryImages:
   - /images/uploads/2017/04/interactive-play-stystem-1.jpg
 title: "Interactive play system &#8211; ips"
 meta_title: "Interactive play system - ips interactive play system"
-description: "Interactive Play System is a 2 player high energy game. IPS is based on a combination of light, sound and games, to enable challenging games."
+meta_description: "Interactive Play System is a 2 player high energy game. IPS is based on a combination of light, sound and games, to enable challenging games."
 og_title: "Interactive play system - ips"
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Interactive Play System – ips
   This Interactive Play System is a 2 – 4 player high energy game.
   IPS is based on the unique combination of light, sound and games.

@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/princess15ft.jpg
 title: "All Ages Princess Bouncy Castle 15ft x 16ft"
 meta_title: "All Ages Princess Bouncy Castle 15ft x 16ft"
-description: "You can always be a princess if you want, on this suitable for all ages prinncess bouncy castle."
+meta_description: "You can always be a princess if you want, on this suitable for all ages prinncess bouncy castle."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### All Ages Princess Bouncy Castle
   This all ages princess bouncy castle is to remind you that you, can always be a princess if you want, suitable for all ages.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: **15’w** X **16’d** X **15’h**

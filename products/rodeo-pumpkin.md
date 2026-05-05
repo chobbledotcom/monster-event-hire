@@ -13,7 +13,7 @@ meta_title: "Rodeo Pumpkin Hire"
 og_description: "Rodeo Pumpkin Hire! Experience the fright of your life on the rodeo Pumpkin. Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall. Our trained operator controls the speed&hellip;"
 category_name: "Rodeo Rides"
 category_slug: "rodeo-rides"
-body: |-
+description: |-
   ### Rodeo Pumpkin Hire!
   Experience the fright of your life on the rodeo Pumpkin.
   Perfect for Halloween parties and events, this devilish rodeo pumpkin rolls and spins until you fall.

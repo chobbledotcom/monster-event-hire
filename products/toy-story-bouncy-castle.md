@@ -12,7 +12,7 @@ meta_title: "Toy Story Bouncy Castle"
 og_description: "This bouncy castle is sure to bring out the fun, with the side slide adding that extra touch. Equipment dimensions: 18ft x 14ft x 9ft"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   This bouncy castle is sure to bring out the fun, with the side slide adding that extra touch.
   Equipment dimensions: 18ft x 14ft x 9ft
 layout: wp-product.html

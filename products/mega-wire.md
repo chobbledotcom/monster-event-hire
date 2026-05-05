@@ -10,10 +10,10 @@ galleryImages:
   - /images/uploads/2025/10/mega-buzz-wire.jpg
 title: "Mega Wire Hire"
 meta_title: "Mega Wire Hire Monster Event Hire"
-description: "Hire Mega Wire game for parties, school events, or team-building. Test patience, coordination, and focus with this fun indoor challenge."
+meta_description: "Hire Mega Wire game for parties, school events, or team-building. Test patience, coordination, and focus with this fun indoor challenge."
 category_name: "Christmas Party Entertainment"
 category_slug: "christmas-party-entertainment"
-body: |-
+description: |-
   # 🎮 **Mega Wire – Test Your Steadiness and Coordination**
   Challenge your patience, precision, and focus with the **Mega Wire game**. This classic interactive challenge tests **whole-body steadiness and hand-eye coordination**. Players must carefully navigate the handheld ring along **12 linear feet of tube** without touching the sides.
   ## **How It Works**

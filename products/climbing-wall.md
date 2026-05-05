@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/climbing-wall-corporate-.jpg
 title: "Climbing Wall Hire"
 meta_title: "Climbing Wall Hire - Monster Event Hire - Climbing Wall"
-description: "Hire a mobile climbing wall for parties,corporate events, school fun days &amp; festivals across Hampshire, Surrey, Sussex &amp; London. Safe,staff-operated fun!"
+meta_description: "Hire a mobile climbing wall for parties,corporate events, school fun days &amp; festivals across Hampshire, Surrey, Sussex &amp; London. Safe,staff-operated fun!"
 category_name: "Climbing Walls"
 category_slug: "climbing-wall"
-body: |-
+description: |-
   # 🧗‍♂️ Climbing Wall Hire – Monster Event Hire
   Make your event unforgettable with our **mobile climbing wall**, perfect for parties, school fun days, corporate team-building events, festivals, and more across **Hampshire, Surrey, Sussex & London**.
   ## 📏 Size & Impact

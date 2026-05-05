@@ -20,10 +20,10 @@ galleryImages:
   - /images/uploads/2025/04/magic-mirror-themed-.jpg
 title: "Magic Selfie Mirror"
 meta_title: "Magic Selfie Mirror - Monster Event Hire - Selfie mirror Hire"
-description: "Magic Selfie Mirror is a fun, interactive way to take pics during your event. The Magic selfie mirror photos print instantly."
+meta_description: "Magic Selfie Mirror is a fun, interactive way to take pics during your event. The Magic selfie mirror photos print instantly."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   # ✨ Magic Selfie Mirror Hire – Monster Event Hire
   Make your event unforgettable with our **Magic Selfie Mirror Hire**! This interactive mirror combines photos, animations, and personalised touches to create a **fun, stylish, and memorable experience** for guests of all ages.
   Whether you’re hosting a **wedding, birthday party, school prom, corporate event, or festival**, the Magic Selfie Mirror adds an element of **interactive entertainment** that people love. Plus, we offer hire across **Hampshire, Surrey, Sussex & London**, bringing the fun directly to your venue.

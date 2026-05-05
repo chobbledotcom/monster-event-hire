@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/circusslide.jpg
 title: "Circus Slide"
 meta_title: "Circus Slide"
-description: "Circus Slide Hire in Hampshire &amp; Surrey – inflatable for kids &amp; adults. Perfect for parties, school events &amp; corporate fun!"
+meta_description: "Circus Slide Hire in Hampshire &amp; Surrey – inflatable for kids &amp; adults. Perfect for parties, school events &amp; corporate fun!"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   # Circus Slide Hire – 21ft Inflatable Slide for Parties & Events
   Get ready for high-speed fun with our **Circus Slide Hire**! This vibrant and exciting inflatable is perfect for **birthday parties, school fun days, weddings, corporate events, and festivals**. The faster you descend, the greater the thrill—guaranteeing laughter and excitement for guests of all ages.
   Standing at **18ft high**, this **21ft long inflatable slide** provides a safe but exhilarating experience for children and adults alike. Its circus-themed design adds a colourful, festive touch to any event, making it a standout attraction that keeps everyone entertained.

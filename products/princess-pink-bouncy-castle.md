@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/princess-pink.jpg
 title: "Princess Pink Bouncy Castle 12ft x 14ft"
 meta_title: "Princess Pink Bouncy Castle 12ft x 14ft"
-description: "Make your little prince or princess feel special with a pink princess bouncy castle on their special day."
+meta_description: "Make your little prince or princess feel special with a pink princess bouncy castle on their special day."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Princess Pink Bouncy Castle
   Make your little princess or Prince feel special with their own pink princess bouncy castle for there special day.
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions 12’w X14’d X 11’h

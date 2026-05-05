@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2025/07/Carnival-Game3.jpg
 title: "4 in 1 Carnival Game"
 meta_title: "4 in 1 Carnival Game"
-description: "Classic 4 in 1 Carnival Game, Pin the Tail on the Donkey, Axe Throwing, Ball on Pocket Velcro Balls . A Circus Themed game,"
+meta_description: "Classic 4 in 1 Carnival Game, Pin the Tail on the Donkey, Axe Throwing, Ball on Pocket Velcro Balls . A Circus Themed game,"
 category_name: "Stalls And Carnival Games"
 category_slug: "stalls-and-carnival-games"
-body: |-
+description: |-
   # 4 in 1 Carnival Game
   Step right up to the greatest show on Earth with our Circus Side Stall Game an inflatable extravaganza of fun and skill games under the big top!
   Great Key Features to this 4 in 1 Carnival Game – 4 Side Stall Games: Test your skills with a variety of classic carnival games, including:-

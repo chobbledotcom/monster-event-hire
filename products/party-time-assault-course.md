@@ -12,10 +12,10 @@ galleryImages:
   - /images/uploads/2016/04/partytime3-1.jpg
 title: "56ft Party Time Assault Course"
 meta_title: "56ft Party Time Assault Course - Party Time Assault Course"
-description: "We&#039;re all up for a party! Why not try our new Party Time Assault Course, great for any party, family fun days and school reward days."
+meta_description: "We&#039;re all up for a party! Why not try our new Party Time Assault Course, great for any party, family fun days and school reward days."
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   # Party Time Assault Course Hire (56ft) – Inflatable Obstacle Course for All Ages
   Get the party started with our **Party Time Assault Course Hire** – a huge 56ft inflatable packed with fun, colour, and excitement! Perfect for birthdays, school events, and celebrations, this vibrant **inflatable obstacle course** is designed to keep guests entertained for hours.
   Challenge your friends as you race through the action-packed course. Start in the run section with biff and bash obstacles, dive into the tunnel, tackle the mangles, and finish with an exciting climb up and over the slide!

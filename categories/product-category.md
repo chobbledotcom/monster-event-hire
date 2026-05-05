@@ -6,7 +6,7 @@ redirect_from:
   - /all-products/product-category/
 layout: wp-category.html
 title: 'Monster Event and Party Hire'
-description: 'Monster Event and Party Hire,Hampshire, Surrey, Sussex &amp; London. Assault courses, rodeo bulls, simulators for parties,Events,corporate events.'
+meta_description: 'Monster Event and Party Hire,Hampshire, Surrey, Sussex &amp; London. Assault courses, rodeo bulls, simulators for parties,Events,corporate events.'
 body_class: 'home wp-singular page-template-default page page-id-5 wp-theme-littlemonsters monster-event-and-party-hire'
 schema_type: 'https://schema.org/WebPage'
 og_type: 'website'

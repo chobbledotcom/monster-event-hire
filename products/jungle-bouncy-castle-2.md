@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/jungleaframe.jpg
 title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
 meta_title: "Jungle Bouncy Castle (orange) 12ft X 14ft"
-description: "This fun themed Jungle bouncy castle will bring out all the party animals!"
+meta_description: "This fun themed Jungle bouncy castle will bring out all the party animals!"
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   #### Jungle Bouncy Castle (orange)
   Unleash the party animals with this  themed Jungle bouncy castle.
   This fun themed Jungle bouncy caste will bring out all the party animals!

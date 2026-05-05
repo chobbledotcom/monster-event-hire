@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2016/04/fairground-20ft.jpg
 title: "Fairground bouncy castle 20x20ft"
 meta_title: "Fairground bouncy castle 20x20ft"
-description: "Fairground bouncy castle hire in Hampshire &amp; Surrey. Large 20x20ft inflatable for adults &amp; kids, perfect for parties, weddings &amp; fun days."
+meta_description: "Fairground bouncy castle hire in Hampshire &amp; Surrey. Large 20x20ft inflatable for adults &amp; kids, perfect for parties, weddings &amp; fun days."
 category_name: "Bouncy Castles"
 category_slug: "bouncy-castles"
-body: |-
+description: |-
   # 🎪 Fairground Bouncy Castle Hire (20ft x 20ft) – Hampshire & Surrey
   Bring the excitement and colour of a traditional funfair to your event with our **large Fairground Bouncy Castle (20ft x 20ft)**. This vibrant inflatable is designed to be a real showstopper, creating a lively carnival atmosphere that guests of all ages will enjoy. Whether you’re planning a birthday party, wedding, school fete, or corporate event, this bouncy castle is guaranteed to keep everyone entertained.
   With its **generous 20ft x 20ft size**, this inflatable provides plenty of space for multiple users at once, making it ideal for larger gatherings. Unlike standard children’s inflatables, this unit is **suitable for both adults and children**, so everyone can join in the fun. The bold fairground artwork adds a bright and cheerful look that fits perfectly with themed events and outdoor celebrations.

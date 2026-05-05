@@ -27,11 +27,11 @@ filter_attributes: []
   <style>
   img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }
   </style>
-  <meta name="description" content="{{ description }}">
+  <meta name="description" content="{{ meta_description }}">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="{{ og_type | default: 'article' }}">
   <meta property="og:title" content="{{ og_title | default: title }}">
-  <meta property="og:description" content="{{ og_description | default: description }}">
+  <meta property="og:description" content="{{ og_description | default: meta_description }}">
   <meta property="og:url" content="https://www.monstereventhire.co.uk{{ page.url }}">
   <meta property="og:site_name" content="Monster Event Hire">
   <meta property="article:publisher" content="https://www.facebook.com/monstereventhire/">
@@ -66,7 +66,7 @@ filter_attributes: []
         <h1 itemprop="name" class="product-name title">{{ title }}</h1>
         {%- include "product-gallery.html" -%}
         <div class="grid-6-12 product-desc">
-          <div class="the_content editable-area">{{ body | renderContent: "md" }}
+          <div class="the_content editable-area">{{ description | renderContent: "md" }}
             <ul class="item-data">{%- for d in item_data %}
               <li>{{ d }}</li>{% endfor %}
             </ul>

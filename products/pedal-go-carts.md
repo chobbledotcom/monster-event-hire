@@ -13,10 +13,10 @@ galleryImages:
   - /images/uploads/2017/01/gokarts-peddle-.jpg
 title: "Pedal Go Karts"
 meta_title: "Pedal Go Karts"
-description: "This Giant pedal go kart hire is perfect for any occasion, with adjustable seats, comes with a inflatable track"
+meta_description: "This Giant pedal go kart hire is perfect for any occasion, with adjustable seats, comes with a inflatable track"
 category_name: "Go Kart Quad Bike Hire"
 category_slug: "go-kart-quad-bike-hire"
-body: |-
+description: |-
   ## Pedal Go Karts
   One of our latest and fun attractions available for hire!  Pedal Go Karts! comes with 3 pedal go karts with adjustable seats so everyone can have a go! Not just the kids, It can also be accompanied with an inflatable track.
   ![](/wp-content/themes/littlemonsters/images/size.png) Track size 20 mtrs x 15 mrts   or 66 ft x 50 ft

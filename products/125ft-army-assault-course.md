@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/125ft.jpg
 title: "125ft Army Assault Course"
 meta_title: "125ft Army Assault Course -125ft Army obstacle course hire"
-description: "An even bigger assault course inflatable that will push even the most active users! At 125ft Army assault course inflatable has lots to offer"
+meta_description: "An even bigger assault course inflatable that will push even the most active users! At 125ft Army assault course inflatable has lots to offer"
 category_name: "Assault Courses Hire"
 category_slug: "inflatable-assault-course-and-obstacle-course-hire"
-body: |-
+description: |-
   ## 125ft Army Assault Course
   At 125 ft this 125ft Army assault course inflatable has lots to offer.
   An *even bigger* assault course that will push even the most active users!

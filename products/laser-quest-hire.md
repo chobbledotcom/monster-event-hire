@@ -18,10 +18,10 @@ galleryImages:
   - /images/uploads/2015/10/11755712_1607955422811022_1883091239564409978_n1.jpg
 title: "Laser quest Hire"
 meta_title: "Laser Quest Hire – Monster Event Hire"
-description: "Hire Laser Quest for parties, corporate events, school fun days, and festivals. Safe, staff-operated, and available across Hampshire, Surrey &amp; Sussex."
+meta_description: "Hire Laser Quest for parties, corporate events, school fun days, and festivals. Safe, staff-operated, and available across Hampshire, Surrey &amp; Sussex."
 category_name: "Shooting Archery And Marksmen Hire"
 category_slug: "shooting-archery-and-marksmen-hire"
-body: |-
+description: |-
   # 🔫 Laser Quest Hire – Hampshire, Surrey, Sussex & London
   Bring **fast-paced Laser Quest action** to your event with **Monster Event Hire**! **Whether it’s** a birthday party, school fun day, corporate team-building event, or festival, players use **infrared laser guns** to tag opponents in safe, exciting, and fully supervised games. **Plus**, we cover **Hampshire, Surrey, Sussex, and London**, so wherever your event is, we can bring the ultimate **laser tag experience** directly to your venue.
   ## 🎮 How Laser Quest Works

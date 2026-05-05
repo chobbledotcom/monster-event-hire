@@ -6,15 +6,12 @@ redirect_from:
   - /all-products/football-games/
 layout: wp-category.html
 title: 'Football Games - Football games for hire'
-description: 'Our range of football inflatable games allows your party to pit their skill and footwork against a variety of challenges and team games. Get in touch today!'
+meta_description: 'Our range of football inflatable games allows your party to pit their skill and footwork against a variety of challenges and team games. Get in touch today!'
+description: |-
+  Back of the net! Our range of football inflatable games allow your party goers to pit their skills and footwork against a variety of challenges and team games.
 body_class: 'archive tax-product-category term-football-games term-211 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2015/12/football-games-for-hire.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:8em 0;'
 cat_head_title: 'Football Games'
-cat_head_intro_html: |-
-  <p>Back of the net! Our range of football inflatable games allow your party goers to pit their skills and footwork against a variety of challenges and team games.</p>
-            <p></p>
-cat_body_intro_html: |-
-  <p>Back of the net! Our range of football inflatable games allow your party goers to pit their skills and footwork against a variety of challenges and team games.</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'football-speed-cage'

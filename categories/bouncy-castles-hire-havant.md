@@ -6,28 +6,25 @@ redirect_from:
   - /all-products/bouncy-castles-hire-havant/
 layout: wp-category.html
 title: 'Bouncy castles hire Havant - Bouncy castle hire Havant'
-description: 'Bouncy castle hire in Havant, Hampshire for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire today!'
+meta_description: 'Bouncy castle hire in Havant, Hampshire for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire today!'
+description: |-
+  ## Bouncy Castle Hire Havant
+
+  Welcome to Monster Event Hire!
+
+  Looking for **bouncy castle hire in Havant, Hampshire**? Monster Event Hire is here to make your party or event unforgettable! Whether it’s a **birthday party, christening, family gathering, or garden party**, we have a wide range of **bouncy castles for hire in Havant** to suit all ages.
+
+  Our collection includes **fun designs for younger children** and **larger inflatables for older kids**, so everyone can join in the fun. Feel like a king or queen as you bounce around in the perfect **bouncy castle for your event**!
+
+  All our inflatables are **safe, high-quality, and fully maintained**, and our friendly team handles delivery, setup, and safety checks. With Monster Event Hire, your **Havant bouncy castle hire** is stress-free and ready to go.
+
+  ### Book Your Bouncy Castle Hire in Havant Today
+
+  Browse our range, choose your favourite **bouncy castle**, and **call us or book online today** to get your party started!
 body_class: 'archive tax-product-category term-bouncy-castles-hire-havant term-555 wp-theme-littlemonsters'
 breadcrumb_name: 'Bouncy Castles Hire Havant'
 cat_head_style: 'background:url(/images/uploads/2019/02/BouncyCastles-banner.png) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:15em 0;'
 cat_head_title: 'Bouncy castles hire Havant'
-cat_head_intro_html: |-
-  <h2 data-section-id="tdrrjr" data-start="92" data-end="122">Bouncy Castle Hire Havant</h2>
-            <p data-start="124" data-end="156">Welcome to Monster Event Hire!</p>
-            <p data-start="158" data-end="449">Looking for <strong data-start="170" data-end="213">bouncy castle hire in Havant, Hampshire</strong>? Monster Event Hire is here to make your party or event unforgettable! Whether it’s a <strong data-start="300" data-end="366">birthday party, christening, family gathering, or garden party</strong>, we have a wide range of <strong data-start="392" data-end="429">bouncy castles for hire in Havant</strong> to suit all ages.</p>
-            <p data-start="451" data-end="685">Our collection includes <strong data-start="475" data-end="511">fun designs for younger children</strong> and <strong data-start="516" data-end="553">larger inflatables for older kids</strong>, so everyone can join in the fun. Feel like a king or queen as you bounce around in the perfect <strong data-start="650" data-end="682">bouncy castle for your event</strong>!</p>
-            <p data-start="687" data-end="916">All our inflatables are <strong data-start="711" data-end="755">safe, high-quality, and fully maintained</strong>, and our friendly team handles delivery, setup, and safety checks. With Monster Event Hire, your <strong data-start="853" data-end="882">Havant bouncy castle hire</strong> is stress-free and ready to go.</p>
-            <h3 data-section-id="he8n8s" data-start="918" data-end="968">Book Your Bouncy Castle Hire in Havant Today</h3>
-            <p data-start="969" data-end="1093">Browse our range, choose your favourite <strong data-start="1009" data-end="1026">bouncy castle</strong>, and <strong data-start="1032" data-end="1064">call us or book online today</strong> to get your party started!</p>
-            <p></p>
-cat_body_intro_html: |-
-  <h2 data-section-id="tdrrjr" data-start="92" data-end="122">Bouncy Castle Hire Havant</h2>
-              <p data-start="124" data-end="156">Welcome to Monster Event Hire!</p>
-              <p data-start="158" data-end="449">Looking for <strong data-start="170" data-end="213">bouncy castle hire in Havant, Hampshire</strong>? Monster Event Hire is here to make your party or event unforgettable! Whether it’s a <strong data-start="300" data-end="366">birthday party, christening, family gathering, or garden party</strong>, we have a wide range of <strong data-start="392" data-end="429">bouncy castles for hire in Havant</strong> to suit all ages.</p>
-              <p data-start="451" data-end="685">Our collection includes <strong data-start="475" data-end="511">fun designs for younger children</strong> and <strong data-start="516" data-end="553">larger inflatables for older kids</strong>, so everyone can join in the fun. Feel like a king or queen as you bounce around in the perfect <strong data-start="650" data-end="682">bouncy castle for your event</strong>!</p>
-              <p data-start="687" data-end="916">All our inflatables are <strong data-start="711" data-end="755">safe, high-quality, and fully maintained</strong>, and our friendly team handles delivery, setup, and safety checks. With Monster Event Hire, your <strong data-start="853" data-end="882">Havant bouncy castle hire</strong> is stress-free and ready to go.</p>
-              <h3 data-section-id="he8n8s" data-start="918" data-end="968">Book Your Bouncy Castle Hire in Havant Today</h3>
-              <p data-start="969" data-end="1093">Browse our range, choose your favourite <strong data-start="1009" data-end="1026">bouncy castle</strong>, and <strong data-start="1032" data-end="1064">call us or book online today</strong> to get your party started!</p>
 loop_class: 'bouncy_castle'
 product_slugs: 
   - 'animal-bouncer-bouncy-castle'

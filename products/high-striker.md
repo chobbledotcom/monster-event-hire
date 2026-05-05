@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2015/10/highstriker-large1.jpg
 title: "High Striker"
 meta_title: "High Striker - Monster Party and Event Hire"
-description: "Our High Striker game is the ultimate test of strength - in a party environment at least! Please get in touch today for more information!"
+meta_description: "Our High Striker game is the ultimate test of strength - in a party environment at least! Please get in touch today for more information!"
 category_name: "Stalls And Mini Games"
 category_slug: "stalls-and-mini-games"
-body: |-
+description: |-
   Our High Striker game is the ultimate test of strength – in a party environment at least! Wield the mighty mallet and send it crashing down to measure your vigour.
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-361 wp-theme-littlemonsters productsstalls-and-mini-gameshigh-striker'

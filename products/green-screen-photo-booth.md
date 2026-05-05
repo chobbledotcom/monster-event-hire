@@ -19,10 +19,10 @@ galleryImages:
   - /images/uploads/2015/11/xmas-green-screen.jpg
 title: "Green Screen Photo Booth"
 meta_title: "Green Screen Photo Booth hire"
-description: "Hire our Green Screen Photo Booth for parties, weddings, and corporate events. Unlimited prints, custom backgrounds, props, and USB photos included."
+meta_description: "Hire our Green Screen Photo Booth for parties, weddings, and corporate events. Unlimited prints, custom backgrounds, props, and USB photos included."
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   ## Green Screen Photo Booth Hire
   Bring your event to life with our **Green Screen Photo Booth**! Perfect for **parties, corporate events, weddings, and themed celebrations**, this interactive photo booth lets your guests step into a world of fun and creativity.
   Guests sit against a **green backdrop**, and using **chroma-key technology**, the green screen is replaced with any of **up to seven different backgrounds**: Disco, Beach, Hollywood, Around the World, Underwater, Mystery, and Classic.

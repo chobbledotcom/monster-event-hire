@@ -11,10 +11,10 @@ galleryImages:
   - /images/uploads/2015/11/cover1.jpg
 title: "Skateboard Simulator Hire"
 meta_title: "Skate Board- Monster Event Hire"
-description: "Book our skate board simulator hire in Hampshire &amp; Surrey. Safe, fun full-size skateboard attraction perfect for parties, corporate events."
+meta_description: "Book our skate board simulator hire in Hampshire &amp; Surrey. Safe, fun full-size skateboard attraction perfect for parties, corporate events."
 category_name: "New Additions"
 category_slug: "new-additions"
-body: |-
+description: |-
   # 🛹 **Skate Board Simulator Hire – Safe and Exciting Skateboarding Fun**
   Looking for something that will thrill guests of all ages? Our full-size **skateboard simulator** lets you hit the half-pipe and test your balance, coordination, and skateboarding skills. **With operator control and a safe bouncy landing area,** you can enjoy the excitement of skateboarding without the risk of scraped knees or falls. Perfect for parties, corporate events, youth activities, and summer festivals, this attraction is a guaranteed crowd-pleaser.
   ## **How the Skate Board Simulator Works**

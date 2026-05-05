@@ -9,10 +9,10 @@ galleryImages:
   - /images/uploads/2025/03/whackamole.jpg
 title: "Whack A Mole"
 meta_title: "Interactive Digital Whack A Mole Game"
-description: "Interactive Digital Whack A Mole, A great twist to the Classic Arcade game, great fun for players and spectators."
+meta_description: "Interactive Digital Whack A Mole, A great twist to the Classic Arcade game, great fun for players and spectators."
 category_name: "Electronic Game Hire"
 category_slug: "electronic-game-hire"
-body: |-
+description: |-
   ## Interactive Digital Whack A Mole,
   The Interactive Digital Whack A Mole is a great concept on the classic arcade game whack a mole, you might have played in the past.
   Our system uses light up targets instead of mechanical moles but utilising the classic foam hammers for each player.

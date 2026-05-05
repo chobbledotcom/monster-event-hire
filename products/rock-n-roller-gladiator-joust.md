@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2015/11/rock-n-roller-1.jpg
 title: "rock-n-roller-gladiator-joust-hire-Hampshire-Surrey"
 meta_title: "rock-n-roller-gladiator-joust-hire-Hampshire-Surrey Hire"
-description: "Hire the Rock ‘n’ Roller Gladiator Joust in Hampshire &amp; Surrey. A unique inflatable duel with a rocking base—perfect for parties, events &amp; corporate hire."
+meta_description: "Hire the Rock ‘n’ Roller Gladiator Joust in Hampshire &amp; Surrey. A unique inflatable duel with a rocking base—perfect for parties, events &amp; corporate hire."
 category_name: "Games"
 category_slug: "games"
-body: |-
+description: |-
   # Rock ‘n’ Roller Gladiator Joust Hire in Hampshire & Surrey
   ## The Ultimate Inflatable Gladiator Duel with a Rocking Twist
   Looking for a **unique inflatable hire in Hampshire or Surrey** that guarantees laughs, competition, and excitement? The **Rock ‘n’ Roller Gladiator Joust** takes the classic gladiator duel and upgrades it with a **moving, rocking base** that challenges balance as much as strength.

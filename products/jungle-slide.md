@@ -15,7 +15,7 @@ meta_title: "Jungle Slide"
 og_description: "Glide down our jungle slide and feel its jungliness. Be like Tarzan! Equipment dimensions: 18x18x12"
 category_name: "Mega Slides"
 category_slug: "mega-slides"
-body: |-
+description: |-
   Glide down our jungle slide and feel its jungliness. Be like Tarzan!
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 18x18x12
   ![](/wp-content/themes/littlemonsters/images/size.png)Equipment dimensions: 18x18x12

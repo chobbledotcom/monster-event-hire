@@ -15,10 +15,10 @@ galleryImages:
   - /images/uploads/2015/10/golf-play.jpg
 title: "Crazy Golf"
 meta_title: "Crazy Golf Hire - Monster Event Hire"
-description: "Crazy Golf Hire in Hampshire &amp; Surrey – 9-hole portable golf course for Indoor or outdoor fun for parties, weddings, and corporate events!"
+meta_description: "Crazy Golf Hire in Hampshire &amp; Surrey – 9-hole portable golf course for Indoor or outdoor fun for parties, weddings, and corporate events!"
 category_name: "Sports Competitive Activities"
 category_slug: "sports-competitive"
-body: |-
+description: |-
   # Crazy Golf Hire – 9-Hole Portable Golf Courses for Parties & Events
   Looking for something **fun, social, accessible, and completely different** for your next event? Our **Crazy Golf Hire** is perfect for guests of all ages—anyone can play, and anyone can win! This interactive, portable golf experience is ideal for **weddings, corporate events, school fetes, Scout and Guide events, charity days, company BBQs, festivals, and community gatherings**.
   Our **9-hole portable crazy golf course** brings the excitement of mini-golf directly to your venue without the hassle of traditional setups. Each hole measures approximately **8ft x 2ft**, making it compact enough to fit **indoors or outdoors**, while still providing plenty of fun space. Complete with **putters and balls**, the course is ready for play as soon as it’s installed, giving guests instant access to hours of entertainment.

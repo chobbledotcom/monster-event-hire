@@ -14,10 +14,10 @@ galleryImages:
   - /images/uploads/2014/11/12356942_912977918739518_1103845727905215541_o1.jpg
 title: "Christmas Photo Booth"
 meta_title: "Christmas Photo Booth - Monster Event Hire - Xmas photo booth hire"
-description: "Christmas photo booth Hire is a unique way to capture the spirit of your christmas party, Unlimited photographs for the hire duration!"
+meta_description: "Christmas photo booth Hire is a unique way to capture the spirit of your christmas party, Unlimited photographs for the hire duration!"
 category_name: "Photo Booths"
 category_slug: "photo-booths"
-body: |-
+description: |-
   # Christmas Photo Booth Hire in Hampshire & Surrey 🎄📸
   ## Capture Magical Moments This Festive Season
   Looking to add something unforgettable to your event? Our **Christmas Photo Booth hire in Hampshire & Surrey** is the perfect way to capture the fun, laughter, and festive spirit of your celebration.

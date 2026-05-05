@@ -15,7 +15,7 @@ meta_title: "Didi Car Racers"
 og_description: "Didi Car Racers These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass. A unique, self propelled ride-on the Didi Car Racers are for children of all ages.&hellip;"
 category_name: "Go Kart Quad Bike Hire"
 category_slug: "go-kart-quad-bike-hire"
-body: |-
+description: |-
   ## Didi Car Racers
   These need to run on a smooth hard surface, Didi Car Racers are not suitable for grass.
   A unique, self propelled ride-on the Didi Car Racers are for children of all ages.

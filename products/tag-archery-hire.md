@@ -16,10 +16,10 @@ galleryImages:
   - /images/uploads/2020/01/tag-archery-combat.jpg
 title: "Combat Tag Archery"
 meta_title: "Combat Tag Archery Hire"
-description: "Hire Combat Tag Archery for corporate events, team building, and parties. Safe foam arrows, competitive game play, trained staff, and fully insured."
+meta_description: "Hire Combat Tag Archery for corporate events, team building, and parties. Safe foam arrows, competitive game play, trained staff, and fully insured."
 category_name: "Inflatables Hire"
 category_slug: "inflatables-hire"
-body: |-
+description: |-
   ## Combat Tag Archery Hire – Team Building & Corporate Events
   Bring **adrenaline, fun, and friendly competition** to your next event with **Combat Tag Archery hire**! Also known as **battle archery or tag archery**, this fast-paced game combines elements of **dodgeball, Nerf battles, and paintball** into a **safe, competitive archery experience**. Perfect for **corporate team-building, birthday parties, school activities, and group events**, it’s guaranteed to keep participants engaged and entertained.
   ### How Combat Tag Archery Works
