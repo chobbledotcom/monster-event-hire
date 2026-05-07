@@ -18,13 +18,12 @@ primary_image: '/images/uploads/2015/12/marquee_night.jpg'
 primary_image_width: 690
 primary_image_height: 400
 primary_image_caption: 'Marquees Party Event Wedding Night Hire'
+intro_body: |
+  Guildford is about 43 miles north of the workshop, A3 most of the way. We're across GU1 to GU5 most weekends through the season for school fairs, university events, weddings at country-house venues across the Surrey Hills, and corporate days at the business parks along the A3 corridor.
+
+  Anything in central Guildford or up in the Hills involving sloping or restricted-access sites needs a delivery crew that knows what to look for. We'll always flag up an unsuitable site at the quote stage rather than risk a problem on the day.
+closing_body: |
+  Booking in Guildford or out across Surrey? Ring us on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. Same-day reply, and we can send the paperwork over once we have the venue details.
+
+  ![Guildford](/images/uploads/2019/02/Guildford.png)
 ---
-Guildford is about 43 miles north of the workshop, A3 most of the way. We're across GU1 to GU5 most weekends through the season for school fairs, university events, weddings at country-house venues across the Surrey Hills, and corporate days at the business parks along the A3 corridor.
-
-Anything in central Guildford or up in the Hills involving sloping or restricted-access sites needs a delivery crew that knows what to look for. We'll always flag up an unsuitable site at the quote stage rather than risk a problem on the day.
-
-{%- include "area-related-links.html" -%}
-
-Booking in Guildford or out across Surrey? Ring us on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. Same-day reply, and we can send the paperwork over once we have the venue details.
-
-![Guildford](/images/uploads/2019/02/Guildford.png)

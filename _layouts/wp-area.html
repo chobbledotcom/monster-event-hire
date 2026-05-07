@@ -50,7 +50,9 @@ templateEngineOverride: liquid
             <div class="loc-content">
               <h1 class="page-title title">{{ page_title | default: title }}</h1>
               <div itemprop="text">
-                {{ content }}
+                {{ intro_body | renderContent: "md" }}
+                {%- include "area-related-links.html" -%}
+                {{ closing_body | renderContent: "md" }}
               </div>
             </div>
             <div class="divider"></div>
