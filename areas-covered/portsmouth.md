@@ -17,7 +17,7 @@ og_image: '/images/uploads/2019/02/Portsmouth.png'
 ---
 Portsmouth is about eight miles from the Havant workshop, A27 then A2030, so we're in and out of PO1 to PO6 most weeks through the season. For last-minute Pompey bookings the lead time tends to be short because the van is rarely far away.
 
-Over the years we've been into most of the regular venues - Southsea Common, university sites, school playing fields, the Mountbatten Centre, the dockyard fringe. Our crews tend to know the access quirks of those sites without needing a recce, which saves a bit of fuss on the day.
+Over the years we've been into most of the regular venues - Southsea Common, university sites, school playing fields, the Mountbatten Centre, the dockyard fringe. Our crews tend to know the access quirks of those sites without needing a recce, which saves a bit of fuss on the day. Beyond our own hire work, we also run the annual PIPA safety inspections for other hire firms in the Portsmouth area, so the standards we hold our own kit to are the standards we audit other operators against.
 
 {%- include "area-related-links.html" -%}
 

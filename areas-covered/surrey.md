@@ -23,6 +23,8 @@ Surrey is a regular run for us. Guildford, Farnham, Camberley, Aldershot, Dorkin
 
 Whether the job is a back-garden birthday in Godalming or a multi-attraction corporate fun day in Camberley, the kit and crew that arrive are our own. DBS-checked operators, current PIPA and PAT certification, £10m PLI, documented risk assessments on request.
 
+Surrey is also part of our PIPA inspection territory. We run the annual safety inspections and RPII operator training for other hire firms across the county, which means the standards we apply to our own fleet are the same ones we audit other operators against.
+
 {%- include "area-related-links.html" -%}
 
 If you're booking anywhere in Surrey, call us on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. Same-day reply, and the paperwork is ready to send.

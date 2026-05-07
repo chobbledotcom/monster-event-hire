@@ -17,7 +17,7 @@ og_image: '/images/uploads/2019/02/Fareham.png'
 ---
 Fareham is about eleven miles west of the workshop, twenty minutes along the M27. We're in and out of PO14 to PO17 every week through the season - primary school fairs, community fêtes, weddings around Titchfield and Wickham, and corporate fun days at the business parks around Whiteley and Solent.
 
-Because we're so local, last-minute Fareham bookings are usually doable, including weekday corporate work. The kit and the staff who turn up are our own, not sub-hired through an agency, so the team you book is the team that arrives.
+Because we're so local, last-minute Fareham bookings are usually doable, including weekday corporate work. The kit and the staff who turn up are our own, not sub-hired through an agency, so the team you book is the team that arrives. Past corporate clients in this part of Hampshire have included CooperVision, on a staff family event.
 
 {%- include "area-related-links.html" -%}
 

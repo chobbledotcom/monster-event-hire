@@ -19,6 +19,8 @@ West Sussex is on our doorstep. Chichester is about twelve miles east of the wor
 
 From Goodwood-area events through to the festival circuit on the South Downs, West Sussex venues benefit from a hire firm that takes paperwork seriously. The booking pack covers the things venues, councils and event-licensing teams routinely ask to see.
 
+We also run our PIPA inspections and RPII operator training for other hire firms across West Sussex, which means the standards we apply to our own kit are the standards we audit other operators against.
+
 {%- include "area-related-links.html" -%}
 
 If you're putting on an event in West Sussex, call us on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. Same-day reply, and we can send across the documentation before the day.

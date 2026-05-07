@@ -18,7 +18,7 @@ primary_image_height: 400
 primary_image_caption: 'Marquees Party Event Wedding Night Hire'
 area_testimonial: '2017-07-23-32-tim-smith'
 ---
-We're based in Havant. The workshop is at South Leigh Farm, just off South Leigh Road in PO9, and that's where the kit lives between jobs. If your event is somewhere in PO9, PO10 or PO11, or out along the road to Hayling, we're probably going past your end of town most weeks during the season anyway.
+We're based in Havant. The workshop is at South Leigh Farm, just off South Leigh Road in PO9, and that's where the kit lives between jobs. We've been at this since 2002, originally trading as Little Monsters Event Hire and still based at the same site. If your event is somewhere in PO9, PO10 or PO11, or out along the road to Hayling, we're probably going past your end of town most weeks during the season anyway.
 
 Local jobs over the years have included Havant Family Church, a steady stream of village hall fêtes, primary school summer fairs, scout group fundraisers, weddings, and corporate days at the business sites around Solent and over towards Whiteley. The same site is where we run our annual PIPA inspections for other hire firms in the area, so the standards we hold our own kit to are the standards we audit other operators against.
 

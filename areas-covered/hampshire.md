@@ -22,7 +22,7 @@ area_testimonial: '2017-07-27-28-lucy-soal'
 ---
 Hampshire is the home county. We're based in Havant, with regular delivery runs every weekend from the M27 corridor across to Andover, Basingstoke, Winchester and the Test Valley. From the New Forest fringe to the East Hampshire AONB, and from coastal Portsmouth out to the rural villages, we cover the county year-round.
 
-Hampshire councils, schools, weddings, charities and corporates have used us since 2002. East Hampshire District Council have been on board continuously since their community festival's first year. The same site is also where we run our annual PIPA inspections for other Hampshire hire firms, which means the standards we apply to our own kit are the standards we audit other operators against across the county.
+Hampshire councils, schools, weddings, charities and corporates have used us since 2002. East Hampshire District Council have been on board continuously since their community festival's first year, and Hampshire-area corporate clients have included CooperVision on staff family days. The same site is also where we run our annual PIPA inspections for other Hampshire hire firms, which means the standards we apply to our own kit are the standards we audit other operators against across the county.
 
 {%- include "area-related-links.html" -%}
 
