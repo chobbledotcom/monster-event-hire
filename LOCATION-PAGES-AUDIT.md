@@ -1,3 +1,7 @@
+---
+permalink: false
+---
+
 # Location Pages - Audit & Improvement Plan
 
 A working audit of the 41 location pages under `/areas-covered/`, with concrete recommendations for surfacing the EEAT credentials from `EEAT-CREDENTIALS.md` and breaking the duplicate-content pattern.
@@ -6,14 +10,14 @@ A working audit of the 41 location pages under `/areas-covered/`, with concrete 
 
 ## 1. The headline problem
 
-| Issue | Count | Impact |
-|---|---|---|
-| Pages sharing the identical "stewards of fun" boilerplate (same 4 paragraphs, only place name swapped) | **39 of 41** | Duplicate content. Google deduplicates and only ranks one. The other 38 effectively don't exist for SEO. |
-| Pages with AI-generated rewrites (ChatGPT `data-start`/`data-end` markers + emoji-style structure) | **7** (Berkshire, Dorking, Farnham, Fareham, Gosport, Farnborough, Richmond-upon-Thames) | Templated, machine-detectable, no trust signal. |
-| Pages using the old WordPress h1 + category-list layout | **1** (Enfield) | Out of step with the rest of the site. |
-| The "area testimonial" included on **every** area page is hardcoded to a single quote | All 41 | Same Matt / Head of Boarding testimonial appears on every page. Another duplicate-content signal. (`_includes/area-testimonial.html`) |
-| Pages that mention the Havant base or proximity to the customer | **3 of 41** | Missed trust signal - "we're 18 miles down the A3" beats a generic landing page. |
-| Pages that surface ANY of the EEAT credentials (£10m PLI, PIPA, RPII, DBS, established 2002, anemometer, etc.) | **0 of 41** | The strongest selling points are completely absent from the highest-intent local landing pages. |
+| Issue                                                                                                          | Count                                                                                    | Impact                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Pages sharing the identical "stewards of fun" boilerplate (same 4 paragraphs, only place name swapped)         | **39 of 41**                                                                             | Duplicate content. Google deduplicates and only ranks one. The other 38 effectively don't exist for SEO.                              |
+| Pages with AI-generated rewrites (ChatGPT `data-start`/`data-end` markers + emoji-style structure)             | **7** (Berkshire, Dorking, Farnham, Fareham, Gosport, Farnborough, Richmond-upon-Thames) | Templated, machine-detectable, no trust signal.                                                                                       |
+| Pages using the old WordPress h1 + category-list layout                                                        | **1** (Enfield)                                                                          | Out of step with the rest of the site.                                                                                                |
+| The "area testimonial" included on **every** area page is hardcoded to a single quote                          | All 41                                                                                   | Same Matt / Head of Boarding testimonial appears on every page. Another duplicate-content signal. (`_includes/area-testimonial.html`) |
+| Pages that mention the Havant base or proximity to the customer                                                | **3 of 41**                                                                              | Missed trust signal - "we're 18 miles down the A3" beats a generic landing page.                                                      |
+| Pages that surface ANY of the EEAT credentials (£10m PLI, PIPA, RPII, DBS, established 2002, anemometer, etc.) | **0 of 41**                                                                              | The strongest selling points are completely absent from the highest-intent local landing pages.                                       |
 
 **Net effect:** the area pages are absorbing keyword traffic but converting none of the trust signal that the home page, About page and Health & Safety page contain. They read as auto-generated SEO filler - which they currently are.
 
@@ -29,7 +33,8 @@ Before recommending what to add to each page, it's worth being clear what the `w
 - **Area testimonial** (`area-testimonial.html` - but this is hardcoded; see §6)
 
 So the **body content of each area page** only needs to contribute:
-1. The locally-distinctive intro (the bit that *isn't* shared)
+
+1. The locally-distinctive intro (the bit that _isn't_ shared)
 2. The trust strip
 3. Optional: area-specific testimonials, featured products, related-links list
 
@@ -67,7 +72,7 @@ This text contains **zero local information** and **zero trust signals**. Copyin
 
 ### Pattern B - AI-generated rewrites (7 pages)
 
-Example: `areas-covered/dorking/index.html`. Has H2s like *"Wide Range of Event Entertainment in Dorking"*, *"Your Local Dorking Event Hire Specialists"*, *"Book Your Dorking Event Hire Today"*, an SEO keyword list at the bottom (*"event hire Dorking, party hire Dorking..."*), and ChatGPT export markers (`data-start`, `data-end`).
+Example: `areas-covered/dorking/index.html`. Has H2s like _"Wide Range of Event Entertainment in Dorking"_, _"Your Local Dorking Event Hire Specialists"_, _"Book Your Dorking Event Hire Today"_, an SEO keyword list at the bottom (_"event hire Dorking, party hire Dorking..."_), and ChatGPT export markers (`data-start`, `data-end`).
 
 Reads more naturally than Pattern A but is still entirely generic - swap "Dorking" for any other town and nothing changes. And the `data-start`/`data-end` markers are a giveaway to anyone (including search-engine quality reviewers) that the content was machine-generated.
 
@@ -85,8 +90,8 @@ A target structure for every area page, in body-content order. This is what shou
 
 Pick from any combination of the following, depending on the area:
 
-- **Distance / route from the Havant base** - *"We're based 14 miles from Aldershot, just up the A3 and across the M27"*. Concrete, true, and signals "we actually deliver here", not "we'd love your money".
-- **Local landmarks or venue context** - *"From village halls in Petersfield to corporate sites at Whiteley and Lakeside North Harbour, we deliver across the Havant–Portsmouth corridor most weeks of the year."*
+- **Distance / route from the Havant base** - _"We're based 14 miles from Aldershot, just up the A3 and across the M27"_. Concrete, true, and signals "we actually deliver here", not "we'd love your money".
+- **Local landmarks or venue context** - _"From village halls in Petersfield to corporate sites at Whiteley and Lakeside North Harbour, we deliver across the Havant–Portsmouth corridor most weeks of the year."_
 - **Named local client where one exists** (see §7 for the testimonial → area mapping).
 - **Local event types they actually serve** - school summer fairs, council fun days, scout/guide camps, weddings at named venues, university summer balls.
 
@@ -104,7 +109,7 @@ A short bullet list, identical or near-identical on every page. Pulled directly 
 - Licensed-premises insurance - cleared for pubs, clubs and bars
 - Trusted by councils, charities, government research agencies and corporates
 
-This block can live in a new `_includes/area-trust-strip.html` so it's edited in one place. **Crucially** - when this exists on the page, the duplicate-content risk *decreases* rather than increases, because Google evaluates page-level uniqueness; a consistent trust block alongside genuinely unique local content is fine, whereas the current state (consistent generic block alongside *no* local content) is what gets penalised.
+This block can live in a new `_includes/area-trust-strip.html` so it's edited in one place. **Crucially** - when this exists on the page, the duplicate-content risk _decreases_ rather than increases, because Google evaluates page-level uniqueness; a consistent trust block alongside genuinely unique local content is fine, whereas the current state (consistent generic block alongside _no_ local content) is what gets penalised.
 
 ### 4.3 Area-specific testimonial (where available)
 
@@ -116,7 +121,7 @@ The `area-loc-cats.html` block at the bottom of the layout already provides the 
 
 ### 4.5 Local CTA paragraph (1 sentence - can vary slightly)
 
-E.g. *"Booking an event in Aldershot? Call us on 02392 788 427, or use the enquiry form for a same-day quote."* Keep the phone number consistent; vary the opener.
+E.g. _"Booking an event in Aldershot? Call us on 02392 788 427, or use the enquiry form for a same-day quote."_ Keep the phone number consistent; vary the opener.
 
 ---
 
@@ -159,7 +164,7 @@ Replace the hardcoded `area-testimonial.html` with a per-area lookup (§7) - a s
 
 `_includes/area-testimonial.html` is currently a single fixed block:
 
-> *"Dear Joanne, Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night..."* - Matt, Head of Boarding (SLT)
+> _"Dear Joanne, Please do pass on my thanks and best wishes to the two guys who set up and took down the equipment on Friday night..."_ - Matt, Head of Boarding (SLT)
 
 This appears on every one of the 41 area pages, identically. That's a strong duplicate-content signal and a missed local-relevance opportunity.
 
@@ -171,17 +176,17 @@ This appears on every one of the 41 area pages, identically. That's a strong dup
 
 From the 34 archived testimonials in `reviews/`:
 
-| Testimonial | Area page(s) it should appear on |
-|---|---|
+| Testimonial                                                                | Area page(s) it should appear on                                                                         |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Lucy Soal - East Hampshire District Council** (5+ year council festival) | `petersfield/`, `alton/`, `havant/` (East Hants is the council's territory). Also `hampshire/` umbrella. |
-| **Andrew McGregor - STFC at Cosener's House** (Abingdon, Oxfordshire) | `oxford/`, `oxfordshire/` |
-| **Fran Regan & Karen Esprit - Ealing Playday** | `london/`, `brent/`, `hounslow/`, `harrow/` (Ealing is in/near these) |
-| **Enham - charity rodeo, Southampton shopping centre** | `southampton/` |
-| **Tim Smith - Havant Family Church** | `havant/` |
-| **Lee Alexander - CooperVision** (UK office: Hampshire) | `southampton/` or `fareham/` (CooperVision UK is in Hampshire) - owner to confirm exact location |
-| **Karen - Maynard family birthday (rodeo bull, sumos, human bowling)** | Owner to confirm location, then place |
-| **Tamara and Adrian - wedding (crazy golf)** | Owner to confirm location |
-| **Anne Porter - wedding (marquee)** | Owner to confirm location |
+| **Andrew McGregor - STFC at Cosener's House** (Abingdon, Oxfordshire)      | `oxford/`, `oxfordshire/`                                                                                |
+| **Fran Regan & Karen Esprit - Ealing Playday**                             | `london/`, `brent/`, `hounslow/`, `harrow/` (Ealing is in/near these)                                    |
+| **Enham - charity rodeo, Southampton shopping centre**                     | `southampton/`                                                                                           |
+| **Tim Smith - Havant Family Church**                                       | `havant/`                                                                                                |
+| **Lee Alexander - CooperVision** (UK office: Hampshire)                    | `southampton/` or `fareham/` (CooperVision UK is in Hampshire) - owner to confirm exact location         |
+| **Karen - Maynard family birthday (rodeo bull, sumos, human bowling)**     | Owner to confirm location, then place                                                                    |
+| **Tamara and Adrian - wedding (crazy golf)**                               | Owner to confirm location                                                                                |
+| **Anne Porter - wedding (marquee)**                                        | Owner to confirm location                                                                                |
 
 For testimonials where the review file doesn't record the location, owner clarification would let many of the 34 testimonials be tied to specific area pages.
 

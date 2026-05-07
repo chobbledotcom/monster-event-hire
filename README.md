@@ -1,3 +1,7 @@
+---
+permalink: false
+---
+
 # Chobble Client Site Builder
 
 Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.
@@ -11,6 +15,7 @@ Quick static site generator that combines the [Chobble Template](https://git.cho
 ## What Goes Where
 
 The `.pages.yml` defines all your content types:
+
 - `pages/` - Static pages with navigation
 - `news/` - Blog posts with dates
 - `products/` - Shop items with prices and Etsy links
@@ -25,6 +30,7 @@ The `.pages.yml` defines all your content types:
 ## How It Works
 
 When you push to GitHub:
+
 1. GitHub Actions merges your content with the template
 2. Builds the static site with Eleventy
 3. Deploys to your configured hosting (Neocities by default)
@@ -32,6 +38,7 @@ When you push to GitHub:
 ## Configuration
 
 Set these GitHub secrets for your repo:
+
 - `NEOCITIES_API_KEY` - For deployment
 - `FORMSPARK_ID` - For contact forms (optional)
 - `BOTPOISON_PUBLIC_KEY` - For spam protection (optional)
