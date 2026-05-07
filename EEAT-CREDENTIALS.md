@@ -8,7 +8,7 @@ A working reference for the owner: every reason to trust Monster Event Hire over
 
 ## 1. The 30-second elevator pitch
 
-Monster Event Hire is a **VAT-registered, family-run business established in 2002**, operating from a **commercial unit in Havant, Hampshire**. The owners — Joanne and David Morris — **manufacture 90% of their own inflatables in-house**, employ a **resident RPII inspector**, carry **£10 million Public Liability Insurance** (with additional licensed-premises cover), and back every hire with **PIPA-tagged equipment**, **PAT-tested electrics**, **fully-trained operators** (RPII, first-aid certified), and a **documented anemometer-based wind-safety protocol**. Their entire fleet is their own; nothing is sub-hired.
+Monster Event Hire is a **VAT-registered, family-run business established in 2002**, operating from a **commercial unit in Havant, Hampshire**. The owners — Joanne and David Morris — **manufacture 90% of their own hire fleet in-house**, employ a **resident PIPA-certified inflatable inspector and RPII inspector**, carry **£10 million Public Liability Insurance** (with additional licensed-premises cover), and back every hire with **PIPA-tagged equipment**, **PAT-tested electrics**, **fully-trained operators** (RPII-qualified, first-aid certified, and **enhanced-DBS registered**), and a **documented anemometer-based wind-safety protocol**. Their entire fleet is their own; nothing is sub-hired.
 
 That is a categorically different proposition from a single-castle back-garden operator working out of a domestic garage.
 
@@ -30,25 +30,27 @@ That is a categorically different proposition from a single-castle back-garden o
 
 ---
 
-## 3. EXPERTISE — they don't just hire equipment, they build, inspect and train
+## 3. EXPERTISE — they don't just hire equipment; they build it, inspect it, and train other hire companies in HSE inflatable-hire guidelines
 
 ### 3.1 In-house manufacturing
 
-- **90% of the inflatable fleet is manufactured in-house** (`about-us/index.html:52` — *"We now manufacture 90% of our inflatables and have our own RPII inspector on-site."*).
+- **90% of the hire fleet is manufactured in-house** (`about-us/index.html:52` — *"We now manufacture 90% of our inflatables and have our own RPII inspector on-site."* — owner has since confirmed the in-house inspector is also a **PIPA-certified inflatable inspector**; the public About page wording should be updated to reflect this — see §10).
 - That means they understand the seams, anchor points, blower specs and failure modes of their kit at a level no reseller can match — and they can repair on-site rather than waiting for a manufacturer.
 
 ### 3.2 Resident technical authority
 
-- **An RPII inspector is on staff**, not contracted in once a year (`about-us/index.html:52`). RPII = Register of Play Inspectors International; the people who certify the people who certify play equipment.
+- **A PIPA-certified inflatable inspector AND an RPII inspector are on staff**, not contracted in once a year (`about-us/index.html:52`; owner-confirmed for the PIPA certification). RPII = Register of Play Inspectors International; the people who certify the people who certify play equipment.
 - All inflatables tested **annually by an RPII inspector** with **PIPA tagging** for full national-database traceability (`health-safety/index.html:59`, `:69`).
+- **Monster Event Hire is part of the wider PIPA training and oversight ecosystem** (owner-confirmed): they oversee registered PIPA inspectors and their training, train other hire companies' staff in HSE inflatable-hire guidelines, and supply safety advice to the wider industry. They are not just compliant — they help shape compliance for their peers.
 
 ### 3.3 Trained operators — every member of staff
 
-From `health-safety/index.html:84-86`:
+From `health-safety/index.html:84-86` and owner additions:
 
 - All staff have passed the **RPII operators and supervisors examinations**.
 - Training covers: manual handling, safe outdoor and indoor inflatable setup, **wind-speed monitoring**, anchorage requirements, impact areas, routine inspections, and supervisory duties.
 - Plus **first-aid trained** in basic life support, choking, anaphylaxis and haemorrhage (`health-safety/index.html:119`).
+- **Every employee holds an enhanced DBS check** (owner-confirmed) — a serious differentiator for any booking involving children, schools, councils, faith communities or vulnerable adults. A typical back-garden operator using casual labour cannot match this.
 
 ### 3.4 Standards adherence
 
@@ -89,7 +91,7 @@ Dedicated landing pages for **41 distinct geographic areas** across Hampshire, S
 
 ### 4.4 Range and scale
 
-- **133+ products** in the catalogue (`products/` directory)
+- **200+ hire items in active inventory** (owner-confirmed); 133+ dedicated product pages on the website (`products/` directory)
 - **60+ category landing pages** (`categories/` directory)
 - Categories span: bouncy castles, inflatable slides, assault courses, rodeo rides, archery, laser games, electronic games, bungee runs, climbing walls, water activities, Halloween entertainment, Christmas entertainment, dance machines, marquees, photo booths, giant garden games
 
@@ -152,6 +154,8 @@ A back-garden operator may have three or four castles. Monster has the breadth t
 | Wind-safety protocol | Anemometer + documented 24mph procedure issued at handover | Verbal "keep an eye on the wind" if anything |
 | Operator training | RPII operator+supervisor exams, first aid | Untrained owner / family member |
 | Staff first-aid training | Basic life support, choking, anaphylaxis, haemorrhage | None |
+| Enhanced DBS checks on every staff member | Yes — all employees | Almost never; casual labour with no vetting |
+| Trains *other* hire companies in HSE inflatable-hire guidelines | Yes — part of the PIPA training/oversight ecosystem | No |
 | Code of conduct | Strictly enforced, written | Informal |
 | Equipment ownership | 100% owned, no sub-hire | Often the same castle being moved between operators |
 | Written contract | Comprehensive multi-page T&Cs | Verbal / WhatsApp |
@@ -184,11 +188,14 @@ A consolidated trust strip drawn entirely from the verified material above:
 - **Established 2002** — family-run since day one
 - **£10 million Public Liability Insurance** — certificate on request
 - **PIPA tagged & RPII certified** — HSE-recognised inspection scheme
-- **In-house RPII inspector** — we don't outsource our safety
+- **In-house PIPA-certified inflatable inspector and RPII inspector** — we don't outsource our safety
+- **We train other hire companies** in HSE inflatable-hire guidelines
 - **90% of our fleet is built in our own workshop**
+- **200+ hire items** across 60+ categories
 - **BS EN 14960:2019 compliant** across every inflatable
 - **Anemometer & wind-safety protocol** issued with every hire
 - **First-aid trained operators** — RPII operator and supervisor exams
+- **Every employee enhanced-DBS registered**
 - **Licensed-premises insurance** — cleared to work at pubs, clubs and bars
 - **VAT registered** — Unit 9 South Leigh Farm, Havant, PO9 2NX
 - **Trusted by councils, charities, government research agencies and corporates**
@@ -203,3 +210,17 @@ While compiling this brief, the following pages were identified as containing AI
 - The `inflatable-testing-and-pipa-inspections/` page is AI-rewritten in the same style. The underlying *facts* (in-house RPII inspector, PIPA accreditation, Havant base) are corroborated by the human-written About and Health & Safety pages and are safe to cite from those — but the AI page's specific embellishments (e.g. claimed venue types) should be re-verified by Joanne or David before being repeated.
 
 For Google EEAT specifically, the AI-stamped pages are a liability — they read as templated and detectable as machine-generated. Rewriting product copy in the owner's voice (with the same idiosyncratic capitalisation, occasional typos, and operational specifics that make the About / H&S / T&Cs pages so credible) would materially improve the site's trust signal.
+
+---
+
+## 10. Public-page wording updates required
+
+A few of the strongest EEAT claims above are **owner-confirmed but not yet stated on any live page**. Until they appear on the public site, Google can't read them and customers can't see them. The following short edits would surface these signals:
+
+- **`about-us/index.html:52`** — change *"We now manufacture 90% of our inflatables and have our own RPII inspector on-site."* to something like *"We now manufacture 90% of our hire fleet and have our own PIPA-certified inflatable inspector and RPII inspector on-site."*
+- **About page** — add a sentence: *"All of our employees are enhanced DBS registered."* (a strong children-and-vulnerable-adults trust signal that should not be buried).
+- **About / Health & Safety page** — add a paragraph stating that Monster Event Hire trains other hire companies' staff in HSE inflatable-hire guidelines and oversees registered PIPA inspectors. This converts an internal credential into public authority signal.
+- **About / homepage trust strip** — surface the *"200+ hire items"* number; "133 product pages" understates the inventory.
+- **Health & Safety page** — note "PIPA-certified inflatable inspector" alongside the existing RPII reference, since they're separate certifications.
+
+Once these are on the public pages, the citations in this brief can be tightened (the "owner-confirmed" notes can be replaced with direct page citations).
