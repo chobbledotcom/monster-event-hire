@@ -43,6 +43,28 @@ chobble-client/
 
 ---
 
+## Content Voice
+
+When writing or revising customer-facing copy on this site, follow `VOICE.md`. The voice is south-coast Hampshire trade: dry, plain-spoken, sceptical of marketing-speak. We use "we" throughout (Joanne and David are co-owners). VOICE.md is the source of truth, including its source corpus, no-go list and process; check it before generating new copy.
+
+Hard rules from VOICE.md that apply universally and must not be broken:
+
+- **No em-dashes anywhere.** Use spaced hyphens ( - ) for asides, or commas and full stops where the em-dash was doing rhetorical work. Em-dashes are one of the strongest tells of generated copy and have been normalised out of the codebase.
+- **No sentence fragments as cinematic closers.** "The kit." / "Same-day quotes." / "Renegade Solar followed." Every sentence needs a subject and a verb.
+- **No rule-of-three lists with a comic or undercutting third item.** It's a copywriter's tic.
+- **No "and yes, it works..." handle-the-objection moves.**
+- **No phonetic accent spelling, mockney, or imported northern markers** ("our kid", "champion", "ay up", "owt", "nowt").
+- **No reaching for Cockney, RP, or yacht-club voice.** See VOICE.md no-go list.
+
+Where the voice does NOT apply: legal text, T&Cs, accreditation pages, technical specs, contact-form labels, insurance/risk-assessment paperwork. These should stay factual and unflavoured.
+
+Two reference documents sit alongside VOICE.md and should inform any new copy:
+
+- `EEAT-CREDENTIALS.md`: every verifiable trust signal (insurance, certifications, named clients, etc.) sourced from human-written content with `file:line` citations.
+- `LOCATION-PAGES-AUDIT.md`: the audit and rewrite plan for the 41 area pages, including the testimonial-to-area mapping.
+
+---
+
 ## Functional Programming Style
 
 This codebase uses a functional programming approach with curried, composable functions. **This is ideal for a static site generator**, which is fundamentally a series of transforms with no mutable state:
