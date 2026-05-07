@@ -19,13 +19,12 @@ primary_image_width: 690
 primary_image_height: 400
 primary_image_caption: 'Marquees Party Event Wedding Night Hire'
 area_testimonial: '2017-08-15-09-enham'
+intro_body: |
+  Southampton sits about 22 miles west of the Havant workshop, M27 most of the way. We're in and out of SO14 to SO19 most weekends through the season for Common events, university sites, school summer fairs, weddings on the New Forest fringe, and corporate days at the business parks.
+
+  One of the more public-facing jobs we've done in the city centre was a charity rodeo for Enham, in the main shopping area. That kind of high-footfall, public-liability-sensitive booking is the sort that benefits from kit and paperwork that everyone involved can actually see and verify.
+closing_body: |
+  Booking something in Southampton? Give us a call on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. We come back to you the same day, with the insurance certificate, risk assessment and PIPA paperwork available if your venue needs to see them.
+
+  ![Southampton](/images/uploads/2019/02/Southampton.png)
 ---
-Southampton sits about 22 miles west of the Havant workshop, M27 most of the way. We're in and out of SO14 to SO19 most weekends through the season for Common events, university sites, school summer fairs, weddings on the New Forest fringe, and corporate days at the business parks.
-
-One of the more public-facing jobs we've done in the city centre was a charity rodeo for Enham, in the main shopping area. That kind of high-footfall, public-liability-sensitive booking is the sort that benefits from kit and paperwork that everyone involved can actually see and verify.
-
-{%- include "area-related-links.html" -%}
-
-Booking something in Southampton? Give us a call on <span class="orange InfinityNumber15214">02392 788 427</span> or <a class="enquiry-button" href="/contact-us/">use the enquiry form</a>. We come back to you the same day, with the insurance certificate, risk assessment and PIPA paperwork available if your venue needs to see them.
-
-![Southampton](/images/uploads/2019/02/Southampton.png)

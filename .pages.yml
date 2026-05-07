@@ -152,7 +152,44 @@ content:
       - { name: permalink, type: string, label: Permalink, hidden: true }
       - { name: layout, type: string, label: Layout, hidden: true }
       - { name: body_class, type: string, label: Body Class, hidden: true }
-        
+
+  - name: areas-covered
+    label: Areas Covered
+    path: areas-covered
+    type: collection
+    subfolders: false
+    exclude: ["index.html"]
+    filename: "{primary}.md"
+    view:
+      fields: [title, page_title]
+      primary: title
+      sort: [title]
+    fields:
+      - { name: title, type: string, label: Area Name }
+      - { name: page_title, type: string, label: Page Heading }
+      - { name: meta_title, type: string, label: SEO Title }
+      - { name: description, type: string, label: SEO Description }
+      - { name: intro_body, label: Intro (above related links), type: rich-text, options: { format: markdown } }
+      - { name: closing_body, label: Closing (below related links), type: rich-text, options: { format: markdown } }
+      - { name: area_testimonial, type: string, label: Testimonial Slug }
+      - { name: primary_image, type: image, label: Primary Image }
+      - { name: primary_image_width, type: number, label: Primary Image Width }
+      - { name: primary_image_height, type: number, label: Primary Image Height }
+      - { name: primary_image_caption, type: string, label: Primary Image Caption }
+      - name: redirect_from
+        label: Redirect From (legacy URLs)
+        type: string
+        list: true
+      - { name: og_type, type: string, label: 'OG Type' }
+      - { name: og_title, type: string, label: 'OG Title' }
+      - { name: og_description, type: string, label: 'OG Description' }
+      - { name: og_image, type: image, label: 'OG Image' }
+      - { name: breadcrumb_name, type: string, label: 'Breadcrumb Label (override)' }
+      - { name: tags, type: string, label: Tags, hidden: true }
+      - { name: permalink, type: string, label: Permalink, hidden: true }
+      - { name: layout, type: string, label: Layout, hidden: true }
+      - { name: body_class, type: string, label: Body Class, hidden: true }
+
   - name: reviews
     label: Reviews
     path: reviews
