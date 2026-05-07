@@ -19,7 +19,7 @@ That is a categorically different proposition from a single-castle back-garden o
 | Fact | Evidence |
 |---|---|
 | **Established 2002** by Joanne and David Morris | `about-us/index.html:51` — *"Monster Event Hire has been established since 2002 by Joanne and David Morris."* |
-| **24 years in continuous operation** (as of 2026) | Derived from 2002 founding date |
+| **24 years in continuous operation** (as of 2026) | Derived from 2002 founding date — originally trading as **Little Monsters Event Hire**, now **Monster Event Hire**, but the same family-run business throughout (the legal trading name "Little Monsters Event Hire" persists in the contract terms — `terms-conditions/index.html:60`). |
 | **Family-run husband-and-wife business** with full-time, in-house staff | `about-us/index.html:51-53` — *"all our equipment is our own, with our own full-time and in-house staff"* |
 | **Multi-year repeat client relationships** — at least one council festival served continuously for 5+ years | `reviews/2017-07-27-28-lucy-soal.md:8` — *"We have worked with Monster for five years now, from the very first year of our event."* |
 | **34 archived written customer testimonials** spanning weddings, birthdays, councils, charities, churches, schools, corporate clients and government research bodies | `reviews/` directory (34 files) |
@@ -217,7 +217,7 @@ For Google EEAT specifically, the AI-stamped pages are a liability — they read
 
 A few of the strongest EEAT claims above are **owner-confirmed but not yet stated on any live page**. Until they appear on the public site, Google can't read them and customers can't see them. The following short edits would surface these signals:
 
-- **`about-us/index.html:52` — factual error to correct.** The current sentence reads *"We now manufacture 90% of our inflatables and have our own RPII inspector on-site."* — but Monster Event Hire is **not a manufacturer**. The line should be rewritten to remove the manufacturing claim and add the PIPA certification, e.g.: *"We have our own PIPA-certified inflatable inspector and RPII inspector on-site."* If a fleet-ownership figure is wanted, pair with line 53's *"all our equipment is our own"* rather than re-using the 90% number.
+- ~~**`about-us/index.html:52` — factual error to correct.**~~ ✅ **Done in this branch.** The original sentence ("We now manufacture 90% of our inflatables and have our own RPII inspector on-site") was incorrect: Monster Event Hire is not a manufacturer (the 90% figure applied only to new equipment, not the whole fleet). It now reads: *"We have our own PIPA-certified inflatable inspector and RPII inspector on-site, and every member of our team is enhanced-DBS registered."*
 - **About page** — add a sentence: *"All of our employees are enhanced DBS registered."* (a strong children-and-vulnerable-adults trust signal that should not be buried).
 - **About / Health & Safety page** — add a paragraph stating that Monster Event Hire trains other hire companies' staff in HSE inflatable-hire guidelines and oversees registered PIPA inspectors. This converts an internal credential into public authority signal.
 - **About / homepage trust strip** — surface the *"200+ hire items"* number; "133 product pages" understates the inventory.
