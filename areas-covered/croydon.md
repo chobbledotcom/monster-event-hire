@@ -1,4 +1,5 @@
 ---
+name: "Croydon"
 permalink: '/areas-covered/croydon/'
 title: Croydon
 tags: area

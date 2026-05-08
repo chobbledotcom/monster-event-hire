@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Pig Hire"
 permalink: /products/rodeo-pig/
 redirect_from:
   - /products/rodeo-rides/rodeo-pig/

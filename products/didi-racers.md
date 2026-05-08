@@ -1,4 +1,5 @@
 ---
+name: "Didi Car Racers"
 permalink: /products/didi-racers/
 redirect_from:
   - /products/go-kart-quad-bike-hire/didi-racers/

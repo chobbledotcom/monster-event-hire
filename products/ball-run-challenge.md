@@ -1,4 +1,5 @@
 ---
+name: "Ball Run Challenge"
 permalink: /products/ball-run-challenge/
 redirect_from:
   - /products/inflatables-hire/ball-run-challenge/

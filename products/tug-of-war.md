@@ -1,4 +1,5 @@
 ---
+name: "Tug of War"
 permalink: /products/tug-of-war/
 redirect_from:
   - /products/stalls-and-mini-games/tug-of-war/

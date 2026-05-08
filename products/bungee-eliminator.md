@@ -1,4 +1,5 @@
 ---
+name: "Bungee Eliminator"
 permalink: /products/bungee-eliminator/
 redirect_from:
   - /products/bungee/bungee-eliminator/

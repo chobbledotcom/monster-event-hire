@@ -1,4 +1,5 @@
 ---
+name: "Jungle Event Slide"
 permalink: /products/jungle-event-slide/
 redirect_from:
   - /allproducts/mega-slides/jungle-event-slide/

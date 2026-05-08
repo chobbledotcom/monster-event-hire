@@ -1,4 +1,5 @@
 ---
+name: "Dance machine Hire"
 permalink: /products/dance-machine/
 redirect_from:
   - /products/electronic-game-hire/dance-machine/

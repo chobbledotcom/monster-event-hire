@@ -1,4 +1,5 @@
 ---
+name: "Western Bouncy Castle 15ft x 16ft"
 permalink: /products/western-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/western-bouncy-castle/

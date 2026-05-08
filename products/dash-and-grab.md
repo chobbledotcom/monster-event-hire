@@ -1,4 +1,5 @@
 ---
+name: "Dash-n-grab-hire-Hampshire-Surrey"
 permalink: /products/dash-and-grab/
 redirect_from:
   - /products/inflatables-hire/dash-and-grab/

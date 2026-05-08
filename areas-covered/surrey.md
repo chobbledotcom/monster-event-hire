@@ -1,4 +1,5 @@
 ---
+name: "Surrey"
 permalink: '/areas-covered/surrey/'
 title: Surrey
 tags: area

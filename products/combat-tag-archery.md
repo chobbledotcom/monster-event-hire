@@ -1,4 +1,5 @@
 ---
+name: "Combat Tag Archery"
 permalink: /products/combat-tag-archery/
 redirect_from:
   - /allproducts/inflatables-hire/combat-tag-archery/

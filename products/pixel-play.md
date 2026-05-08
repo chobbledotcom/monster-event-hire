@@ -1,4 +1,5 @@
 ---
+name: "Pixel Play"
 permalink: /products/pixel-play/
 redirect_from:
   - /allproducts/electronic-game-hire/pixel-play/

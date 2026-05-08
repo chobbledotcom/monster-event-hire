@@ -1,4 +1,5 @@
 ---
+name: "Alton"
 permalink: '/areas-covered/alton/'
 title: Alton
 tags: area

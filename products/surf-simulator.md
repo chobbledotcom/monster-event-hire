@@ -1,4 +1,5 @@
 ---
+name: "Surf Simulator hire"
 permalink: /products/surf-simulator/
 redirect_from:
   - /products/simulator-hire/surf-simulator/

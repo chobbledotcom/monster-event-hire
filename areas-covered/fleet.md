@@ -1,4 +1,5 @@
 ---
+name: "Fleet"
 permalink: '/areas-covered/fleet/'
 title: Fleet
 tags: area

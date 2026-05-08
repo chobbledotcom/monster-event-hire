@@ -1,4 +1,5 @@
 ---
+name: "Army Slide"
 permalink: /products/army-slide/
 redirect_from:
   - /products/mega-slides/army-slide/

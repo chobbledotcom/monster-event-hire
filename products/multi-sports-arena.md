@@ -1,4 +1,5 @@
 ---
+name: "Multi Sports Arena"
 permalink: /products/multi-sports-arena/
 redirect_from:
   - /products/games/multi-sports-arena/

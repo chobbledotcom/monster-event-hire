@@ -1,4 +1,5 @@
 ---
+name: "Football Speed Cage"
 permalink: /products/football-speed-cage/
 redirect_from:
   - /products/sports-competitive-activities/football-speed-cage/

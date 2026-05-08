@@ -1,4 +1,5 @@
 ---
+name: "Hampshire"
 permalink: '/areas-covered/hampshire/'
 title: Hampshire
 tags: area

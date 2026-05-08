@@ -1,4 +1,5 @@
 ---
+name: "50ft Fun fair assault course"
 permalink: /products/fun-fair-assault-course/
 redirect_from:
   - /products/assault-courses-hire/fun-fair-assault-course/

@@ -1,4 +1,5 @@
 ---
+name: "Christmas Photo Booth"
 permalink: /products/christmas-photo-booth/
 redirect_from:
   - /products/photo-booths/christmas-photo-booth/

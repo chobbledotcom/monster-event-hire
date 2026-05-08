@@ -1,4 +1,5 @@
 ---
+name: "Zorbing hire"
 permalink: /products/zorbing/
 redirect_from:
   - /products/games/zorbing/

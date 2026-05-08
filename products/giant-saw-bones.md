@@ -1,4 +1,5 @@
 ---
+name: "Giant-operation-game-hire-Hampshire-Surrey"
 permalink: /products/giant-saw-bones/
 redirect_from:
   - /products/electronic-game-hire/giant-saw-bones/

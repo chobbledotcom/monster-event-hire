@@ -1,4 +1,5 @@
 ---
+name: "Romsey"
 permalink: '/areas-covered/romsey/'
 title: Romsey
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Search"
 title: Search
 layout: monster-event-search.html
 permalink: /search/

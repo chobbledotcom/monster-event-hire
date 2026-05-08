@@ -1,4 +1,5 @@
 ---
+name: "Skateboard Simulator Hire"
 permalink: /products/skateboard-simulator/
 redirect_from:
   - /products/new-additions/skateboard-simulator/

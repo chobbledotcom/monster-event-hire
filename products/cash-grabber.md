@@ -1,4 +1,5 @@
 ---
+name: "Cash Grabber"
 permalink: /products/cash-grabber/
 redirect_from:
   - /electronic-games/cash-grabber/

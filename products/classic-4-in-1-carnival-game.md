@@ -1,4 +1,5 @@
 ---
+name: "4 in 1 Carnival Game"
 permalink: /products/classic-4-in-1-carnival-game/
 redirect_from:
   - /allproducts/stalls-and-carnival-games/classic-4-in-1-carnival-game/

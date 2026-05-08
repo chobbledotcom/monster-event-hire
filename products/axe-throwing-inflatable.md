@@ -1,4 +1,5 @@
 ---
+name: "Axe Throwing"
 permalink: /products/axe-throwing-inflatable/
 redirect_from:
   - /allproducts/games/axe-throwing-inflatable/

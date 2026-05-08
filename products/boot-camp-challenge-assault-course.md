@@ -1,4 +1,5 @@
 ---
+name: "Boot Camp Challenge"
 permalink: /products/boot-camp-challenge-assault-course/
 redirect_from:
   - /allproducts/inflatable-assault-course-and-obstacle-course-hire/boot-camp-challenge-assault-course/

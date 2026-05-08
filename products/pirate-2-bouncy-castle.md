@@ -1,4 +1,5 @@
 ---
+name: "Pirate 2 Bouncy Castle 12ft x 14ft"
 permalink: /products/pirate-2-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/pirate-2-bouncy-castle/

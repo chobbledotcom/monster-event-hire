@@ -1,4 +1,5 @@
 ---
+name: "Winchester"
 permalink: '/areas-covered/winchester/'
 title: Winchester
 tags: area

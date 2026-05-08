@@ -1,4 +1,5 @@
 ---
+name: "Fairground Bouncy Castle 15ft x 16ft"
 permalink: /products/fairground-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/fairground-bouncy-castle/

@@ -1,4 +1,5 @@
 ---
+name: "Sumo Suit Hire"
 permalink: /products/sumo-suit-hire/
 redirect_from:
   - /products/giant-game-hire/sumo-suit-hire/

@@ -1,4 +1,5 @@
 ---
+name: "Guildford"
 permalink: '/areas-covered/guildford/'
 title: Guildford
 tags: area

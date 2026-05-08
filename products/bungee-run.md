@@ -1,4 +1,5 @@
 ---
+name: "bungee run inflatable hire"
 permalink: /products/bungee-run/
 redirect_from:
   - /products/bungee/bungee-run/

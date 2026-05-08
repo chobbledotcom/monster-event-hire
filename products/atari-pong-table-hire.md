@@ -1,4 +1,5 @@
 ---
+name: "Atari Pong Table"
 permalink: /products/atari-pong-table-hire/
 redirect_from:
   - /allproducts/christmas/atari-pong-table-hire/

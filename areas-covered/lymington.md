@@ -1,4 +1,5 @@
 ---
+name: "Lymington"
 permalink: '/areas-covered/lymington/'
 title: Lymington
 tags: area

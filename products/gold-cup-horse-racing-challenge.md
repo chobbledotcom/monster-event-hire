@@ -1,4 +1,5 @@
 ---
+name: "Gold Cup horse racing challenge"
 permalink: /products/gold-cup-horse-racing-challenge/
 redirect_from:
   - /allproducts/electronic-game-hire/gold-cup-horse-racing-challenge/

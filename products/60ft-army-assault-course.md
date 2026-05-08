@@ -1,4 +1,5 @@
 ---
+name: "60ft Army Assault Course"
 permalink: /products/60ft-army-assault-course/
 redirect_from:
   - /products/assault-courses-hire/60ft-army-assault-course/

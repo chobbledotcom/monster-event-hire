@@ -1,4 +1,5 @@
 ---
+name: "Wibble Wobble Soldiers"
 permalink: /products/wibble-wobble-soldiers/
 redirect_from:
   - /products/inflatables-hire/wibble-wobble-soldiers/

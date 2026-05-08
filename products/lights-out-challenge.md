@@ -1,4 +1,5 @@
 ---
+name: "Lights Out Challenge"
 permalink: /products/lights-out-challenge/
 redirect_from:
   - /products/electronic-game-hire/lights-out-challenge/

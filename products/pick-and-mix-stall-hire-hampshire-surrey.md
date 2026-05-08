@@ -1,4 +1,5 @@
 ---
+name: "Pick and Mix Stall Hire in Hampshire &#038; Surrey"
 permalink: /products/pick-and-mix-stall-hire-hampshire-surrey/
 redirect_from:
   - /allproducts/stalls-and-carnival-games/pick-and-mix-stall-hire-hampshire-surrey/

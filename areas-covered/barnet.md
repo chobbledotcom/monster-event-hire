@@ -1,4 +1,5 @@
 ---
+name: ""
 permalink: '/areas-covered/barnet/'
 redirect_from:
   - /areas-covered/barnet/event-and-party-hire-barnet/

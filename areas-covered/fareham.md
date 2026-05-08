@@ -1,4 +1,5 @@
 ---
+name: "Fareham"
 permalink: '/areas-covered/fareham/'
 title: Fareham
 tags: area

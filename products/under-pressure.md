@@ -1,4 +1,5 @@
 ---
+name: "Under Pressure / Light Chaser"
 permalink: /products/under-pressure/
 redirect_from:
   - /products/electronic-game-hire/under-pressure/

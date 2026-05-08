@@ -1,4 +1,5 @@
 ---
+name: "Pit Stop Challenge"
 permalink: /products/pit-stop-challenge/
 redirect_from:
   - /products/sports-competitive-activities/pit-stop-challenge/

@@ -1,4 +1,5 @@
 ---
+name: "Havant"
 permalink: '/areas-covered/havant/'
 title: Havant
 tags: area

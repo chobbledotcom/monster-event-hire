@@ -1,4 +1,5 @@
 ---
+name: "Soft Play Area"
 permalink: /products/soft-play-area/
 redirect_from:
   - /products/stalls-and-mini-games/soft-play-area/

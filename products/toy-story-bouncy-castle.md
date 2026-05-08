@@ -1,4 +1,5 @@
 ---
+name: "Toy Story Bouncy Castle"
 permalink: /products/toy-story-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/toy-story-bouncy-castle/

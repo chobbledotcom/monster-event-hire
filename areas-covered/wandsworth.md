@@ -1,4 +1,5 @@
 ---
+name: "Wandsworth"
 permalink: '/areas-covered/wandsworth/'
 title: Wandsworth
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Tweenies Box Bouncy Castle"
 permalink: /products/tweenies-box-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/tweenies-box-bouncy-castle/

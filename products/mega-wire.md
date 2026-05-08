@@ -1,4 +1,5 @@
 ---
+name: "Mega Wire Hire"
 permalink: /products/mega-wire/
 redirect_from:
   - /allproducts/christmas-party-entertainment/mega-wire/

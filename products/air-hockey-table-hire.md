@@ -1,4 +1,5 @@
 ---
+name: "Air hockey table hire"
 permalink: /products/air-hockey-table-hire/
 redirect_from:
   - /allproducts/christmas-party-entertainment/air-hockey-table-hire/

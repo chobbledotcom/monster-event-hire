@@ -1,4 +1,5 @@
 ---
+name: "The Last Man Standing, Sweeper (Total Wipeout)"
 permalink: /products/the-sweeper/
 redirect_from:
   - /products/games/the-sweeper/

@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Reindeer Hire"
 permalink: /products/rodeo-reindeer/
 redirect_from:
   - /products/rodeo-rides/rodeo-reindeer/

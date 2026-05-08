@@ -1,4 +1,5 @@
 ---
+name: "Big Red Assault Course"
 permalink: /products/big-red-assault-course/
 redirect_from:
   - /allproducts/courses/big-red-assault-course/

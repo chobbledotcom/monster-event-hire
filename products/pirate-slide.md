@@ -1,4 +1,5 @@
 ---
+name: "Pirate Slide"
 permalink: /products/pirate-slide/
 redirect_from:
   - /products/mega-slides/pirate-slide/

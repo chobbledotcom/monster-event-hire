@@ -1,4 +1,5 @@
 ---
+name: "Digital Wheel of Fortune"
 permalink: /products/digital-prize-wheel/
 redirect_from:
   - /allproducts/electronic-game-hire/digital-prize-wheel/

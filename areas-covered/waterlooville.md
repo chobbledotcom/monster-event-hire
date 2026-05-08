@@ -1,4 +1,5 @@
 ---
+name: "Waterlooville"
 permalink: '/areas-covered/waterlooville/'
 title: Waterlooville
 tags: area

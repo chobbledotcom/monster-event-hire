@@ -1,4 +1,5 @@
 ---
+name: "Enfield"
 permalink: '/areas-covered/enfield/'
 title: Enfield
 tags: area

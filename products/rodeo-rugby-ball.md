@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Rugby Ball"
 permalink: /products/rodeo-rugby-ball/
 redirect_from:
   - /products/rodeo-rides/rodeo-rugby-ball/

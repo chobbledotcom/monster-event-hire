@@ -1,4 +1,5 @@
 ---
+name: "Dorking"
 permalink: '/areas-covered/dorking/'
 title: Dorking
 tags: area

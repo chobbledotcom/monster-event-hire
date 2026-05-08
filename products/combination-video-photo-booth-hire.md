@@ -1,4 +1,5 @@
 ---
+name: "Video &#038; Photo Booth hire"
 permalink: /products/combination-video-photo-booth-hire/
 redirect_from:
   - /products/photo-booths/combination-video-photo-booth-hire/

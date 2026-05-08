@@ -1,4 +1,5 @@
 ---
+name: "Crazy Golf"
 permalink: /products/crazy-golf/
 redirect_from:
   - /products/sports-competitive-activities/crazy-golf/

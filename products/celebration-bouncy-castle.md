@@ -1,4 +1,5 @@
 ---
+name: "Celebration Bouncy Castle 15ft x 16ft"
 permalink: /products/celebration-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/celebration-bouncy-castle/

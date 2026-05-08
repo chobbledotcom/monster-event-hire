@@ -1,4 +1,5 @@
 ---
+name: "Whack A Mole"
 permalink: /products/interactive-digital-whack-a-mole-game/
 redirect_from:
   - /allproducts/electronic-game-hire/interactive-digital-whack-a-mole-game/

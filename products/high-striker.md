@@ -1,4 +1,5 @@
 ---
+name: "High Striker"
 permalink: /products/high-striker/
 redirect_from:
   - /products/stalls-and-mini-games/high-striker/

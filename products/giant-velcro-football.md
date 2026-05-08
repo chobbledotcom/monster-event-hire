@@ -1,4 +1,5 @@
 ---
+name: "Giant Velcro Football"
 permalink: /products/giant-velcro-football/
 redirect_from:
   - /products/football-games/giant-velcro-football/

@@ -1,4 +1,5 @@
 ---
+name: "Roll And Bowl Racing Derby Hire"
 permalink: /products/roll-and-bowl-racing-derby-hire/
 redirect_from:
   - /allproducts/electronic-game-hire/roll-and-bowl-racing-derby-hire/

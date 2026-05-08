@@ -1,4 +1,5 @@
 ---
+name: "Ringwood"
 permalink: '/areas-covered/ringwood/'
 title: Ringwood
 tags: area

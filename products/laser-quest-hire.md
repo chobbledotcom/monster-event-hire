@@ -1,4 +1,5 @@
 ---
+name: "Laser quest Hire"
 permalink: /products/laser-quest-hire/
 redirect_from:
   - /products/shooting-archery-and-marksmen-hire/laser-quest-hire/

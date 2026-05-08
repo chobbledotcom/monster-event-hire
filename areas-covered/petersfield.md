@@ -1,4 +1,5 @@
 ---
+name: "Petersfield"
 permalink: '/areas-covered/petersfield/'
 title: Petersfield
 tags: area

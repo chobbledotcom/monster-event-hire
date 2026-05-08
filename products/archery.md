@@ -1,4 +1,5 @@
 ---
+name: "Archery Hire"
 permalink: /products/archery/
 redirect_from:
   - /products/shooting-archery-and-marksmen-hire/archery/

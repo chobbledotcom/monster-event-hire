@@ -1,4 +1,5 @@
 ---
+name: "Big Balls Challenge"
 permalink: /products/big-balls-challenge/
 redirect_from:
   - /all-products/big-balls-challenge/

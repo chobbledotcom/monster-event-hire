@@ -1,4 +1,5 @@
 ---
+name: "Princess Pink Bouncy Castle 12ft x 14ft"
 permalink: /products/princess-pink-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/princess-pink-bouncy-castle/

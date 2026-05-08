@@ -1,4 +1,5 @@
 ---
+name: "Kick N Stick foot darts"
 permalink: /products/kick-and-stick/
 redirect_from:
   - /products/product-category/kick-and-stick/

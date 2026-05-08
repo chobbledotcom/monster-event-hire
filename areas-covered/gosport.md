@@ -1,4 +1,5 @@
 ---
+name: "Gosport"
 permalink: '/areas-covered/gosport/'
 title: Gosport
 tags: area

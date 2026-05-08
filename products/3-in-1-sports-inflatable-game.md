@@ -1,4 +1,5 @@
 ---
+name: "3 in 1 Sports Inflatable Game"
 permalink: /products/3-in-1-sports-inflatable-game/
 redirect_from:
   - /products/sports-competitive-activities/3-in-1-sports-inflatable-game/

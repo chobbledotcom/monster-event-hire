@@ -1,4 +1,5 @@
 ---
+name: "Whack an Elf"
 permalink: /products/whack-an-elf/
 redirect_from:
   - /allproducts/christmas-party-entertainment/whack-an-elf/

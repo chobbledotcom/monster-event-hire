@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Pumpkin Hire"
 permalink: /products/rodeo-pumpkin/
 redirect_from:
   - /products/rodeo-rides/rodeo-pumpkin/

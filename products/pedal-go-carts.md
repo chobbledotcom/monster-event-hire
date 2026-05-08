@@ -1,4 +1,5 @@
 ---
+name: "Pedal Go Karts"
 permalink: /products/pedal-go-carts/
 redirect_from:
   - /products/go-kart-quad-bike-hire/pedal-go-carts/

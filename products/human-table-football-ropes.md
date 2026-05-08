@@ -1,4 +1,5 @@
 ---
+name: "Human Table Football (Ropes)"
 permalink: /products/human-table-football-ropes/
 redirect_from:
   - /products/football-games/human-table-football-ropes/

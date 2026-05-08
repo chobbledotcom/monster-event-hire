@@ -1,4 +1,5 @@
 ---
+name: "Oxfordshire"
 permalink: '/areas-covered/oxfordshire/'
 title: Oxfordshire
 tags: area

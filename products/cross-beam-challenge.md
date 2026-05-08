@@ -1,4 +1,5 @@
 ---
+name: "Cross Beam Challenge"
 permalink: /products/cross-beam-challenge/
 redirect_from:
   - /products/inflatables-hire/cross-beam-challenge/

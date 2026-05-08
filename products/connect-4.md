@@ -1,4 +1,5 @@
 ---
+name: "Garden game package"
 permalink: /products/connect-4/
 redirect_from:
   - /products/giant-game-hire/connect-4/

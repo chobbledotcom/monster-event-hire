@@ -1,4 +1,5 @@
 ---
+name: "London"
 permalink: '/areas-covered/london/'
 title: London
 tags: area

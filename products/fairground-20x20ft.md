@@ -1,4 +1,5 @@
 ---
+name: "Fairground bouncy castle 20x20ft"
 permalink: /products/fairground-20x20ft/
 redirect_from:
   - /products/bouncy-castles/fairground-20x20ft/
