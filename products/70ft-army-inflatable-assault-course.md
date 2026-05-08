@@ -1,4 +1,5 @@
 ---
+name: "Green Giant 70ft assault course"
 permalink: /products/70ft-army-inflatable-assault-course/
 redirect_from:
   - /allproducts/courses/70ft-army-inflatable-assault-course/

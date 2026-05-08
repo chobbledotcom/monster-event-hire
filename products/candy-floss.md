@@ -1,4 +1,5 @@
 ---
+name: "Candy Floss Hire"
 permalink: /products/candy-floss/
 redirect_from:
   - /products/side-stalls/candy-floss/

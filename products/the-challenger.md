@@ -1,4 +1,5 @@
 ---
+name: "The Challenger"
 permalink: /products/the-challenger/
 redirect_from:
   - /products/inflatables-hire/the-challenger/

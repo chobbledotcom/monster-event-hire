@@ -1,4 +1,5 @@
 ---
+name: "85ft Jungle Assault Course"
 permalink: /products/85ft-jungle-assault-course/
 redirect_from:
   - /products/assault-courses-hire/85ft-jungle-assault-course/

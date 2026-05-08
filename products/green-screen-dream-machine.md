@@ -1,4 +1,5 @@
 ---
+name: "Green Screen Dream Machine photo booth"
 permalink: /products/green-screen-dream-machine/
 redirect_from:
   - /products/party-favourites/green-screen-dream-machine/

@@ -1,4 +1,5 @@
 ---
+name: "Green Screen Photo Booth"
 permalink: /products/green-screen-photo-booth/
 redirect_from:
   - /products/photo-booths/green-screen-photo-booth/

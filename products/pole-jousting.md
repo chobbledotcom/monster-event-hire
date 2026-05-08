@@ -1,4 +1,5 @@
 ---
+name: "Pole Jousting"
 permalink: /products/pole-jousting/
 redirect_from:
   - /products/sports-competitive-activities/pole-jousting/

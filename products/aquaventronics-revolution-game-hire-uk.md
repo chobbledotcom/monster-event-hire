@@ -1,4 +1,5 @@
 ---
+name: "Aquaventronics Revolution Game Hire UK"
 permalink: /products/aquaventronics-revolution-game-hire-uk/
 redirect_from:
   - /allproducts/electronic-game-hire/aquaventronics-revolution-game-hire-uk/

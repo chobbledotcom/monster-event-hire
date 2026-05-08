@@ -1,4 +1,5 @@
 ---
+name: "Climbing Wall Hire"
 permalink: /products/climbing-wall/
 redirect_from:
   - /products/climbing-walls/climbing-wall/

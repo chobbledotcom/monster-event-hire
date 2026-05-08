@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Bull Hire"
 permalink: /products/rodeo-bull-hire/
 redirect_from:
   - /products/games/rodeo-bull-hire/

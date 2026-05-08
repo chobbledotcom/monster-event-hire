@@ -1,4 +1,5 @@
 ---
+name: "Medieval Human Demolition"
 permalink: /products/medieval-human-demolition/
 redirect_from:
   - /products/games/medieval-human-demolition/

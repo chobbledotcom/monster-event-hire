@@ -1,4 +1,5 @@
 ---
+name: "Indoor Laser Shooting Game Hire Laser Shot"
 permalink: /products/laser-shot/
 redirect_from:
   - /products/electronic-game-hire/laser-shot/

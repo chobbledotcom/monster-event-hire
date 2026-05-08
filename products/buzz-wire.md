@@ -1,4 +1,5 @@
 ---
+name: "Buzz Wire"
 permalink: /products/buzz-wire/
 redirect_from:
   - /products/electronic-game-hire/buzz-wire/

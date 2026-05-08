@@ -1,4 +1,5 @@
 ---
+name: "Grand Bounce National"
 permalink: /products/the-grand-bounce-national/
 redirect_from:
   - /products/product-category/the-grand-bounce-national/

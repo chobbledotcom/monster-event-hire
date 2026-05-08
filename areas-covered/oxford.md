@@ -1,4 +1,5 @@
 ---
+name: "Oxford"
 permalink: '/areas-covered/oxford/'
 title: Oxford
 tags: area

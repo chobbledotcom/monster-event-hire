@@ -1,4 +1,5 @@
 ---
+name: "The Vault"
 permalink: /products/the-vault/
 redirect_from:
   - /allproducts/electronic-game-hire/the-vault/

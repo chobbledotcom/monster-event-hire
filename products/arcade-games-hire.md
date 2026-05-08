@@ -1,4 +1,5 @@
 ---
+name: "Arcade Games Hire"
 permalink: /products/arcade-games-hire/
 redirect_from:
   - /allproducts/electronic-game-hire/arcade-games-hire/

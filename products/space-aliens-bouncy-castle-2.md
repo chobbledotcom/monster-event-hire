@@ -1,4 +1,5 @@
 ---
+name: "Space Bouncy Castle 12ft x 14ft"
 permalink: /products/space-aliens-bouncy-castle-2/
 redirect_from:
   - /products/bouncy-castles/space-aliens-bouncy-castle-2/

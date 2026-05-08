@@ -1,4 +1,5 @@
 ---
+name: "Berkshire"
 permalink: '/areas-covered/berkshire/'
 title: Berkshire
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Big Top Bouncy Castle 15ft x 16ft or 20ft"
 permalink: /products/big-top-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/big-top-bouncy-castle/

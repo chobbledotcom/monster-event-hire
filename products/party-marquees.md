@@ -1,4 +1,5 @@
 ---
+name: "Party Marquee Hire"
 permalink: /products/party-marquees/
 redirect_from:
   - /products/marquees/party-marquees/

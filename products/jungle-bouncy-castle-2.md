@@ -1,4 +1,5 @@
 ---
+name: "Jungle Bouncy Castle (orange) 12ft X 14ft"
 permalink: /products/jungle-bouncy-castle-2/
 redirect_from:
   - /products/bouncy-castles/jungle-bouncy-castle-2/

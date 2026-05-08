@@ -1,4 +1,5 @@
 ---
+name: "80&#8217;s Retro arcade games"
 permalink: /products/80s-retro-arcade-games/
 redirect_from:
   - /allproducts/christmas-party-entertainment/80s-retro-arcade-games/

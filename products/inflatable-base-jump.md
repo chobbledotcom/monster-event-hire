@@ -1,4 +1,5 @@
 ---
+name: "Inflatable Base Jump"
 permalink: /products/inflatable-base-jump/
 redirect_from:
   - /products/inflatables-hire/inflatable-base-jump/

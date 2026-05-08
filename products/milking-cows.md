@@ -1,4 +1,5 @@
 ---
+name: "Milking Cows"
 permalink: /products/milking-cows/
 redirect_from:
   - /products/stalls-and-mini-games/milking-cows/

@@ -1,4 +1,5 @@
 ---
+name: "Richmond upon Thames"
 permalink: '/areas-covered/richmond-upon-thames/'
 title: Richmond upon Thames
 tags: area

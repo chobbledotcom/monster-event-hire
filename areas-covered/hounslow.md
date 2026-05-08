@@ -1,4 +1,5 @@
 ---
+name: "Hounslow"
 permalink: '/areas-covered/hounslow/'
 title: Hounslow
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Basingstoke"
 permalink: '/areas-covered/basingstoke/'
 title: Basingstoke
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Interactive play system &#8211; ips"
 permalink: /products/interactive-play-system/
 redirect_from:
   - /allproducts/electronic-game-hire/interactive-play-system/

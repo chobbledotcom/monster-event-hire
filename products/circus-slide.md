@@ -1,4 +1,5 @@
 ---
+name: "Circus Slide"
 permalink: /products/circus-slide/
 redirect_from:
   - /products/mega-slides/circus-slide/

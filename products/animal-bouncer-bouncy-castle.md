@@ -1,4 +1,5 @@
 ---
+name: "20ft Animal Bouncer Bouncy Castle"
 permalink: /products/animal-bouncer-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/animal-bouncer-bouncy-castle/

@@ -1,4 +1,5 @@
 ---
+name: "Harrow"
 permalink: '/areas-covered/harrow/'
 title: Harrow
 tags: area

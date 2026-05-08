@@ -1,4 +1,5 @@
 ---
+name: "Camberley"
 permalink: '/areas-covered/camberley/'
 title: Camberley
 tags: area

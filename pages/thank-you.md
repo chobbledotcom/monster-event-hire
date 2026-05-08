@@ -1,4 +1,5 @@
 ---
+name: "Thank You"
 layout: monster-event-hire.html
 header_text: Thank You
 meta_description:

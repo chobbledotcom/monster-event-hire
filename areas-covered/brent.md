@@ -1,4 +1,5 @@
 ---
+name: "Brent"
 permalink: '/areas-covered/brent/'
 title: Brent
 tags: area

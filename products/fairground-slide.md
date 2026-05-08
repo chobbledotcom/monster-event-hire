@@ -1,4 +1,5 @@
 ---
+name: "Fairground Slide"
 permalink: /products/fairground-slide/
 redirect_from:
   - /products/mega-slides/fairground-slide/

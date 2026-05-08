@@ -1,4 +1,5 @@
 ---
+name: "All ages Beach Party Bouncy Castle 15ft x 16ft"
 permalink: /products/beach-party-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/beach-party-bouncy-castle/

@@ -1,4 +1,5 @@
 ---
+name: "Laser Clay Pigeon Shooting"
 permalink: /products/laser-clay-pigeon-shooting/
 redirect_from:
   - /products/shooting-archery-and-marksmen-hire/laser-clay-pigeon-shooting/

@@ -1,4 +1,5 @@
 ---
+name: "Snowboard Simulator"
 permalink: /products/snowboard-simulator/
 redirect_from:
   - /products/simulator-hire/snowboard-simulator/

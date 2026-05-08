@@ -1,4 +1,5 @@
 ---
+name: "Andover"
 permalink: '/areas-covered/andover/'
 title: Andover
 tags: area

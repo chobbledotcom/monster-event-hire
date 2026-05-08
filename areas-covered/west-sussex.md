@@ -1,4 +1,5 @@
 ---
+name: "West Sussex"
 permalink: '/areas-covered/west-sussex/'
 title: West Sussex
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "Magic Selfie Mirror"
 permalink: /products/magic-selfie-mirror/
 redirect_from:
   - /allproducts/christmas-party-entertainment/magic-selfie-mirror/

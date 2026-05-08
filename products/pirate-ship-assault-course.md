@@ -1,4 +1,5 @@
 ---
+name: "Pirate ship inflatable"
 permalink: /products/pirate-ship-assault-course/
 redirect_from:
   - /products/assault-courses-hire/pirate-ship-assault-course/

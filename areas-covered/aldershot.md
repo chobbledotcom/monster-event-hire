@@ -1,4 +1,5 @@
 ---
+name: "Aldershot"
 permalink: '/areas-covered/aldershot/'
 title: Aldershot
 tags: area

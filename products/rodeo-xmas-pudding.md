@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Xmas Pudding"
 permalink: /products/rodeo-xmas-pudding/
 redirect_from:
   - /products/rodeo-rides/rodeo-xmas-pudding/

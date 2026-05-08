@@ -1,4 +1,5 @@
 ---
+name: "Up and Over Mini Everest"
 permalink: /products/up-and-over/
 redirect_from:
   - /products/inflatables-hire/up-and-over/

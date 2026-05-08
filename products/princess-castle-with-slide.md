@@ -1,4 +1,5 @@
 ---
+name: "Princess Bouncy Castle With Side Slide"
 permalink: /products/princess-castle-with-slide/
 redirect_from:
   - /products/bouncy-castles/princess-castle-with-slide/

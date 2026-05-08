@@ -1,4 +1,5 @@
 ---
+name: "Cocktail Table Retro games machine"
 permalink: /products/retro-arcade-machine/
 redirect_from:
   - /allproducts/christmas/retro-arcade-machine/

@@ -1,4 +1,5 @@
 ---
+name: "Rodeo Sheep Hire"
 permalink: /products/rodeo-sheep/
 redirect_from:
   - /products/rodeo-rides/rodeo-sheep/

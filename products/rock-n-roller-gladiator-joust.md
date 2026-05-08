@@ -1,4 +1,5 @@
 ---
+name: "rock-n-roller-gladiator-joust-hire-Hampshire-Surrey"
 permalink: /products/rock-n-roller-gladiator-joust/
 redirect_from:
   - /products/games/rock-n-roller-gladiator-joust/

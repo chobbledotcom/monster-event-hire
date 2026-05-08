@@ -1,4 +1,5 @@
 ---
+name: "Superheroes Bouncy Castle 15ft x 16ft"
 permalink: /products/superheroes-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/superheroes-bouncy-castle/

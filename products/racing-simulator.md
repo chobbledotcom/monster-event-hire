@@ -1,4 +1,5 @@
 ---
+name: "Racing Simulator hire"
 permalink: /products/racing-simulator/
 redirect_from:
   - /products/electronic-game-hire/racing-simulator/

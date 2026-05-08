@@ -1,4 +1,5 @@
 ---
+name: "Human Table Football"
 permalink: /products/human-table-football/
 redirect_from:
   - /products/football-games/human-table-football/

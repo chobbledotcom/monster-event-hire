@@ -1,4 +1,5 @@
 ---
+name: "Giant Darts"
 permalink: /products/giant-darts/
 redirect_from:
   - /products/side-stalls/giant-darts/

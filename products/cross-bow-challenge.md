@@ -1,4 +1,5 @@
 ---
+name: "Cross Bow Challenge hire"
 permalink: /products/cross-bow-challenge/
 redirect_from:
   - /products/side-stalls/cross-bow-challenge/

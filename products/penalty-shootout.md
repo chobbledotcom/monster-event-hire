@@ -1,4 +1,5 @@
 ---
+name: "Penalty Shootout"
 permalink: /products/penalty-shootout/
 redirect_from:
   - /products/football-games/penalty-shootout/

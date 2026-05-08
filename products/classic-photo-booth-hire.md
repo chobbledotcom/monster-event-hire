@@ -1,4 +1,5 @@
 ---
+name: "Photo Booth Hire"
 permalink: /products/classic-photo-booth-hire/
 redirect_from:
   - /products/photo-booths/classic-photo-booth-hire/

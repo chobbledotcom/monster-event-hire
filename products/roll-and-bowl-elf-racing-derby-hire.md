@@ -1,4 +1,5 @@
 ---
+name: "Roll And Bowl Elf Racing Derby Hire"
 permalink: /products/roll-and-bowl-elf-racing-derby-hire/
 redirect_from:
   - /allproducts/christmas-party-entertainment/roll-and-bowl-elf-racing-derby-hire/

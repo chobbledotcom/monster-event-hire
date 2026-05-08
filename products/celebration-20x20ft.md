@@ -1,4 +1,5 @@
 ---
+name: "Celebration bouncy castle 20x20ft"
 permalink: /products/celebration-20x20ft/
 redirect_from:
   - /products/bouncy-castles/celebration-20x20ft/

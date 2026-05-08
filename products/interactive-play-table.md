@@ -1,4 +1,5 @@
 ---
+name: "Interactive Play Table"
 permalink: /products/interactive-play-table/
 redirect_from:
   - /allproducts/electronic-game-hire/interactive-play-table/

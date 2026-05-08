@@ -1,4 +1,5 @@
 ---
+name: "Dragon bouncy castle with slide"
 permalink: /products/jungle-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/jungle-bouncy-castle/

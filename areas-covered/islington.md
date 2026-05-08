@@ -1,4 +1,5 @@
 ---
+name: "Islington"
 permalink: '/areas-covered/islington/'
 title: Islington
 tags: area

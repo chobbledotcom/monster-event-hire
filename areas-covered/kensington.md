@@ -1,4 +1,5 @@
 ---
+name: "Kensington"
 permalink: '/areas-covered/kensington/'
 title: Kensington
 tags: area

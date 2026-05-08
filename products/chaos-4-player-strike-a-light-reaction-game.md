@@ -1,4 +1,5 @@
 ---
+name: "Chaos 4 player strike a light reaction Game hire uk"
 permalink: /products/chaos-4-player-strike-a-light-reaction-game/
 redirect_from:
   - /allproducts/christmas-party-entertainment/chaos-4-player-strike-a-light-reaction-game/

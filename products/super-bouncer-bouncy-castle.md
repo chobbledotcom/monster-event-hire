@@ -1,4 +1,5 @@
 ---
+name: "Super Bouncer Bouncy Castle 23ft x 28ft"
 permalink: /products/super-bouncer-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/super-bouncer-bouncy-castle/

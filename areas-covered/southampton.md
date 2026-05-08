@@ -1,4 +1,5 @@
 ---
+name: "Southampton"
 permalink: '/areas-covered/southampton/'
 title: Southampton
 tags: area

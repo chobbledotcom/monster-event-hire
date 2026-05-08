@@ -1,4 +1,5 @@
 ---
+name: "56ft Party Time Assault Course"
 permalink: /products/party-time-assault-course/
 redirect_from:
   - /products/assault-courses-hire/party-time-assault-course/

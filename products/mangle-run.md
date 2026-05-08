@@ -1,4 +1,5 @@
 ---
+name: "The Mangle Run"
 permalink: /products/mangle-run/
 redirect_from:
   - /products/inflatables-hire/mangle-run/

@@ -1,4 +1,5 @@
 ---
+name: "Santa&#8217;s Christmas Grotto"
 permalink: /products/santas-christmas-grotto/
 redirect_from:
   - /products/stalls-and-mini-games/santas-christmas-grotto/

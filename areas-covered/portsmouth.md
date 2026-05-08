@@ -1,4 +1,5 @@
 ---
+name: "Portsmouth"
 permalink: '/areas-covered/portsmouth/'
 title: Portsmouth
 tags: area

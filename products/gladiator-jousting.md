@@ -1,4 +1,5 @@
 ---
+name: "Gladiator Jousting"
 permalink: /products/gladiator-jousting/
 redirect_from:
   - /products/sports-competitive-activities/gladiator-jousting/

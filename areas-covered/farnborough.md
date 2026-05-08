@@ -1,4 +1,5 @@
 ---
+name: "Farnborough"
 permalink: '/areas-covered/farnborough/'
 title: Farnborough
 tags: area

@@ -1,4 +1,5 @@
 ---
+name: "All Ages Princess Bouncy Castle 15ft x 16ft"
 permalink: /products/all-ages-princess-bouncy-castle/
 redirect_from:
   - /products/bouncy-castles/all-ages-princess-bouncy-castle/
