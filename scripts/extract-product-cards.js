@@ -1,101 +1,104 @@
 #!/usr/bin/env bun
-// One-shot extraction: scan all .html in this repo for product card occurrences,
-// build _data/wpCards.json mapping slug -> {id, image, description, sku, productID, title}.
-// Used by the layout/include refactor to render product cards from data instead of inline HTML.
+// Build _data/wpCards.json mapping slug -> {id, image, title, description, productImage, sku, productID}
+// from the product .md frontmatter (the source of truth).
+//
+// The card slug (and JSON key) is the product filename without .md, matching the URL the layout links to.
+// `id` and the `<original-id>-<sku>` productID preserve the original WordPress div id so the rendered
+// HTML (id="..." on the product card) keeps matching the legacy markup.
 
-import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
+const PRODUCTS_DIR = join(ROOT, "products");
+const OUT = join(ROOT, "_data/wpCards.json");
 
-const SCAN_DIRS = ["products", "categories", "areas-covered", "_includes", "."];
+const FRONTMATTER_RE = /^---\n([\s\S]*?)\n---/;
 
-const findHtmlFiles = (dir, files = []) => {
-  let entries;
-  try {
-    entries = readdirSync(dir, { withFileTypes: true });
-  } catch {
-    return files;
-  }
-  for (const e of entries) {
-    if (
-      e.name.startsWith(".") ||
-      e.name === "node_modules" ||
-      e.name === "_site" ||
-      e.name === ".build" ||
-      e.name === "chobble-template"
-    )
-      continue;
-    const p = join(dir, e.name);
-    if (e.isDirectory()) findHtmlFiles(p, files);
-    else if (e.name.endsWith(".html")) files.push(p);
-  }
-  return files;
+const matchField = (fm, name) => {
+  const re = new RegExp(`^${name}:\\s*(.+?)\\s*$`, "m");
+  const m = fm.match(re);
+  if (!m) return null;
+  return m[1].replace(/^['"]|['"]$/g, "");
 };
 
-const extractFrom = (html) => {
-  const cards = {};
-  // Match grid-3-12 style cards: <div class="grid-3-12" itemscope ... <div id="ID" class="product" data-img="IMG"> ... <h3 itemprop="name">TITLE</h3> ... <span itemprop="image">IMG</span> ... <span itemprop="sku">SKU</span> <span itemprop="productID">PID</span> ... <a itemprop="url" href="/products/SLUG/">
-  const cardRe =
-    /<div\s+id="([^"]+)"\s+class="product"\s+data-img="([^"]+)"[\s\S]*?<a itemprop="url" href="\/products\/([^"/]+)\/?">[\s\S]*?<h3 itemprop="name">([^<]+)<\/h3>[\s\S]*?<span class="item-data"><span itemprop="description">[^<]*<\/span><\/span>\s*<p>\s*<span class="item-data">([\s\S]*?)<\/span>\s*<\/p>\s*<span itemprop="image">([^<]*)<\/span>\s*<span itemprop="sku">([^<]*)<\/span>\s*<span itemprop="productID">([^<]*)<\/span>/g;
-  let m;
-  while ((m = cardRe.exec(html))) {
-    const [, cardId, dataImg, slug, title, description, image, sku, productID] =
-      m;
-    if (!cards[slug]) {
-      cards[slug] = {
-        id: cardId,
-        image: dataImg,
-        title,
-        description,
-        productImage: image,
-        sku,
-        productID,
-      };
-    }
+const matchListFirst = (fm, name) => {
+  const re = new RegExp(`^${name}:\\s*\\n((?:\\s+-\\s+.+\\n?)+)`, "m");
+  const m = fm.match(re);
+  if (!m) return null;
+  const first = m[1].split("\n")[0];
+  const item = first.match(/^\s+-\s+(.+?)\s*$/);
+  if (!item) return null;
+  return item[1].replace(/^['"]|['"]$/g, "");
+};
+
+const parseBodyClass = (bodyClass) => {
+  if (!bodyClass) return { originalId: null, sku: null };
+  const sku = bodyClass.match(/postid-(\d+)/)?.[1] ?? null;
+  // The original WP body slug is the last token after "wp-theme-littlemonsters".
+  const tail =
+    bodyClass.match(/wp-theme-littlemonsters\s+([\w-]+)/)?.[1] ?? null;
+  return { originalId: tail, sku };
+};
+
+const buildDescription = (shareDescription) => {
+  if (!shareDescription) return "";
+  // Match the legacy WP excerpt convention: append &hellip; unless the source
+  // already ends with sentence-ending punctuation.
+  if (/[.!?]$/.test(shareDescription)) return shareDescription;
+  return `${shareDescription}&hellip;`;
+};
+
+const buildCard = (slug, fm) => {
+  const name = matchField(fm, "name") ?? matchField(fm, "title");
+  const image = matchListFirst(fm, "galleryImages");
+  const bodyClass = matchField(fm, "body_class");
+  const shareDescription = matchField(fm, "share_description");
+  const { originalId, sku } = parseBodyClass(bodyClass);
+
+  if (!name || !image) {
+    console.warn(`SKIP ${slug}: missing name or galleryImages`);
+    return null;
   }
-  // Also match featured/area-style cards (different structure) — not implemented
-  return cards;
+
+  const id = originalId ?? slug;
+  const productID = sku ? `${id}-${sku}` : id;
+
+  return {
+    id,
+    image,
+    title: name,
+    description: buildDescription(shareDescription),
+    productImage: image,
+    sku: sku ?? "",
+    productID,
+  };
 };
 
 const main = () => {
-  const allCards = {};
-  let totalOccurrences = 0;
-  for (const dir of SCAN_DIRS) {
-    const target = join(ROOT, dir);
-    try {
-      statSync(target);
-    } catch {
+  const cards = {};
+  const files = readdirSync(PRODUCTS_DIR).filter((f) => f.endsWith(".md"));
+  for (const file of files) {
+    const slug = file.slice(0, -3);
+    const text = readFileSync(join(PRODUCTS_DIR, file), "utf8");
+    const m = text.match(FRONTMATTER_RE);
+    if (!m) {
+      console.warn(`SKIP ${slug}: no frontmatter`);
       continue;
     }
-    const files =
-      dir === "."
-        ? findHtmlFiles(target).filter(
-            (f) =>
-              !f.includes("/_") &&
-              !f.includes("/products/") &&
-              !f.includes("/categories/") &&
-              !f.includes("/areas-covered/") &&
-              !f.includes("/_site/") &&
-              !f.includes("/.build/") &&
-              !f.includes("/chobble-template/") &&
-              !f.includes("/node_modules/"),
-          )
-        : findHtmlFiles(target);
-    for (const f of files) {
-      const html = readFileSync(f, "utf8");
-      const cards = extractFrom(html);
-      for (const [slug, card] of Object.entries(cards)) {
-        totalOccurrences++;
-        if (!allCards[slug]) allCards[slug] = card;
-      }
-    }
+    const card = buildCard(slug, m[1]);
+    if (card) cards[slug] = card;
   }
-  const out = join(ROOT, "_data/wpCards.json");
-  writeFileSync(out, `${JSON.stringify(allCards, null, 2)}\n`);
-  console.log(
-    `Wrote ${Object.keys(allCards).length} unique product cards (${totalOccurrences} occurrences) to ${out}`,
+
+  // Sort keys for stable output.
+  const sorted = Object.fromEntries(
+    Object.keys(cards)
+      .sort()
+      .map((k) => [k, cards[k]]),
   );
+
+  writeFileSync(OUT, `${JSON.stringify(sorted, null, 2)}\n`);
+  console.log(`Wrote ${Object.keys(sorted).length} product cards to ${OUT}`);
 };
 
 main();
