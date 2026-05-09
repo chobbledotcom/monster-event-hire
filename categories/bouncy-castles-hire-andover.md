@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-andover/
   - /allproducts/bouncy-castles-hire-andover/
   - /all-products/bouncy-castles-hire-andover/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-andover/
 layout: wp-category.html
 title: 'Bouncy castles hire Andover - Andover bouncy castle hire'
 meta_description: 'Bouncy castles for Hire. when your looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring bouncy castles for over 20 years within the Andover and surrounding area&#039;s. Bouncy castles are just 1 of many different items we have on our hire fleet so if you are looking for something a bit different please take the time to look though our comprehensive website.No 1 for bouncy castle hire in Andover.'

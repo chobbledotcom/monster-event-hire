@@ -5,6 +5,7 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/whack-an-elf/
   - /all-products/whack-an-elf/
   - /allproducts/whack-an-elf
+  - /allproducts/electronic-game-hire/chaos/whack-an-elf/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/10/Whack-An-Elf-christmas-hire-.jpg

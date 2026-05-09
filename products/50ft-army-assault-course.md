@@ -5,6 +5,9 @@ redirect_from:
   - /products/assault-courses-hire/50ft-army-assault-course/
   - /all-products/50ft-army-assault-course/
   - /allproducts/50ft-army-assault-course
+  - /allproducts/inflatable-assault-course-and-obstacle-course-hire/50ft-army-assault-course/army-assault-course-50
+  - /allproducts/inflatable-assault-course-and-obstacle-course-hire/50ft-army-assault-course/army-assault-course7/
+  - /allproducts/inflatable-assault-courses-hire/50ft-army-assault-course/army-assault-course4/
 galleryAlt: 50ft army inflatable assault course in front of trees
 galleryImages:
   - /images/uploads/2015/10/army-assault-course-main.jpg

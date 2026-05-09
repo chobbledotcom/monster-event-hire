@@ -5,6 +5,7 @@ redirect_from:
   - /products/mega-slides/jungle-slide/
   - /all-products/jungle-slide/
   - /allproducts/jungle-slide
+  - /products/mega-slides/jungle-slide/jungleslide2
 galleryAlt: 
 galleryImages:
   - /images/uploads/2015/10/jungle1.jpg

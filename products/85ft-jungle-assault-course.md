@@ -5,6 +5,7 @@ redirect_from:
   - /products/assault-courses-hire/85ft-jungle-assault-course/
   - /all-products/85ft-jungle-assault-course/
   - /allproducts/85ft-jungle-assault-course
+  - /allproducts/inflatable-assault-courses-hire/85ft-jungle-assault-course/85ft-jungle-assault-course-2
 galleryAlt: Jungle Assault Course Inflatable Rides and Slides Monster
 galleryImages:
   - /images/uploads/2015/10/85ftjungleassaultlarge.jpg

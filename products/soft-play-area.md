@@ -5,6 +5,7 @@ redirect_from:
   - /products/stalls-and-mini-games/soft-play-area/
   - /all-products/soft-play-area/
   - /allproducts/soft-play-area
+  - /products/stalls-and-mini-games/soft-play-area/soft-play-2/
 galleryAlt: Soft Play for toddlers Little Monster Event Hire
 galleryImages:
   - /images/uploads/2016/02/soft-play-2.jpg

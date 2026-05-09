@@ -5,6 +5,9 @@ redirect_from:
   - /products/simulator-hire/snowboard-simulator/
   - /all-products/snowboard-simulator/
   - /allproducts/snowboard-simulator
+  - /allproducts/christmas-party-entertainment/snowboard-simulator/snow-board-and-reindeer-simulator-hire/
+  - /products/simulator-hire/snowboard-simulator/snow-board-and-reindeer-simulator-hire/
+  - /products/simulator-hire/snowboard-simulator/snow-board-simulator-hire/
 galleryAlt: Snowboard simulator hire
 galleryImages:
   - /images/uploads/2015/10/Newsnowboard.jpg

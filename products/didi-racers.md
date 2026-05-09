@@ -5,6 +5,7 @@ redirect_from:
   - /products/go-kart-quad-bike-hire/didi-racers/
   - /all-products/didi-racers/
   - /allproducts/didi-racers
+  - /allproducts/pedal-go-kart-hire/didi-racers/didi-cars/
 galleryAlt: Didi Car Racers Game Childrens Party Event Hire
 galleryImages:
   - /images/uploads/2015/11/didi-cars.png

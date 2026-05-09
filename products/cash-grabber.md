@@ -5,6 +5,7 @@ redirect_from:
   - /electronic-games/cash-grabber/
   - /all-products/cash-grabber/
   - /allproducts/cash-grabber
+  - /electronic-games/cash-grabber/grab-a-grand-cash-grabber/
 galleryAlt: a man inside the LED lit cash grabber cube
 galleryImages:
   - /images/uploads/2015/12/ch.jpg

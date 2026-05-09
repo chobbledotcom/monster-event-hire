@@ -5,6 +5,9 @@ redirect_from:
   - /products/electronic-game-hire/laser-shot/
   - /all-products/laser-shot/
   - /allproducts/laser-shot
+  - /allproducts/christmas-party-entertainment/laser-shot/laser-shot1/
+  - /allproducts/christmas-party-entertainment/laser-shot/lasershot1
+  - /allproducts/christmas-party-entertainment/laser-shot/lasershot1/
 galleryAlt: Laser Shot Event Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/laser-shot.jpg

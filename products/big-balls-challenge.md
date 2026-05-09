@@ -4,6 +4,7 @@ permalink: /products/big-balls-challenge/
 redirect_from:
   - /all-products/big-balls-challenge/
   - /allproducts/big-balls-challenge
+  - /allproducts/inflatables-hire/big-balls-challenge/big-ball-challenge/
 galleryAlt: colourful big balls challenge inflatable in a field
 galleryImages:
   - /images/uploads/2016/04/13631518_1743532865919943_4987691602966667872_n.jpg

@@ -5,6 +5,7 @@ redirect_from:
   - /products/sports-competitive-activities/pole-jousting/
   - /all-products/pole-jousting/
   - /allproducts/pole-jousting
+  - /allproducts/sports-competitive/pole-jousting/polejousting1/
 galleryAlt: Pole Jousting Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/polejousting1.jpg

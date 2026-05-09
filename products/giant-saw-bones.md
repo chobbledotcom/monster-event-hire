@@ -5,6 +5,9 @@ redirect_from:
   - /products/electronic-game-hire/giant-saw-bones/
   - /all-products/giant-saw-bones/
   - /allproducts/giant-saw-bones
+  - /allproducts/christmas-party-entertainment/giant-saw-bones/sawbones/
+  - /products/electronic-game-hire/giant-saw-bones/sawbones1/
+  - /products-tagged/surgical
 galleryAlt: giant saw bones
 galleryImages:
   - /images/uploads/2015/11/sawbones2-e1448443623891.jpg

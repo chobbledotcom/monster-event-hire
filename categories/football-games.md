@@ -4,6 +4,8 @@ redirect_from:
   - /products/football-games/
   - /allproducts/football-games/
   - /all-products/football-games/
+  - /football-games/
+  - /products/football-games/foot-pool
 layout: wp-category.html
 title: 'Football Games - Football games for hire'
 meta_description: 'Our range of football inflatable games allows your party to pit their skill and footwork against a variety of challenges and team games. Get in touch today!'

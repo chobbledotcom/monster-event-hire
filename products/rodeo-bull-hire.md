@@ -5,6 +5,8 @@ redirect_from:
   - /products/games/rodeo-bull-hire/
   - /all-products/rodeo-bull-hire/
   - /allproducts/rodeo-bull-hire
+  - /products/games/rodeo-bull-hire/coverrodeo/
+  - /products/games/rodeo-bull-hire/rodeo/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2015/08/rodeo-bull.jpg

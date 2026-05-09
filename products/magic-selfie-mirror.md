@@ -6,6 +6,13 @@ redirect_from:
   - /allproducts/electronic-game-hire/magic-selfie-mirror/
   - /all-products/magic-selfie-mirror/
   - /allproducts/magic-selfie-mirror
+  - /allproducts/christmas-party-entertainment/magic-selfie-mirror/magic-miror-corperate/
+  - /allproducts/christmas-party-entertainment/magic-selfie-mirror/magic-mirror-2/
+  - /allproducts/christmas-party-entertainment/magic-selfie-mirror/magic-mirror-hire/
+  - /allproducts/electronic-game-hire/magic-selfie-mirror/magic-miror-corperate/
+  - /allproducts/electronic-game-hire/magic-selfie-mirror/magic-mirror-hire/
+  - /allproducts/electronic-game-hire/magic-selfie-mirror/magic-mirror-themed/
+  - /allproducts/electronic-game-hire/magic-selfie-mirror/magic-mirror-with-props/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/04/IMG-20180615-WA0008.jpeg

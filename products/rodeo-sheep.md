@@ -5,6 +5,7 @@ redirect_from:
   - /products/rodeo-rides/rodeo-sheep/
   - /all-products/rodeo-sheep/
   - /allproducts/rodeo-sheep
+  - /products-tagged/rodeo-sheep/
 galleryAlt: Rodeo Sheep Inflatable Rides and Slides Monster
 galleryImages:
   - /images/uploads/2015/10/rodeo-sheep.jpg

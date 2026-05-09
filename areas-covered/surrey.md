@@ -6,6 +6,8 @@ tags: area
 redirect_from:
   - /areas-covered/surrey/event-and-party-hire-surrey/
   - /areas-covered/event-and-party-hire-surrey/
+  - /areas-covered/event-and-party-hire-surrey/bouncy-castles-hire-haslemere/
+  - /products/inflatable-hire-surrey/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Surrey - Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire and much more. Highly Rated Event and Party Hire Company Surrey.'

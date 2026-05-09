@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/roll-and-bowl-elf-racing-derby-hire/
   - /all-products/roll-and-bowl-elf-racing-derby-hire/
   - /allproducts/roll-and-bowl-elf-racing-derby-hire
+  - /allproducts/christmas-party-entertainment/roll-and-bowl-elf-racing-derby-hire/christmas-party-hire-elf-racing-derby-hire/
+  - /allproducts/christmas-party-entertainment/roll-and-bowl-elf-racing-derby-hire/roll-and-bowl-elf-racing-derby-hire-2/
+  - /allproducts/christmas-party-entertainment/roll-and-bowl-elf-racing-derby-hire/roll-and-bowl-elf-racing-hire/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/03/Roll-And-Bowl-Elf-Racing-Derby-Hire-1.jpg

@@ -4,6 +4,7 @@ redirect_from:
   - /products/mega-slides/
   - /allproducts/mega-slides/
   - /all-products/mega-slides/
+  - /products/mega-slides/sea-world-slide
 layout: wp-category.html
 title: 'Mega Slides - Little Monsters'
 meta_description: 'Our slides range from compact to HUGE and event attendees are desperate to go down on them. Please get in touch today for more information!'

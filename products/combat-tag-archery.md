@@ -5,6 +5,7 @@ redirect_from:
   - /allproducts/inflatables-hire/combat-tag-archery/
   - /all-products/combat-tag-archery/
   - /allproducts/combat-tag-archery
+  - /allproducts/inflatables-hire/combat-tag-archery/tag-archery-combat/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2020/01/combat-tag-archery.jpg

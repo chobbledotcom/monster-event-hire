@@ -5,6 +5,7 @@ redirect_from:
   - /products/product-category/kick-and-stick/
   - /all-products/kick-and-stick/
   - /allproducts/kick-and-stick
+  - /products/%25product-category%25/kick-and-stick
 galleryAlt: 
 galleryImages:
   - /images/uploads/2017/01/kicknstick-1.jpg

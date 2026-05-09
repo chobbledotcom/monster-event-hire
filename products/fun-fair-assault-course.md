@@ -5,6 +5,9 @@ redirect_from:
   - /products/assault-courses-hire/fun-fair-assault-course/
   - /all-products/fun-fair-assault-course/
   - /allproducts/fun-fair-assault-course
+  - /allproducts/inflatable-assault-course-and-obstacle-course-hire/fun-fair-assault-course/funfair-assault-course10/
+  - /allproducts/inflatable-assault-course-and-obstacle-course-hire/fun-fair-assault-course/funfair-assaultcourse5/
+  - /allproducts/inflatable-assault-courses-hire/fun-fair-assault-course/funfair-assaultcourse6/
 galleryAlt: Funfair Assault Course Bouncy Castles for Hire England
 galleryImages:
   - /images/uploads/2015/10/funfair-assault-course.jpg

@@ -5,6 +5,10 @@ redirect_from:
   - /products/simulator-hire/surf-simulator/
   - /all-products/surf-simulator/
   - /allproducts/surf-simulator
+  - /products-tagged/surf-simulator-hire/
+  - /products-tagged/surf-simulator/
+  - /products/simulator-hire/surf-simulator/surf-simulator
+  - /products/simulator-hire/surf-simulator/surf-simulator-2
 galleryAlt: Surf Simulator Inflatable Party Hire
 galleryImages:
   - /images/uploads/2015/08/1795789_1591912764415288_5847047173060245116_n1.jpg

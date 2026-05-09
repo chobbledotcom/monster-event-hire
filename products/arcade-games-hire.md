@@ -5,6 +5,7 @@ redirect_from:
   - /allproducts/electronic-game-hire/arcade-games-hire/
   - /all-products/arcade-games-hire/
   - /allproducts/arcade-games-hire
+  - /allproducts/electronic-game-hire/arcade-games-hire/retro-games
 galleryAlt: arcade games hire
 galleryImages:
   - /images/uploads/2020/01/retro-games.jpg

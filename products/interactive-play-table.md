@@ -6,6 +6,7 @@ redirect_from:
   - /all-products/interactive-play-table/
   - /allproducts/interactive-play-table
   - /categories/electronic-game-hire/electronic-game-hire/interactive-play-table/
+  - /allproducts/electronic-game-hire/interactive-play-table/44800656_2185959991677226_1875019602870665216_n/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2019/01/44800656_2185959991677226_1875019602870665216_n.jpg

@@ -5,6 +5,8 @@ redirect_from:
   - /allproducts/stalls-and-carnival-games/pick-and-mix-stall-hire-hampshire-surrey/
   - /all-products/pick-and-mix-stall-hire-hampshire-surrey/
   - /allproducts/pick-and-mix-stall-hire-hampshire-surrey
+  - /allproducts/stalls-and-carnival-games/pick-and-mix-stall-hire-hampshire-surrey/pick-n-mix/
+  - /allproducts/stalls-and-carnival-games/pick-and-mix-stall-hire-hampshire-surrey/pick-n-mx-sweets/
 galleryAlt: pick and mix sweet cart
 galleryImages:
   - /images/uploads/2019/05/pick-n-mix.jpg

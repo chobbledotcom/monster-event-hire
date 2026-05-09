@@ -6,6 +6,7 @@ tags: area
 redirect_from:
   - /areas-covered/hampshire/event-and-party-hire-hampshire/
   - /areas-covered/event-and-party-hire-hampshire/
+  - /products/inflatable-hire-hampshire
 layout: wp-area.html
 meta_title: 'Event and Party Hire Hampshire - Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire and much more. Highly Rated Event and Party Hire Company Hampshire.'

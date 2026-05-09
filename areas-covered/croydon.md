@@ -6,6 +6,7 @@ tags: area
 redirect_from:
   - /areas-covered/croydon/event-and-party-hire-croydon/
   - /areas-covered/event-and-party-hire-croydon/
+  - /areas-covered/event-and-party-hire-london/bouncy-castles-hire-croydon/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Croydon - Monster Event Hire Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire Croydon and much more. Highly Rated Event and Party Hire in Croydon'

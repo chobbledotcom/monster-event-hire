@@ -5,6 +5,8 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/chaos-4-player-strike-a-light-reaction-game/
   - /all-products/chaos-4-player-strike-a-light-reaction-game/
   - /allproducts/chaos-4-player-strike-a-light-reaction-game
+  - /allproducts/christmas-party-entertainment/chaos-4-player-strike-a-light-reaction-game/chaos-2/
+  - /allproducts/christmas-party-entertainment/chaos-4-player-strike-a-light-reaction-game/chaos-4-player-strike-a-light-hire/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/10/chaos-3.jpg

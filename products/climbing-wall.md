@@ -5,6 +5,8 @@ redirect_from:
   - /products/climbing-walls/climbing-wall/
   - /all-products/climbing-wall/
   - /allproducts/climbing-wall
+  - /products/climbing-walls
+  - /products/climbing-walls/climbing-wall/climbing-wall-corporate/
 galleryAlt: Climbing Wall Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/09/smrrr.jpg

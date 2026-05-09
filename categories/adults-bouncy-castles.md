@@ -6,6 +6,8 @@ redirect_from:
   - /products/adults-bouncy-castles/
   - /products/bouncy-castles/adults-bouncy-castles/
   - /allproducts/bouncy-castles/adults-bouncy-castles/
+  - /products-tagged/adult-bouncy-castles
+  - /products/bouncy-castle/adults-bouncy-castles
 layout: wp-category.html
 title: 'Adults bouncy castles for Hire - adult bouncy castles - Monster Event Hire'
 meta_description: 'Adult Bouncy castles that have been carefully sized to accommodate the bigger folks. If you would like more information, please get in touch with us today!'

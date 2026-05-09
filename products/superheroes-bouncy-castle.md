@@ -5,6 +5,7 @@ redirect_from:
   - /products/bouncy-castles/superheroes-bouncy-castle/
   - /all-products/superheroes-bouncy-castle/
   - /allproducts/superheroes-bouncy-castle
+  - /allproducts/adults-bouncy-castles/superheroes-bouncy-castle/superheros/
 galleryAlt: Superheroes Bouncy Castle
 galleryImages:
   - /images/uploads/2015/10/superheros.jpg

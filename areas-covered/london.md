@@ -6,6 +6,12 @@ tags: area
 redirect_from:
   - /areas-covered/london/event-and-party-hire-london/
   - /areas-covered/event-and-party-hire-london/
+  - /areas-covered/chelsea
+  - /areas-covered/ealing
+  - /areas-covered/event-and-party-hire-london/bouncy-castles-hire-bromley
+  - /areas-covered/hammersmith
+  - /areas-covered/london/bouncy-castles-hire-islington
+  - /areas-covered/westminster
 layout: wp-area.html
 meta_title: 'Event and Party Hire London - Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire London Highly Rated Event and Party Hire Company London'

@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-sutton/
   - /allproducts/bouncy-castles-hire-sutton/
   - /all-products/bouncy-castles-hire-sutton/
+  - /areas-covered/london/bouncy-castles-hire-sutton
 layout: wp-category.html
 title: 'Bouncy castles hire Sutton - Monster Event Hire'
 meta_description: 'Bouncy castles Hire Sutton when you’re looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring bouncy castles for over 20 years'

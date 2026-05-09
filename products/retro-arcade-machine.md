@@ -6,6 +6,7 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/retro-arcade-machine/
   - /all-products/retro-arcade-machine/
   - /allproducts/retro-arcade-machine
+  - /allproducts/christmas/retro-arcade-games
 galleryAlt: arcade games
 galleryImages:
   - /images/uploads/2019/01/50001272_419290861944798_186338517641592832_n.jpg

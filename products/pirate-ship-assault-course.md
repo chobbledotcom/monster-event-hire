@@ -5,6 +5,7 @@ redirect_from:
   - /products/assault-courses-hire/pirate-ship-assault-course/
   - /all-products/pirate-ship-assault-course/
   - /allproducts/pirate-ship-assault-course
+  - /products/assault-courses-hire/pirate-ship-assault-course/pirate-ship3
 galleryAlt: Pirate Assault Course Inflatable Party Hire
 galleryImages:
   - /images/uploads/2015/10/pirate-ship.jpg

@@ -5,6 +5,7 @@ redirect_from:
   - /products/go-kart-quad-bike-hire/pedal-go-carts/
   - /all-products/pedal-go-carts/
   - /allproducts/pedal-go-carts
+  - /allproducts/pedal-go-kart-hire/pedal-go-carts/pedal-go-karts/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2017/01/1.2.jpg

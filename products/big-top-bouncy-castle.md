@@ -5,6 +5,7 @@ redirect_from:
   - /products/bouncy-castles/big-top-bouncy-castle/
   - /all-products/big-top-bouncy-castle/
   - /allproducts/big-top-bouncy-castle
+  - /products/big-top-bouncy-castles
 galleryAlt: Big Bouncy Castle Monster Inflatable Rides
 galleryImages:
   - /images/uploads/2015/10/bigtop.jpg

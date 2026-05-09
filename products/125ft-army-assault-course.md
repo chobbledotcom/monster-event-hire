@@ -5,6 +5,10 @@ redirect_from:
   - /products/assault-courses-hire/125ft-army-assault-course/
   - /all-products/125ft-army-assault-course/
   - /allproducts/125ft-army-assault-course
+  - /allproducts/inflatable-assault-course-and-obstacle-course-hire/125ft-army-assault-course/daves3/
+  - /products/assault-courses-hire/125ft-army-assault-course/150-ft-2
+  - /products/assault-courses-hire/125ft-army-assault-course/150-ft-2/
+  - /products/assault-courses-hire/125ft-army-assault-course/daves3/
 galleryAlt: 125ft army inflatable assault course inflated in a field in front of a block of flats
 galleryImages:
   - /images/uploads/2015/10/125ft.jpg
