@@ -6,6 +6,10 @@ tags: area
 redirect_from:
   - /areas-covered/berkshire/event-and-party-hire-berkshire/
   - /areas-covered/event-and-party-hire-berkshire/
+  - /areas-covered/event-and-party-hire-berkshire/bracknell/
+  - /areas-covered/event-and-party-hire-berkshire/newbury/
+  - /areas-covered/event-and-party-hire-berkshire/party-and-event-hire-in-crowthorne/
+  - /areas-covered/reading/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Berkshire - Monster Event Hire Event Hire'
 description: 'Trusted event and party hire in Berkshire. Photo booths, assault courses, and more. Monster Event Hire provides fun, safe entertainment for all occasions.'

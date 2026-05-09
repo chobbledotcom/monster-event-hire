@@ -5,6 +5,8 @@ redirect_from:
   - /products/photo-booths/combination-video-photo-booth-hire/
   - /all-products/combination-video-photo-booth-hire/
   - /allproducts/combination-video-photo-booth-hire
+  - /products-tagged/video-booth-hire/
+  - /products/photo-booths/combination-video-photo-booth-hire/photo-booth-2/
 galleryAlt: Photo Booth Selfie Pod Party and Wedding Event Hire
 galleryImages:
   - /images/uploads/2015/11/photoboothsnap1.jpg

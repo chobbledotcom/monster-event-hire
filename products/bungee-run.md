@@ -5,6 +5,7 @@ redirect_from:
   - /products/bungee/bungee-run/
   - /all-products/bungee-run/
   - /allproducts/bungee-run
+  - /products/bungee/bungee-run/bsen14960part4-2025/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2015/10/Bsen14960-4-2025.jpg

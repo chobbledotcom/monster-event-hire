@@ -6,6 +6,7 @@ redirect_from:
   - /all-products/interactive-play-system/
   - /allproducts/interactive-play-system
   - /categories/electronic-game-hire/electronic-game-hire/interactive-play-system/
+  - /allproducts/electronic-game-hire/interactive-play-system/interactive-play-stystem-1
 galleryAlt: 
 galleryImages:
   - /images/uploads/2017/04/1.4.jpg

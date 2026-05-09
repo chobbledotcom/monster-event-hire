@@ -1,6 +1,8 @@
 ---
 name: "Waterlooville"
 permalink: '/areas-covered/waterlooville/'
+redirect_from:
+  - /areas-covered/Waterlooville
 title: Waterlooville
 tags: area
 layout: wp-area.html

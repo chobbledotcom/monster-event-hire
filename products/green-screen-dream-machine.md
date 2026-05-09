@@ -5,6 +5,7 @@ redirect_from:
   - /products/party-favourites/green-screen-dream-machine/
   - /all-products/green-screen-dream-machine/
   - /allproducts/green-screen-dream-machine
+  - /products/party-favourites/green-screen-dream-machine/greenscreendreammachine
 galleryAlt: Green Screen Photo Booth Party and Wedding Event Hire
 galleryImages:
   - /images/uploads/2015/11/photo-booth1.jpg

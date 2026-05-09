@@ -6,6 +6,7 @@ tags: area
 redirect_from:
   - /areas-covered/hounslow/event-and-party-hire-hounslow/
   - /areas-covered/event-and-party-hire-hounslow/
+  - /areas-covered/event-and-party-hire-london/bouncy-castles-hire-hounslow/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Hounslow - Monster Event Hire'
 description: 'Event and party Hire Hounslow. when you’re looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring party and event hire for over 20 years within the Hounslow and surrounding areas.'

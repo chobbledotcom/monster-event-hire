@@ -7,6 +7,11 @@ redirect_from:
   - /products/inflatables-hire/games/
   - /allproducts/inflatables-hire/games/
   - /all-products/giant-game-hire/
+  - /allproducts/games/axe-throwing
+  - /allproducts/games/last-man-standing-sweeper/bar-2/
+  - /allproducts/games/last-man-standing-sweeper/sweeper-last-man-standing-2/
+  - /allproducts/games/rock-n-roller-gladiator-joust-hire-hampshire-surrey/rock-n-roller-2/
+  - /products/giant-game-hire
 layout: wp-category.html
 title: 'Games Hire'
 body_class: 'archive tax-product-category term-games term-57 wp-theme-littlemonsters'

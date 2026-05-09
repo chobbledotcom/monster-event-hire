@@ -4,6 +4,7 @@ redirect_from:
   - /products/sports-competitive/
   - /allproducts/sports-competitive/
   - /all-products/sports-competitive/
+  - /products/sports-competitive-activities
 layout: wp-category.html
 title: 'Sports &amp; Competitive Inflatable Hire - Monster Event Hire Event Hire'
 meta_description: 'Are you a sturdy sumo or a crazy golfer? Here’s our range of competitive activities that are great for any event. Please get in touch for more information!'

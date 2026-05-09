@@ -5,6 +5,7 @@ redirect_from:
   - /products/photo-booths/green-screen-photo-booth/
   - /all-products/green-screen-photo-booth/
   - /allproducts/green-screen-photo-booth
+  - /products/photo-booths/green-screen-photo-booth/hollywood-green-screen
 galleryAlt: green screen photo booth party and wedding events hire
 galleryImages:
   - /images/uploads/2015/11/trad1.jpg

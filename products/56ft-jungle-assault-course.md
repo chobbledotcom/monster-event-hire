@@ -5,6 +5,7 @@ redirect_from:
   - /products/assault-courses-hire/56ft-jungle-assault-course/
   - /all-products/56ft-jungle-assault-course/
   - /allproducts/56ft-jungle-assault-course
+  - /products/assault-courses-hire/56ft-jungle-assault-course/jungleassaultlarge/
 galleryAlt: 56ft jungle themed assault course in a field surrounded by trees
 galleryImages:
   - /images/uploads/2015/10/56ft-jungle.jpg

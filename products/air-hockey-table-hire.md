@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/air-hockey-table-hire/
   - /all-products/air-hockey-table-hire/
   - /allproducts/air-hockey-table-hire
+  - /allproducts/christmas-party-entertainment/air-hockey-table-hire/air-hockey-game-hire/
+  - /allproducts/christmas/air-hockey-table-hire
+  - /allproducts/stalls-and-mini-games/air-hockey-table-hire/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2019/05/air-hockey-game.jpg

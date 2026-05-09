@@ -4,6 +4,9 @@ redirect_from:
   - /products/stalls-and-carnival-games/
   - /allproducts/stalls-and-carnival-games/
   - /all-products/stalls-and-carnival-games/
+  - /allproducts/stalls-and-carnival-games/pick-and-mix/
+  - /allproducts/stalls-and-carnival-games/pick-and-mix/pick-n-mix/
+  - /allproducts/stalls-and-carnival-games/pick-and-mix/pick-n-mx-sweets/
 layout: wp-category.html
 title: 'Stalls and Carnival Games'
 meta_description: 'Stalls and Carnival Games. Hire our stalls and games and bring the fun to your event! For more information get in touch with us today!'

@@ -5,6 +5,7 @@ redirect_from:
   - /allproducts/electronic-game-hire/pixel-play/
   - /all-products/pixel-play/
   - /allproducts/pixel-play
+  - /allproducts/electronic-game-hire/pixel-play/pixel-play-2/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/10/pixel-play-snake.jpg

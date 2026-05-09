@@ -5,6 +5,7 @@ redirect_from:
   - /products/assault-courses-hire/60ft-army-assault-course/
   - /all-products/60ft-army-assault-course/
   - /allproducts/60ft-army-assault-course
+  - /products/assault-courses-hire/60ft-army-assault-course/a-course-001/
 galleryAlt: 60ft army assault inflatable course in the backgarden of a house
 galleryImages:
   - /images/uploads/2015/10/a.course-002.jpg

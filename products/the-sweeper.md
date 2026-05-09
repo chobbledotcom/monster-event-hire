@@ -5,6 +5,12 @@ redirect_from:
   - /products/games/the-sweeper/
   - /all-products/the-sweeper/
   - /allproducts/the-sweeper
+  - /products/games/the-sweeper/last-man-standing-event-hire/
+  - /products/games/the-sweeper/last-man-standing-sweeper-2/
+  - /products/games/the-sweeper/sweeper-last-man-standing-2/
+  - /products/the-sweeper/th
+  - /products/the-sweeper/thi
+  - /products/the-sweeper/this
 galleryAlt: The Sweeper Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/11/sweeper2-2.jpg

@@ -5,6 +5,10 @@ redirect_from:
   - /allproducts/stalls-and-carnival-games/classic-4-in-1-carnival-game/
   - /all-products/classic-4-in-1-carnival-game/
   - /allproducts/classic-4-in-1-carnival-game
+  - /allproducts/stalls-and-carnival-games/classic-4-in-1-carnival-game/carnival-game3/
+  - /allproducts/stalls-and-mini-games/classic-4-in-1-carnival-game/
+  - /allproducts/stalls-and-mini-games/classic-4-in-1-carnival-game/carnival-game1/
+  - /allproducts/stalls-and-mini-games/classic-4-in-1-carnival-game/carnival-game2/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/07/Carnival-Game.jpg

@@ -5,6 +5,7 @@ redirect_from:
   - /products/bouncy-castles/celebration-20x20ft/
   - /all-products/celebration-20x20ft/
   - /allproducts/celebration-20x20ft
+  - /products/bouncy-castles/celebration-20x20ft/celebration-20ft/
 galleryAlt: Celebration Bouncy Castle 20x20ft
 galleryImages:
   - /images/uploads/2016/04/celebration-20ft.jpg

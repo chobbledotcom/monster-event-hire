@@ -5,6 +5,8 @@ redirect_from:
   - /products/electronic-game-hire/dance-machine/
   - /all-products/dance-machine/
   - /allproducts/dance-machine
+  - /products-tagged/twin-dance-machine-hire/
+  - /products/electronic-game-hire/dance-machine/dance-machine-hire-2/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2015/12/dancemachine.jpg

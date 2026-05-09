@@ -5,6 +5,7 @@ redirect_from:
   - /allproducts/electronic-game-hire/aquaventronics-revolution-game-hire-uk/
   - /all-products/aquaventronics-revolution-game-hire-uk/
   - /allproducts/aquaventronics-revolution-game-hire-uk
+  - /allproducts/electronic-game-hire/aquaventronics-revolution-game-hire-uk/revolution/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2026/04/Revolution.jpg

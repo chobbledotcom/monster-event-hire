@@ -5,6 +5,7 @@ redirect_from:
   - /products/rodeo-rides/rodeo-reindeer/
   - /all-products/rodeo-reindeer/
   - /allproducts/rodeo-reindeer
+  - /products/rodeo-rides/rodeo-reindeer/rodeo-reindeer-hire-xmas-party/
 galleryAlt: yates-xmas-final
 galleryImages:
   - /images/uploads/2015/10/yates-xmas-final.jpg

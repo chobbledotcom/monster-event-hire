@@ -5,6 +5,7 @@ redirect_from:
   - /products/football-games/penalty-shootout/
   - /all-products/penalty-shootout/
   - /allproducts/penalty-shootout
+  - /allproducts/football-games/penalty-shootout/pen-shootout2/
 galleryAlt: Penalty shootout Bouncy Castles Monster Event Hire
 galleryImages:
   - /images/uploads/2015/10/penaulty-shoot-out.jpg

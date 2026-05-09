@@ -6,6 +6,7 @@ tags: area
 redirect_from:
   - /areas-covered/lymington/event-and-party-hire-lymington/
   - /areas-covered/event-and-party-hire-lymington/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-lymington/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Lymington - Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire and much more. Highly Rated Event and Party Hire Company Lymington'

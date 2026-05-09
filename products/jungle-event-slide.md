@@ -5,6 +5,8 @@ redirect_from:
   - /allproducts/mega-slides/jungle-event-slide/
   - /all-products/jungle-event-slide/
   - /allproducts/jungle-event-slide
+  - /allproducts/mega-slides/jungle-event-slide/jungle-inflatable-slide/
+  - /allproducts/mega-slides/jungle-event-slide/jungle-slide-4/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2026/02/jungle-inflatable-slide.jpg

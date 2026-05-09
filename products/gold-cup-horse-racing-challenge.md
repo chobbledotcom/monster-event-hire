@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/gold-cup-horse-racing-challenge/
   - /allproducts/gold-cup-horse-racing-challenge
   - /categories/electronic-game-hire/electronic-game-hire/gold-cup-horse-racing-challenge/
+  - /allproducts/christmas/gold-cup-horse-racing-challenge
+  - /allproducts/electronic-game-hire/gold-cup-horse-racing-challenge/gold-cup-horse-racing-2/
+  - /allproducts/electronic-game-hire/gold-cup-horse-racing-challenge/gold-cup-horse-racing-hire/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2019/08/goldcupracing.jpg

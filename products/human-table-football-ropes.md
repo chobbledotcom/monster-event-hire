@@ -5,6 +5,8 @@ redirect_from:
   - /products/football-games/human-table-football-ropes/
   - /all-products/human-table-football-ropes/
   - /allproducts/human-table-football-ropes
+  - /allproducts/football-games/human-table-football-ropes/humantable-football-ropes-2/
+  - /products/football-games/human-table-football-ropes/humantable-football-ropes-2
 galleryAlt: Football Inflatable Event Hire
 galleryImages:
   - /images/uploads/2015/12/humantable-football-ropes-5.jpg

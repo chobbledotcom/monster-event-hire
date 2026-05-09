@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/electronic-game-hire/the-vault/
   - /all-products/the-vault/
   - /allproducts/the-vault
+  - /allproducts/electronic-game-hire/the-vault/pixel-play-snake/
+  - /allproducts/electronic-game-hire/the-vault/pixelplay/
+  - /allproducts/electronic-game-hire/the-vault/the-vault-game
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/10/the-vault.jpg

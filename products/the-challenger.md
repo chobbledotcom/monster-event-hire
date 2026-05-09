@@ -5,6 +5,7 @@ redirect_from:
   - /products/inflatables-hire/the-challenger/
   - /all-products/the-challenger/
   - /allproducts/the-challenger
+  - /allproducts/wipeout-challenge/the-challenger
 galleryAlt: The challenger Monster
 galleryImages:
   - /images/uploads/2016/01/run-through.jpg

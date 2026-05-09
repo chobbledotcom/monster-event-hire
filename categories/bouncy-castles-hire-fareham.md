@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-fareham/
   - /allproducts/bouncy-castles-hire-fareham/
   - /all-products/bouncy-castles-hire-fareham/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-fareham
 layout: wp-category.html
 title: 'Bouncy castles hire Fareham - Monster Event Hire'
 meta_description: 'Bouncy castles hire Fareham Feel like a king or a queen and bounce around in the castle that suits you. bouncy castle hire fareham.'

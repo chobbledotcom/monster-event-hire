@@ -5,6 +5,10 @@ redirect_from:
   - /allproducts/courses/big-red-assault-course/
   - /all-products/big-red-assault-course/
   - /allproducts/big-red-assault-course
+  - /allproducts/courses/big-red-assault-course/80ft-assault-course/
+  - /allproducts/courses/big-red-assault-course/assaulty-course-hire/
+  - /allproducts/courses/big-red-assault-course/big-red-assault-course-3/
+  - /allproducts/courses/big-red-assault-course/big-red-assault-course-hire/
 galleryAlt: 
 galleryImages:
   - /images/uploads/2025/03/big-red-assault-course-.jpg
