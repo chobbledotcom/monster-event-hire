@@ -5,7 +5,6 @@ redirect_from:
   - /products/football-games/human-table-football/
   - /all-products/human-table-football/
   - /allproducts/human-table-football
-  - /products/football-games/human-table-football/17997_1598491270424104_2048055994286688362_n1/
 galleryAlt: Human Table Football Monster Event Hire England
 galleryImages:
   - /images/uploads/2015/10/humantablefootbal.jpg

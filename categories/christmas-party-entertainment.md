@@ -6,7 +6,6 @@ redirect_from:
   - /all-products/christmas-party-entertainment/
   - /allproducts/christmas-party-entertainment/electronic-games-cash-grabber
   - /allproducts/christmas-party-entertainment/electronic-games-cash-grabber/grab-a-grand-cash-grabber/
-  - /allproducts/christmas-party-entertainment/products-electronic-game-hire-buzz-wire/12188754_10154321153488761_231225483_n1
   - /christmas-party-entertainment/
   - /products/christmas
 layout: wp-category.html

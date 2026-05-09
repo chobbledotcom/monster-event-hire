@@ -5,10 +5,7 @@ redirect_from:
   - /products/electronic-game-hire/lights-out-challenge/
   - /all-products/lights-out-challenge/
   - /allproducts/lights-out-challenge
-  - /allproducts/christmas-party-entertainment/lights-out-challenge/img_0634/
-  - /allproducts/christmas-party-entertainment/lights-out-challenge/lights-out-game
   - /allproducts/christmas-party-entertainment/lights-out-challenge/lights-out-game/
-  - /allproducts/christmas-party-entertainment/lights-out-challenge/lightsout
   - /allproducts/christmas-party-entertainment/lights-out-challenge/lightsout/
 galleryAlt: Lights out Monster Event Hire England
 galleryImages:

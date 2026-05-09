@@ -4,7 +4,6 @@ redirect_from:
   - /products/stalls-and-mini-games/
   - /allproducts/stalls-and-mini-games/
   - /all-products/stalls-and-mini-games/
-  - /allproducts/stalls-and-mini-games/pick-and-mix
   - /allproducts/stalls-and-mini-games/pick-and-mix/
   - /products/stalls-and-mini-games/side-stalls
 layout: wp-category.html

@@ -5,7 +5,6 @@ redirect_from:
   - /products/shooting-archery-and-marksmen-hire/laser-clay-pigeon-shooting/
   - /all-products/laser-clay-pigeon-shooting/
   - /allproducts/laser-clay-pigeon-shooting
-  - /products/shooting-archery-and-marksmen-hire/laser-clay-pigeon-shooting/11036309_1622690068004224_3707460438029448560_n1/
 galleryAlt: laser clay laser clay pigeon shooting
 galleryImages:
   - /images/uploads/2015/08/laser-clay-pigeon-shooting-hire.jpg
