@@ -2,4 +2,6 @@
 .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
 </style>
 <meta name="robots" content="index, follow">
+{%- unless no_index -%}
 <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+{%- endunless -%}
