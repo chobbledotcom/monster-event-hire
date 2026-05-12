@@ -4,6 +4,9 @@ redirect_from:
   - /products/inflatables-hire/inflatable-hire-andover/
   - /allproducts/inflatables-hire/inflatable-hire-andover/
   - /products/inflatable-hire-andover/
+  - /categories/inflatable-hire-andover/page/2
+  - /categories/inflatable-hire-andover/page/3
+  - /categories/inflatable-hire-andover/page/4
 layout: wp-category.html
 title: 'Inflatable Hire Andover Archives - Monster Event Hire'
 meta_description: 'Inflatable hire in Andover, Hampshire for parties, weddings &amp; events. Bouncy castles, assault courses &amp; photo booths. Book Monster Event Hire today!'

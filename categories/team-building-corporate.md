@@ -4,6 +4,9 @@ redirect_from:
   - /products/team-building-corporate/
   - /allproducts/team-building-corporate/
   - /all-products/team-building-corporate/
+  - /categories/team-building-corporate/page/2
+  - /categories/team-building-corporate/page/3
+  - /categories/team-building-corporate/page/4
 layout: wp-category.html
 title: 'Team building / corporate Fun Entertainment - Monster Event Hire Event hire'
 meta_description: 'Break the ice and build a great team. A wide range of inflatable activities perfect for team building - working together like a well-oiled machine!'

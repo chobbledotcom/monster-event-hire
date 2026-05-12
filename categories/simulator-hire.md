@@ -4,6 +4,9 @@ redirect_from:
   - /products/simulator-hire/
   - /allproducts/simulator-hire/
   - /all-products/simulator-hire/
+  - /categories/simulator-hire/page/2
+  - /categories/simulator-hire/page/3
+  - /categories/simulator-hire/page/4
 layout: wp-category.html
 title: 'Surf Simulators Hire - Monster Event Hire Event Hire'
 meta_description: 'Test your balance and fine footwork on our range of inflatable simulator games. Decide whether to have a gentle ride or a full-force competition!'

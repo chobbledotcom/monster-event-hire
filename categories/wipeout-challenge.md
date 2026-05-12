@@ -4,6 +4,9 @@ redirect_from:
   - /products/wipeout-challenge/
   - /allproducts/wipeout-challenge/
   - /all-products/wipeout-challenge/
+  - /categories/wipeout-challenge/page/2
+  - /categories/wipeout-challenge/page/3
+  - /categories/wipeout-challenge/page/4
 layout: wp-category.html
 title: 'Wipeout Challenge Inflatables - Monster Event Hire Event hire'
 meta_description: 'Big on fun and big on challenge, these big inflatables have the capacity to handle big events too! Please call us today for more information!'

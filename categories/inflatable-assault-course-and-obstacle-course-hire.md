@@ -4,6 +4,9 @@ redirect_from:
   - /products/inflatable-assault-course-and-obstacle-course-hire/
   - /allproducts/inflatable-assault-course-and-obstacle-course-hire/
   - /all-products/inflatable-assault-course-and-obstacle-course-hire/
+  - /categories/inflatable-assault-course-and-obstacle-course-hire/page/2
+  - /categories/inflatable-assault-course-and-obstacle-course-hire/page/3
+  - /categories/inflatable-assault-course-and-obstacle-course-hire/page/4
 layout: wp-category.html
 title: 'Inflatable Assault &amp; Obstacle Course Hire – Monster Event Hire'
 meta_description: 'Hire fun, inflatable assault and obstacle courses for parties, schools, corporate events &amp; festivals across Hampshire, Surrey &amp; Sussex.'

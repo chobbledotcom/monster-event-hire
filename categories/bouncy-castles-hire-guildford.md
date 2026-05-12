@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-guildford/
   - /allproducts/bouncy-castles-hire-guildford/
   - /all-products/bouncy-castles-hire-guildford/
+  - /categories/bouncy-castles-hire-guildford/page/2
+  - /categories/bouncy-castles-hire-guildford/page/3
+  - /categories/bouncy-castles-hire-guildford/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Guildford - Monster Event Hire'
 meta_description: 'Bouncy castle hire in Guildford, Surrey for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire today!'

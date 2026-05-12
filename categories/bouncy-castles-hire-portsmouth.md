@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-portsmouth/
   - /allproducts/bouncy-castles-hire-portsmouth/
   - /all-products/bouncy-castles-hire-portsmouth/
+  - /categories/bouncy-castles-hire-portsmouth/page/2
+  - /categories/bouncy-castles-hire-portsmouth/page/3
+  - /categories/bouncy-castles-hire-portsmouth/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Portsmouth - Monster Event Hire'
 meta_description: 'Bouncy castles hire Portsmouth Feel like a king or a queen and bounce around in the castle that suits you.bouncy castle hire portsmouth.'

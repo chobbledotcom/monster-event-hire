@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/bouncy-castle-hire/
   - /all-products/bouncy-castle-hire/
   - /allproducts/bouncy-castle-hire/princess-bouncy-castle-with-slide
+  - /categories/bouncy-castle-hire/page/2
+  - /categories/bouncy-castle-hire/page/3
+  - /categories/bouncy-castle-hire/page/4
 layout: wp-category.html
 title: 'Bouncy castles - bouncy castle hire - Monster Event Hire'
 meta_description: 'Bouncy castle hire, when your looking for a Name you can trust, look no further than Monster Event hire. Delivering a bouncy castle to a party near you!'

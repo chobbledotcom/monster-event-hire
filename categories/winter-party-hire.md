@@ -4,6 +4,9 @@ redirect_from:
   - /products/winter-party-hire/
   - /allproducts/winter-party-hire/
   - /all-products/winter-party-hire/
+  - /categories/winter-party-hire/page/2
+  - /categories/winter-party-hire/page/3
+  - /categories/winter-party-hire/page/4
 layout: wp-category.html
 title: 'Winter Party Hire - Monster Event Hire'
 meta_description: 'Book your Winter party activities with Monster Event Hire! Giant inflatables, interactive games, and indoor/outdoor fun for clients, employees, and friends.'

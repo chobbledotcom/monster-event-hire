@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-aldershot/
   - /allproducts/bouncy-castles-hire-aldershot/
   - /all-products/bouncy-castles-hire-aldershot/
+  - /categories/bouncy-castles-hire-aldershot/page/2
+  - /categories/bouncy-castles-hire-aldershot/page/3
+  - /categories/bouncy-castles-hire-aldershot/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Aldershot'
 meta_description: 'Trusted bouncy castle hire in Aldershot with over 20 years’ experience. Bouncy castles, inflatables &amp; party equipment for birthdays, weddings &amp; events.'

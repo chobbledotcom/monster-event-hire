@@ -4,6 +4,9 @@ redirect_from:
   - /products/rodeo-rides/
   - /allproducts/rodeo-rides/
   - /all-products/rodeo-rides/
+  - /categories/rodeo-rides/page/2
+  - /categories/rodeo-rides/page/3
+  - /categories/rodeo-rides/page/4
 layout: wp-category.html
 title: 'Rodeo Rides - Monster Event Hire Event Hire'
 meta_description: 'Hire exciting rodeo rides, including bulls, pigs, sheep and more for parties, corporate events, school fun days &amp; festivals across Hampshire, Surrey &amp; Sussex.'

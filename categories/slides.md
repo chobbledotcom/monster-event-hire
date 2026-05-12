@@ -4,6 +4,9 @@ redirect_from:
   - /products/inflatables-hire/slides/
   - /allproducts/inflatables-hire/slides/
   - /products/slides/
+  - /categories/slides/page/2
+  - /categories/slides/page/3
+  - /categories/slides/page/4
 layout: wp-category.html
 title: 'inflatable Slides Hire'
 body_class: 'archive tax-product-category term-slides term-139 wp-theme-littlemonsters'

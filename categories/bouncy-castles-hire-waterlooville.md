@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-waterlooville/
   - /allproducts/bouncy-castles-hire-waterlooville/
   - /all-products/bouncy-castles-hire-waterlooville/
+  - /categories/bouncy-castles-hire-waterlooville/page/2
+  - /categories/bouncy-castles-hire-waterlooville/page/3
+  - /categories/bouncy-castles-hire-waterlooville/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Waterlooville - bouncy castle hire - Monster Event Hire'
 meta_description: 'Bouncy castles hire Waterlooville Feel like a king or a queen and bounce around in the castle that suits you. Bouncy castle hire waterlooville.'

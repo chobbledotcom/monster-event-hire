@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/bouncy-castles-hire-camberley/
   - /all-products/bouncy-castles-hire-camberley/
   - /areas-covered/event-and-party-hire-surrey/bouncy-castles-hire-camberley/
+  - /categories/bouncy-castles-hire-camberley/page/2
+  - /categories/bouncy-castles-hire-camberley/page/3
+  - /categories/bouncy-castles-hire-camberley/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Camberley - Monster Event Hire'
 meta_description: 'Bouncy castle hire in Camberley, Surrey for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire today!'

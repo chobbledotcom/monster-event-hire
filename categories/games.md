@@ -12,6 +12,9 @@ redirect_from:
   - /allproducts/games/last-man-standing-sweeper/sweeper-last-man-standing-2/
   - /allproducts/games/rock-n-roller-gladiator-joust-hire-hampshire-surrey/rock-n-roller-2/
   - /products/giant-game-hire
+  - /categories/games/page/2
+  - /categories/games/page/3
+  - /categories/games/page/4
 layout: wp-category.html
 title: 'Games Hire'
 body_class: 'archive tax-product-category term-games term-57 wp-theme-littlemonsters'

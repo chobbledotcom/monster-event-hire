@@ -8,6 +8,9 @@ redirect_from:
   - /allproducts/christmas-party-entertainment/electronic-games-cash-grabber/grab-a-grand-cash-grabber/
   - /christmas-party-entertainment/
   - /products/christmas
+  - /categories/christmas-party-entertainment/page/2
+  - /categories/christmas-party-entertainment/page/3
+  - /categories/christmas-party-entertainment/page/4
 layout: wp-category.html
 title: 'Christmas Party Entertainment Hire'
 meta_description: 'Christmas Party hire, rodeo reindeer, Snow Board simulator, Christmas Photo booth, Dance Machine with Christmas songs. We have embraced the Christmas magic.'

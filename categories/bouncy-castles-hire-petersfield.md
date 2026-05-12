@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-petersfield/
   - /allproducts/bouncy-castles-hire-petersfield/
   - /all-products/bouncy-castles-hire-petersfield/
+  - /categories/bouncy-castles-hire-petersfield/page/2
+  - /categories/bouncy-castles-hire-petersfield/page/3
+  - /categories/bouncy-castles-hire-petersfield/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Petersfield - Monster Event Hire'
 meta_description: 'Bouncy castle hire in Petersfield, Hampshire for birthdays, christenings &amp; family parties. Safe, fun inflatables for all ages. Book Monster Event Hire!'
