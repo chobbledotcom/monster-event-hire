@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castle-hire/childrens-bouncy-castles/
   - /allproducts/bouncy-castle-hire/childrens-bouncy-castles/
   - /products/childrens-bouncy-castles/
+  - /categories/childrens-bouncy-castles/page/2
+  - /categories/childrens-bouncy-castles/page/3
+  - /categories/childrens-bouncy-castles/page/4
 layout: wp-category.html
 title: 'Children&#039;s bouncy castle Hire - Bouncy castle hire - Monster Event Hire'
 meta_description: 'children&#039;s Bouncy castle Hire. when your looking for a Name you can trust, look no further than monster event hire. Hiring bouncy castles for over 20 years'

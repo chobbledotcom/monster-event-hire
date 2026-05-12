@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/marquees/
   - /all-products/marquees/
   - /allproducts/marquees/party-marquee-hire/marquee15/
+  - /categories/marquees/page/2
+  - /categories/marquees/page/3
+  - /categories/marquees/page/4
 layout: wp-category.html
 title: 'Party Marquee Hire'
 meta_description: 'No outdoor event is complete without a marquee to shelter all your guests. View our complete range of marquees to add glamour to your event.'

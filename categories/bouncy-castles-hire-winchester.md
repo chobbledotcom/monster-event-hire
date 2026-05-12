@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/bouncy-castles-hire-winchester/
   - /all-products/bouncy-castles-hire-winchester/
   - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-winchester/
+  - /categories/bouncy-castles-hire-winchester/page/2
+  - /categories/bouncy-castles-hire-winchester/page/3
+  - /categories/bouncy-castles-hire-winchester/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Winchester - Bouncy castle hire - Monster Event Hire'
 meta_description: 'Bouncy castles Hire Winchester . when you’re looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring bouncy castles for over 20 years'

@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/photo-booth-hire/
   - /all-products/photo-booth-hire/
   - /allproducts/photo-booth-hire/green-screen-photo-booth-hire/disco/
+  - /categories/photo-booth-hire/page/2
+  - /categories/photo-booth-hire/page/3
+  - /categories/photo-booth-hire/page/4
 layout: wp-category.html
 title: 'Photo Booth Hire - Monster Event Hire'
 meta_description: 'Photo booth hire in Hampshire, Surrey &amp; London with green screen, DSLR cameras, instant prints, props, and USB photos. Perfect for weddings, parties &amp; events.'

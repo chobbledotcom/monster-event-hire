@@ -4,6 +4,9 @@ redirect_from:
   - /products/bungee/
   - /allproducts/bungee/
   - /all-products/bungee/
+  - /categories/bungee/page/2
+  - /categories/bungee/page/3
+  - /categories/bungee/page/4
 layout: wp-category.html
 title: 'Bungee Run Hire'
 meta_description: 'Hire Bungee Run and Bungee Eliminator inflatables for fun days, corporate events, schools and team building. Competitive games that guarantee laughs.'

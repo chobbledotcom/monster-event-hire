@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-farnham/
   - /allproducts/bouncy-castles-hire-farnham/
   - /all-products/bouncy-castles-hire-farnham/
+  - /categories/bouncy-castles-hire-farnham/page/2
+  - /categories/bouncy-castles-hire-farnham/page/3
+  - /categories/bouncy-castles-hire-farnham/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Farnham - Monster Event Hire'
 meta_description: 'Bouncy castles hire FarnhamFeel like a king or a queen and bounce around in the castle that suits you. bouncy castle hire farnham.'

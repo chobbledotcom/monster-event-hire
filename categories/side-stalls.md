@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/side-stalls/
   - /products/stalls-and-carnival-games/side-stalls/
   - /allproducts/stalls-and-carnival-games/side-stalls/
+  - /categories/side-stalls/page/2
+  - /categories/side-stalls/page/3
+  - /categories/side-stalls/page/4
 layout: wp-category.html
 title: 'Side Stalls and Mini Activities'
 meta_description: 'From the classic hook-a-duck and candy floss stall to crazy golf and laser shot - there&#039;s something for everyone! Keep all of your guests occupied.'

@@ -1,5 +1,9 @@
 ---
 permalink: /categories/climbing-wall/
+redirect_from:
+  - /categories/climbing-wall/page/2
+  - /categories/climbing-wall/page/3
+  - /categories/climbing-wall/page/4
 layout: wp-category.html
 title: 'Mobile Climbing Wall - Climbing wall Hire'
 meta_description: 'Hire our 4-Person Mobile Climbing Wall for events. 10mtr high, safe, fun, and ideal for outdoor or indoor spaces. Book Monster Event Hire today!n!'

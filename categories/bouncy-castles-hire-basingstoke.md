@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-basingstoke/
   - /allproducts/bouncy-castles-hire-basingstoke/
   - /all-products/bouncy-castles-hire-basingstoke/
+  - /categories/bouncy-castles-hire-basingstoke/page/2
+  - /categories/bouncy-castles-hire-basingstoke/page/3
+  - /categories/bouncy-castles-hire-basingstoke/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Basingstoke - Monster Event Hire'
 meta_description: 'Monster Event Hire – your trusted Basingstoke bouncy castle hire. Safe, fun inflatables for kids’ parties and family events.'

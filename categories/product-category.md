@@ -4,6 +4,9 @@ redirect_from:
   - /products/product-category/
   - /allproducts/product-category/
   - /all-products/product-category/
+  - /categories/product-category/page/2
+  - /categories/product-category/page/3
+  - /categories/product-category/page/4
 layout: wp-category.html
 title: 'Monster Event and Party Hire'
 meta_description: 'Monster Event and Party Hire,Hampshire, Surrey, Sussex &amp; London. Assault courses, rodeo bulls, simulators for parties,Events,corporate events.'

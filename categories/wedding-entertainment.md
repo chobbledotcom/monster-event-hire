@@ -4,6 +4,9 @@ redirect_from:
   - /products/wedding-entertainment/
   - /allproducts/wedding-entertainment/
   - /all-products/wedding-entertainment/
+  - /categories/wedding-entertainment/page/2
+  - /categories/wedding-entertainment/page/3
+  - /categories/wedding-entertainment/page/4
 layout: wp-category.html
 title: 'Wedding Entertainment - Monster Event Hire Event hire'
 meta_description: 'Hire wedding entertainment for your special day. Deluxe photo booths to sparkling led dance floors and wonderful giant light up letters, we have it all!'

@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-fleet/
   - /allproducts/bouncy-castles-hire-fleet/
   - /all-products/bouncy-castles-hire-fleet/
+  - /categories/bouncy-castles-hire-fleet/page/2
+  - /categories/bouncy-castles-hire-fleet/page/3
+  - /categories/bouncy-castles-hire-fleet/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Fleet - Monster Event Hire'
 meta_description: 'Bouncy castles Hire Fleet . when you’re looking for a Name you can trust,look no further than monster event hire.we&#039;ve been hiring bouncy castles for over 20 years'

@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/courses/
   - /products/inflatables-hire/courses/
   - /allproducts/inflatables-hire/courses/
+  - /categories/courses/page/2
+  - /categories/courses/page/3
+  - /categories/courses/page/4
 layout: wp-category.html
 title: 'Inflatable assault course hire'
 meta_description: 'Inflatable assault courses to test your endurance and capacity to have loads and loads of fun.From 50ft to 180ft long we&#039;ve got a great range of inflatables'

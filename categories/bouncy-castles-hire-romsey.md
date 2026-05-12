@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-romsey/
   - /allproducts/bouncy-castles-hire-romsey/
   - /all-products/bouncy-castles-hire-romsey/
+  - /categories/bouncy-castles-hire-romsey/page/2
+  - /categories/bouncy-castles-hire-romsey/page/3
+  - /categories/bouncy-castles-hire-romsey/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Romsey - Monster Event Hire'
 meta_description: 'Bouncy castles Hire Romsey. when you’re looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring bouncy castles for over 20 years.'

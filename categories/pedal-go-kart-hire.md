@@ -4,6 +4,9 @@ redirect_from:
   - /products/pedal-go-kart-hire/
   - /allproducts/pedal-go-kart-hire/
   - /all-products/pedal-go-kart-hire/
+  - /categories/pedal-go-kart-hire/page/2
+  - /categories/pedal-go-kart-hire/page/3
+  - /categories/pedal-go-kart-hire/page/4
 layout: wp-category.html
 title: 'Go Kart Hire - Monster Event Hire Giant Pedal Go Kart hire'
 meta_description: 'There&#039;s much fun to be had with these Giant Pedal Go Karts. Great for team building, and family fun days'

@@ -4,6 +4,9 @@ redirect_from:
   - /products/new-additions/
   - /allproducts/new-additions/
   - /all-products/new-additions/
+  - /categories/new-additions/page/2
+  - /categories/new-additions/page/3
+  - /categories/new-additions/page/4
 layout: wp-category.html
 title: 'New additions - Monster Event Hire - corporate fun and entertainment'
 meta_description: 'Discover the latest attractions with Monster Event Hire’s New Additions! From interactive games and inflatables to fun challenges, perfect for birthday parties, corporate events, school fun days, and festivals across Hampshire, Surrey, Sussex &amp; London. Book now for unforgettable entertainment!'

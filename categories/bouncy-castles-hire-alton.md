@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/bouncy-castles-hire-alton/
   - /all-products/bouncy-castles-hire-alton/
   - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-alton/
+  - /categories/bouncy-castles-hire-alton/page/2
+  - /categories/bouncy-castles-hire-alton/page/3
+  - /categories/bouncy-castles-hire-alton/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Alton - Monster Event Hire'
 meta_description: 'Bouncy castles hire Alton Feel like a king or a queen and bounce around in the castle that suits you. bouncy castle hire alton.'

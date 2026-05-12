@@ -4,6 +4,9 @@ redirect_from:
   - /products/inflatables-hire/inflatable-hire/
   - /allproducts/inflatables-hire/inflatable-hire/
   - /products/inflatable-hire/
+  - /categories/inflatable-hire/page/2
+  - /categories/inflatable-hire/page/3
+  - /categories/inflatable-hire/page/4
 layout: wp-category.html
 title: 'Inflatable Hire - Monster Event Hire'
 meta_description: 'Trusted inflatable hire for parties, weddings &amp; events. Bouncy castles, assault courses, photo booths &amp; more. Book Monster Event Hire today!'

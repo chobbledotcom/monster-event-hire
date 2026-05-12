@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-southampton/
   - /allproducts/bouncy-castles-hire-southampton/
   - /all-products/bouncy-castles-hire-southampton/
+  - /categories/bouncy-castles-hire-southampton/page/2
+  - /categories/bouncy-castles-hire-southampton/page/3
+  - /categories/bouncy-castles-hire-southampton/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Southampton - Monster Event Hire'
 meta_description: 'Bouncy castles hire SouthamptonFeel like a king or a queen and bounce around in the castle that suits you. bouncy castle hire southampton.'

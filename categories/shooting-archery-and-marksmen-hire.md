@@ -4,6 +4,9 @@ redirect_from:
   - /products/shooting-archery-and-marksmen-hire/
   - /allproducts/shooting-archery-and-marksmen-hire/
   - /all-products/shooting-archery-and-marksmen-hire/
+  - /categories/shooting-archery-and-marksmen-hire/page/2
+  - /categories/shooting-archery-and-marksmen-hire/page/3
+  - /categories/shooting-archery-and-marksmen-hire/page/4
 layout: wp-category.html
 title: 'Shooting Games - Monster Event Hire Event Hire'
 meta_description: 'Are you eagle-eyed? Check out our marksmen and archery activities for a fun and exciting way to test your precision. Please get in touch with us today!'

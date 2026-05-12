@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/electronic-game-hire/
   - /all-products/electronic-game-hire/
   - /electronic-game-hire/
+  - /categories/electronic-game-hire/page/2
+  - /categories/electronic-game-hire/page/3
+  - /categories/electronic-game-hire/page/4
 layout: wp-category.html
 title: 'Electronic Games for hire - Retro games for hire.'
 meta_description: 'How steady are your hands? Is your reaction time up to scratch? Do you have killer dance moves? Great for Conference Entertainment and Exhibition Games.'

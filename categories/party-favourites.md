@@ -5,6 +5,9 @@ redirect_from:
   - /allproducts/party-favourites/
   - /all-products/party-favourites/
   - /party-favourites/
+  - /categories/party-favourites/page/2
+  - /categories/party-favourites/page/3
+  - /categories/party-favourites/page/4
 layout: wp-category.html
 title: 'Party favourites For hire'
 meta_description: 'Explore our Party Favourites—bouncy castles, assault courses, and interactive games that guarantee fun for kids and adults at parties and events.'

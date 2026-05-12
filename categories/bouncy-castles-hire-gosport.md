@@ -4,6 +4,9 @@ redirect_from:
   - /products/bouncy-castles-hire-gosport/
   - /allproducts/bouncy-castles-hire-gosport/
   - /all-products/bouncy-castles-hire-gosport/
+  - /categories/bouncy-castles-hire-gosport/page/2
+  - /categories/bouncy-castles-hire-gosport/page/3
+  - /categories/bouncy-castles-hire-gosport/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Gosport - Monster Event Hire'
 meta_description: 'Bouncy castle hire in Gosport, Hampshire. Monster Event Hire offers a wide range of fun bouncy castles for parties, christenings, and family events. Book today!'

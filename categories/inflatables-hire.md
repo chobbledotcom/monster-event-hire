@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/inflatables-hire/
   - /areas-covered/farnham/products/inflatables-hire
   - /products/inflatables-hire/inflatable-hire/inflatable-hire-chichester/
+  - /categories/inflatables-hire/page/2
+  - /categories/inflatables-hire/page/3
+  - /categories/inflatables-hire/page/4
 layout: wp-category.html
 title: 'Large Inflatables For hire - Monster Event Hire'
 meta_description: 'Looking for something bigger than a bouncy castle? Check out our large inflatables selection - safe to jump and fall around in but with an added mission!'

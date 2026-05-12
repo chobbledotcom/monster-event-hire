@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/bouncy-castles-hire-eastleigh/
   - /areas-covered/eastleigh
   - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-eastleigh/
+  - /categories/bouncy-castles-hire-eastleigh/page/2
+  - /categories/bouncy-castles-hire-eastleigh/page/3
+  - /categories/bouncy-castles-hire-eastleigh/page/4
 layout: wp-category.html
 title: 'Bouncy castles hire Eastleigh - Monster Event Hire'
 meta_description: 'Bouncy castles for Hire. when you’re looking for a Name you can trust, look no further than monster event hire.we&#039;ve been hiring bouncy castles for 20 years'

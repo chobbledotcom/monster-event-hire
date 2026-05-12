@@ -6,6 +6,9 @@ redirect_from:
   - /all-products/stalls-and-mini-games/
   - /allproducts/stalls-and-mini-games/pick-and-mix/
   - /products/stalls-and-mini-games/side-stalls
+  - /categories/stalls-and-mini-games/page/2
+  - /categories/stalls-and-mini-games/page/3
+  - /categories/stalls-and-mini-games/page/4
 layout: wp-category.html
 title: 'Stalls and Carnival Games'
 meta_description: 'Stalls and Carnival Games. Hire our stalls and games and bring the fun to your event! For more information get in touch with us today!'
