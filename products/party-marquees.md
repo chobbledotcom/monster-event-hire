@@ -95,30 +95,12 @@ description: |-
   02392 717 925
   All sizes booked must be able to fit on a flat grassed area – **not hard standing.**
   The client is advised to check any space for the size ordered.
-  Description
-  Size (Approx.)
-  Seated
-  Standing
-   
-  Capri Marquee
-  20’ x 20′
-   
-  25
-   
-  Capri Marquee
-  20’ x 30′
-  40
-  60
-   
-  Capri Marquee
-  28’ x 38′
-  80
-  100
-   
-  Capri Marquee
-  28’ x 58′
-  120
-  150
+  | Description | Size (Approx.) | Seated | Standing |
+  | --- | --- | --- | --- |
+  | Capri Marquee | 20’ x 20′ |  | 25 |
+  | Capri Marquee | 20’ x 30′ | 40 | 60 |
+  | Capri Marquee | 28’ x 38′ | 80 | 100 |
+  | Capri Marquee | 28’ x 58′ | 120 | 150 |
   "Just a short note to say how great the Marquee hire was on Saturday. The guys you sent to set-up were really friendly & efficient, and the Pirates Ahoy was a complete success! Many thanks, and if/when we're in need of a Marquee again, I will be in touch. - Lucy"
 layout: wp-product.html
 body_class: 'wp-singular products-template-default single single-products postid-991 wp-theme-littlemonsters party-marquee-hire'
