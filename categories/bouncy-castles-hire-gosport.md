@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-gosport/
   - /allproducts/bouncy-castles-hire-gosport/
   - /all-products/bouncy-castles-hire-gosport/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-gosport/
   - /categories/bouncy-castles-hire-gosport/page/2
   - /categories/bouncy-castles-hire-gosport/page/3
   - /categories/bouncy-castles-hire-gosport/page/4

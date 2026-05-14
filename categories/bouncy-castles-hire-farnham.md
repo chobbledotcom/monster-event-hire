@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-farnham/
   - /allproducts/bouncy-castles-hire-farnham/
   - /all-products/bouncy-castles-hire-farnham/
+  - /areas-covered/event-and-party-hire-surrey/bouncy-castles-hire-farnham/
   - /categories/bouncy-castles-hire-farnham/page/2
   - /categories/bouncy-castles-hire-farnham/page/3
   - /categories/bouncy-castles-hire-farnham/page/4

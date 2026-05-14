@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-basingstoke/
   - /allproducts/bouncy-castles-hire-basingstoke/
   - /all-products/bouncy-castles-hire-basingstoke/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-basingstoke/
   - /categories/bouncy-castles-hire-basingstoke/page/2
   - /categories/bouncy-castles-hire-basingstoke/page/3
   - /categories/bouncy-castles-hire-basingstoke/page/4
