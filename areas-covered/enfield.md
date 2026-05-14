@@ -5,6 +5,7 @@ title: Enfield
 tags: area
 redirect_from:
   - /areas-covered/enfield/event-and-party-hire-london/
+  - /areas-covered/event-and-party-hire-london/bouncy-castles-hire-enfield/
 layout: wp-area.html
 meta_title: 'Event and Party Hire London - Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire London Highly Rated Event and Party Hire Company London'

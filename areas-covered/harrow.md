@@ -3,6 +3,8 @@ name: "Harrow"
 permalink: '/areas-covered/harrow/'
 title: Harrow
 tags: area
+redirect_from:
+  - /areas-covered/event-and-party-hire-london/bouncy-castles-hire-harrow/
 layout: wp-area.html
 meta_title: 'Event and Party Hire Harrow- Monster Event Hire'
 description: 'Assault Course Hire, Rodeo Bull, Adult Bouncy Castle, Laser Quest, Corporate Party Hire and much more. Highly Rated Event and Party Hire Company Harrow.'
