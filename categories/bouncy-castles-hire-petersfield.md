@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-petersfield/
   - /allproducts/bouncy-castles-hire-petersfield/
   - /all-products/bouncy-castles-hire-petersfield/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-petersfield/
   - /categories/bouncy-castles-hire-petersfield/page/2
   - /categories/bouncy-castles-hire-petersfield/page/3
   - /categories/bouncy-castles-hire-petersfield/page/4

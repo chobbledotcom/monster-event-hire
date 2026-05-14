@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-guildford/
   - /allproducts/bouncy-castles-hire-guildford/
   - /all-products/bouncy-castles-hire-guildford/
+  - /areas-covered/event-and-party-hire-surrey/bouncy-castles-hire-guildford/
   - /categories/bouncy-castles-hire-guildford/page/2
   - /categories/bouncy-castles-hire-guildford/page/3
   - /categories/bouncy-castles-hire-guildford/page/4

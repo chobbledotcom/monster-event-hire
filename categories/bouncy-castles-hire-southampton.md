@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-southampton/
   - /allproducts/bouncy-castles-hire-southampton/
   - /all-products/bouncy-castles-hire-southampton/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-southampton/
   - /categories/bouncy-castles-hire-southampton/page/2
   - /categories/bouncy-castles-hire-southampton/page/3
   - /categories/bouncy-castles-hire-southampton/page/4

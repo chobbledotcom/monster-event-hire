@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-waterlooville/
   - /allproducts/bouncy-castles-hire-waterlooville/
   - /all-products/bouncy-castles-hire-waterlooville/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-waterlooville/
   - /categories/bouncy-castles-hire-waterlooville/page/2
   - /categories/bouncy-castles-hire-waterlooville/page/3
   - /categories/bouncy-castles-hire-waterlooville/page/4

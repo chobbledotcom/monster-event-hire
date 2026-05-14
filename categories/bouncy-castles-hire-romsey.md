@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-romsey/
   - /allproducts/bouncy-castles-hire-romsey/
   - /all-products/bouncy-castles-hire-romsey/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-romsey/
   - /categories/bouncy-castles-hire-romsey/page/2
   - /categories/bouncy-castles-hire-romsey/page/3
   - /categories/bouncy-castles-hire-romsey/page/4

@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-totton/
   - /allproducts/bouncy-castles-hire-totton/
   - /all-products/bouncy-castles-hire-totton/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-totton/
   - /categories/bouncy-castles-hire-totton/page/2
   - /categories/bouncy-castles-hire-totton/page/3
   - /categories/bouncy-castles-hire-totton/page/4

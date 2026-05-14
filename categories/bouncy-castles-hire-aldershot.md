@@ -4,6 +4,7 @@ redirect_from:
   - /products/bouncy-castles-hire-aldershot/
   - /allproducts/bouncy-castles-hire-aldershot/
   - /all-products/bouncy-castles-hire-aldershot/
+  - /areas-covered/event-and-party-hire-hampshire/bouncy-castles-hire-aldershot/
   - /categories/bouncy-castles-hire-aldershot/page/2
   - /categories/bouncy-castles-hire-aldershot/page/3
   - /categories/bouncy-castles-hire-aldershot/page/4
