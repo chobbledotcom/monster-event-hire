@@ -24,12 +24,6 @@ description: |-
   ### Climbing Wall Hire
 
   🧗‍♂️ Climbing Wall Hire – Monster Event Hire Make your event unforgettable with our mobile climbing wall, perfect for parties, school fun days, corporate team-building events, festivals, and more across Hampshire, Surrey, Sussex & London.…
-
-  /images/uploads/2015/09/smrrr.jpg
-
-  81
-
-  -81
 body_class: 'archive tax-product-category term-inflatable-hire term-1383 wp-theme-littlemonsters'
 cat_head_style: 'background:url(/images/uploads/2016/04/13563425_1580353445591627_948037535_n.jpg) no-repeat center center; -moz-background-size:cover; -o-background-size:cover; -webkit-background-size:cover; -ms-background-size:cover; background-size:cover; padding:15em 0;'
 cat_head_title: 'Inflatable Hire'
